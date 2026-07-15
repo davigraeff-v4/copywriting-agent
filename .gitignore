@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Configurações locais do Claude Code (paths específicos desta máquina)
+.claude/settings.local.json
+
+# Fichas reais de clientes — mantém só o template
+clients/*.md
+!clients/cliente-template.md
+
+# Copies e entregas reais de clientes — mantém a estrutura de pastas (.gitkeep)
+outputs/**/*.md
+examples/**/*.md
+
+# Registros de teste com dados reais de campanha/cliente
+/TESTE-*.md
