@@ -17,3 +17,8 @@ examples/**/*.md
 
 # Swipe file de imagens (grande, não essencial para o funcionamento do agent)
 BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/
+
+# Documentos internos de planejamento/arquitetura (não destinados ao repo público)
+/GUIA-REPLICAR-ESTRUTURA-AGENT-IA.md
+/PLANO-OTIMIZACAO-AGILIDADE.md
+/PRD - THAMY IA.md

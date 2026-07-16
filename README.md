@@ -120,7 +120,7 @@ Toda copy final passa pelo scorecard de 12 critérios (`quality/scorecard.md`) �
 
 **Fora (por enquanto):** interface visual própria, banco de dados, RAG vetorial, integração automática com Drive, automação (Make/N8N), dashboard de performance, múltiplos agents especializados.
 
-Ver `PRD - THAMY IA.md` para o detalhamento completo, `GUIA-REPLICAR-ESTRUTURA-AGENT-IA.md` para o padrão arquitetural de referência, e `PLANO-OTIMIZACAO-AGILIDADE.md` para o histórico de decisão dos 3 modos de operação.
+Detalhamento completo do produto, arquitetura e histórico de decisões ficam em documentos internos (não incluídos neste repositório público).
 
 ## Licença
 
