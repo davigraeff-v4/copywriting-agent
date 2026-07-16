@@ -1,73 +1,110 @@
-# Banco de Ganchos (Hooks)
+# Banco Operacional de Ganchos
 
-> Fonte: síntese de 12 pins de ganchos + 5 pins de vídeo. Swipe file de aberturas prontas, organizadas por categoria. São **ganchos genéricos de mercado** — adaptar sempre à voz do cliente e à persona real (nunca usar 1:1 sem contextualizar). Ver `knowledge/gatilhos-psicologicos.md` para a teoria por trás de cada categoria, e `knowledge/banco-de-headlines.md` para headlines reais aprovadas da Thamy (ainda pendente).
+> Referência de mercado revisada para compatibilidade com `vicios-ia-humanizacao.md`. Não copiar literalmente: o gancho nasce de uma situação, tensão, prova ou pergunta real das fontes.
 
-## Como usar
+## O trabalho do gancho
 
-Todo gancho eficaz combina normalmente mais de um mecanismo (ex.: curiosidade + direcionamento de público). Ao escolher um gancho desta lista, adapte para citar o produto/persona real — nunca entregue com o placeholder "___" preenchido de forma genérica.
+O gancho deve fazer três coisas rapidamente:
 
-## Conversacionais (estilo casual, Reels/TikTok)
+1. Filtrar o público certo.
+2. Criar tensão ou valor relevante.
+3. Preparar a promessa da peça sem enganar.
 
-1. POV: você finalmente está fazendo aquilo que disse que faria há 6 meses.
-2. Não sei quem precisa ouvir isso, mas [verdade direta].
-3. Se você está travado em [nicho], assiste isso.
-4. Você não precisa de mais motivação, precisa de [o que está evitando].
-5. Isso é para quem sempre [luta relacionável].
-6. Normalizem ficar obcecado por [objetivo específico].
+Gancho não é sinônimo de frase sensacionalista. Retenção obtida por promessa que o corpo não entrega é falha de copy.
 
-## Storytelling
+## Matéria-prima prioritária
 
-1. POV: você finalmente construiu a vida que sempre quis.
-2. Foi assim que eu virei [resultado] — começou quando eu disse sim para um hábito pequeno.
-3. Os hábitos que mudaram tudo pra mim…
-4. Eu não planejei isso... mas foi a melhor decisão que já tomei.
-5. Isto é como eu saí do caos para a calma em 3 passos.
+1. Situação reconhecível da voz do cliente.
+2. Objeção ou pergunta recorrente.
+3. Consequência concreta do problema.
+4. Demonstração/prova autorizada.
+5. Mecanismo realmente diferente.
+6. Evento contextual verdadeiro.
 
-## Problem-Solving
+Usar `pesquisa-voz-do-cliente.md` para etiquetar a evidência.
 
-1. Lutando com [problema específico do nicho]? Resolve com esse truque simples.
-2. Os 3 maiores erros que te impedem de [resultado desejado].
-3. Cansado de [dor do nicho]? Tenta isso.
-4. O passo a passo para alcançar [meta do nicho] mais rápido.
-5. O que ninguém te conta sobre [dificuldade comum] — e como resolver.
+## Estruturas por função
 
-## Curiosidade
+### Reconhecimento de situação
 
-- Talvez você não saiba, mas…
-- Vou te contar um segredo…
-- Você precisa ler isso antes de [ação]…
-- O principal segredo para…
-- Como eu consegui… [resultado específico]
+- `Quando [situação específica], [consequência que o público reconhece].`
+- `Você abre [ferramenta/local] para [ação] e encontra [fricção].`
+- `Se [sinal observável], vale olhar para [causa provável].`
 
-## Urgência
+### Dor e diagnóstico
 
-- "Estou atrasado(a) mas precisava compartilhar ___"
-- "Explicando ___ em menos de 30 segundos"
-- "Aqui está exatamente como eu ___ em menos de 24 horas"
-- "Se você quer ___ até [data], você tem menos de X dias — aqui está o que fazer"
+- `[Problema] nem sempre começa em [causa óbvia].`
+- `O ponto em que [processo] costuma travar é [etapa].`
+- `Antes de trocar [solução], confira [critério].`
 
-## Ganchos negativos (aumentam alcance — usar com cautela e sempre com verdade por trás)
+### Objeção
 
-O maior erro que eu vejo em [nicho] · A verdade nada bonita sobre… · Pare de fazer isso… · Os mitos que você ainda acredita sobre [tópico] · O que [indústria] não quer que você saiba · Por que a maioria de [audiência] falha em… · Por que essa [estratégia] não está funcionando pra você.
+- `Se a dúvida é [objeção], comece por [informação que reduz risco].`
+- `[Objeção] faz sentido quando [contexto]. O que muda aqui é [mecanismo].`
+- `Para quem já tentou [alternativa], a diferença está em [critério].`
 
-## Ganchos virais (parar o scroll)
+### Benefício visualizável
 
-Pare de fazer X e tenta isso · 3 coisas que eu queria saber antes de X · Eu testei X pra você não precisar · Não compre X, compre isso · Meu hack número 1 de X para [ano] · Se você é do tipo que faz X, isso é pra você · Lembra disso da próxima vez que você [situação] · Eu não sei quem precisa ouvir isso, mas X.
+- `Imagine terminar [tarefa] sem [fricção específica].`
+- `[Resultado] começa quando [primeiro passo concreto].`
+- `Menos [custo/esforço real]. Mais [resultado real].`
 
-## Gatilhos específicos para vídeo/Reels (5 aberturas prontas)
+### Mecanismo/demonstração
 
-1. **"Você sabia que…"** — curiosidade/dado surpreendente.
-2. **"A única maneira de…"** — urgência e exclusividade.
-3. **"Se você é [perfil da audiência], isso aqui é pra você"** — filtra e conecta com o público certo.
-4. **"O maior erro que eu vejo as pessoas cometendo é…"** — autoridade.
-5. **"Deixa eu te mostrar um negócio que mudou tudo pra mim…"** — tom pessoal + promessa de transformação.
+- `É assim que [processo] acontece na prática.`
+- `Veja o que muda quando [mecanismo real].`
+- `Por dentro de [processo]: da entrada ao resultado.`
 
-> "Gancho bom = retenção alta. Reels sem gancho = ninguém fica." Ver `knowledge/regras-por-canal.md` (seção Vídeo/Reels) para a estrutura completa de roteiro em que esses ganchos se encaixam.
+### Prova
 
-## 30 palavras/frases-gatilho para headlines
+- `[Evidência autorizada] mostra [conclusão limitada].`
+- `Neste caso, [situação] → [intervenção] → [resultado].`
+- `Antes de acreditar na promessa, veja [demonstração].`
 
-Everything you need to… · How to… · Vital reasons to… · Proven ways to… · Fix · Crush · Get your hands on… · Newest/New · Fastest way to… · The truth about… · …before it's too late · Find the answers to… · Money · Free · Secret · Life changing… · Easy/Simple · Unlock · Discover · Steal my… · Instant · Top · Imagine · Avoid · Mistake · Stop · Tips to help you… · You won't believe this!
+### Curiosidade legítima
 
-## Padrão consolidado
+- `O detalhe que mais afeta [resultado] aparece em [etapa inesperada].`
+- `Entre [alternativa A] e [B], o critério que muda a decisão é [tema].`
+- `O que [público] costuma descobrir tarde sobre [decisão].`
 
-Todos os ganchos catalogados aqui se encaixam em **7 mecanismos psicológicos** (ver `knowledge/gatilhos-psicologicos.md`): escassez/urgência, prova social/autoridade, curiosidade não resolvida, confissão/vulnerabilidade, negatividade/erro, novidade/segredo, identificação direta. Os melhores exemplos combinam pelo menos dois mecanismos ao mesmo tempo.
+### Contexto/oportunidade
+
+- `[Evento real] muda [impacto para o público].`
+- `Até [data confirmada], [condição objetiva].`
+- `Com [mudança/evento], vale revisar [decisão].`
+
+## Ganchos para vídeo curto
+
+- Começar com fala no primeiro frame quando o contrato exigir.
+- Usar uma frase pronunciável em uma respiração.
+- Mostrar a prova enquanto a frase cria contexto; não narrar o óbvio.
+- Evitar introdução pessoal antes do valor, salvo quando a identidade da pessoa é a própria prova.
+- Garantir que o corpo responda ao gancho dentro da duração disponível.
+
+Modelos:
+
+- `Se você [situação], olha isso.`
+- `Esse é o ponto que muda [resultado].`
+- `Antes de [decisão], confira [critério].`
+- `Em [tempo real confirmado], o processo passa por estas etapas.`
+- `A dúvida que mais aparece é [objeção].`
+
+## Ganchos reprovados por padrão
+
+- `Você não vai acreditar...`
+- `O segredo que ninguém conta...`
+- `A indústria não quer que você saiba...`
+- `Isso mudou tudo para mim...` sem história/prova real.
+- `A única maneira...` sem exclusividade comprovada.
+- `Pare tudo...`, `urgente...`, `antes que seja tarde...` sem motivo real.
+- `Não sei quem precisa ouvir isso...` quando não filtra público.
+- `POV:` usado sem cena/ponto de vista verdadeiro.
+
+## Avaliação rápida
+
+- [ ] O público certo se reconhece?
+- [ ] A frase usa informação real da campanha?
+- [ ] O corpo entrega o que foi aberto?
+- [ ] Existe tensão sem engano?
+- [ ] O gancho cabe no canal e duração?
+- [ ] Ele soa como a marca, não como template de internet?

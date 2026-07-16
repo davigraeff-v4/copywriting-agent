@@ -18,6 +18,7 @@ Escolhe conscientemente a estrutura que vai guiar a escrita — nunca escreve a 
 3. `knowledge/frameworks-copy.md` — lista de frameworks e critérios de escolha.
 4. `knowledge/gatilhos-psicologicos.md` — teoria por trás de cada gatilho emocional.
 5. `knowledge/banco-de-ctas.md` — banco de CTAs para a escolha final.
+6. `knowledge/objecoes-e-mecanismos.md` — consultar quando a direção estratégica usar objeção, risco, comparação ou mecanismo como ângulo principal.
 
 ## Checkpoint único — Seleção final
 

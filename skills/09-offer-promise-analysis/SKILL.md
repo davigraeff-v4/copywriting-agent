@@ -19,6 +19,8 @@ O documento da Thamy reforça que a copy deve focar no valor, no problema resolv
 4. Persona (skill `05`), se disponível — para saber qual desejo a oferta deve ativar.
 5. `knowledge/metodologia-thamy.md` — exemplo real de tradução característica→benefício (Gotter: "integração automática" → "economize horas do seu dia").
 6. `knowledge/use-case-map-exemplos.md` — blocos "Porquê" e "Teste de Valor" mostram como conectar PUV, benefício de curto/longo prazo e gatilho de decisão.
+7. `knowledge/provas-e-claims.md` — OBRIGATÓRIO quando houver número, comparação, garantia, case, prova visual ou segmento sensível.
+8. `knowledge/objecoes-e-mecanismos.md` — para conectar promessa, mecanismo real e objeção principal sem agitação artificial.
 
 ## Checkpoint único — Tradução de características em benefícios
 

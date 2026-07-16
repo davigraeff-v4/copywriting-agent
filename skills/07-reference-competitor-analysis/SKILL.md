@@ -17,6 +17,8 @@ A Thamy trabalha com referência, concorrente, site, Instagram e materiais do cl
 2. `BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` — swipe file de imagens de técnicas de copywriting, útil como referência de estrutura visual.
 3. `knowledge/exemplos-de-estruturas.md` — contém o template real da V4 para este checkpoint (seção "Template real — Análise de concorrência").
 4. Concorrentes mencionados pelo gestor, se houver.
+5. `knowledge/pesquisa-voz-do-cliente.md` — para separar linguagem do público de linguagem criada pela marca/concorrente.
+6. `knowledge/provas-e-claims.md` — para classificar as provas e claims encontrados sem assumir que são verdadeiros ou reutilizáveis.
 
 ## Checkpoint único — Leitura de referência
 

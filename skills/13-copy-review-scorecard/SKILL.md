@@ -1,6 +1,6 @@
 ---
 name: 13-copy-review-scorecard
-description: "Revisa a copy adaptada com o scorecard de 12 critérios antes da entrega final. Use imediatamente após 12-channel-format-adapter, e também quando o gestor pedir '/revisar-copy' sobre uma copy existente."
+description: "Revisa a copy adaptada com 12 critérios gerais e um score obrigatório de humanização/anti-vícios de IA antes da entrega ou aprovação. Use imediatamente após 12-channel-format-adapter, quando o gestor pedir '/revisar-copy' ou quando '/aprovar-copy' não tiver scores válidos para a versão atual."
 dependencies: ["12-channel-format-adapter"]
 outputs: ["score + copy revisada (pronta para entrega)"]
 week: 1
@@ -14,13 +14,21 @@ Revisão crítica antes da entrega — baseada no checklist de revisão pós-cop
 ## Dados necessários
 
 1. Copy adaptada por canal (skill `12`), ou copy fornecida diretamente pelo gestor via `/revisar-copy`.
-2. `quality/scorecard.md` — critérios e régua de aprovação.
-3. `knowledge/termos-a-evitar.md`.
-4. `knowledge/vicios-ia-humanizacao.md` — OBRIGATÓRIO. Checklist de humanização (8 itens) a rodar além dos 12 critérios do scorecard — pega o que o scorecard sozinho não captura (ritmo, aquecimento, ponto de vista, palavras-bandeira de IA).
+2. `knowledge/README.md` e `knowledge/metodologia-thamy.md` — OBRIGATÓRIOS pelo Knowledge Gate, inclusive em revisão avulsa.
+3. `quality/scorecard.md` — critérios, fórmula e gates de aprovação.
+4. `knowledge/termos-a-evitar.md`.
+5. `knowledge/vicios-ia-humanizacao.md` — OBRIGATÓRIO. Releia integralmente antes de pontuar; não reutilize apenas a lembrança da leitura feita na skill `11`.
+6. `knowledge/provas-e-claims.md` — OBRIGATÓRIO quando a copy contiver claim quantitativo, comparativo, superlativo, garantia, case ou promessa sensível.
+7. `knowledge/erros-comuns.md` — usar como checklist diagnóstico complementar, especialmente em revisão avulsa.
+
+Se os itens 2, 3 e 5 não tiverem sido lidos na execução atual desta skill, pare: a copy não pode ser pontuada, entregue nem aprovada.
 
 ## Checkpoint único — Pontuação e decisão
 
-Antes de pontuar, rode o checklist de humanização de `knowledge/vicios-ia-humanizacao.md` (8 itens — ponto de vista, especificidade, adjetivos vagos, variação de conectores, aquecimento inicial, ritmo de frase, palavras-bandeira). Se falhar em 2+ itens, é sinal de que a copy precisa ser reescrita antes mesmo de rodar o scorecard — trate como sintoma de copy genérica, não como detalhe de estilo.
+Calcule separadamente os dois scores definidos em `quality/scorecard.md`:
+
+1. **Score Geral:** média dos 12 critérios gerais abaixo.
+2. **Score de Humanização/Anti-Vícios de IA:** média das 8 dimensões do checklist de humanização, cada uma pontuada em 0, 5 ou 10.
 
 Avalie de 0 a 10 cada um dos 12 critérios de `quality/scorecard.md`:
 ```
@@ -38,7 +46,7 @@ Avalie de 0 a 10 cada um dos 12 critérios de `quality/scorecard.md`:
 12. Risco de promessa exagerada (nota alta = baixo risco)
 ```
 
-Calcule a nota final (média) e aplique a régua:
+Calcule o Score Geral (média) e aplique a régua:
 ```
 9 a 10: aprovado
 8 a 8,9: aprovado com ajustes leves
@@ -46,29 +54,35 @@ Calcule a nota final (média) e aplique a régua:
 abaixo de 7: refazer
 ```
 
-**Regra operacional inegociável: nunca entregue versão final com nota abaixo de 8.** Se a nota ficar abaixo de 8, reescreva internamente (volte à skill `11-copy-production` ou `12-channel-format-adapter` conforme o problema) e repita a revisão antes de mostrar ao gestor — não mostre a versão reprovada como se fosse a entrega final.
+**Gates operacionais inegociáveis:** Score Geral ≥ 8/10; Score de Humanização/Anti-Vícios de IA ≥ 8/10; zero vício crítico; zero violação de `HARD CONSTRAINTS`; Knowledge Gate concluído. Falhar em qualquer gate reprova a versão. Reescreva internamente (volte à skill `11-copy-production` ou `12-channel-format-adapter` conforme o problema) e repita **os dois scores** antes de mostrar ao gestor.
 
-**Verificação de `HARD CONSTRAINTS`:** antes de calcular a nota, confira a copy contra o bloco de hard constraints vigente. Qualquer violação **reprova a copy automaticamente**, mesmo que a média dos 12 critérios seja ≥ 8 — trate como nota abaixo de 8 para efeito da regra acima, reescreva e repita a verificação.
+Considere vício crítico: dado/prova inventado para parecer específico; abertura inteira de aquecimento; palavra/expressão da lista negra usada como muleta central; ou dois ou mais vícios dos 12 padrões aparecendo de forma recorrente. Um vício crítico reprova mesmo que os dois scores sejam ≥ 8.
+
+**Verificação de `HARD CONSTRAINTS`:** antes de calcular os scores, confira a copy contra o bloco vigente. Qualquer violação **reprova a copy automaticamente**, mesmo que as médias sejam ≥ 8 — trate como gate reprovado, reescreva e repita a revisão completa.
 
 ## Modo de operação
 
 Em todos os modos, esta revisão roda **silenciosamente**, antes de qualquer apresentação ao gestor — não existe checkpoint próprio de "aqui está o score, aprova?" separado da entrega.
 
-- **Estratégico:** apresente nota + pontos fracos como checkpoint próprio (compatível com o fluxo de 14 pausas), mas ainda assim sem pausa extra só para o scorecard em si — a pergunta de validação já é a mesma da entrega.
-- **Rápido/Express:** incorpore nota final, nota por critério (se pedido) e pontos fracos diretamente dentro do Checkpoint 3 ("Entrega revisada"), junto com a copy final e o pedido de aprovação da skill `14`. Nunca gere uma mensagem separada só para o scorecard antes da entrega.
+- **Estratégico:** apresente os dois scores + pontos fracos como checkpoint próprio (compatível com o fluxo de 14 pausas), mas ainda assim sem pausa extra só para o scorecard em si — a pergunta de validação já é a mesma da entrega.
+- **Rápido/Express:** incorpore os dois scores, notas por critério/dimensão (se pedido) e pontos fracos diretamente dentro do Checkpoint 3 ("Entrega revisada"), junto com a copy final e o pedido de aprovação da skill `14`. Nunca gere uma mensagem separada só para o scorecard antes da entrega.
 
-**Apresente ao gestor apenas a versão que já atingiu nota ≥ 8 e não viola nenhum hard constraint, junto com:**
-- Nota final e nota por critério.
+**Apresente ao gestor apenas a versão que passou por todos os gates, junto com:**
+- Score Geral e Score de Humanização/Anti-Vícios de IA.
+- Nota por critério/dimensão, se pedida.
 - Os 2-3 pontos mais fracos, mesmo estando aprovada.
 
 A pergunta "Além do scorecard, você vê algo que eu não capturei nos critérios?" e o pedido de aprovação/reprovação/ajuste da skill `14` saem juntos, na mesma mensagem, nos modos Rápido/Express.
 
 ## Auto-validação
 
-- [ ] Todos os 12 critérios foram pontuados individualmente, não só uma nota geral?
+- [ ] Knowledge Gate concluído nesta execução da skill, incluindo releitura integral de `knowledge/vicios-ia-humanizacao.md`?
+- [ ] Todos os 12 critérios gerais foram pontuados individualmente, não só uma nota geral?
+- [ ] As 8 dimensões de humanização foram pontuadas em 0, 5 ou 10 e tiveram média própria?
 - [ ] Nenhum termo de `knowledge/termos-a-evitar.md` ou de `knowledge/vicios-ia-humanizacao.md` presente?
-- [ ] Checklist de humanização (8 itens) foi rodado antes da pontuação?
-- [ ] Se nota < 8, a copy foi reescrita ANTES de ser mostrada ao gestor?
+- [ ] Nenhum vício crítico foi detectado?
+- [ ] Claims sensíveis foram confrontados com fonte, limite e formulação permitida conforme `knowledge/provas-e-claims.md`?
+- [ ] Se qualquer score ficou < 8 ou outro gate falhou, a copy foi reescrita ANTES de ser mostrada ao gestor?
 - [ ] A copy foi checada contra o bloco `HARD CONSTRAINTS` vigente? Se violou algo, foi tratada como reprovada e reescrita?
 - [ ] Nos modos Rápido/Express, o score foi incorporado ao Checkpoint 3 em vez de virar uma mensagem separada?
 
@@ -76,5 +90,5 @@ Se falhou → regenere silenciosamente.
 
 ## Finalização
 
-1. Registre a nota final e os pontos fracos para incluir no output da skill `14`.
-2. No modo Estratégico, informe: "Copy revisada, nota [X]/10. Próximo passo: `14-final-delivery-feedback`." Nos modos Rápido/Express, siga direto para a skill `14` e apresente tudo junto no Checkpoint 3 — não anuncie essa transição como uma etapa separada.
+1. Registre o Score Geral, o Score de Humanização/Anti-Vícios de IA e os pontos fracos para incluir no output da skill `14`.
+2. No modo Estratégico, informe: "Copy revisada: Score Geral [X]/10; Humanização [Y]/10. Próximo passo: `14-final-delivery-feedback`." Nos modos Rápido/Express, siga direto para a skill `14` e apresente tudo junto no Checkpoint 3 — não anuncie essa transição como uma etapa separada.

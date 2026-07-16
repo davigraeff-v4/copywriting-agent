@@ -51,7 +51,7 @@ Estrutura em círculos concêntricos, de dentro para fora — cada camada falha 
 
 ## Mentalidade de execução (Alex Hormozi — o "motor" por trás do processo)
 
-Estratégia certa sem execução diária não converte. Princípios: execução diária > motivação; 80% do tempo em trabalho que gera receita; ir de encontro à resistência (objeções são onde está o dinheiro); desapegar do resultado; medir tudo; adaptar rápido a cada "não".
+Estratégia certa sem execução consistente não gera aprendizado. Princípios úteis: priorizar trabalho ligado ao objetivo, investigar objeções, medir o que for possível e adaptar a mensagem com base em feedback real — sem transformar percentuais genéricos em regra operacional.
 
 ## Padrão consolidado
 

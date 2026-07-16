@@ -62,7 +62,7 @@ Use como "moldura" narrativa dentro de qualquer framework acima (ex.: o "Story" 
 
 Na ordem de peso: objetivo da campanha → etapa do funil → persona → canal → nível de consciência → tipo de oferta.
 
-## Para adicionar (aguardando material da Thamy)
+## Calibração futura com material real
 
 - [ ] Exemplo real de cada framework aplicado a uma copy da Thamy/V4.
 - [ ] Frameworks adicionais usados pela V4 que não estão nesta lista.

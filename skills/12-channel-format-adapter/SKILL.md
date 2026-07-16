@@ -18,6 +18,7 @@ Garante que a entrega não saia igual para todos os canais — cada formato tem 
 3. `knowledge/regras-por-canal.md` — regras e boas práticas por canal (Google/Meta Ads, e-mail, landing page, LinkedIn, vídeo, SEO), referência de mercado.
 4. `knowledge/exemplos-de-estruturas.md` — templates REAIS da V4 para Meta Ads (criativo estático/carrossel, com convenção de 3 variações A/B/C "para uso do gestor") e Landing Page. **Estes templates reais têm prioridade sobre os genéricos abaixo quando o formato bater** — a estrutura de Meta Ads/LP desta skill deve seguir a convenção real sempre que possível.
 5. `CONTRATO-OPERACIONAL-MODOS.md` seção 5 — limites padrão de duração/ritmo/quantidade por canal×formato quando o briefing não informar (ex.: Reels sem duração informada = 9-12s, locução colada no primeiro frame).
+6. `knowledge/matriz-de-variacoes-e-testes.md` — quando houver variações, preservar a hipótese ao adaptar e evitar mudar múltiplas variáveis sem identificação.
 
 ## Checkpoint único — Adaptação por canal
 

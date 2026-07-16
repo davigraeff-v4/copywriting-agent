@@ -14,9 +14,11 @@ Atrair desconhecidos com conteúdo sem fricção → nutrir com conteúdo de mai
 | **MOFU** | Gerar prospects/nutrir | Webinars, estudos de caso, amostras grátis, comparativos, e-mails segmentados |
 | **BOFU** | Gerar vendas qualificadas | Trials, demos, avaliações, consultorias, cupons, depoimentos |
 
-## Dados reais de conversão (ponto de atenção)
+## Princípio de distribuição de consciência
 
-75% dos visitantes estão buscando informação; 23% estão comparando; **apenas 2% estão prontos para agir.** A maior parte do tráfego não está pronta para comprar — o conteúdo de topo de funil precisa ser o foco de volume, não a oferta de conversão direta.
+Em geral, apenas uma parcela do público está pronta para decidir imediatamente; as demais pessoas ainda reconhecem o problema, pesquisam ou comparam alternativas. Esta base não mantém um percentual universal porque a distribuição muda por mercado, canal, audiência e período. Se a estratégia depender de números, usar dados reais da conta/cliente.
+
+**Implicação:** não tratar todo tráfego como fundo de funil. A proporção de conteúdo por estágio deve vir do diagnóstico e dos dados da operação, não de uma regra fixa.
 
 ## Funil de 5 estágios (com objetivo, conteúdo e estratégia)
 

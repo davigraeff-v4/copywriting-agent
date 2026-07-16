@@ -1,52 +1,117 @@
-# Banco de CTAs
+# Banco Operacional de CTAs
 
-> Fonte: síntese de 3 pins (Zapier; @iammichellegifford; Fletch & Co.). Usado pela skill `10-framework-trigger-selector` (escolha do CTA) e `13-copy-review-scorecard` (critério "CTA claro"). Estes são CTAs genéricos de mercado — adaptar ao objetivo real do briefing, nunca copiar 1:1.
+> Referência de mercado revisada. O melhor CTA não é o mais criativo: é o que torna o próximo passo claro, proporcional ao nível de consciência e coerente com o destino.
 
-## Cheat sheet: CTA genérico → alternativa persuasiva
+## Anatomia
 
-| CTA genérico | Alternativas mais específicas |
-|---|---|
-| Cadastre-se | Comece agora · Entre para o grupo · Dá um mergulho |
-| Saiba mais | Descubra os segredos · Aprofunde-se · Explore mais |
-| Compre agora | Garanta o seu hoje · Feche o seu · Seja o primeiro a ter |
-| Assine | Fique por dentro · Entre para o clube · Seja o primeiro a saber |
-| Baixe | Acesso instantâneo · Pegue sua cópia · Desbloqueie agora |
-| Fale conosco | Vamos conversar · Manda sua mensagem · Estamos aqui para ajudar |
-| Peça um orçamento | Veja quanto você pode economizar · Peça sua oferta personalizada |
-| Compre agora (loja) | Explore a coleção · Se presenteie · Descubra as ofertas |
-| Leia mais | Descubra a história completa · Veja o que acontece depois |
-| Participe | Torne-se membro · Embarque · Comece sua jornada |
+`verbo + objeto/próximo passo + valor ou contexto opcional`
 
-**Princípio central:** o CTA genérico nomeia a ação; a alternativa nomeia o **resultado ou benefício** da ação. Reduz a distância entre a ação e o valor percebido.
+Exemplos abstratos:
 
-## CTAs para redes sociais (engajamento orgânico) — de fraco para forte
+- `Ver modelos disponíveis`
+- `Calcular meu orçamento`
+- `Agendar uma avaliação`
+- `Receber o guia por e-mail`
+- `Falar com um especialista`
 
-CTA fraco pede a ação sem motivo; CTA forte dá um motivo ou reduz a fricção:
+Não prometer no CTA algo que o clique não entrega.
 
-- "Comente aqui" → "Comenta seu emoji favorito se você concorda" (script pronto, elimina a fricção de "o que eu escrevo?")
-- "Curta esse post" → "Toca no like pra começar a ___ hoje!" (liga a ação a um resultado)
-- "Você prefere isso ou aquilo?" → "Qual ___ você prefere? Comenta 1 ou 2" (enquete facilita resposta rápida)
-- "Entra na minha lista! Link na bio" → "Usa o link na bio pra pegar o guia grátis de ___" (oferta concreta em vez de pedido vago)
-- "Salva esse post" → "Salva esse post pra próxima vez que precisar de ___" (justifica o salvamento)
-- "Compra meu produto aqui!" → "Clica no link pra fazer a melhor compra do ano!" (agrega urgência)
-- "Manda esse post pra um amigo" → "Compartilha com alguém que ama ___" (especifica o público do compartilhamento)
+## Escada de compromisso
 
-## Reframe — "em vez de / diga" (Fletch & Co.)
-
-| Categoria | Em vez de | Diga |
+| Nível | Intenção | CTAs possíveis |
 |---|---|---|
-| Cadastro/assinatura | "Cadastre-se" | "Junte-se a X mil clientes" · "Comece hoje" · "Faça parte da comunidade" |
-| Compra | "Compre agora" | "A mudança está a um clique" · "Torne seu" · "Garanta o que é seu" |
-| Download | "Baixe" | "Pegue sua cópia grátis" · "Acesso instantâneo" · "Você não vai querer perder isso" |
-| Saiba mais | "Saiba mais" | "Mude sua vida aqui" · "Descubra como" · "Explore as possibilidades" |
-| Contato | "Contato" | "Vamos nos conectar" · "Pronto para conversar?" |
-| Ler mais | "Leia mais" | "Continue lendo" · "Descubra a história completa" |
-| Participar | "Participe agora" | "Entre para a comunidade" · "Faça a mudança" |
+| Baixo | explorar/entender | Ver como funciona · Conhecer opções · Comparar modelos |
+| Médio | receber valor/qualificar | Baixar guia · Ver demonstração · Calcular cenário · Conferir disponibilidade |
+| Alto | conversar/avaliar | Pedir orçamento · Agendar conversa · Tirar dúvida no WhatsApp |
+| Compra | concluir | Escolher meu modelo · Finalizar pedido · Garantir nas condições informadas |
+| Pós-compra | ativar/reter | Acompanhar pedido · Começar configuração · Falar com suporte |
 
-## Padrão consolidado (5 princípios)
+O CTA de topo pode ser leve, mas não precisa desaparecer. O objetivo da campanha define o compromisso adequado.
 
-1. **Nomeie o benefício, não a ação.**
-2. **Dê prova social ou pertencimento** ("junte-se a X clientes", "faça parte da comunidade").
-3. **Reduza a fricção cognitiva** — formato de enquete ou script pronto diminuem o esforço de resposta.
-4. **Adicione especificidade/contexto** — preencher o "___" com o nicho real transforma template em CTA relevante.
-5. **Teste variações por canal** — o mesmo botão pode ter 3-5 variações testáveis (banco de teste A/B pronto).
+## Por objetivo
+
+### Reconhecimento/engajamento
+
+- `Veja o processo completo`
+- `Salve para consultar quando [situação]`
+- `Qual dessas situações acontece com você?`
+- `Compartilhe com quem cuida de [tarefa]`
+
+Evitar pedir curtida/comentário sem motivo ligado ao conteúdo.
+
+### Tráfego/consideração
+
+- `Compare as opções`
+- `Veja detalhes e condições`
+- `Entenda como funciona`
+- `Conheça o método por dentro`
+
+### Lead
+
+- `Receber [ativo específico]`
+- `Fazer o diagnóstico`
+- `Simular meu cenário`
+- `Entrar na lista de interesse`
+
+Informar o que será solicitado e entregue.
+
+### Conversa/WhatsApp
+
+- `Perguntar sobre [produto/condição]`
+- `Consultar disponibilidade`
+- `Pedir uma recomendação`
+- `Falar sobre meu caso`
+
+### Venda
+
+- `Escolher meu [produto/plano]`
+- `Finalizar a compra`
+- `Garantir por [condição real]`
+- `Reservar até [data/condição confirmada]`
+
+### Retenção/relacionamento
+
+- `Ativar meu acesso`
+- `Revisar minha configuração`
+- `Ver próximos passos`
+- `Indicar para alguém`
+
+## CTA e destino
+
+| Destino | O CTA deve antecipar |
+|---|---|
+| WhatsApp | assunto da conversa e, se possível, resposta esperada |
+| Formulário | benefício e nível de esforço |
+| Landing page | informação/oferta que será encontrada |
+| Checkout | produto/condição de compra |
+| Download | formato e conteúdo do material |
+| Agenda | tipo e duração da conversa, se conhecidos |
+
+## Critérios de escolha
+
+1. Qual é o objetivo mensurável da peça?
+2. O público está pronto para esse compromisso?
+3. O destino cumpre exatamente o prometido?
+4. O verbo é claro no contexto do canal?
+5. Há mais de um CTA competindo?
+6. A condição precisa aparecer antes do clique?
+
+## CTAs a evitar
+
+- `Clique aqui` sem informar para quê.
+- `Saiba mais` quando é possível nomear o conteúdo.
+- `Mude sua vida`, `desbloqueie seu potencial`, `embarque nessa jornada`.
+- `Garanta já` sem oferta/condição clara.
+- `Fale conosco` quando o assunto poderia ser especificado.
+- `Compre agora` para público que ainda precisa compreender a solução.
+- CTA de comentário com resposta vazia apenas para inflar engajamento.
+
+## Variação de CTA
+
+Testar CTAs por nível de compromisso, não apenas sinônimo:
+
+- A: explorar (`Ver como funciona`).
+- B: qualificar (`Simular meu cenário`).
+- C: conversar (`Falar sobre meu caso`).
+
+Registrar a hipótese em `matriz-de-variacoes-e-testes.md`.

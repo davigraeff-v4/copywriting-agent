@@ -13,13 +13,18 @@ O coração do agent: escreve a copy final combinando tudo que foi decidido nas 
 
 ## Dados necessários
 
-1. Briefing organizado (`01`), análise de marca (`03`), oferta/promessa (`09`) — OBRIGATÓRIO.
-2. Big idea (`08`) e framework/gatilho/CTA (`10`), quando existirem (fluxo estratégico completo).
-3. Persona (`05`), quando existir.
-4. `knowledge/metodologia-thamy.md`, `knowledge/banco-de-headlines.md`, `knowledge/termos-a-evitar.md`.
-5. `knowledge/banco-de-ganchos.md` — aberturas prontas por categoria (adaptar à persona real, nunca usar 1:1).
-6. `knowledge/processo-de-copy.md` — as 12 regras de copy de alta conversão, como checklist complementar ao scorecard.
-7. `knowledge/vicios-ia-humanizacao.md` — OBRIGATÓRIO. Os 12 vícios de linguagem de IA e a lista negra de palavras — evitar desde a primeira escrita, não só na revisão.
+1. `knowledge/README.md` e `knowledge/metodologia-thamy.md` — OBRIGATÓRIOS pelo Knowledge Gate.
+2. Briefing organizado (`01`), análise de marca (`03`), oferta/promessa (`09`) — OBRIGATÓRIO.
+3. Big idea (`08`) e framework/gatilho/CTA (`10`), quando existirem (fluxo estratégico completo).
+4. Persona (`05`), quando existir.
+5. `knowledge/banco-de-headlines.md`, `knowledge/termos-a-evitar.md`.
+6. `knowledge/banco-de-ganchos.md` — aberturas prontas por categoria (adaptar à persona real, nunca usar 1:1).
+7. `knowledge/processo-de-copy.md` — as 12 regras de copy de alta conversão, como checklist complementar ao scorecard.
+8. `knowledge/vicios-ia-humanizacao.md` — OBRIGATÓRIO. Leia o arquivo integralmente imediatamente antes de escrever, mesmo que ele já tenha sido lido antes nesta conversa. Evite os 12 vícios e a lista negra desde a primeira versão.
+9. `knowledge/matriz-de-variacoes-e-testes.md` — OBRIGATÓRIO quando a entrega pedir duas ou mais variações; cada versão deve testar hipótese real.
+10. `knowledge/erros-comuns.md` — consultar quando houver histórico de reprovação, formato novo ou risco identificado nas skills anteriores.
+
+Se os itens 1 e 8 não tiverem sido lidos na execução atual desta skill, pare: a copy não pode ser produzida.
 
 ## Checkpoint único — Copy base
 
@@ -68,12 +73,14 @@ No modo Estratégico, aguarde aprovação antes de avançar — esta copy ainda 
 
 ## Auto-validação
 
+- [ ] Knowledge Gate concluído, com `knowledge/README.md`, `knowledge/metodologia-thamy.md` e `knowledge/vicios-ia-humanizacao.md` lidos nesta execução?
 - [ ] Cita o produto/cliente e a dor/desejo específicos, não é copy genérica reaproveitável para qualquer marca?
 - [ ] Nenhum termo de `knowledge/termos-a-evitar.md` ou da lista negra de `knowledge/vicios-ia-humanizacao.md` presente?
 - [ ] Nenhum vício de IA óbvio (travessão descontextualizado, "não é X, é Y", aquecimento antes do gancho, adjetivo vago sem evidência)?
 - [ ] Todas as características viraram benefício (consistente com skill 09)?
 - [ ] CTA está presente e alinhado ao objetivo?
 - [ ] Rastreável: dá para dizer qual framework/ângulo gerou essa copy?
+- [ ] Se há variações, cada uma nomeia uma hipótese/variável diferente em vez de trocar apenas sinônimos?
 
 Se falhou → regenere silenciosamente.
 

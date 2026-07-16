@@ -105,11 +105,14 @@ Copy final adaptada ao canal
 Variações previstas para o formato
 Orientação para design e tráfego
 Justificativa estratégica resumida
-Score final e pontos mais fracos
+Score Geral + Score de Humanização/Anti-Vícios de IA
+Pontos mais fracos
 Hipóteses ainda existentes
 Pedido de aprovação, reprovação ou ajuste
 ```
 Não existe confirmação separada entre scorecard e entrega final — sai tudo junto.
+
+Antes deste checkpoint, as skills `11` e `13` cumprem o Knowledge Gate de forma silenciosa: ambas leem integralmente `knowledge/vicios-ia-humanizacao.md`, em momentos independentes. A entrega só avança se Score Geral ≥ 8, Score de Humanização/Anti-Vícios de IA ≥ 8, zero vício crítico, zero violação de `HARD CONSTRAINTS` e todas as leituras obrigatórias concluídas.
 
 No modo **Express**, os Checkpoints 1 e 2 colapsam em um único checkpoint mínimo (mapa estratégico resumido, já com o diagnóstico silencioso embutido), e o Checkpoint 3 permanece igual.
 
@@ -142,6 +145,15 @@ HARD CONSTRAINTS — Cliente X — Reels Fundo de Funil
 - Não sugerir que todo cliente passa pelo mesmo teste/processo.
 - Não sugerir resultado idêntico ou garantido por caso.
 ```
+
+## 4.1 Contrato de Knowledge Gate e humanização
+
+- `knowledge/README.md` e `knowledge/metodologia-thamy.md` são leitura obrigatória no início de toda campanha ou revisão avulsa.
+- Cada skill lê os arquivos de `knowledge/` listados em seus dados necessários antes de agir.
+- A skill `11` lê integralmente `knowledge/vicios-ia-humanizacao.md` imediatamente antes de escrever.
+- A skill `13` relê integralmente o mesmo arquivo antes de pontuar e calcula um score separado de humanização.
+- Alterar a copy invalida os scores anteriores; a nova versão volta à skill `13`.
+- A skill `14` e o comando `/aprovar-copy` bloqueiam registro de aprovação sem scores válidos da versão atual.
 
 ## 5. Contrato de canal × formato
 

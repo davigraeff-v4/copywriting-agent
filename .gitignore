@@ -15,6 +15,9 @@ examples/**/*.md
 # Registros de teste com dados reais de campanha/cliente
 /TESTE-*.md
 
+# Documentos de handoff entre sessões (contexto interno, com dados de cliente)
+/HANDOFF-*.md
+
 # Swipe file de imagens (grande, não essencial para o funcionamento do agent)
 BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/
 

@@ -1,6 +1,6 @@
 # Vícios de IA em Copy — Guia de Humanização
 
-> Fonte: material trazido pelo Davi (guia de mercado sobre padrões que denunciam texto gerado por IA). Usado principalmente pelas skills `11-copy-production` (para não introduzir os vícios) e `13-copy-review-scorecard` (checklist adicional antes de aprovar). Complementa `knowledge/termos-a-evitar.md` — lá são clichês de marketing genérico ("a melhor solução"), aqui são tiques específicos de escrita por IA (estrutura, ritmo, vocabulário).
+> Fonte: material trazido pelo Davi (guia de mercado sobre padrões que denunciam texto gerado por IA). Leitura integral obrigatória e independente nas skills `11-copy-production` (antes de escrever) e `13-copy-review-scorecard` (antes de pontuar). A skill `14-final-delivery-feedback` bloqueia entrega/aprovação sem o score derivado deste arquivo. Complementa `knowledge/termos-a-evitar.md`.
 
 ## Por que isso importa para a THAMY IA
 
@@ -57,7 +57,7 @@ A IA prevê a próxima palavra estatisticamente mais provável a partir do que j
 | Verbos corporativos | utilize, leverage, foster, empower, harness, unlock, elevate, delve, dive into, underscore |
 | Adjetivos inflados | seamless, robust, pivotal, multifaceted, transformative, cutting-edge, groundbreaking, comprehensive, dynamic, innovative — e os equivalentes em PT: robusto, transformador, inovador, multifacetado |
 | Aberturas clichê | "No cenário atual...", "Em um mundo cada vez mais...", "No dinâmico universo de...", "É importante ressaltar que...", "Vale mencionar que..." |
-| Qualificadores vagos | vários, diversos, inúmeros, numerosos, múltiplos (substituir sempre por um número real) |
+| Qualificadores vagos | vários, diversos, inúmeros, numerosos, múltiplos (trocar por quantidade/detalhe real quando disponível; nunca inventar número) |
 | Conectores de excesso | "além disso" (repetido), portanto, ou seja, "no entanto" (quando repetido), "dessa forma" |
 
 Ver `knowledge/termos-a-evitar.md` para os clichês de marketing (não sobrepõem — lá é sobre promessa genérica, aqui é sobre estrutura/ritmo de escrita).
@@ -71,7 +71,7 @@ Ver `knowledge/termos-a-evitar.md` para os clichês de marketing (não sobrepõe
 | Ausência de personalidade | Sem personalidade de marca, o copy não diferencia — e o que não diferencia, não vende |
 | Conteúdo genérico | Copy sem posicionamento real poderia ser de qualquer marca — ou seja, não é de nenhuma |
 
-Um estudo com mais de mil URLs mediu que abrir seções com "Conclusion" teve a maior correlação negativa com engajamento de todos os padrões analisados; "Not only... but also" usado com frequência também correlaciona negativamente.
+Os padrões acima devem ser tratados como heurísticas editoriais. A base não associa uma queda universal de performance a uma palavra isolada; o problema é recorrência, inadequação ao tom e perda de clareza/especificidade.
 
 ## Como aplicar na THAMY IA
 
@@ -83,10 +83,10 @@ Um estudo com mais de mil URLs mediu que abrir seções com "Conclusion" teve a 
 - Tenha um ponto de vista — copy neutra não persuade.
 - Puxe especificidade real do briefing/persona (skill `05`) em vez de generalizar.
 
-### Ao revisar (skill `13-copy-review-scorecard`) — checklist adicional além dos 12 critérios do scorecard
+### Ao revisar (skill `13-copy-review-scorecard`) — Score de Humanização/Anti-Vícios de IA
 
 - [ ] O texto tem ponto de vista claro — não é neutro ou evasivo?
-- [ ] Há pelo menos um dado, resultado ou exemplo específico (não genérico)?
+- [ ] Há pelo menos um detalhe específico e real do briefing (produto, situação, dado ou exemplo), sem inventar evidência?
 - [ ] Adjetivos vagos foram substituídos por evidência concreta?
 - [ ] Os conectores variam ao longo do texto (não repetem)?
 - [ ] O primeiro trecho entrega valor imediato — sem aquecimento?
@@ -94,7 +94,7 @@ Um estudo com mais de mil URLs mediu que abrir seções com "Conclusion" teve a 
 - [ ] Nenhuma palavra da lista negra presente?
 - [ ] Há variação no tamanho das frases?
 
-Se a copy falhar em 2 ou mais itens deste checklist, tratar como sinal de que precisa reescrever antes de pontuar no scorecard oficial — não é só estilo, é sintoma de copy genérica.
+Pontue cada item em `0 = falha clara`, `5 = parcial/inconsistente` ou `10 = atende` e calcule a média. A copy precisa atingir pelo menos 8/10 neste score, separadamente do Score Geral. A fórmula completa e os vícios críticos que causam reprovação automática estão em `quality/scorecard.md`.
 
 ### Framework de reescrita total (para casos onde os vícios estão muito presentes)
 

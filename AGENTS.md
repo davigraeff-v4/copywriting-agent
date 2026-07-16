@@ -19,10 +19,20 @@ A copy deve ser clara, humana, conversacional, específica, orientada a benefíc
 ## Como executar uma skill
 
 1. Leia o arquivo `skills/NN-nome-da-skill/SKILL.md` completo antes de agir — ele contém os checkpoints, o que ler antes, e os critérios de auto-validação.
-2. Leia os dados necessários indicados pela skill (briefing atual, `knowledge/*.md`, `clients/{cliente}.md`, outputs de skills anteriores nesta conversa).
-3. Execute os checkpoints na ordem definida pelo modo em uso (ver "Modos de operação" abaixo) — nem toda skill gera uma pausa própria; várias rodam silenciosamente dentro de um mesmo checkpoint consolidado.
-4. Rode a auto-validação da skill silenciosamente antes de mostrar qualquer coisa ao gestor. Se falhar, regenere sem avisar.
-5. Ao final de cada checkpoint (não de cada skill), resuma o que foi decidido e aponte o próximo checkpoint.
+2. Confirme que o **Knowledge Gate** da campanha foi iniciado (`knowledge/README.md` + `knowledge/metodologia-thamy.md`) e leia todos os arquivos de `knowledge/` indicados em "Dados necessários" pela skill. Não trabalhe apenas por memória de outra campanha.
+3. Leia os demais dados necessários indicados pela skill (briefing atual, `clients/{cliente}.md`, outputs de skills anteriores nesta conversa).
+4. Execute os checkpoints na ordem definida pelo modo em uso (ver "Modos de operação" abaixo) — nem toda skill gera uma pausa própria; várias rodam silenciosamente dentro de um mesmo checkpoint consolidado.
+5. Rode a auto-validação da skill silenciosamente antes de mostrar qualquer coisa ao gestor. Se falhar, regenere sem avisar.
+6. Ao final de cada checkpoint (não de cada skill), resuma o que foi decidido e aponte o próximo checkpoint.
+
+## Knowledge Gate — obrigatório
+
+- No início de toda campanha ou revisão avulsa, leia `knowledge/README.md` para rotear as fontes e `knowledge/metodologia-thamy.md` como base metodológica.
+- Antes de cada skill, leia os arquivos de `knowledge/` que ela lista em "Dados necessários". Diferencie fonte real, referência de mercado e baseline operacional; nunca apresente síntese ou hipótese como material oficial da Thamy/V4.
+- Antes da skill `11-copy-production`, leia **integralmente e novamente** `knowledge/vicios-ia-humanizacao.md`; essa leitura deve acontecer antes da primeira linha da copy.
+- Antes da skill `13-copy-review-scorecard`, releia **integralmente** `knowledge/vicios-ia-humanizacao.md`; não reutilize apenas a lembrança da leitura feita na produção.
+- Mantenha um registro interno das fontes consultadas. Nos modos Rápido/Express ele é silencioso; no Estratégico, pode aparecer de forma compacta no checkpoint.
+- Se qualquer leitura obrigatória não tiver sido feita, a skill não pode produzir, pontuar, entregar nem aprovar a copy.
 
 ## Modos de operação
 
@@ -92,7 +102,7 @@ Se o gestor pedir para pular uma dependência, avise o risco mas permita — reg
 ### Produção e entrega
 - `11-copy-production` — escreve a copy final.
 - `12-channel-format-adapter` — adapta a copy ao canal/formato.
-- `13-copy-review-scorecard` — revisa com scorecard de 12 critérios (ver `quality/scorecard.md`).
+- `13-copy-review-scorecard` — revisa com 12 critérios gerais + Score de Humanização/Anti-Vícios de IA (ver `quality/scorecard.md`).
 - `14-final-delivery-feedback` — organiza entrega final e coleta feedback do gestor.
 
 ## Regras de decisão
@@ -109,7 +119,7 @@ Ver matriz completa em `CONTRATO-OPERACIONAL-MODOS.md` (seção 1). Resumo:
 
 ## Scorecard de qualidade
 
-Toda copy final passa pela skill `13-copy-review-scorecard`, que usa os 12 critérios de `quality/scorecard.md`. Regra: **nunca entregue versão final com nota abaixo de 8/10** — reescreva antes.
+Toda copy final passa pela skill `13-copy-review-scorecard`, que calcula dois resultados obrigatórios: **Score Geral** (12 critérios) e **Score de Humanização/Anti-Vícios de IA** (8 dimensões derivadas de `knowledge/vicios-ia-humanizacao.md`). Para seguir à entrega, ambos devem ser ≥ 8/10, sem vício crítico, sem violação de `HARD CONSTRAINTS` e com o Knowledge Gate comprovadamente concluído. Falhou em qualquer gate → reescreva e pontue novamente antes de mostrar ao gestor.
 
 ## Sistema de feedback
 
@@ -123,8 +133,8 @@ Após a entrega, sempre pergunte: "A copy foi aprovada, reprovada ou precisa de 
 Antes de qualquer skill que precise de metodologia, frameworks ou exemplos, consulte `knowledge/*.md` — comece por `knowledge/README.md`, que indexa tudo. Há três camadas:
 
 1. **Real, da Thamy/V4** (Google Drive) — `metodologia-thamy.md` (o documento-cérebro dela), `processo-kickoff-cliente.md`, `canais-por-modelo-de-negocio.md`, `use-case-map-exemplos.md`, `exemplos-de-estruturas.md` (templates e exemplos reais preenchidos) + `quality/analise-semanal-comunicacao.md`. **Esta camada tem precedência sobre as demais em caso de conflito.**
-2. **Genérica de mercado** (Pinterest, ~130 pins) — `processo-de-copy.md`, `frameworks-copy.md`, `gatilhos-psicologicos.md`, `banco-de-ganchos.md`, `banco-de-ctas.md`, `regras-por-canal.md`, `estrategia-de-marca.md`, `funil-e-jornada.md`, `prompts-de-apoio.md`, `vicios-ia-humanizacao.md` (leitura obrigatória nas skills `11` e `13` — evita que a copy soe como IA) — use como base sólida para o que a camada 1 ainda não cobrir. Não substitui a voz/exemplos reais da Thamy quando eles existirem.
-3. **Ainda placeholder** (`padroes-copy-v4.md`, `banco-de-angulos.md`, `banco-de-headlines.md`, `erros-comuns.md`, `termos-a-evitar.md`) — se um desses arquivos não tiver conteúdo real, não invente; sinalize ao gestor.
+2. **Genérica de mercado** (Pinterest, ~130 pins) — `processo-de-copy.md`, `frameworks-copy.md`, `gatilhos-psicologicos.md`, `banco-de-ganchos.md`, `banco-de-ctas.md`, `regras-por-canal.md`, `estrategia-de-marca.md`, `funil-e-jornada.md`, `prompts-de-apoio.md`, `vicios-ia-humanizacao.md` (leitura integral obrigatória e independente nas skills `11` e `13`; seu score é gate de entrega/aprovação) — use como base sólida para o que a camada 1 ainda não cobrir. Não substitui a voz/exemplos reais da Thamy quando eles existirem.
+3. **Baseline operacional THAMY IA** — `padroes-copy-v4.md`, `banco-de-angulos.md`, `banco-de-headlines.md`, `erros-comuns.md`, `termos-a-evitar.md`, `pesquisa-voz-do-cliente.md`, `provas-e-claims.md`, `objecoes-e-mecanismos.md`, `matriz-de-variacoes-e-testes.md`. Estes arquivos fecham lacunas práticas, mas não são padrão oficial V4; nunca atribua seu conteúdo à Thamy sem validação.
 
 `BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` contém as imagens originais (swipe file) — úteis para composição visual (layout, cores) na skill `07-reference-competitor-analysis`. A maior parte do conteúdo textual delas já foi convertida para `knowledge/*.md`.
 
@@ -134,6 +144,8 @@ Antes de qualquer skill que precise de metodologia, frameworks ou exemplos, cons
 - NUNCA gere variações antes de ter oferta e framework definidos (ao menos como hipótese).
 - NUNCA aprove copy que não menciona a dor específica do público.
 - NUNCA entregue com nota de scorecard abaixo de 8/10 sem reescrever.
+- NUNCA entregue ou aprove copy com Score de Humanização/Anti-Vícios de IA abaixo de 8/10 ou com vício crítico.
+- NUNCA execute `/aprovar-copy` sem um score válido da versão atual; se não houver, rode a skill `13` antes de registrar a aprovação.
 - NUNCA entregue copy que viole um `HARD CONSTRAINTS` vigente — isso reprova automaticamente, independentemente da nota do scorecard.
 - SEMPRE cite o cliente e a campanha pelo nome na copy e nos outputs — nunca genérico.
 - SEMPRE sinalize hipóteses/inferências explicitamente (ex.: "[H]").

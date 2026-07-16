@@ -1,53 +1,78 @@
-# Gatilhos Psicológicos
+# Gatilhos Psicológicos — Uso Ético e Operacional
 
-> Fonte: síntese de neuromarketing.md (3 pins) + fundamento psicológico de ganchos.md (2 pins), com sobreposições removidas (escassez, prova social e autoridade apareciam nas duas fontes — consolidados aqui numa entrada única). Usado pelas skills `10-framework-trigger-selector` (escolha de gatilho) e `13-copy-review-scorecard` (critério "conexão emocional"). Ver `knowledge/banco-de-ganchos.md` para as frases prontas que aplicam estes gatilhos.
+> Referência de mercado para a skill `10`. Gatilho não substitui oferta, relevância ou prova. Só usar quando houver condição real e aderência ao público.
 
-## Os 7 gatilhos de Cialdini + 2 complementares
+## Princípios de influência
 
-| Gatilho | O que é | Elemento de copy correspondente |
-|---|---|---|
-| **Reciprocidade** | Dar valor primeiro gera obrigação de retribuir | Lead magnet, conteúdo gratuito |
-| **Prova social** | Confiar mais no que outros já validaram | Depoimentos, número de seguidores, resultados de usuários |
-| **Autoridade** | Confiar em quem está em posição de especialista | Cases, credenciais, conteúdo educativo |
-| **Escassez** | Quanto mais raro/limitado, maior a motivação | Estoque/vagas limitadas |
-| **Consistência** | Repetição constrói confiança | Sequência de e-mails/posts |
-| **Afeição (liking)** | Compramos de quem gostamos/nos identificamos | Tom pessoal, bastidores |
-| **Urgência** | Limite de tempo aumenta conversão | Contagem regressiva, prazo |
-| **Halo Effect** *(complementar)* | Impressão geral contamina a percepção de traços específicos | Cuidado com primeira impressão da marca (design, headline) |
-| **Anchoring Effect** *(complementar)* | Decisões se apoiam na primeira informação recebida | Mostrar preço "de referência" antes do preço com desconto |
+| Princípio | O que reduz na decisão | Aplicação legítima | Uso indevido |
+|---|---|---|---|
+| Reciprocidade | custo de experimentar | conteúdo, diagnóstico ou amostra útil | brinde irrelevante para pressionar compra |
+| Prova social | incerteza sobre adequação | reviews/cases contextualizados | número/depoimento inventado |
+| Autoridade | incerteza sobre competência | credencial relevante, processo, conteúdo | autoridade sem relação com a promessa |
+| Escassez | risco de perder disponibilidade | estoque, vagas ou lote realmente limitados | escassez permanente/falsa |
+| Compromisso/consistência | esforço de continuar | próximo passo coerente com ação anterior | usar microcompromisso para esconder condição |
+| Afeição/afinidade | distância e desconfiança | valores, bastidor, identificação real | intimidade fabricada ou culpa afetiva |
+| Unidade/pertencimento | dúvida sobre identidade | comunidade e linguagem confirmadas | estereótipo/exclusão artificial |
 
-Outros conceitos que reforçam os acima sem serem gatilhos novos: **Confirmation Bias** (as pessoas buscam o que já confirma suas crenças — usar a linguagem que a persona já usa), **Goal Gradient Effect** (motivação cresce perto do fim — útil em barras de progresso/checklists), **Mere-Exposure Effect** (preferimos o familiar — consistência visual/verbal entre peças ajuda).
+Urgência é consequência de prazo real, não um princípio para inventar pressão.
 
-## Por que as pessoas realmente compram (não é lógica)
+## Outros efeitos úteis
 
-- Emoção primeiro, lógica depois (a lógica só justifica a decisão emocional já tomada).
-- Gatilhos de confiança: histórias honestas e respostas reais.
-- Pertencimento: fazer o cliente se sentir parte de algo real.
-- Nostalgia: memórias passadas geram conexão instantânea.
+- **Ancoragem:** a primeira referência influencia comparação. A âncora precisa ser verdadeira e comparável.
+- **Framing:** a forma de apresentar muda percepção; o fato não pode mudar.
+- **Aversão à perda:** perdas podem pesar na decisão; usar apenas custo de não agir demonstrável.
+- **Fluência cognitiva:** informação fácil de processar parece mais confiável; clareza não deve esconder condição.
+- **Mera exposição:** consistência aumenta familiaridade; repetição excessiva pode gerar fadiga.
+- **Goal gradient:** progresso percebido pode motivar continuidade; útil em onboarding, checklist e fidelidade.
 
-## Framing Effect — a forma importa mais que o conteúdo
+## Seleção por barreira
 
-Princípio: desloque o foco de um aspecto negativo para uma perspectiva neutra/positiva, **sem alterar o fato**.
-
-| Frame negativo/neutro | Reframe positivo |
+| Barreira | Princípio/prova mais adequado |
 |---|---|
-| "O software custa R$1.000/ano" | "Por apenas R$2,74 por dia" |
-| "Este treinamento exige 10h/semana" | "Invista só 1h30 por dia" |
-| "Este iogurte tem 20% de gordura" | "Este iogurte é 80% sem gordura" |
-| "Relatórios financeiros complexos" | "Clareza financeira com relatórios fáceis de entender" |
-| "Esta casa tem 20 anos" | "Duas décadas de história e cuidado comprovado" |
+| Não confio | prova social, autoridade relevante, transparência |
+| Não é para mim | adequação, pertencimento, case próximo |
+| Não vejo valor | mecanismo, demonstração, comparação de custo |
+| Posso deixar para depois | consequência real, prazo real, prioridade |
+| Parece trabalhoso | etapas, suporte, reversibilidade |
+| Tenho medo de errar | demonstração, garantia real, critérios de escolha |
 
-Técnicas: quebrar valores grandes em unidades menores (ano → dia); inverter a métrica sem mentir sobre o dado; trocar característica por benefício; ressignificar "antigo" como "com história".
+Escolher um princípio dominante. Empilhar gatilhos costuma produzir texto artificial e agressivo.
 
-## Psicologia dos preços
+## Framing sem manipulação
 
-| Estratégia | Como implementar |
-|---|---|
-| Evite números redondos | R$200 → R$198,99 (efeito do dígito da esquerda: processado como "mais perto de 100 que de 200") |
-| Destaque os descontos | Antes: R$99,99 \| Agora: R$74,99 |
-| Adicione porcentagens | 50% de desconto: agora por R$49,99 (percentual funciona melhor com desconto grande) |
-| Acrescente bônus | R$99,99 + kit gratuito (bônus é percebido como ganho extra, sem "custar" desconto de margem) |
+Formulações equivalentes podem destacar aspectos diferentes:
 
-## Padrão consolidado
+- custo total versus custo por período;
+- tempo investido versus etapa diária;
+- característica técnica versus consequência prática;
+- condição atual versus custo do status quo.
 
-A decisão de compra reage à **forma** da informação, não só ao conteúdo dela. Verificar as três camadas antes de publicar: gatilho psicológico (por que a pessoa age) → enquadramento da frase (como o benefício é descrito) → apresentação do preço/oferta (como o número é formatado).
+Antes de reframing:
+
+1. Os dois enquadramentos são matematicamente/factualmente equivalentes?
+2. Alguma taxa, condição ou esforço fica escondido?
+3. A unidade escolhida ajuda a decidir ou apenas faz o número parecer menor?
+4. O contexto completo aparece antes da conversão?
+
+## Preço e oferta
+
+- Mostrar preço de referência apenas se for real e aplicável.
+- Explicar bônus pelo valor/uso, não por soma inflada artificialmente.
+- Percentual versus valor absoluto depende da compreensão do público; não há formato universalmente melhor.
+- Parcelamento precisa deixar claro total e condições quando relevante.
+- Garantia deve corresponder à operação/contrato.
+
+## Emoção e lógica
+
+Decisões combinam emoção, contexto, hábito, risco e avaliação racional. Em B2B, por exemplo, ROI pode coexistir com medo de escolher errado e necessidade de defender a decisão internamente. A copy deve conectar desejo e prova, não assumir que emoção elimina análise.
+
+## Gate ético
+
+- [ ] O gatilho nasce de condição real?
+- [ ] A pessoa mantém informação suficiente para decidir?
+- [ ] A vulnerabilidade não está sendo explorada de forma desproporcional?
+- [ ] Prova e autoridade são relevantes ao claim?
+- [ ] Prazo/escassez podem ser demonstrados?
+- [ ] O texto continuaria defensável se o cliente perguntasse "isso é literalmente verdade?"?
+
+Se falhar, retirar o gatilho ou reescrever a oferta.

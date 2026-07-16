@@ -20,6 +20,7 @@ Entende a marca antes da copy — essencial para não produzir texto genérico. 
 5. `knowledge/estrategia-de-marca.md` — frameworks de branding para organizar a leitura (genérico de mercado, usar como estrutura enquanto `padroes-copy-v4.md` não estiver preenchido).
 6. `knowledge/processo-kickoff-cliente.md` — real, V4: as 6 perguntas de kickoff e os critérios de análise de redes sociais/site/LP. Se o cliente for novo (sem `clients/{cliente}.md`), use as 6 perguntas de kickoff antes de inferir qualquer coisa.
 7. `knowledge/canais-por-modelo-de-negocio.md` — para identificar o modelo de negócio do cliente e checar coerência com os canais do briefing.
+8. `knowledge/pesquisa-voz-do-cliente.md` — quando houver entrevistas, reviews, comentários, tickets ou outras fontes de linguagem real; separar fato, síntese e hipótese.
 
 ## Checkpoint único — Análise de marca
 

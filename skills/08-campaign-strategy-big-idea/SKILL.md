@@ -14,7 +14,8 @@ Etapa de **ideação** do método da Thamy: entender premissa, big idea, conteú
 ## Dados necessários
 
 1. Análise de marca (`03`), persona (`05`), funil (`06`) e referência (`07`) — OBRIGATÓRIO.
-2. `knowledge/banco-de-angulos.md` — se preenchido, use como inspiração validada.
+2. `knowledge/banco-de-angulos.md` — taxonomia operacional; use para selecionar uma tensão, não como histórico de performance.
+3. `knowledge/matriz-de-variacoes-e-testes.md` — quando a campanha pedir variações, defina desde aqui quais hipóteses serão exploradas.
 
 ## Checkpoint único — Big idea
 

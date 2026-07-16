@@ -14,12 +14,12 @@
 | **B2B** (indústrias, soluções corporativas) | LinkedIn + conteúdo técnico (whitepapers/webinars), eventos/feiras, outbound (cold email/SDR/ligação), Google Ads técnico, ABM | Técnico, direto | Conteúdo + contato humano |
 
 **Insights por modelo:**
-- E-commerce: produtos de ticket médio-baixo performam melhor com tráfego pago + impulsionamento visual; influenciadores validam socialmente.
+- E-commerce: tráfego pago, conteúdo visual, remarketing e influência são hipóteses frequentes para ticket médio-baixo; validar com margem, ciclo e dados do cliente antes de afirmar prioridade.
 - Infoproduto: autoridade e relacionamento pesam mais que o produto em si.
 - Serviço: prova social e autoridade convertem melhor que anúncio direto.
 - SaaS: conteúdo técnico/comparativo ajuda na decisão; a experiência no trial define retenção.
 - Assinatura: storytelling e branding pesam mais que preço — mostrar a experiência > falar da oferta.
-- B2B: decisão é racional — números (ROI, eficiência, redução de custo) falam mais alto que emoção.
+- B2B: a decisão costuma envolver risco, carreira, confiança e múltiplos decisores, além de ROI/eficiência. Combinar prova econômica com redução de risco e segurança para defender a escolha internamente.
 
 ## Mapa de canais e estratégias (visão ampla)
 

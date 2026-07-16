@@ -1,6 +1,6 @@
 # Estratégia de Marca (referência genérica de mercado)
 
-> Fonte: síntese de 11 pins sobre branding. Frameworks genéricos de mercado — não são o padrão específico da V4 (isso é `knowledge/padroes-copy-v4.md`, ainda placeholder). Usado principalmente pela skill `03-brand-context-analysis`.
+> Fonte: síntese de 11 pins sobre branding. Frameworks genéricos de mercado — não são padrão oficial da V4. `knowledge/padroes-copy-v4.md` contém apenas o baseline operacional da THAMY IA enquanto a validação institucional não existe. Usado principalmente pela skill `03-brand-context-analysis`.
 
 ## Checklist de branding (Strategy → Design)
 

@@ -9,4 +9,4 @@ Escolha o modo de operação conforme `CLAUDE.md` (seção "Modos de operação"
 
 Declare o modo escolhido em uma frase curta antes de começar.
 
-Acione as skills em `skills/` respeitando os checkpoints do modo escolhido (ver `CONTRATO-OPERACIONAL-MODOS.md` seção 3) e o bloco `HARD CONSTRAINTS`, até chegar à entrega final via `14-final-delivery-feedback`.
+Inicie o Knowledge Gate lendo `knowledge/README.md` e `knowledge/metodologia-thamy.md`. Depois acione as skills em `skills/` respeitando as leituras obrigatórias, os checkpoints do modo escolhido (ver `CONTRATO-OPERACIONAL-MODOS.md` seção 3) e o bloco `HARD CONSTRAINTS`, até chegar à entrega final via `14-final-delivery-feedback`.

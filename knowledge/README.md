@@ -1,59 +1,96 @@
-# Base de Conhecimento — Índice
+# Base de Conhecimento — Índice e Roteamento
 
-Três origens de material, unificadas nesta pasta:
-1. **Documentos reais da Thamy/V4** (Google Drive) — a fonte mais valiosa, já incorporada.
-2. **Genérico de mercado** (Pinterest, ~130 pins convertidos) — base de apoio para o que os documentos reais ainda não cobrem.
-3. **Placeholders** — ainda vazios, aguardando material que só existe na cabeça da Thamy ou em conversas futuras.
+A base tem três níveis de autoridade:
 
-## Camada 1 — Real, da Thamy/V4 (Google Drive) — PRONTA
+1. **Fonte real Thamy/V4** — materiais importados do Drive; maior precedência metodológica.
+2. **Referência de mercado** — sínteses de frameworks e boas práticas; apoio, nunca substitui a fonte real.
+3. **Baseline operacional THAMY IA** — regras criadas para fechar lacunas do agent. Não devem ser apresentadas como padrão oficial da V4.
 
-| Arquivo | Conteúdo | Usado principalmente por |
+## Knowledge Gate
+
+- Ler este índice e `metodologia-thamy.md` no início de toda campanha ou revisão avulsa.
+- Ler, antes de cada skill, os arquivos indicados em "Dados necessários" no `SKILL.md` correspondente.
+- Ler integralmente `vicios-ia-humanizacao.md` antes de escrever (skill `11`) e reler integralmente antes de pontuar (skill `13`). Uma leitura não substitui a outra.
+- Não produzir, pontuar, entregar ou aprovar se alguma leitura obrigatória estiver pendente.
+- Em conflito: `HARD CONSTRAINTS` → memória do cliente → fonte real Thamy/V4 → briefing/fontes autorizadas → baseline operacional → referência genérica.
+
+## Camada 1 — Fonte real Thamy/V4
+
+| Arquivo | Conteúdo | Skills principais |
 |---|---|---|
-| `metodologia-thamy.md` | O documento-cérebro da Thamy: 4 etapas, 11 perguntas, planilha funil×framework×gatilho×CTA, revisão pós-copy (origem do scorecard), princípio central, fórmulas de headline, exemplo real (Gotter) | todas as skills |
-| `processo-kickoff-cliente.md` | Perguntas de kickoff, análise de redes sociais/site, estrutura do Manual de Comunicação (7 blocos), prompt real de geração | `03`, `04` |
-| `canais-por-modelo-de-negocio.md` | Canais ideais por modelo de negócio (e-commerce, infoproduto, serviço, SaaS, assinatura, B2B) + caso real de franquias | `03`, `12` |
-| `use-case-map-exemplos.md` | Framework persona→problema→alternativas→proposta de valor, aplicado a 15 marcas reais (V4 Company e Smart Fit transcritos na íntegra) | `05`, `09` |
-| `exemplos-de-estruturas.md` | Templates reais de Meta Ads e LP da V4 + exemplo real preenchido (C-Eleven) + estudo de público real (nicho fitness) + template de análise de concorrência | `05`, `07`, `11`, `12` |
-| `quality/analise-semanal-comunicacao.md` *(fora de `knowledge/`, em `quality/`)* | Template real de revisão retrospectiva de campanha já publicada | governança, `04` |
+| `metodologia-thamy.md` | 4 etapas, 11 perguntas, matriz funil×framework×gatilho×CTA, revisão e exemplo Gotter | todas |
+| `processo-kickoff-cliente.md` | Kickoff, análise de ambientes e Manual de Comunicação | `03`, `04` |
+| `canais-por-modelo-de-negocio.md` | Canais por modelo e caso de franquias | `03`, `12` |
+| `use-case-map-exemplos.md` | Persona→problema→alternativas→valor, com exemplos reais | `05`, `09` |
+| `exemplos-de-estruturas.md` | Templates reais Meta Ads/LP, concorrência e público | `05`, `07`, `11`, `12` |
+| `quality/analise-semanal-comunicacao.md` | Revisão retrospectiva de campanha publicada | `04`, governança |
 
-## Camada 2 — Genérico de mercado (Pinterest, swipe file) — apoio
+## Camada 2 — Referências de mercado
 
-| Arquivo | Conteúdo | Usado principalmente por |
+| Arquivo | Conteúdo | Skills principais |
 |---|---|---|
-| `processo-de-copy.md` | Processo de 4 etapas (genérico), 12 regras de Chase Dimond, mentalidade de execução | `08`, `11` |
-| `frameworks-copy.md` | AIDA, PAS, BAB, PASTOR, QUEST, storytelling e mais | `10`, `11` |
-| `gatilhos-psicologicos.md` | Cialdini, framing effect, psicologia de preços | `10`, `13` |
-| `banco-de-ganchos.md` | ~130 aberturas prontas por categoria + palavras-gatilho | `11` |
-| `banco-de-ctas.md` | Cheat sheet de CTAs genérico → persuasivo | `10`, `13` |
-| `regras-por-canal.md` | Google Ads, Meta Ads, e-mail, landing page, LinkedIn, vídeo, SEO (teoria/boas práticas) | `12` |
-| `estrategia-de-marca.md` | Frameworks de branding genéricos | `03` |
-| `funil-e-jornada.md` | TOFU/MOFU/BOFU, funil de 5 estágios, jornada B2B | `06` |
-| `prompts-de-apoio.md` | Técnicas de estruturar pedidos/perguntas de clarificação | uso interno da THAMY IA |
-| `vicios-ia-humanizacao.md` | Os 12 vícios de linguagem de IA (travessão, "não é X é Y", tom neutro etc.), lista negra de palavras-bandeira, checklist de humanização de 8 itens | `11`, `13` (OBRIGATÓRIO nas duas) |
+| `processo-de-copy.md` | Processo de pesquisa→ideação→escrita→edição | `08`, `11` |
+| `frameworks-copy.md` | AIDA, PAS, BAB, PASTOR, QUEST e storytelling | `10`, `11` |
+| `gatilhos-psicologicos.md` | Gatilhos, framing e preço | `10` |
+| `banco-de-ganchos.md` | Aberturas por categoria | `11` |
+| `banco-de-ctas.md` | CTAs por intenção | `10`, `12` |
+| `regras-por-canal.md` | Princípios por Google, Meta, e-mail, LP, LinkedIn, vídeo e SEO | `12` |
+| `estrategia-de-marca.md` | Fundamento, posicionamento, voz e expressão | `03` |
+| `funil-e-jornada.md` | Consciência, funil e jornada não linear | `06` |
+| `prompts-de-apoio.md` | Estruturação de clarificações e pedidos | uso interno |
+| `vicios-ia-humanizacao.md` | 12 vícios + 8 dimensões do score de humanização | `11`, `13`, gate na `14` |
 
-**Regra de precedência:** quando a Camada 1 (real) e a Camada 2 (genérica) tratam do mesmo assunto, a Camada 1 prevalece. Ex.: a planilha funil×framework da Thamy em `metodologia-thamy.md` tem prioridade sobre a lógica genérica de `frameworks-copy.md` em caso de conflito.
+## Camada 3 — Baseline operacional THAMY IA
 
-## Camada 3 — Ainda placeholder, aguardando material futuro
+| Arquivo | Conteúdo | Skills principais |
+|---|---|---|
+| `padroes-copy-v4.md` | Baseline de qualidade, tom, formatação e compliance leve; ainda aguarda validação oficial V4 | `03`, `11`, `13` |
+| `banco-de-angulos.md` | Taxonomia de ângulos, seleção e registro de aprendizado | `08`, `10` |
+| `banco-de-headlines.md` | Estruturas por função, consciência e calibração | `11`, `13` |
+| `erros-comuns.md` | Diagnóstico/correção por estratégia, escrita, canal e processo | `11`, `13` |
+| `termos-a-evitar.md` | Claims proibidos, expressões fracas e termos condicionais | `11`, `13` |
+| `pesquisa-voz-do-cliente.md` | Hierarquia de fontes, etiquetas de evidência e extração de linguagem | `03`, `05`, `07` |
+| `provas-e-claims.md` | Tipos de claim, escada de prova e gate de sustentação | `07`, `09`, `11`, `13` |
+| `objecoes-e-mecanismos.md` | Objeções raiz, mecanismo e resposta proporcional | `05`, `09`, `10` |
+| `matriz-de-variacoes-e-testes.md` | Variações por hipótese, controle e registro de aprendizado | `08`, `11`, `12`, `14` |
 
-| Arquivo | O que falta |
-|---|---|
-| `padroes-copy-v4.md` | Tom institucional e regras fixas da V4, independente de cliente |
-| `banco-de-angulos.md` | Ângulos reais já testados (aprovados/reprovados) — além dos exemplos já em `use-case-map-exemplos.md` |
-| `banco-de-headlines.md` | Headlines reais aprovadas/reprovadas, com motivo — além do exemplo Gotter já em `metodologia-thamy.md` |
-| `erros-comuns.md` | Erros recorrentes já identificados pela Thamy em copies de gestores/IA |
-| `termos-a-evitar.md` | Lista inicial genérica — expandir com termos específicos por cliente/segmento |
+## Roteamento por etapa
 
-## Deduplicação aplicada
+| Etapa | Núcleo obrigatório | Complemento quando aplicável |
+|---|---|---|
+| Marca | `processo-kickoff-cliente.md`, `estrategia-de-marca.md` | `padroes-copy-v4.md`, `pesquisa-voz-do-cliente.md` |
+| Público | `metodologia-thamy.md`, `use-case-map-exemplos.md` | `pesquisa-voz-do-cliente.md`, `objecoes-e-mecanismos.md` |
+| Funil | `funil-e-jornada.md`, matriz de `metodologia-thamy.md` | `frameworks-copy.md` |
+| Referências | `exemplos-de-estruturas.md` | `pesquisa-voz-do-cliente.md`, `provas-e-claims.md` |
+| Big idea | `banco-de-angulos.md`, `processo-de-copy.md` | `matriz-de-variacoes-e-testes.md` |
+| Oferta | `use-case-map-exemplos.md`, `provas-e-claims.md` | `objecoes-e-mecanismos.md` |
+| Produção | `metodologia-thamy.md`, `vicios-ia-humanizacao.md` | headlines, ganchos, termos, variações |
+| Adaptação | `regras-por-canal.md`, `exemplos-de-estruturas.md` | `matriz-de-variacoes-e-testes.md` |
+| Revisão | `quality/scorecard.md`, `vicios-ia-humanizacao.md` | claims, erros, termos, headlines |
 
-- Teoria de gatilhos psicológicos vive só em `gatilhos-psicologicos.md`; frases prontas em `banco-de-ganchos.md` (referencia a teoria, não repete).
-- Funil genérico em `funil-e-jornada.md`; funil específico de Meta Ads/LinkedIn (com formato de criativo por estágio) só em `regras-por-canal.md`.
-- Estrutura de LP/carrossel/vídeo teórica em `regras-por-canal.md`; templates operacionais reais da V4 em `exemplos-de-estruturas.md`.
-- Onde a Camada 1 e a Camada 2 cobrem o mesmo tópico com informação equivalente (ex.: AIDA/PAS aparecem tanto na planilha da Thamy quanto no material do Pinterest), o texto não foi duplicado — `metodologia-thamy.md` tem a tabela real e `frameworks-copy.md` tem o detalhamento estendido de cada framework, com referência cruzada entre os dois.
+## Regras de evidência
+
+- Não transformar síntese em citação literal.
+- Não usar dado de mercado sem fonte rastreável como verdade universal.
+- Não confundir aprovação subjetiva com performance.
+- Não chamar baseline operacional de material real da Thamy/V4.
+- Limites técnicos de plataformas devem ser verificados quando forem decisivos para a entrega.
+
+## Manutenção
+
+Ao incorporar novo material:
+
+1. Registrar origem e nível de autoridade.
+2. Indicar skills consumidoras.
+3. Remover duplicação ou criar referência cruzada.
+4. Separar exemplo real, exemplo didático e hipótese.
+5. Atualizar este índice e o `SKILL.md` consumidor.
+6. Para feedback real, registrar contexto e limite de reutilização.
 
 ## Referência visual
 
-`BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` mantém as imagens originais do Pinterest — úteis para composição visual (layout, cores, hierarquia) que o texto não captura. A maior parte do conteúdo textual delas já está nos arquivos da Camada 2.
+`BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` mantém o swipe file visual. Usar para composição e hierarquia, não como prova de eficácia.
 
-## Materiais no Drive ainda não trazidos para cá (baixa prioridade / não copy-específicos)
+## Materiais externos ainda não incorporados
 
-Planilhas operacionais de calendário/mídia (`Calendário de marketing 2026`, `Modelo de plano de mídia`, `Modelo de Calendário Sazonal`) e a pasta `Apresentações` — são ferramentas de planejamento/organização, não conteúdo de copywriting. Pedir a Davi se precisar delas para outro fim.
+Planilhas de calendário/mídia e apresentações operacionais continuam fora desta base porque não são referência direta de copy. Incorporar apenas quando uma skill tiver uso claro para elas.

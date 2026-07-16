@@ -1,112 +1,157 @@
-# Regras por Canal
+# Regras Operacionais por Canal e Formato
 
-> Fonte: síntese de pins sobre Google/Meta Ads, e-mail marketing, landing page, LinkedIn, vídeo/Reels e SEO. Complementa os templates de output da skill `12-channel-format-adapter` (que definem os *campos* de cada canal) com o *porquê* e as boas práticas por trás de cada um. `knowledge/funil-e-jornada.md` cobre o funil TOFU/MOFU/BOFU específico do Meta Ads e do LinkedIn — não repetido aqui.
+> Referência de mercado para a skill `12`. Templates reais da V4 em `exemplos-de-estruturas.md` e o contrato em `CONTRATO-OPERACIONAL-MODOS.md` têm prioridade. Recursos, limites e políticas de plataforma mudam; validar documentação atual quando um limite técnico for decisivo.
 
-## Google Ads
+## Princípio transversal
 
-**5 tipos:** Search (texto, orientado a palavra-chave) · Display (banners em sites parceiros) · Shopping (listagem de produto) · Video (YouTube) · App (promoção de apps).
+Adaptar não é cortar ou colar a mesma copy. Para cada canal, preservar a ideia central e reescrever segundo:
 
-**Como o leilão funciona:**
-- **Quality Score** (1-10) = CTR esperado + relevância do anúncio + qualidade da landing page. Quality Score baixo prejudica elegibilidade, posição e CPC.
-- **Ad Rank = CPC Bid × Quality Score** — lance mais alto não garante melhor posição; relevância pesa mais. Ex.: lance de R$2,00 com QS 8 (Ad Rank 16) supera lance de R$3,00 com QS 4 (Ad Rank 12).
-- **CPC real = (Ad Rank do concorrente mais próximo ÷ seu Quality Score) + 1 centavo** — quanto maior o Quality Score, menor o custo pago pela mesma posição.
+- intenção de entrada;
+- espaço e ritmo;
+- nível de contexto disponível;
+- ação nativa/destino;
+- forma de prova;
+- expectativa de privacidade e relação.
 
-**Implicação prática para a copy:** melhorar a relevância do anúncio e da landing page (falar a língua da busca) reduz o custo por clique — não é só sobre "escrever bonito", é sobre bater com a intenção de busca.
+## Meta Ads — estático e feed
 
-**Quando usar cada tipo de campanha:** Search para tráfego de alta intenção · Display para reconhecimento de marca · YouTube para demonstração/storytelling · Shopping para e-commerce · Performance Max para segmentação omnichannel com IA.
+**Função:** interromper navegação e gerar interesse/ação sem depender de busca ativa.
 
-## Meta Ads (Facebook/Instagram)
+- Criativo deve ser compreensível em leitura rápida.
+- Headline filtra público ou tensão; subheadline explica benefício/oferta.
+- Texto principal acrescenta contexto, prova ou objeção — não repete a arte.
+- CTA deve corresponder ao botão e ao destino.
+- Público frio exige mais reconhecimento/problema; público quente aceita oferta/prova mais direta.
+- UGC precisa soar vivido, mas não pode inventar depoimento.
 
-Meta tende a ganhar em variedade de formatos criativos e objetivos por estágio de funil (Google tende a ganhar em intenção de busca mensurável).
+**Erro típico:** usar a mesma promessa de fundo para todas as temperaturas.
 
-**Estrutura de funil para criativos (Meta):**
+## Carrossel
 
-| Estágio | Público | Criativos a usar |
-|---|---|---|
-| TOFU | Audiência fria | Educacional, UGC, problema/solução |
-| MOFU | Audiência morna | Depoimentos, "nós vs. eles", benefícios do produto |
-| BOFU | Audiência quente | Ofertas, reviews, escassez/urgência |
+**Função:** desenvolver uma ideia em progressão.
 
-**Padrão-chave:** o mesmo produto precisa de 3 ângulos de copy diferentes dependendo da temperatura da audiência — "eu te ensino algo" (TOFU) → "eu já provei que funciona" (MOFU) → "compre agora, por tempo limitado" (BOFU).
+1. Capa: gancho/promessa.
+2. Contexto: por que importa.
+3. Desenvolvimento: problema, mecanismo ou passos.
+4. Prova/aplicação: tornar concreto.
+5. Fechamento: síntese + CTA.
 
-**Tipos de campanha:** Conversion (levar ao site para converter) · Growth/Claim Offer (crescimento + oferta) · Traffic · Store/Events · Remarketing (retargeting dinâmico com desconto crescente ao longo da semana funciona bem). Cuidado com Advantage+ Audience Targeting — pode aumentar frequência excessiva.
+- Cada slide deve criar motivo para o próximo.
+- Uma ideia principal por slide.
+- Não repetir o mesmo argumento em novas palavras.
+- Quantidade e campos seguem briefing/contrato.
+
+## Google Search Ads
+
+**Função:** responder a uma intenção já expressa na busca.
+
+- Refletir o termo/intenção sem repetição mecânica.
+- Combinar oferta, diferencial verificável e próximo passo.
+- Headlines precisam funcionar em combinações quando o formato for responsivo.
+- A landing page deve cumprir a mesma promessa e linguagem.
+- Separar intenção informacional, comparativa, local e transacional.
+
+**Erro típico:** anúncio criativo, mas irrelevante para a busca ou desalinhado à página.
+
+Para Shopping, Display, YouTube ou outros formatos, validar requisitos atuais e adaptar o papel da copy ao inventário.
 
 ## E-mail
 
-**Estrutura de newsletter (topo → base):** Header/logo enxuto → Headline forte + imagem-teaser (linka para o site) → "Tem uma dúvida?" + botão de e-mail (humaniza) → Ferramenta/recurso grátis (isca de reciprocidade) → Produtos/serviços em destaque → Bastidor/curiosidade da equipe (relacionamento) → Footer com contato e descadastro.
+**Função:** desenvolver relação e ação em canal com contexto e continuidade.
 
-**Funil de e-mail (9 estágios):** Planning → Awareness (list building) → Consideration (welcome emails) → Familiarity (educar) → Intent (preparar ciclo de e-mails) → Evaluation (USP, agendar call) → Conversion (oferta exclusiva) → Relations (reter, CLV) → Loyalty & Advocacy (fidelizar).
-> O e-mail é o canal mais barato para **reter**, não só para converter — a maioria das copies esquece a etapa pós-venda.
+- Assunto cria expectativa legítima; preheader complementa.
+- Primeira dobra entrega motivo do envio.
+- Um objetivo principal por e-mail.
+- Corpo pode desenvolver história, argumento e prova, mas precisa avançar.
+- CTA aparece quando o valor/próximo passo está claro.
+- Fluxos de onboarding, retenção e reativação exigem tom diferente de promoção.
+- Respeitar consentimento, frequência e descadastro conforme operação.
 
-**7 métricas e como melhorá-las:**
+**Assuntos possíveis:** benefício específico, situação, pergunta real, atualização, oferta clara ou curiosidade que o corpo resolve. Não existe um único gatilho universal.
 
-| Métrica | Como melhorar |
-|---|---|
-| Open Rate | Assunto e preview text mais intrigantes |
-| Click-Through Rate | CTAs claros e atraentes (ver `knowledge/banco-de-ctas.md`) |
-| Conversion Rate | Otimizar e-mail e landing page juntos |
-| Bounce Rate | Limpar a lista |
-| Unsubscribe Rate | Garantir que o conteúdo seja valioso |
-| Revenue per Subscriber | Ofertas mais direcionadas |
-| Abandoned Checkout Rate | Incentivos e lembretes de finalização |
+## WhatsApp
 
-**Padrão de linha de assunto:** os melhores assuntos usam um de três gatilhos — curiosidade não resolvida, perda iminente (FOMO) ou quebra de padrão emocional (confissão, erro). Nunca vendem o produto diretamente — a única função do assunto é abrir o e-mail.
+**Função:** conversa direta, contextual e de baixo atrito.
+
+- Identificar contexto/origem quando a relação não estiver óbvia.
+- Escrever em blocos curtos e pronunciáveis.
+- Fazer uma pergunta ou propor um próximo passo por vez.
+- Personalizar com informação legítima; não simular intimidade.
+- Em prospecção/reativação, respeitar consentimento e possibilidade de saída.
+- Para follow-up, adicionar valor ou contexto; não enviar apenas `viu minha mensagem?`.
+
+Estrutura útil: `contexto → relevância → proposta/pergunta → próximo passo`.
 
 ## Landing Page
 
-6 blocos universais, na mesma ordem, confirmados em 5 anatomias diferentes (Supafast, Convert Sail, Vegas Web, Yimin Shum, SaaS):
+**Função:** sustentar uma decisão com mais contexto.
 
-1. **Header/navegação mínima** — sem links de navegação supérfluos, CTA fixo.
-2. **Hero** — headline orientada a benefício (USP claro, sem termo vago), subheadline explicando a alegação, CTA, imagem/vídeo de apoio.
-3. **Prova social** — logos, avaliações, estatísticas. Em e-commerce, repita a prova social 3x na página (logo após o hero, no meio, perto do fim).
-4. **Benefícios, não features** — "features contam, benefícios vendem." Considere um bloco "Old Way vs. New Way" (dor vs. solução lado a lado).
-5. **Tratamento de objeções / FAQ** — perguntas sobre tempo, dinheiro ou confiança, com a melhor rebatida para cada uma.
-6. **CTA final + footer** — alto contraste, orientado à ação; footer com contato, política de privacidade, redes sociais.
+Blocos possíveis, não obrigatórios:
 
-**Variações por objetivo:**
-- **E-commerce:** adicionar comparação favorável com concorrentes; ingredientes/materiais detalhados com benefício.
-- **Geração de leads:** formulário logo no hero, só pedir campos relevantes, checkbox de LGPD.
-- **SaaS:** otimizar URL e headline para SEO — a LP também é ativo de busca orgânica, não só destino de tráfego pago.
-- **Venda direta:** adicionar seção de oferta/preço com urgência e garantia.
+1. Hero: para quem, valor, mecanismo/oferta e CTA.
+2. Problema/situação: reconhecimento sem exagero.
+3. Benefícios/mecanismo: como a oferta muda o cenário.
+4. Provas: próximas aos claims que sustentam.
+5. Objeções/FAQ: tempo, adequação, risco, esforço e condição.
+6. Oferta/condições: escopo, preço quando aplicável, garantia real.
+7. CTA final e informações de confiança.
+
+Formulário deve pedir apenas o necessário para o próximo passo. Requisitos legais e de privacidade precisam ser validados pela operação.
 
 ## LinkedIn
 
-**TOFU/MOFU/BOFU no LinkedIn:**
+**Função:** construir atenção e confiança em contexto profissional.
 
-| Camada | Objetivo | Formatos | Como maximizar |
-|---|---|---|---|
-| TOFU | Atrair atenção qualificada | Cheatsheet, vídeo viral, carrossel amplo | Emoções relacionáveis, linguagem clara, reativo a temas em alta |
-| MOFU | Construir confiança/autoridade | Carrossel de nicho, bastidores, framework breakdown | Resolver um problema específico, pode ser mais técnico |
-| BOFU | Converter | Lançamento com urgência, estudos de caso, demos | Foco em resultado/transformação, urgência, CTA claro |
+- Começar por insight, situação ou opinião útil — não por autopromoção genérica.
+- Explicar implicação prática para a função/negócio do público.
+- Cases precisam de contexto e limite.
+- Conteúdo de conversão é necessário, mas frequência depende da estratégia, não de regra universal.
+- Carrossel/documento funciona quando a sequência ensina ou organiza decisão.
+- CTA pode pedir reflexão, recurso, conversa ou demonstração conforme consciência.
 
-Lógica do funil: **ver seu conteúdo → confiar no seu valor → mandar mensagem → virar cliente.** Poste conteúdo BOFU pelo menos 1x/semana — o funil falha se não houver conteúdo de conversão.
+## Vídeo curto / Reels / Shorts
 
-**Carrossel — 6 etapas de estrutura (Victor Wendt):** Gancho (capa, 3s de atenção) → Contexto (página 2, ancora por que o assunto importa) → Problema e o que ele gera → Solução → Como executar → Oferecer ajuda (CTA final). Textos curtos (as pessoas escaneiam, não leem como livro); varie o layout a cada 3 telas.
+**Função:** conquistar e manter atenção em ritmo audiovisual.
 
-**Tamanhos de imagem:** posts 1080×1350px · carrossel 1080×1350px (mesma altura em todos os slides) · foto de perfil 400×400px · banner 1584×396px.
+- Seguir duração e entrada de fala do contrato/briefing.
+- Gancho no primeiro frame quando formato curto.
+- Locução e imagem devem se complementar.
+- Escrever para fala: frases curtas, pausas naturais e uma ideia por bloco.
+- Prova visual precisa de classificação (`demonstração`, `case`, `ilustração`, `apoio`).
+- CTA antes de o vídeo parecer encerrado.
 
-## Vídeo / Roteiro (Reels e Shorts)
+Estrutura flexível: `gancho → tensão/contexto → mecanismo/prova → CTA`.
 
-**Estrutura de 4 blocos (gancho → problema → solução → CTA):**
-1. **Gancho** — frase/pergunta de impacto nos primeiros 3 segundos.
-2. **Problema** — o "vilão" ou a dor da audiência.
-3. **Solução** — o benefício/resposta.
-4. **CTA** — chamada clara e específica.
+## Conteúdo para busca / SEO
 
-Ver `knowledge/banco-de-ganchos.md` (seção "vídeo/Reels") para 5 aberturas prontas.
+**Função:** responder intenção de busca com conteúdo útil e encontrável.
 
-**Framework expandido (vídeo de vendas, 6 blocos):** primeiros 5s (pergunta de impacto) → introdução (quem você é) → promessa de resolver o problema → prova de que já resolveu (caso real) → próximos passos → CTA explícito.
+- Definir intenção antes da palavra-chave.
+- Título/H1 comunica resposta e diferenciação.
+- Estrutura de headings acompanha perguntas reais.
+- Extensão depende da complexidade, não de contagem universal de palavras.
+- Usar termos relacionados naturalmente; evitar repetição forçada.
+- Conectar conteúdo a próximo passo coerente.
+- Requisitos técnicos e snippets devem ser validados com práticas atuais.
 
-**Ideias faceless (sem aparecer):** rotina matinal, bastidores do trabalho, ferramentas que você usa (screen record), antes/depois, vitórias e marcos, depoimento em tela, quick tips com texto animado. Cobre 5 pilares (prova social, autoridade, bastidores, inspiração, valor educativo) sem exigir rosto do criador.
+## Matriz de adaptação
 
-## SEO (para conteúdo/landing pages que competem por busca orgânica)
+| Canal | Entrada do público | Papel da abertura | Prova mais natural | CTA típico |
+|---|---|---|---|---|
+| Meta | interrupção | filtrar/reconhecer | UGC, demonstração, benefício | ver, conversar, comprar |
+| Google Search | intenção ativa | corresponder à busca | oferta, diferencial, confiança | acessar, cotar, comprar |
+| E-mail | relação/base | motivo do envio | história, conteúdo, oferta | ler, responder, acessar |
+| WhatsApp | conversa | contexto/relevância | resposta personalizada | responder, enviar dado, agendar |
+| LP | avaliação | promessa + mecanismo | cases, demonstração, detalhes | converter |
+| LinkedIn | contexto profissional | insight/opinião | experiência, case, framework | conversar, salvar, acessar |
+| Vídeo curto | feed audiovisual | retenção imediata | cena, demonstração, fala | assistir, clicar, conversar |
 
-**7 pilares:** pesquisa de palavra-chave (cauda longa converte melhor) → on-page (title tag <60 caracteres com keyword primária, meta description 150-160 caracteres, um H1 por página, URL curta) → otimização de conteúdo (intenção do usuário, 1000+ palavras quando fizer sentido, mobile-friendly) → SEO técnico (velocidade, responsivo, SSL, sitemap) → off-page (backlinks, guest posting) → local SEO (Google Meu Negócio, NAP consistente) → analytics (Search Console, GA4).
+## Checklist final
 
-**Keyword placement:** H1, primeiras 100 palavras, headings H2/H3, alt text de imagem, nome de arquivo de imagem.
-
-**23 tipos de conteúdo por dificuldade × foco:** conteúdo fácil+tráfego (guia iniciante, lista, FAQ) é rápido de produzir mas só atrai topo de funil; conteúdo fácil+conversão (comparação, alternativas, review, how-to) converte melhor com pouco esforço — priorizar esse quadrante quando o objetivo for geração de lead via conteúdo.
-
-## Padrão consolidado entre canais
-
-Apesar da variação de formato, todo canal de alta conversão segue a mesma lógica: **gancho/headline que já filtra o público certo → prova/benefício específico → tratamento de objeção implícito ou explícito → CTA que nomeia o resultado.** O que muda é só o ritmo (vídeo/Ads = 3-5s para o gancho; e-mail = a linha de assunto faz esse papel; LP = o hero inteiro) e o peso de SEO/estrutura técnica (alto em LP/blog, baixo em Ads/Reels).
+- [ ] A copy foi reescrita para a intenção do canal?
+- [ ] O formato respeita contrato e briefing?
+- [ ] A prova aparece no ponto em que o claim precisa dela?
+- [ ] O CTA corresponde à ação nativa e ao destino?
+- [ ] A peça evita repetir arte, legenda e título?
+- [ ] Variações preservam hipótese identificável?
+- [ ] Limites técnicos críticos foram verificados quando necessário?

@@ -68,8 +68,8 @@ Nativos no Claude Code (`.claude/commands/`) — no Codex, os mesmos comandos fu
 | Comando | O que faz |
 |---|---|
 | `/copy-final` | Roda o fluxo completo a partir do briefing colado, no modo Rápido por padrão. Aceita `--rapido`, `--express`, `--estrategico`. |
-| `/revisar-copy` | Roda o scorecard de 12 critérios sobre uma copy existente (colada ou indicada no chat), mesmo que não tenha passado pelo fluxo completo. |
-| `/aprovar-copy` | Registra aprovação de uma copy já discutida na conversa (ficha do cliente + `outputs/approved/` + `examples/approved/`). |
+| `/revisar-copy` | Roda o Score Geral (12 critérios) e o Score de Humanização/Anti-Vícios de IA sobre uma copy existente, mesmo que ela não tenha passado pelo fluxo completo. |
+| `/aprovar-copy` | Valida os dois scores da versão atual e, só então, registra a aprovação (ficha do cliente + `outputs/approved/` + `examples/approved/`). |
 | `/reprovar-copy` | Registra reprovação, perguntando o motivo, e salva em `examples/rejected/`. |
 
 Comandos secundários por canal (`/copy-criativo`, `/copy-carrossel`, `/copy-meta`, `/copy-google`, `/copy-lp`, `/copy-whatsapp`, `/copy-email`, `/copy-video`) equivalem a `/copy-final` já fixando o canal/formato, pulando essa pergunta — são convenções de texto, não têm arquivo próprio em `.claude/commands/`.
@@ -102,17 +102,19 @@ quality/                         → scorecard e critérios de revisão
 
 `knowledge/README.md` indexa tudo. Três camadas:
 
-- **Real, da Thamy/V4** (importada do Google Drive): `metodologia-thamy.md` (o documento-cérebro dela — o mais importante de todo o sistema), `processo-kickoff-cliente.md`, `canais-por-modelo-de-negocio.md`, `use-case-map-exemplos.md`, `exemplos-de-estruturas.md` (templates reais de Meta Ads/LP + exemplos preenchidos) e `quality/analise-semanal-comunicacao.md`. Esta camada tem prioridade sobre as demais.
-- **Genérica de mercado** (convertida do swipe file de ~130 pins do Pinterest, deduplicada): `processo-de-copy.md`, `frameworks-copy.md`, `gatilhos-psicologicos.md`, `banco-de-ganchos.md`, `banco-de-ctas.md`, `regras-por-canal.md`, `estrategia-de-marca.md`, `funil-e-jornada.md`, `prompts-de-apoio.md`.
-- **Ainda placeholder**: `padroes-copy-v4.md`, `banco-de-angulos.md`, `banco-de-headlines.md`, `erros-comuns.md`, `termos-a-evitar.md`.
+O uso da base não é opcional: toda campanha/revisão começa pela leitura do índice e de `metodologia-thamy.md`; cada skill deve ler as fontes listadas em seus dados necessários. `vicios-ia-humanizacao.md` é lido integralmente duas vezes em momentos independentes — antes da escrita (skill `11`) e antes da revisão (skill `13`).
 
-A THAMY IA já opera com metodologia real da Thamy para a maior parte do fluxo — os placeholders restantes cobrem casos mais específicos (tom institucional fixo, bancos maiores de ângulos/headlines aprovados, erros recorrentes documentados). Se você quiser adaptar este agent para outra agência/metodologia, é nesses arquivos (e em `metodologia-thamy.md`) que entra o material próprio.
+- **Real, da Thamy/V4** (importada do Google Drive): `metodologia-thamy.md` (o documento-cérebro dela — o mais importante de todo o sistema), `processo-kickoff-cliente.md`, `canais-por-modelo-de-negocio.md`, `use-case-map-exemplos.md`, `exemplos-de-estruturas.md` (templates reais de Meta Ads/LP + exemplos preenchidos) e `quality/analise-semanal-comunicacao.md`. Esta camada tem prioridade sobre as demais.
+- **Genérica de mercado** (convertida do swipe file de ~130 pins do Pinterest, deduplicada): processo, frameworks, gatilhos, ganchos, CTAs, canais, marca, funil e humanização.
+- **Baseline operacional THAMY IA**: padrões mínimos, banco de ângulos/headlines, erros, termos, pesquisa de voz do cliente, provas/claims, objeções/mecanismos e matriz de variações/testes. Essa camada fecha lacunas práticas sem se apresentar como padrão oficial da V4.
+
+A THAMY IA já opera com metodologia real da Thamy para a maior parte do fluxo. A próxima evolução da base depende menos de teoria e mais de evidência real: headlines/ângulos aprovados ou reprovados, feedbacks da Thamy e resultados de campanhas com contexto.
 
 A pasta `BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` mantém as imagens originais (swipe file visual) usadas pela skill `07-reference-competitor-analysis` — o conteúdo textual delas já foi extraído para `knowledge/`.
 
 ## Scorecard de qualidade
 
-Toda copy final passa pelo scorecard de 12 critérios (`quality/scorecard.md`) — clareza e força de headline/subheadline, aderência ao público e ao canal, tradução de característica em benefício, tom de voz, especificidade, conexão emocional e risco de promessa exagerada. Regra inegociável: nota abaixo de 8/10 é reescrita antes de chegar até você, nunca entregue como versão final. Violar uma restrição do bloco `HARD CONSTRAINTS` reprova automaticamente, mesmo com nota alta.
+Toda copy final passa por dois scores independentes em `quality/scorecard.md`: **Score Geral** (12 critérios de estratégia e execução) e **Score de Humanização/Anti-Vícios de IA** (8 dimensões de naturalidade, especificidade, ritmo e ausência de tiques artificiais). Ambos precisam atingir 8/10. Vício crítico, violação de `HARD CONSTRAINTS`, leitura obrigatória pendente ou alteração posterior da copy também reprovam a versão, mesmo com média alta.
 
 ## MVP — o que está dentro e fora do escopo
 

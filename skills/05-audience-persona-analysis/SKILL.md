@@ -18,6 +18,8 @@ A metodologia da Thamy começa justamente por conhecer público, dores e estilo 
 3. `knowledge/metodologia-thamy.md` — as 11 perguntas e o princípio central (JTBD) que orientam a leitura de público.
 4. `knowledge/use-case-map-exemplos.md` — framework persona→problema→proposta de valor com exemplos reais (V4 Company, Smart Fit); use como referência de profundidade esperada.
 5. `knowledge/exemplos-de-estruturas.md` — exemplo real de estudo de público (nicho fitness) mostrando segmentação, dores em camadas e vocabulário de nicho.
+6. `knowledge/pesquisa-voz-do-cliente.md` — método para extrair situação, linguagem e objeções sem inventar citações.
+7. `knowledge/objecoes-e-mecanismos.md` — para distinguir objeção declarada de objeção raiz e priorizar a barreira que afeta a decisão.
 
 ## Checkpoint único — Persona operacional
 

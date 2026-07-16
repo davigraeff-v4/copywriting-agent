@@ -19,4 +19,4 @@ Complementa `quality/scorecard.md` com o que cada critério significa na prátic
 
 ## Honestidade obrigatória
 
-Se a copy ficou boa mas fraca em algum critério específico, isso deve aparecer na entrega (skill `14`) mesmo estando aprovada — nunca omitir uma fragilidade real só porque a nota final passou de 8.
+Se a copy ficou boa mas fraca em algum critério geral ou dimensão de humanização, isso deve aparecer na entrega (skill `14`) mesmo estando aprovada — nunca omitir uma fragilidade real só porque os dois scores passaram de 8.
