@@ -1,4 +1,4 @@
-# Padrões de Copy — Baseline Operacional THAMY IA
+# Padrões de Copy — Baseline Operacional Copywriting Agent
 
 > Status: baseline operacional, não manual oficial da V4. Consolida regras já presentes na metodologia real da Thamy, no contrato operacional e no scorecard. Quando houver um padrão oficial da V4, ele deve substituir ou validar este baseline.
 

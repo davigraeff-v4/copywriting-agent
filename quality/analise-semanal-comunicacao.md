@@ -48,7 +48,7 @@ Sugestão de melhoria no processo criativo (interno):
 
 Clareza · Persuasão · Alinhamento ao público · Originalidade/impacto · Coesão copy+design · Potencial de conversão.
 
-## Como usar na THAMY IA
+## Como usar no Copywriting Agent
 
 - Rodar este template quando o gestor pedir para revisar uma campanha **já publicada** (não uma copy nova ainda não entregue — para isso, use `quality/scorecard.md` via `13-copy-review-scorecard`).
 - Registrar "Insight replicável para outros clientes" em `clients/{cliente}.md` como aprendizado, e considerar se vale adicionar a `knowledge/banco-de-angulos.md` ou `knowledge/erros-comuns.md`.

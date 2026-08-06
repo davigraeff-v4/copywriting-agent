@@ -1,6 +1,6 @@
 # Banco Operacional de Headlines
 
-> Fonte: estruturas de calibração da THAMY IA + fórmulas de `metodologia-thamy.md`. Não são headlines oficialmente aprovadas nem devem ser copiadas literalmente. Use para escolher a função da headline e depois escrever com dados do briefing.
+> Fonte: estruturas de calibração do Copywriting Agent + fórmulas de `metodologia-thamy.md`. Não são headlines oficialmente aprovadas nem devem ser copiadas literalmente. Use para escolher a função da headline e depois escrever com dados do briefing.
 
 ## Regra principal
 

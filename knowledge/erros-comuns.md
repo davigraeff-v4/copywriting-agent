@@ -1,6 +1,6 @@
 # Erros Comuns de Copy — Diagnóstico e Correção
 
-> Baseline operacional da THAMY IA. Deve evoluir com feedback real registrado nas skills `13` e `14`. Não atribuir à Thamy um erro que não esteja documentado em fonte real.
+> Baseline operacional do Copywriting Agent. Deve evoluir com feedback real registrado nas skills `13` e `14`. Não atribuir à Thamy um erro que não esteja documentado em fonte real.
 
 ## Erros de estratégia
 
@@ -56,6 +56,7 @@ Correção: usar `matriz-de-variacoes-e-testes.md`.
 - Texto demais dentro da arte.
 - Headline sem contexto mínimo e legenda incapaz de completar.
 - CTA incompatível com o botão/destino.
+- Mesmo dado repetido entre campos diferentes do criativo (ex.: subheadline e bullet 1 dizendo "emergencial em até 24h" com palavras diferentes) — cada campo (headline, subheadline, bullets, selo) precisa carregar informação nova; releia todos os campos juntos, como um bloco único, antes de apresentar.
 
 ### Carrossel
 
@@ -123,4 +124,17 @@ Impacto:
 Correção aplicada:
 Regra preventiva:
 Fonte: feedback do gestor | cliente | performance | revisão interna
+```
+
+## Registro — redundância entre campos de criativo estático
+
+```
+Erro: subheadline e bullet repetindo o mesmo dado com palavras diferentes ("Atendimento emergencial em até 24h" no subhead + "Emergencial em laboratório fixo ou móvel, em até 24h" no bullet 1)
+Etapa/skill: 11-copy-production / 13-copy-review-scorecard
+Canal/formato: criativo estático (Meta/LinkedIn), mas o princípio vale para qualquer formato com campos estruturados (headline/subheadline/bullets/selo)
+Como apareceu: cada campo foi escrito "limpo" isoladamente, mas o mesmo fato (emergencial, 24h) foi comunicado duas vezes em campos diferentes — só ficou visível ao ler o criativo inteiro como um bloco único
+Impacto: peça soou repetitiva mesmo sem nenhum vício de escrita dentro de cada campo individual; gestor reprovou pedindo explicitamente "sempre verifique antes a copy para não ser redundante"
+Correção aplicada: bullet reescrito para trazer informação nova (opção fixo/móvel) em vez de repetir o dado do subhead
+Regra preventiva: antes de apresentar qualquer criativo com campos separados, ler headline + subheadline + bullets + selo como texto corrido e perguntar "algum número, prazo, certificação ou característica aparece mais de uma vez com palavras diferentes?" — isso é checagem de redundância ENTRE campos, distinta da checagem de vício #6 (redundância dentro de um mesmo parágrafo) de `vicios-ia-humanizacao.md`. Repetir essa checagem a cada nova versão do criativo, não só na primeira escrita.
+Fonte: feedback do gestor (Power Test, 2026-07-27) — ver `examples/rejected/powertest-topo-funil-calibracao-locacao-linkedin-meta-criativo1-v2.md`
 ```

@@ -9,7 +9,7 @@ estimated_time: "5 min"
 
 # Client Memory Builder
 
-Cria e mantém a memória operacional do cliente — é o que permite à THAMY IA melhorar com o tempo sem depender de memória solta no chat. Sem essa skill, cada conversa começaria do zero.
+Cria e mantém a memória operacional do cliente — é o que permite ao Copywriting Agent melhorar com o tempo sem depender de memória solta no chat. Sem essa skill, cada conversa começaria do zero.
 
 ## Dados necessários
 

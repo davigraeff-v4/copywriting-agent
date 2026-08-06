@@ -1,4 +1,4 @@
-Execute o fluxo da THAMY IA a partir do briefing colado nesta conversa (ou peça o briefing se ainda não foi colado).
+Execute o fluxo do Copywriting Agent a partir do briefing colado nesta conversa (ou peça o briefing se ainda não foi colado).
 
 Escolha o modo de operação conforme `CLAUDE.md` (seção "Modos de operação") e `CONTRATO-OPERACIONAL-MODOS.md`:
 

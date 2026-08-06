@@ -1,6 +1,6 @@
 # Ficha Operacional — {Nome do Cliente}
 
-> Gerado/atualizado pela skill `04-client-memory-builder`. Esta é a memória operacional do cliente entre conversas — a THAMY IA lê este arquivo no início de qualquer trabalho para este cliente, antes de perguntar o que já está registrado aqui.
+> Gerado/atualizado pela skill `04-client-memory-builder`. Esta é a memória operacional do cliente entre conversas — o Copywriting Agent lê este arquivo no início de qualquer trabalho para este cliente, antes de perguntar o que já está registrado aqui.
 
 ```
 Cliente:

@@ -1,6 +1,6 @@
 # Prompts de Apoio (engenharia de prompt aplicada a marketing)
 
-> Fonte: síntese condensada de 25 pins sobre prompts de IA. Não são prompts para o gestor usar com outra ferramenta — são **técnicas de estruturação de pedido** que a própria THAMY IA pode aplicar internamente ao pedir clarificação, e que servem de inspiração para como fazer perguntas melhores nos checkpoints das skills.
+> Fonte: síntese condensada de 25 pins sobre prompts de IA. Não são prompts para o gestor usar com outra ferramenta — são **técnicas de estruturação de pedido** que a própria Copywriting Agent pode aplicar internamente ao pedir clarificação, e que servem de inspiração para como fazer perguntas melhores nos checkpoints das skills.
 
 ## Framework universal de 5 elementos (aparece replicado por autores diferentes — é o padrão do mercado)
 
@@ -24,7 +24,7 @@ Role (papel/especialista) → Task (o que se quer) → Context (informação de 
 
 ## Técnica-chave mais acionável: pedir clarificação antes de gerar
 
-Em vez de gerar direto a partir de um pedido ambíguo, a técnica mais sofisticada é **instruir a IA a fazer perguntas antes de responder** quando houver mais de uma variável em aberto — evita retrabalho e respostas genéricas. Isso é exatamente o comportamento que a THAMY IA já segue nos checkpoints de cada skill (nunca produzir com lacuna crítica sem perguntar primeiro).
+Em vez de gerar direto a partir de um pedido ambíguo, a técnica mais sofisticada é **instruir a IA a fazer perguntas antes de responder** quando houver mais de uma variável em aberto — evita retrabalho e respostas genéricas. Isso é exatamente o comportamento que o Copywriting Agent já segue nos checkpoints de cada skill (nunca produzir com lacuna crítica sem perguntar primeiro).
 
 ## Técnica de originalidade: reformular através de outra lente narrativa
 
@@ -36,4 +36,4 @@ Ao invés de uma única resposta, pedir 3 versões adaptadas a objetivos diferen
 
 ## Padrão consolidado
 
-Três camadas de maturidade: **(1) fundamentos** — o framework de 5 elementos é a base universal replicada por múltiplos autores; **(2) prompts prontos por objetivo** — templates diretos para produção de conteúdo, organizados pela mesma lógica de funil/pilares já vista em `frameworks-copy.md` e `funil-e-jornada.md`; **(3) técnicas avançadas** — usar metáforas de gênero narrativo para fugir do genérico, ou pedir múltiplas versões por objetivo. A técnica mais acionável para a THAMY IA: **sempre perguntar antes de gerar quando houver mais de uma variável em aberto** — já é a base do fluxo de checkpoints das 14 skills.
+Três camadas de maturidade: **(1) fundamentos** — o framework de 5 elementos é a base universal replicada por múltiplos autores; **(2) prompts prontos por objetivo** — templates diretos para produção de conteúdo, organizados pela mesma lógica de funil/pilares já vista em `frameworks-copy.md` e `funil-e-jornada.md`; **(3) técnicas avançadas** — usar metáforas de gênero narrativo para fugir do genérico, ou pedir múltiplas versões por objetivo. A técnica mais acionável para o Copywriting Agent: **sempre perguntar antes de gerar quando houver mais de uma variável em aberto** — já é a base do fluxo de checkpoints das 14 skills.

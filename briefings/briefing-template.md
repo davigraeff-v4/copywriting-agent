@@ -1,6 +1,6 @@
 # Briefing de Campanha — Template
 
-Cole este template preenchido no chat com a THAMY IA, ou cole seu briefing no formato que já usa — a skill `01-briefing-intake` reorganiza automaticamente.
+Cole este template preenchido no chat com o Copywriting Agent, ou cole seu briefing no formato que já usa — a skill `01-briefing-intake` reorganiza automaticamente.
 
 ```
 Doc de copy:
@@ -37,8 +37,8 @@ links auxiliares
 restrições
 ```
 
-Se algum destes faltar, a THAMY IA vai perguntar antes de produzir (skill `02-briefing-diagnosis`).
+Se algum destes faltar, o Copywriting Agent vai perguntar antes de produzir (skill `02-briefing-diagnosis`).
 
 ## Campo normalmente faltante
 
-`persona` — se não vier no briefing, a THAMY IA cria uma persona operacional inferida a partir do público e materiais disponíveis, sinalizando que é uma hipótese.
+`persona` — se não vier no briefing, o Copywriting Agent cria uma persona operacional inferida a partir do público e materiais disponíveis, sinalizando que é uma hipótese.

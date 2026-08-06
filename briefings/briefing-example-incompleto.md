@@ -23,7 +23,7 @@ Pasta do Drive: (não preenchido)
 Notion: (não preenchido)
 ```
 
-## Como a THAMY IA deve reagir
+## Como o Copywriting Agent deve reagir
 
 - **Crítico, pergunte:** canal está ambíguo ("Instagram e Google" — dois canais com formatos diferentes, precisa saber prioridade); objetivo é vago ("vender mais" — vender o quê, ticket médio, meta?); referência visual ausente.
 - **Pode inferir com hipótese:** persona (a partir de "clientes da loja" + segmento do negócio, se conhecido via `clients/{cliente}.md`); tom de voz.

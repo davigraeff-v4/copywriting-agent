@@ -1,6 +1,6 @@
 # Banco Operacional de Ângulos
 
-> Fonte: taxonomia operacional da THAMY IA. Não representa ângulos oficialmente validados pela V4 nem resultados históricos. Serve para gerar hipóteses na skill `08`; aprovação e performance devem ser registradas por cliente.
+> Fonte: taxonomia operacional do Copywriting Agent. Não representa ângulos oficialmente validados pela V4 nem resultados históricos. Serve para gerar hipóteses na skill `08`; aprovação e performance devem ser registradas por cliente.
 
 ## O que é um ângulo
 

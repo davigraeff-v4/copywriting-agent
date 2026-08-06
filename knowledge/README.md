@@ -4,7 +4,7 @@ A base tem três níveis de autoridade:
 
 1. **Fonte real Thamy/V4** — materiais importados do Drive; maior precedência metodológica.
 2. **Referência de mercado** — sínteses de frameworks e boas práticas; apoio, nunca substitui a fonte real.
-3. **Baseline operacional THAMY IA** — regras criadas para fechar lacunas do agent. Não devem ser apresentadas como padrão oficial da V4.
+3. **Baseline operacional Copywriting Agent** — regras criadas para fechar lacunas do agent. Não devem ser apresentadas como padrão oficial da V4.
 
 ## Knowledge Gate
 
@@ -40,7 +40,7 @@ A base tem três níveis de autoridade:
 | `prompts-de-apoio.md` | Estruturação de clarificações e pedidos | uso interno |
 | `vicios-ia-humanizacao.md` | 12 vícios + 8 dimensões do score de humanização | `11`, `13`, gate na `14` |
 
-## Camada 3 — Baseline operacional THAMY IA
+## Camada 3 — Baseline operacional Copywriting Agent
 
 | Arquivo | Conteúdo | Skills principais |
 |---|---|---|

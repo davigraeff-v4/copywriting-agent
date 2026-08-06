@@ -1,6 +1,6 @@
 # Estratégia de Marca (referência genérica de mercado)
 
-> Fonte: síntese de 11 pins sobre branding. Frameworks genéricos de mercado — não são padrão oficial da V4. `knowledge/padroes-copy-v4.md` contém apenas o baseline operacional da THAMY IA enquanto a validação institucional não existe. Usado principalmente pela skill `03-brand-context-analysis`.
+> Fonte: síntese de 11 pins sobre branding. Frameworks genéricos de mercado — não são padrão oficial da V4. `knowledge/padroes-copy-v4.md` contém apenas o baseline operacional do Copywriting Agent enquanto a validação institucional não existe. Usado principalmente pela skill `03-brand-context-analysis`.
 
 ## Checklist de branding (Strategy → Design)
 
@@ -49,4 +49,4 @@ Web Presence (site, LPs, banners, e-mail) · Collateral (menus, catálogos, broc
 
 ## Padrão consolidado
 
-Todos os frameworks de marca convergem em **3 camadas idênticas com nomes diferentes**: fundamento estratégico (propósito/missão/visão — "o porquê"), posicionamento/público (diferenciação, audiência — "o quem/o quê") e expressão (voz, tom, identidade visual — "o como"). A maior causa de "marca inconsistente" é tratar cada canal isoladamente em vez de partir de um documento central de diretrizes — é exatamente essa a função de `clients/{cliente}.md` dentro da THAMY IA.
+Todos os frameworks de marca convergem em **3 camadas idênticas com nomes diferentes**: fundamento estratégico (propósito/missão/visão — "o porquê"), posicionamento/público (diferenciação, audiência — "o quem/o quê") e expressão (voz, tom, identidade visual — "o como"). A maior causa de "marca inconsistente" é tratar cada canal isoladamente em vez de partir de um documento central de diretrizes — é exatamente essa a função de `clients/{cliente}.md` dentro do Copywriting Agent.

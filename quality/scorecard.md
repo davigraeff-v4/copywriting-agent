@@ -1,4 +1,4 @@
-# Scorecard de Qualidade — THAMY IA
+# Scorecard de Qualidade — Copywriting Agent
 
 Usado pela skill `13-copy-review-scorecard`. Baseado no checklist de revisão pós-copy da Thamy. A revisão gera **dois scores independentes e obrigatórios**: Score Geral e Score de Humanização/Anti-Vícios de IA. A média geral nunca compensa uma copy com sinais fortes de escrita artificial.
 

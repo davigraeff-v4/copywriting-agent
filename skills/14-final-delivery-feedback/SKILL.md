@@ -9,7 +9,7 @@ estimated_time: "10 min"
 
 # Final Delivery & Feedback
 
-Fecha o ciclo: entrega organizada + captura de feedback, que é o que faz a THAMY IA melhorar com o tempo.
+Fecha o ciclo: entrega organizada + captura de feedback, que é o que faz o Copywriting Agent melhorar com o tempo.
 
 ## Dados necessários
 

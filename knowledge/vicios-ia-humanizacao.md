@@ -2,9 +2,9 @@
 
 > Fonte: material trazido pelo Davi (guia de mercado sobre padrões que denunciam texto gerado por IA). Leitura integral obrigatória e independente nas skills `11-copy-production` (antes de escrever) e `13-copy-review-scorecard` (antes de pontuar). A skill `14-final-delivery-feedback` bloqueia entrega/aprovação sem o score derivado deste arquivo. Complementa `knowledge/termos-a-evitar.md`.
 
-## Por que isso importa para a THAMY IA
+## Por que isso importa para o Copywriting Agent
 
-A THAMY IA É uma IA escrevendo copy — por definição, está exposta a todos os vícios abaixo. Regra prática: a skill `11-copy-production` deve evitar esses padrões na primeira escrita, e a skill `13-copy-review-scorecard` deve caçá-los explicitamente antes de aprovar, além dos 12 critérios do scorecard.
+O Copywriting Agent É uma IA escrevendo copy — por definição, está exposta a todos os vícios abaixo. Regra prática: a skill `11-copy-production` deve evitar esses padrões na primeira escrita, e a skill `13-copy-review-scorecard` deve caçá-los explicitamente antes de aprovar, além dos 12 critérios do scorecard.
 
 ## Os 12 vícios de linguagem da IA
 
@@ -48,7 +48,7 @@ A THAMY IA É uma IA escrevendo copy — por definição, está exposta a todos 
 
 ## Por que esses vícios acontecem (para entender, não só evitar)
 
-A IA prevê a próxima palavra estatisticamente mais provável a partir do que já leu — por isso tende ao genérico e ao seguro. Ela é treinada para não se comprometer (evita afirmações arriscadas) e não tem experiência de vida real para narrar com especificidade. Saber disso ajuda a THAMY IA a se auto-corrigir: sempre que uma frase "soa segura demais", é sinal de vício.
+A IA prevê a próxima palavra estatisticamente mais provável a partir do que já leu — por isso tende ao genérico e ao seguro. Ela é treinada para não se comprometer (evita afirmações arriscadas) e não tem experiência de vida real para narrar com especificidade. Saber disso ajuda o Copywriting Agent a se auto-corrigir: sempre que uma frase "soa segura demais", é sinal de vício.
 
 ## Lista negra de palavras/expressões
 
@@ -73,7 +73,7 @@ Ver `knowledge/termos-a-evitar.md` para os clichês de marketing (não sobrepõe
 
 Os padrões acima devem ser tratados como heurísticas editoriais. A base não associa uma queda universal de performance a uma palavra isolada; o problema é recorrência, inadequação ao tom e perda de clareza/especificidade.
 
-## Como aplicar na THAMY IA
+## Como aplicar no Copywriting Agent
 
 ### Ao escrever (skill `11-copy-production`)
 
@@ -106,4 +106,4 @@ Pontue cada item em `0 = falha clara`, `5 = parcial/inconsistente` ou `10 = aten
 
 ## IA como ferramenta, não como redator
 
-O equilíbrio eficaz: usar IA para estruturar ideias, gerar variações e acelerar rascunhos — e reservar para o processo humano (aprovação do gestor, feedback do cliente) o que a máquina não replica sozinha: opinião, vivência real, tom e conexão emocional específicos daquele cliente. É exatamente por isso que a THAMY IA nunca pula os checkpoints de validação com o gestor — eles existem para injetar o que só um humano sabe sobre aquele cliente específico.
+O equilíbrio eficaz: usar IA para estruturar ideias, gerar variações e acelerar rascunhos — e reservar para o processo humano (aprovação do gestor, feedback do cliente) o que a máquina não replica sozinha: opinião, vivência real, tom e conexão emocional específicos daquele cliente. É exatamente por isso que o Copywriting Agent nunca pula os checkpoints de validação com o gestor — eles existem para injetar o que só um humano sabe sobre aquele cliente específico.

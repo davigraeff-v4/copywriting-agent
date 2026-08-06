@@ -11,7 +11,7 @@ Sem objetivo de negócio claro, o processo falha — é o pré-requisito antes d
 3. **Writing** — headline, corpo/benefícios, CTA. *(Pausa recomendada antes de editar.)*
 4. **Editing** — revisão ortográfica, revisão por pares, corte de excesso.
 
-**Erro mais comum:** pular direto para "Writing" ignorando pesquisa e ideação — resultado é copy sem direção estratégica. É exatamente o que as skills `01` a `10` da THAMY IA existem para evitar.
+**Erro mais comum:** pular direto para "Writing" ignorando pesquisa e ideação — resultado é copy sem direção estratégica. É exatamente o que as skills `01` a `10` do Copywriting Agent existem para evitar.
 
 ## As 3 camadas da estratégia de conteúdo
 
