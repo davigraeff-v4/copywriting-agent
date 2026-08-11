@@ -12,8 +12,8 @@ Feito para **gestores de projeto**, não só para copywriters: você cola o brie
 ## Instalação
 
 ```bash
-git clone https://github.com/davigraeff-v4/thamy-ia.git
-cd thamy-ia
+git clone https://github.com/davigraeff-v4/copywriting-agent.git
+cd copywriting-agent
 ```
 
 Abra a pasta no Claude Code, no Codex, ou no VS Code (com a extensão do Claude Code). Não há passo de build/instalação — o agent lê `CLAUDE.md`/`AGENTS.md` automaticamente ao abrir a pasta.
