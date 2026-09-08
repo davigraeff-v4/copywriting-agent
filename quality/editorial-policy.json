@@ -1,0 +1,42 @@
+{
+  "version": "2.0",
+  "forbidden_tokens": [
+    "pra",
+    "pras",
+    "pro",
+    "pros",
+    "tá",
+    "tô",
+    "cê",
+    "vc",
+    "vcs",
+    "tb",
+    "tbm",
+    "pq",
+    "qdo",
+    "blz"
+  ],
+  "forbidden_phrases": [
+    "não é sobre",
+    "não se trata de",
+    "a melhor solução",
+    "qualidade incomparável",
+    "resultados garantidos"
+  ],
+  "forbidden_characters": [
+    "—",
+    "–"
+  ],
+  "warning_phrases": [
+    "além disso",
+    "transforme sua vida",
+    "qualidade que você merece",
+    "o produto faz o resto",
+    "sem enrolação"
+  ],
+  "thresholds": {
+    "short_sentence_words": 5,
+    "short_sentence_run": 3,
+    "similarity": 0.75
+  }
+}

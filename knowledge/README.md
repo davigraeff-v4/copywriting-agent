@@ -6,13 +6,27 @@ A base tem três níveis de autoridade:
 2. **Referência de mercado** — sínteses de frameworks e boas práticas; apoio, nunca substitui a fonte real.
 3. **Baseline operacional Copywriting Agent** — regras criadas para fechar lacunas do agent. Não devem ser apresentadas como padrão oficial da V4.
 
-## Knowledge Gate
+## Knowledge Gate e uso atual
 
-- Ler este índice e `metodologia-thamy.md` no início de toda campanha ou revisão avulsa.
-- Ler, antes de cada skill, os arquivos indicados em "Dados necessários" no `SKILL.md` correspondente.
-- Ler integralmente `vicios-ia-humanizacao.md` antes de escrever (skill `11`) e reler integralmente antes de pontuar (skill `13`). Uma leitura não substitui a outra.
-- Não produzir, pontuar, entregar ou aprovar se alguma leitura obrigatória estiver pendente.
-- Em conflito: `HARD CONSTRAINTS` → memória do cliente → fonte real Thamy/V4 → briefing/fontes autorizadas → baseline operacional → referência genérica.
+- Início: ler índice, metodologia e rota aplicável (`rotas/lp.md`, `rotas/social.md`, `rotas/ads.md`, `rotas/direct.md`).
+- Ler apenas referências pertinentes da skill; índice é mapa, não lista de carregamento obrigatório.
+- Humanização: leitura integral independente antes de produção e revisão; recibos via `scripts/read_context.py`.
+- Precedência operacional: instrução atual explícita → restrições ativas/política → estado atual do cliente → metodologia aplicável → referência histórica compatível. Fato depende de fonte, não desta ordem editorial.
+- Material histórico: consultar `calibracao-editorial.md` antes de usar. Origem real não torna toda frase um modelo positivo.
+
+## Núcleo operacional v2
+
+| Arquivo | Uso |
+|---|---|
+| `politica-editorial.md` | Português e padrão de expressão |
+| `pacote-contexto.md` | Pesquisa convertida em matéria-prima e claims |
+| `rotas/lp.md` | Argumentação por dúvida do comprador |
+| `rotas/social.md` | Pauta, viabilidade e conjunto editorial |
+| `rotas/ads.md` | Anúncios, arte e campos da plataforma |
+| `rotas/direct.md` | E-mail/WhatsApp |
+| `memoria-clientes.md` | Estado vigente separado do histórico |
+| `calibracao-editorial.md` | Compatibilidade dos exemplos e pares anotados |
+| `recuperacao-contexto.md` | Busca lexical com escopo e metadados |
 
 ## Camada 1 — Fonte real Thamy/V4
 
@@ -56,7 +70,9 @@ A base tem três níveis de autoridade:
 
 ## Roteamento por etapa
 
-| Etapa | Núcleo obrigatório | Complemento quando aplicável |
+O núcleo obrigatório da campanha é o da seção Knowledge Gate. A tabela abaixo sugere referências; não impõe releitura de todos os arquivos por etapa nem substitui os Dados necessários da skill.
+
+| Etapa | Referências conforme necessidade da skill | Complemento quando aplicável |
 |---|---|---|
 | Marca | `processo-kickoff-cliente.md`, `estrategia-de-marca.md` | `padroes-copy-v4.md`, `pesquisa-voz-do-cliente.md` |
 | Público | `metodologia-thamy.md`, `use-case-map-exemplos.md` | `pesquisa-voz-do-cliente.md`, `objecoes-e-mecanismos.md` |
@@ -93,4 +109,4 @@ Ao incorporar novo material:
 
 ## Materiais externos ainda não incorporados
 
-Planilhas de calendário/mídia e apresentações operacionais continuam fora desta base porque não são referência direta de copy. Incorporar apenas quando uma skill tiver uso claro para elas.
+Calendários e materiais operacionais podem ser fontes da rota social: selecionar pautas, disponibilidade de assets e decisões atuais. Não importar tudo indiscriminadamente.

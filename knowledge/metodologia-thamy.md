@@ -1,5 +1,7 @@
 # Metodologia da Thamy
 
+> Nota operacional v2 (2026-09-08): material original preservado abaixo. Para uso atual, consultar `knowledge/calibracao-editorial.md` e `CONTRATO-OPERACIONAL-MODOS.md`. Fórmulas, ordem de seções e exemplos históricos não são obrigações nem autorização para contrariar a política editorial vigente.
+
 > Fonte: documento real da Thamy no Google Drive ("Estratégias de copy da Thamy"). Este é o material mais prioritário da base de conhecimento — é a origem direta do princípio central, das regras críticas e do scorecard já usados em `CLAUDE.md`/`AGENTS.md`/`quality/scorecard.md`. Usado por todas as skills, principalmente `08`, `09`, `10`, `11`, `13`.
 
 ## As 4 etapas do processo

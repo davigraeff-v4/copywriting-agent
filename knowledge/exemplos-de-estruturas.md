@@ -1,5 +1,7 @@
 # Exemplos de Estruturas (templates e exemplos reais V4)
 
+> Nota operacional v2 (2026-09-08): material original preservado abaixo. Para uso atual, consultar `knowledge/calibracao-editorial.md` e `CONTRATO-OPERACIONAL-MODOS.md`. Fórmulas, ordem de seções e exemplos históricos não são obrigações nem autorização para contrariar a política editorial vigente.
+
 > Fonte: templates e exemplos reais da V4 (Google Drive). Estruturas genéricas de mercado (landing page, carrossel, vídeo — teoria) já estão em `knowledge/regras-por-canal.md`, não repetidas aqui. Este arquivo guarda os **templates operacionais reais** que a skill `12-channel-format-adapter` deve seguir de preferência (têm prioridade sobre o template genérico quando o formato bater), e exemplos reais preenchidos.
 
 ## Template real — Meta Ads (Criativo estático e Carrossel)

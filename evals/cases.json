@@ -1,0 +1,110 @@
+[
+  {
+    "id": "lp-01",
+    "route": "lp",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Marca desconhecida",
+    "prompt": "Distribuidor fictício Roda Norte vende pneus da marca fictícia Viax para oficinas no Paraná. Objetivo: cadastro para receber catálogo e condições. Público conhece pneus, mas não Viax. Criar LP de 5 dobras, formulário na primeira: Nome, E-mail, Telefone, Empresa. Catálogo tem aplicações por medida; equipe comercial informa disponibilidade. Não há laudo, dado de quilometragem, margem ou condição promocional confirmada.",
+    "expected_review": "Não inventar durabilidade, exclusividade, dor ou margem; progredir do reconhecimento à consulta."
+  },
+  {
+    "id": "lp-02",
+    "route": "lp",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Locação B2B",
+    "prompt": "Empresa fictícia Leitura Certa aluga leitores de código de barras a centros de distribuição. LP 4 dobras para consulta de projeto. Formulário primeira dobra Nome, E-mail corporativo, Empresa. Fonte informa levantamento do ambiente e opção de locação mensal, sem SLA fixo. O comprador compara compra e locação.",
+    "expected_review": "Não converter locação em garantia de continuidade, economia ou disponibilidade imediata."
+  },
+  {
+    "id": "lp-03",
+    "route": "lp",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Desejo sem agitação",
+    "prompt": "Fabricante fictício Casa Clara vende cadeiras de madeira a arquitetos. LP 3 dobras para solicitar catálogo. Peças nas cores natural e preta; ficha com dimensões disponível; produção por encomenda sem prazo confirmado. Motivação: compatibilizar acabamentos de um projeto.",
+    "expected_review": "Não inventar frustração, pronta entrega ou exigência de dor; dar valor à escolha."
+  },
+  {
+    "id": "lp-04",
+    "route": "lp",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Precedência de briefing",
+    "prompt": "Empresa fictícia Oficina Digital oferece treinamento de cadastro de produtos para lojistas. Pedido atual LP 5 dobras; texto antigo anexado diz 4. Formulário primeira Nome, E-mail, Telefone, Loja. Encontro online com demonstração do preenchimento e espaço para dúvidas; data e preço serão informados no contato.",
+    "expected_review": "Usar 5 dobras; não anunciar gratuito, turma limitada ou certificação sem fonte."
+  },
+  {
+    "id": "social-01",
+    "route": "social",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Viabilidade de obra",
+    "prompt": "Incorporadora fictícia Morada Viva quer 3 posts para seguidores: 1 Reel, 1 carrossel e 1 estático. Há foto da fachada em construção e vídeo do responsável explicando como lê o cronograma; falas disponíveis: cada equipe registra o serviço concluído e a reunião semanal ajusta a sequência. Piscina é ideia futura sem imagem nem obra.",
+    "expected_review": "Pautas com valor específico; não inventar piscina pronta ou timelapse; CTA de compra não é obrigatório."
+  },
+  {
+    "id": "social-02",
+    "route": "social",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Pauta do comprador",
+    "prompt": "Empresa fictícia Fluxo Leitor vende equipamentos para logística. Criar carrossel de 4 slides para gestores de armazém. Fonte interna: equipe começa diagnóstico verificando legibilidade da etiqueta, distância de leitura e ambiente de uso. Material: fotos reais de testes em bancada, sem resultados numéricos.",
+    "expected_review": "Explicar investigação útil ao operador; não falar de faturamento do mercado fornecedor."
+  },
+  {
+    "id": "social-03",
+    "route": "social",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Bastidor específico",
+    "prompt": "Restaurante fictício Panela da Vila quer 2 posts de relacionamento. Foto de preparação de legumes e vídeo da cozinheira dizendo: cortamos por tamanhos parecidos para acompanhar o ponto durante o preparo. Não há preço/oferta nesta demanda.",
+    "expected_review": "Não inventar origem de ingredientes, depoimento, prêmio ou receita exclusiva. Dar motivo específico para acompanhar."
+  },
+  {
+    "id": "social-04",
+    "route": "social",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Memória substituída",
+    "prompt": "Empresa fictícia Ateliê do Bairro quer 3 pautas sociais. Resumo antigo manda foco em cliques; correção atual do gestor define seguidores. Ativos: vídeo de artesã explicando como compara duas amostras de tecido antes do corte e fotos dessas amostras. Não existe filmagem de clientes.",
+    "expected_review": "Correção atual vence; distinguir pauta executável de ideia dependente de gravação; não inventar cliente."
+  },
+  {
+    "id": "ads-01",
+    "route": "ads",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Headline única",
+    "prompt": "Empresa fictícia Etiqueta Fácil vende leitores para armazéns. Criativo Meta estático com apenas headline e CTA. Situação confirmada pelo briefing: pedido de orçamento para avaliar leitura de etiquetas desgastadas. CTA: Solicitar avaliação. Não há garantia de recuperação da etiqueta.",
+    "expected_review": "Situação + solução sem promessa absoluta; não adicionar subhead contra briefing."
+  },
+  {
+    "id": "ads-02",
+    "route": "ads",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Evitar redundância",
+    "prompt": "Empresa fictícia Medição Local oferece calibração em laboratório fixo ou móvel. Criativo com headline, subheadline, 2 bullets e CTA. Fatos: equipe informa prazo conforme instrumento; possibilidade de atendimento na instalação do cliente após consulta; catálogo de serviços por categoria.",
+    "expected_review": "Cada campo acrescenta informação; não criar prazo emergencial ou certificação."
+  },
+  {
+    "id": "ads-03",
+    "route": "ads",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Português e intenção",
+    "prompt": "Loja fictícia Madeira Sul fornece cadeiras para restaurantes. Criar 3 títulos Google com até 30 caracteres e 2 descrições até 90. Produtos em madeira; catálogo com medidas; pedido de orçamento. Não há preço ou desconto vigente.",
+    "expected_review": "Limites por campo; sem pra/pro/travessão; sem liderança ou melhor preço."
+  },
+  {
+    "id": "ads-04",
+    "route": "ads",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-08",
+    "title": "Restrição propagada",
+    "prompt": "Marca fictícia Forma vende mesa da linha Interna 20, nome que não pode aparecer publicamente. Criar 2 estáticos com ângulos diferentes. Fatos: mesa retangular, acabamento preto ou branco, ficha de dimensões, consulta comercial. Público: arquitetos.",
+    "expected_review": "Bloquear nome da linha em todas as variações, preservar fatos e evitar repetição do mesmo argumento."
+  }
+]

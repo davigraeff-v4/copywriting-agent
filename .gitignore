@@ -1,5 +1,18 @@
 # macOS
 .DS_Store
+__pycache__/
+*.pyc
+.local/
+
+# Contexto, validações e avaliações reais: somente armazenamento local
+clients/current/
+clients/history/
+campaigns/
+evals/private/
+evals/runs/
+examples/curated/
+outputs/**/*.json
+examples/**/*.json
 
 # Configurações locais do Claude Code (paths específicos desta máquina)
 .claude/settings.local.json

@@ -18,7 +18,7 @@ A headline precisa cumprir pelo menos duas funções: parar a atenção certa e 
 | Pergunta diagnóstica | `[pergunta que revela custo ou desejo]` | "Quantas oportunidades param na etapa de orçamento?" | Pergunta óbvia ou genérica |
 | Identidade | `Para quem [valor/comportamento específico]` | "Para quem prefere resolver hoje e dormir tranquilo" | Estereótipo vazio |
 | Comparação | `[alternativa atual] versus [nova forma]` | "Mais uma planilha ou um fluxo que acompanha o pedido?" | Comparação injusta |
-| Contexto/oportunidade | `[evento real]: [consequência para o público]` | "A temporada começou. Sua agenda está pronta?" | Urgência falsa |
+| Contexto/oportunidade | `[evento real]: [consequência para o público]` | "Consulte as datas disponíveis para [evento confirmado]" | Urgência falsa |
 | Comando útil | `[verbo] + [resultado concreto]` | "Descubra onde seu atendimento perde tempo" | Imperativo agressivo |
 | Especificidade | `[quantidade/prazo real] para [resultado]` | "3 etapas para organizar o primeiro atendimento" | Número sem base |
 | Contraste de cenário | `[antes concreto] → [depois concreto]` | "De mensagens espalhadas a um histórico por cliente" | Transformação milagrosa |
@@ -53,7 +53,7 @@ A headline precisa cumprir pelo menos duas funções: parar a atenção certa e 
 
 ## Variações de headline
 
-Para a mesma peça, variar uma hipótese por vez:
+Somente quando houver variações solicitadas, explorar hipóteses pertinentes, sem obrigação de três versões:
 
 - A: benefício direto.
 - B: objeção principal.

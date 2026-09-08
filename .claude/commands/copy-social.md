@@ -1,0 +1,1 @@
+Execute /copy-final para $ARGUMENTS ou briefing atual, selecionando rota social e lendo `knowledge/rotas/social.md`. Extrair pauta de fatos/histórias reais e ativos disponíveis. Exigir valor ao público, viabilidade e diversidade; oferta comercial e CTA de venda não são universais.

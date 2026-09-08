@@ -1,36 +1,28 @@
-# Ficha Operacional — {Nome do Cliente}
+# Estado atual do cliente
 
-> Gerado/atualizado pela skill `04-client-memory-builder`. Esta é a memória operacional do cliente entre conversas — o Copywriting Agent lê este arquivo no início de qualquer trabalho para este cliente, antes de perguntar o que já está registrado aqui.
+Cliente e identificador:
+Atualizado em:
+Fontes e validade:
+Produto/serviço e modelo comercial:
+Público/comprador/usuário:
+Voz da empresa ou pessoa (identificar):
+Amostras reais e análise de expressão:
+Fatos e promessas sustentáveis:
+Hipóteses/pendências:
 
-```
-Cliente:
-Segmento:
-Produto/serviço:
-Público:
-Tom de voz:
-Promessas permitidas:
-Promessas proibidas:
-Campanhas anteriores:
-Copies aprovadas:
-Copies rejeitadas:
-Preferências do cliente:
-Restrições:
-Observações do gestor:
-Aprendizados:
-```
+## Restrições ativas
 
-## Histórico de campanhas
+| ID | Regra | Escopo | Origem/data | Status | Substitui |
+|---|---|---|---|---|---|
 
-<!-- A skill 04 adiciona uma entrada aqui a cada campanha trabalhada -->
+## Preferências por formato
 
-### {Nome da campanha} — {data}
-- Canal(is):
-- Status: aprovado | reprovado | ajustado
-- Resumo da estratégia:
-- Aprendizado registrado:
+Aplicar somente ao formato e campanha indicados. Política global vem de `knowledge/politica-editorial.md`.
 
-## Regras de atualização
+## Campanhas
 
-- Nunca sobrescreva `Aprendizados` — sempre acrescente.
-- Sempre que uma copy for aprovada ou reprovada, adicione uma entrada em "Histórico de campanhas".
-- Se o cliente mudar de tom de voz ou posicionamento, registre a mudança com data, não apague o histórico anterior.
+Referências a `campaigns/{cliente}/{campanha}/`, versão e aprovador. Aprovação não comprova performance.
+
+## Histórico de mudanças
+
+Data; antes; depois; motivo; fonte; responsável. Atualizar estado vigente acima e preservar decisões anteriores aqui. Fichas legadas podem permanecer em `clients/{cliente}.md`; visão atual em `clients/current/{cliente}.md`.

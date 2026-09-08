@@ -1,0 +1,1 @@
+Execute o comportamento de `.claude/commands/copy-social.md` para $ARGUMENTS ou a demanda atual. Defina o objetivo editorial, a fonte e a viabilidade de cada pauta antes de redigir as peças. Não confundir assunto de reunião com decisão ou conteúdo genérico da cidade com personalidade da marca.

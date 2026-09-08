@@ -1,67 +1,25 @@
 ---
 name: 10-framework-trigger-selector
-description: "Escolhe a estrutura estratégica da copy: framework principal e secundário, gatilho emocional, figura de linguagem, CTA e tipo de conteúdo. Use após 09-offer-promise-analysis, sempre no fluxo estratégico completo."
-dependencies: ["09-offer-promise-analysis"]
-outputs: ["framework e gatilhos selecionados (em memória de conversa)"]
-week: 1
-estimated_time: "10-15 min"
+description: "Organiza a narrativa escolhida e decide se framework, CTA ou variação são úteis."
 ---
 
-# Framework & Trigger Selector
-
-Escolhe conscientemente a estrutura que vai guiar a escrita — nunca escreve a copy "no talento" sem essa decisão prévia.
+# 10-framework-trigger-selector
 
 ## Dados necessários
 
-1. Funil e nível de consciência (skill `06`) — OBRIGATÓRIO.
-2. Oferta e promessa (skill `09`) — OBRIGATÓRIO.
-3. `knowledge/frameworks-copy.md` — lista de frameworks e critérios de escolha.
-4. `knowledge/gatilhos-psicologicos.md` — teoria por trás de cada gatilho emocional.
-5. `knowledge/banco-de-ctas.md` — banco de CTAs para a escolha final.
-6. `knowledge/objecoes-e-mecanismos.md` — consultar quando a direção estratégica usar objeção, risco, comparação ou mecanismo como ângulo principal.
+Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
-## Checkpoint único — Seleção final
+- `knowledge/rotas/lp.md` (somente rota LP)
+- `knowledge/rotas/social.md (somente orgânico)`
+- `knowledge/rotas/ads.md (somente anúncio)`
+- `knowledge/rotas/direct.md (somente mensagem direta)`
 
-Defina:
+## Execução e auto-validação
 
-```
-Framework principal: AIDA | PAS | BAB | 4Us | Storytelling | Punchline/One Liner | Jobs To Be Done
-Framework secundário (se necessário):
-Gatilho emocional:
-Figura de linguagem:
-CTA:
-Tipo de conteúdo (estático, carrossel, vídeo, texto longo, etc.):
-```
+Receber argumento/pauta da 08 e evidência da 09. Escolher ordem da informação pela pergunta do público e pelo formato. Framework, gatilho e figura de linguagem são opcionais; registrar não aplicável quando acrescentariam fórmula sem valor.
 
-Critério de escolha, na ordem de peso:
-1. Objetivo da campanha
-2. Etapa do funil (skill 06)
-3. Persona (skill 05)
-4. Canal (briefing)
-5. Nível de consciência (skill 06)
-6. Tipo de oferta (skill 09)
+Não usar PAS para inventar sofrimento. Não forçar storytelling, escassez ou transformação. A estrutura deve servir ao argumento. Se precisar, consultar `knowledge/frameworks-copy.md` e ler ressalvas em `knowledge/calibracao-editorial.md`.
 
-**RECOMENDAÇÃO OBRIGATÓRIA:** justifique por que este framework/gatilho combina especificamente com esta persona, funil e oferta — não escolha por padrão/hábito. Esta skill executa em todos os modos, inclusive Rápido — nunca pule a escolha consciente de framework, só a pausa individual para validá-la.
+Decidir CTA conforme compromisso/destino; pode não existir em orgânico. Variações apenas se solicitadas ou parte de teste autorizado. Ler `knowledge/matriz-de-variacoes-e-testes.md` quando houver; distinguir exploração criativa de experimento controlado.
 
-## Modo de operação
-
-- **Estratégico:** apresente a seleção isoladamente e pergunte, como abaixo.
-- **Rápido/Express:** rode silenciosamente dentro do bloco de pesquisa (de forma enxuta) e leve framework, gatilho e CTA para o Checkpoint 2 ("Mapa estratégico"). Não peça aprovação individual, salvo se o gestor pedir explicitamente para validar essa escolha à parte.
-
-**Apresente a seleção e pergunte (checkpoint isolado, modo Estratégico; ou dentro do Mapa estratégico, modos Rápido/Express):**
-- "Esse framework/gatilho faz sentido para esse momento de funil e esse público?"
-- "Quer que eu troque por outro framework específico?"
-
-Aguarde aprovação antes de avançar.
-
-## Auto-validação
-
-- [ ] A escolha foi justificada com os 6 critérios, não é genérica?
-- [ ] Framework é coerente com a etapa de funil da skill `06`?
-- [ ] CTA está alinhado com o objetivo do briefing?
-
-Se falhou → regenere silenciosamente.
-
-## Finalização
-
-1. Informe: "Framework definido. Próximo passo: `11-copy-production`."
+Saída: ordem narrativa e encerramento, incorporados à direção; sem pausa para aprovar nome de framework.

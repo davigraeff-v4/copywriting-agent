@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "client": "Oficina Exemplo",
+  "campaign": "Consulta de catálogo",
+  "version": "v1",
+  "route": "lp",
+  "context": {
+    "objective": "Receber pedidos de catálogo",
+    "audience": "Compradores de peças",
+    "barrier": "Não conhece o catálogo",
+    "value": "Conhecer as peças disponíveis",
+    "voice": "Direta e técnica",
+    "offer": "Consulta ao catálogo",
+    "hypotheses": [],
+    "constraints_confirmed": true
+  },
+  "fields": [
+    {
+      "id": "hero",
+      "section": "dobra-1",
+      "role": "headline",
+      "text": "Consulte as peças disponíveis para sua oficina."
+    },
+    {
+      "id": "body",
+      "section": "dobra-1",
+      "role": "body",
+      "text": "O catálogo reúne os modelos atendidos e as referências de cada peça."
+    },
+    {
+      "id": "label",
+      "section": "dobra-1",
+      "role": "form_label",
+      "text": "Nome"
+    },
+    {
+      "id": "cta",
+      "section": "dobra-1",
+      "role": "cta",
+      "text": "Solicitar catálogo"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "locator": "briefing fictício para teste",
+      "excerpt": "O catálogo reúne modelos e referências; solicitar nome."
+    }
+  ],
+  "facts": [
+    {
+      "id": "f1",
+      "statement": "Catálogo reúne modelos e referências.",
+      "status": "confirmed",
+      "source_ids": [
+        "s1"
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "field_id": "body",
+      "quote": "O catálogo reúne os modelos atendidos e as referências de cada peça.",
+      "fact_ids": [
+        "f1"
+      ],
+      "limit": "Somente conteúdo do catálogo fictício."
+    }
+  ],
+  "constraints": [
+    {
+      "id": "r1",
+      "rule": "Não divulgar preço",
+      "scope": "campanha",
+      "source": "briefing fictício"
+    }
+  ],
+  "outline": [
+    {
+      "id": "dobra-1",
+      "question": "Como consultar o catálogo?",
+      "new_information": "Conteúdo e solicitação do catálogo."
+    }
+  ],
+  "requirements": {
+    "sections": 1,
+    "forms": {
+      "dobra-1": [
+        "Nome"
+      ]
+    }
+  }
+}

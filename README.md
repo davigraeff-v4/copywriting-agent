@@ -1,129 +1,106 @@
 # Copywriting Agent
 
-Agent de copywriting estratégico inspirado no método de trabalho da Thamy, copywriter da V4. Transforma um briefing de campanha em copy final pronta para uso — com variações, explicação estratégica, orientação para design/tráfego e revisão crítica.
+Agent inspirado na metodologia da Thamy para produzir copy específica a partir de briefing, contexto do cliente e evidências. Funciona no Claude Code e no Codex, com **1 agent + 14 skills** e quatro rotas: landing page, social orgânico, anúncios e mensagens/e-mail.
 
-Feito para **gestores de projeto**, não só para copywriters: você cola o briefing (ou até um texto solto, sem formatação) e o agent conduz o raciocínio inteiro — diagnóstico, marca, público, big idea, framework, produção, adaptação por canal e revisão — perguntando só o que for realmente crítico.
+A versão de 2026-09-08 reduz etapas obrigatórias, separa memória vigente de histórico e acrescenta revisão verificável. Frameworks ajudam a organizar um argumento quando necessário; não determinam a estrutura de toda peça.
 
-## Requisitos
+## Requisitos e instalação
 
-- **Claude Code** (`CLAUDE.md` + `.claude/commands/`) ou **Codex** (`AGENTS.md`) instalado e configurado.
-- Nenhuma dependência externa, banco de dados ou build — o agent roda inteiramente sobre os arquivos Markdown deste repositório.
-
-## Instalação
+- Claude Code ou Codex configurado.
+- Python 3.10+ para os verificadores locais; somente biblioteca padrão, sem instalação de pacotes, banco ou build.
+- Fontes de cliente locais ou integração de Drive disponível no ambiente. O projeto não instala nem autentica um conector.
 
 ```bash
 git clone https://github.com/davigraeff-v4/copywriting-agent.git
 cd copywriting-agent
+python3 -m unittest discover -s tests -v
 ```
 
-Abra a pasta no Claude Code, no Codex, ou no VS Code (com a extensão do Claude Code). Não há passo de build/instalação — o agent lê `CLAUDE.md`/`AGENTS.md` automaticamente ao abrir a pasta.
+Abra a pasta no Claude Code ou Codex. Eles usam respectivamente `CLAUDE.md` e `AGENTS.md`. Sem Python, o agent pode diagnosticar e rascunhar, mas deve indicar que a verificação objetiva está pendente.
 
-## Como usar — primeiro contato
+## Uso diário
 
-1. Cole o briefing completo da campanha no chat (ou diga qual cliente/copy você quer trabalhar).
-2. Digite `/copy-final` — ou simplesmente cole o briefing, o agent já aciona o fluxo sozinho.
-3. O Copywriting Agent vai diagnosticar o briefing, perguntar o que faltar de crítico (nunca mais que o necessário), produzir a copy, adaptar por canal e revisar com scorecard antes de entregar.
-4. Aprove, reprove ou peça ajuste quando ela perguntar.
-5. Quando aprovado, o output fica salvo automaticamente em `outputs/approved/` e um exemplo em `examples/approved/`; a ficha do cliente em `clients/{cliente}.md` é criada/atualizada com o que foi aprendido.
+Cole o briefing ou peça a peça desejada. O agent consulta o estado do cliente, informa modo e rota, reúne lacunas materiais e propõe uma direção com o argumento e a função de cada seção ou pauta. Após autorização, entrega a copy revisada e registra seu feedback.
 
-### Exemplo rápido do que esperar
+Exemplos de pedidos:
 
-```
-Você: [cola um briefing de campanha de Reels para um cliente novo]
+- “LP de cinco dobras, formulário na primeira, para cadastro de oficinas que ainda não conhecem a marca.”
+- “Calendário de seis posts para seguidores. Use os bastidores disponíveis e explique o valor de cada pauta.”
+- “Criativo estático com headline única. Preserve a restrição de nomenclatura do cliente.”
+- “Revise esta copy e aponte o trecho e o motivo de cada problema.”
 
-Copywriting Agent: Sem indicação sua, vou seguir no modo Rápido — até 3 checkpoints.
+Você continua recebendo texto legível. Arquivos de contexto, revisões e verificações são trabalho interno do agent.
 
-  Checkpoint 1 — Diagnóstico, fontes e restrições
-  [...briefing organizado, lacunas críticas, se houver...]
+## Modos
 
-Você: [responde o que faltou]
+| Modo | Quando usar | Interação |
+|---|---|---|
+| Rápido | Padrão | Até três checkpoints: lacunas, direção e entrega |
+| Express | Cliente conhecido e demanda recorrente | Direção compacta e entrega |
+| Estratégico | Quando você pedir construção passo a passo | Decisões pertinentes detalhadas |
 
-Copywriting Agent: Checkpoint 2 — Mapa estratégico consolidado
-  [...marca, público, big idea, framework, HARD CONSTRAINTS...]
-  Posso produzir com essa direção?
+As 14 skills são capacidades, não 14 pausas obrigatórias. Uma autorização explícita para executar sem pausa dispensa reconfirmação da direção naquela tarefa. Informação indispensável ausente ainda precisa ser resolvida. O contrato completo fica em `CONTRATO-OPERACIONAL-MODOS.md`.
 
-Você: sim
+## Comandos
 
-Copywriting Agent: Checkpoint 3 — Entrega revisada
-  [...copy final adaptada ao canal, variações, score, justificativa...]
-  A copy foi aprovada, reprovada ou precisa de ajuste?
-
-Você: aprovada
-
-Copywriting Agent: Salvo em outputs/approved/... e clients/{cliente}.md atualizado.
-```
-
-## Modos de operação (quantas vezes o Copywriting Agent vai te interromper)
-
-- **Rápido (padrão)** — até 3 validações no total: diagnóstico do briefing, mapa estratégico (marca, público, ideia, framework) e entrega final. Use no dia a dia, sem precisar digitar nada extra.
-- **Express** — 2 validações no total. Só disponível quando o cliente já tem ficha completa em `clients/` (marca, público e restrições conhecidos) e a demanda é parecida com campanha anterior. Peça com `/copy-final --express`.
-- **Estratégico** — uma validação a cada etapa da metodologia (até 14 no total). Use quando quiser acompanhar/construir passo a passo — cliente novo e complexo, reposicionamento de marca, campanha institucional grande, ou qualquer oferta que você prefira validar com calma. Peça com `/copy-final --estrategico`.
-
-Se você não pedir nenhum modo, o Copywriting Agent decide sozinho (regra em `CLAUDE.md`) e avisa qual escolheu logo no início. Em qualquer modo, ele sempre para e pergunta se faltar informação crítica (cliente, oferta, canal, restrições) ou se detectar uma promessa arriscada — isso nunca é pulado, independente do modo. Ver `CONTRATO-OPERACIONAL-MODOS.md` para a definição completa (matriz de campos, checkpoints, hard constraints, padrões de canal/formato).
-
-## Comandos disponíveis
-
-Nativos no Claude Code (`.claude/commands/`) — no Codex, os mesmos comandos funcionam como convenção de texto (basta digitar no chat):
-
-| Comando | O que faz |
+| Comando | Comportamento |
 |---|---|
-| `/copy-final` | Roda o fluxo completo a partir do briefing colado, no modo Rápido por padrão. Aceita `--rapido`, `--express`, `--estrategico`. |
-| `/revisar-copy` | Roda o Score Geral (12 critérios) e o Score de Humanização/Anti-Vícios de IA sobre uma copy existente, mesmo que ela não tenha passado pelo fluxo completo. |
-| `/aprovar-copy` | Valida os dois scores da versão atual e, só então, registra a aprovação (ficha do cliente + `outputs/approved/` + `examples/approved/`). |
-| `/reprovar-copy` | Registra reprovação, perguntando o motivo, e salva em `examples/rejected/`. |
+| `/copy-final` | Inicia a partir do briefing; aceita `--rapido`, `--express`, `--estrategico` |
+| `/copy-lp` | Argumentação de landing page |
+| `/copy-social` ou `/calendario` | Pauta ou calendário orgânico |
+| `/revisar-copy` | Crítica da versão atual, linguagem, argumento e fatos |
+| `/aprovar-copy` | Registra aprovação expressa da versão revisada |
+| `/reprovar-copy` | Registra motivo e aprendizado |
 
-Comandos secundários por canal (`/copy-criativo`, `/copy-carrossel`, `/copy-meta`, `/copy-google`, `/copy-lp`, `/copy-whatsapp`, `/copy-email`, `/copy-video`) equivalem a `/copy-final` já fixando o canal/formato, pulando essa pergunta — são convenções de texto, não têm arquivo próprio em `.claude/commands/`.
+Esses comandos têm arquivos em `.claude/commands/`. No Codex funcionam como convenções de texto. `/copy-meta`, `/copy-google`, `/copy-criativo`, `/copy-carrossel`, `/copy-video`, `/copy-whatsapp` e `/copy-email` são convenções adicionais; canal e formato não determinam sozinhos o objetivo.
 
-## Memória por cliente
+## Memória e contexto
 
-Toda vez que uma campanha é trabalhada, o Copywriting Agent cria ou atualiza `clients/{cliente}.md` com marca, tom de voz, público, promessas permitidas/proibidas, preferências de processo e aprendizados — inclusive coisas que só aparecem durante a conversa (ex.: "esse cliente não gosta de silêncio no início dos vídeos", "nunca citar X verbalmente"). Da próxima vez que você trabalhar com o mesmo cliente, o agent já lê essa ficha antes de perguntar qualquer coisa — é o que permite usar o modo Express e não repetir a mesma pergunta duas vezes.
+- `clients/current/{cliente}.md`: estado consolidado, restrições com escopo e pendências de validade.
+- `clients/{cliente}.md`: ficha legada e histórico preservado. Correções recentes prevalecem sobre um resumo desatualizado.
+- `campaigns/{cliente}/{campanha}/vN/`: contexto, copy, revisão e feedback daquela versão.
+- `examples/curated/`: referências anotadas por aspecto aproveitável; aprovação histórica não significa excelência ou performance comprovada.
 
-Use `clients/cliente-template.md` como referência dos campos — mas normalmente você não precisa preencher isso manualmente, o agent faz isso sozinho ao longo do fluxo (skill `04-client-memory-builder`).
+Arquivos reais ficam locais, ignorados no Git. Um clone novo contém estrutura, templates e exemplos técnicos fictícios; não contém fichas e curadoria privadas desta máquina. Ver `clients/cliente-template.md` e `knowledge/memoria-clientes.md`.
 
-> Fichas reais de cliente, outputs e exemplos de campanha ficam fora do controle de versão (ver `.gitignore`) — o repositório público não expõe dados de clientes reais trabalhados localmente.
+## Como a qualidade é verificada
 
-## Estrutura
+1. Argumento e pauta partem do briefing e de fatos selecionados. Cada dobra responde a uma pergunta; cada post precisa ter valor específico e produção viável.
+2. `quality/editorial-policy.json` define bloqueios literais e alertas: abreviações coloquiais, travessões, falso contraste, sequências telegráficas e repetição entre campos.
+3. `scripts/copycheck.py` confere estrutura, claims ligados a fontes, restrições, limites por campo e formulários. A revisão editorial precisa citar trechos exatos e registrar conferência factual.
+4. O código calcula os scores. Mudança na copy, contexto, política ou rubrica invalida a revisão anterior. O texto final é renderizado da mesma versão revisada.
+5. Aprovação humana, publicação e resultado de campanha são estados separados.
+
+O verificador não certifica verdade, gramática completa ou preferência humana. O chat ainda depende de o agent cumprir o fluxo. Detalhes em `quality/FORMATO-ENTREGA.md` e `quality/scorecard.md`.
+
+## Base de conhecimento e recuperação
+
+`knowledge/README.md` roteia o núcleo atual, a metodologia original Thamy/V4, referências de mercado e convenções do agent. As fontes originais permanecem identificadas; escolhas editoriais atuais não são atribuídas à Thamy sem confirmação.
+
+`scripts/retrieve.py` faz busca lexical em metadados, com filtro de cliente, rota e uso da referência. Não há banco vetorial nem sincronização automática do Drive. A consulta devolve caminhos relevantes para leitura, sem carregar toda a base ou transformar outro cliente em prova factual.
+
+## Validação e avaliação
+
+```bash
+python3 scripts/validate_project.py
+python3 -m unittest discover -s tests -v
+```
+
+`evals/README.md` documenta a comparação entre LLM simples, agent anterior e v2. Há 12 briefings sintéticos e ferramentas de embaralhamento e apuração humana. Testes técnicos aprovados não demonstram, por si, copy melhor. A comparação com o mesmo modelo e esforço e a calibração com avaliações humanas são a próxima validação editorial.
+
+## Estrutura principal
 
 ```
-CLAUDE.md                        → instruções para Claude Code
-AGENTS.md                        → instruções equivalentes para Codex
-CONTRATO-OPERACIONAL-MODOS.md    → definição dos 3 modos, checkpoints, hard constraints e padrões de canal/formato
-briefings/                       → template e exemplos de briefing
-knowledge/                       → base de conhecimento (metodologia, frameworks, exemplos) — preencher com materiais reais
-clients/                         → ficha operacional por cliente (memória entre conversas) — apenas o template é versionado
-skills/                          → as 14 skills do Copywriting Agent, uma pasta por skill
-examples/                        → copies aprovadas/reprovadas, comparativos, por canal/segmento — não versionado
-outputs/                         → rascunhos, aprovados e revisados — não versionado
-quality/                         → scorecard e critérios de revisão
-.claude/commands/                → atalhos nativos (/copy-final, /revisar-copy, /aprovar-copy, /reprovar-copy) no Claude Code
+AGENTS.md / CLAUDE.md           instruções sincronizadas
+CONTRATO-OPERACIONAL-MODOS.md   decisões operacionais
+skills/                        14 capacidades
+knowledge/                     metodologia, rotas e recuperação
+quality/                       política, rubrica e artefatos
+scripts/                       verificação, leitura, busca e avaliação
+tests/                         regressões e fixtures fictícias
+evals/                         protocolo e casos controlados
+clients/ campaigns/ examples/  contexto e histórico locais
+.claude/commands/              atalhos do Claude Code
 ```
 
-## Base de conhecimento — o que já está pronto e o que falta
-
-`knowledge/README.md` indexa tudo. Três camadas:
-
-O uso da base não é opcional: toda campanha/revisão começa pela leitura do índice e de `metodologia-thamy.md`; cada skill deve ler as fontes listadas em seus dados necessários. `vicios-ia-humanizacao.md` é lido integralmente duas vezes em momentos independentes — antes da escrita (skill `11`) e antes da revisão (skill `13`).
-
-- **Real, da Thamy/V4** (importada do Google Drive): `metodologia-thamy.md` (o documento-cérebro dela — o mais importante de todo o sistema), `processo-kickoff-cliente.md`, `canais-por-modelo-de-negocio.md`, `use-case-map-exemplos.md`, `exemplos-de-estruturas.md` (templates reais de Meta Ads/LP + exemplos preenchidos) e `quality/analise-semanal-comunicacao.md`. Esta camada tem prioridade sobre as demais.
-- **Genérica de mercado** (convertida do swipe file de ~130 pins do Pinterest, deduplicada): processo, frameworks, gatilhos, ganchos, CTAs, canais, marca, funil e humanização.
-- **Baseline operacional Copywriting Agent**: padrões mínimos, banco de ângulos/headlines, erros, termos, pesquisa de voz do cliente, provas/claims, objeções/mecanismos e matriz de variações/testes. Essa camada fecha lacunas práticas sem se apresentar como padrão oficial da V4.
-
-O Copywriting Agent já opera com metodologia real da Thamy para a maior parte do fluxo. A próxima evolução da base depende menos de teoria e mais de evidência real: headlines/ângulos aprovados ou reprovados, feedbacks da Thamy e resultados de campanhas com contexto.
-
-A pasta `BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/` mantém as imagens originais (swipe file visual) usadas pela skill `07-reference-competitor-analysis` — o conteúdo textual delas já foi extraído para `knowledge/`.
-
-## Scorecard de qualidade
-
-Toda copy final passa por dois scores independentes em `quality/scorecard.md`: **Score Geral** (12 critérios de estratégia e execução) e **Score de Humanização/Anti-Vícios de IA** (8 dimensões de naturalidade, especificidade, ritmo e ausência de tiques artificiais). Ambos precisam atingir 8/10. Vício crítico, violação de `HARD CONSTRAINTS`, leitura obrigatória pendente ou alteração posterior da copy também reprovam a versão, mesmo com média alta.
-
-## MVP — o que está dentro e fora do escopo
-
-**Dentro:** briefing colado no chat, diagnóstico, metodologia da Thamy, geração de copy final por canal, variações, explicação estratégica, revisão com scorecard, feedback e memória por cliente em Markdown, 3 modos de operação (Rápido/Express/Estratégico).
-
-**Fora (por enquanto):** interface visual própria, banco de dados, RAG vetorial, integração automática com Drive, automação (Make/N8N), dashboard de performance, múltiplos agents especializados.
-
-Detalhamento completo do produto, arquitetura e histórico de decisões ficam em documentos internos (não incluídos neste repositório público).
-
-## Licença
-
-Repositório ainda sem licença definida — considere todos os direitos reservados até uma licença ser adicionada.
+Não há interface própria, automação de publicação, múltiplos agents ou RAG vetorial. O projeto continua sem licença definida; considere todos os direitos reservados até sua inclusão.

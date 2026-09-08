@@ -1,90 +1,29 @@
 ---
 name: 14-final-delivery-feedback
-description: "Organiza a entrega final (copy + variações + justificativa + orientações + score) e coleta aprovação/reprovação/ajuste do gestor. Use como última skill de qualquer fluxo, após 13-copy-review-scorecard, e também para os comandos /aprovar-copy e /reprovar-copy."
-dependencies: ["13-copy-review-scorecard"]
-outputs: ["outputs/approved/*.md ou outputs/revised/*.md", "clients/{cliente}.md (atualizado)", "examples/approved|rejected/*.md"]
-week: 1
-estimated_time: "10 min"
+description: "Entrega a versão validada e registra feedback humano, aprovação parcial e aprendizado por escopo."
 ---
 
-# Final Delivery & Feedback
-
-Fecha o ciclo: entrega organizada + captura de feedback, que é o que faz o Copywriting Agent melhorar com o tempo.
+# 14-final-delivery-feedback
 
 ## Dados necessários
 
-1. Copy revisada, Score Geral ≥ 8 e Score de Humanização/Anti-Vícios de IA ≥ 8 para a **versão atual** (skill `13`) — OBRIGATÓRIO para entrega ou aprovação; dispensável apenas para registrar uma reprovação já decidida pelo gestor.
-2. Big idea, oferta, framework das skills anteriores — para montar a justificativa estratégica.
-3. `clients/{cliente}.md`.
-4. `quality/approval-checklist.md` — gate final obrigatório antes de mostrar ou registrar aprovação.
-5. `knowledge/matriz-de-variacoes-e-testes.md` — quando houver variações, informar a hipótese de cada uma e separar aprovação percebida de performance medida.
+Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
-Se a versão atual não tiver os dois scores válidos, ou se tiver sido alterada depois da pontuação, volte à skill `13`. Isso também vale para `/aprovar-copy` executado diretamente: o comando nunca pode apenas registrar uma aprovação sem revisar a versão atual.
+- `quality/approval-checklist.md`
+- `quality/feedback-template.md`
+- `knowledge/memoria-clientes.md`
+- `quality/FORMATO-ENTREGA.md`
 
-## Modo de operação
+## Execução e auto-validação
 
-- **Estratégico:** este é o 14º checkpoint isolado do fluxo, como descrito abaixo.
-- **Rápido/Express:** esta skill se funde com `13-copy-review-scorecard` no Checkpoint 3 ("Entrega revisada") — não existe uma mensagem de scorecard seguida de uma segunda mensagem de entrega. Os dois scores, pontos fracos, copy final e pedido de aprovação saem juntos, na mesma apresentação.
+Receber delivery.json + review.json da 13. Usar `scripts/copycheck.py --review ... --render ...` para gerar texto exato em caminho novo. O render bloqueia revisão ausente/desatualizada; nunca reescrever a copy depois dele.
 
-## Checkpoint 1 — Entrega final
+Apresentar texto, orientação pertinente, justificativa breve, HARD CONSTRAINTS, scores calculados, pontos fracos e hipóteses fora da copy. Perguntar “A copy foi aprovada, reprovada ou precisa de ajuste?”. No Rápido/Express, revisão e entrega são uma apresentação.
 
-Monte a entrega com:
-```
-Copy final:
-Variações:
-Justificativa estratégica (por que essa big idea, framework, ângulo):
-Orientação para design:
-Orientação para tráfego (quando fizer sentido):
-Score Geral:
-Score de Humanização/Anti-Vícios de IA:
-Pontos mais fracos:
-Hipóteses ainda existentes:
-```
+Aprovação: registrar quem aprovou, versão/hash, data, motivo e escopo. Copiar a versão exata para outputs/approved e registrar exemplo histórico. Cliente final/público/performance são estados separados. Aprovação parcial não promove peças rejeitadas.
 
-**Pergunte:**
-- "A copy foi aprovada, reprovada ou precisa de ajuste?"
+Reprovação: registrar mesmo sem score; não exigir revisão para aceitar crítica humana. Usar motivo já informado; perguntar apenas se ausente. Ajuste: identificar se é argumento, fato, voz ou forma; voltar à skill correspondente e invalidar revisão.
 
-Aguarde resposta.
+Atualizar visão atual e histórico pela 04, com feedback literal separado da interpretação. Não rotular correção do agent como revisão da Thamy. Arquivos de clientes/campanhas permanecem locais. Não enviar, publicar, commitar ou fazer push sem autorização específica.
 
-## Checkpoint 2 — Tratamento da resposta
-
-**Se aprovada:**
-Antes de registrar, confirme novamente que a versão aprovada é exatamente a versão pontuada e que passou por todos os itens de `quality/approval-checklist.md`. Se não for, volte à skill `13`.
-
-Registre em `clients/{cliente}.md` (via lógica de `04-client-memory-builder`): cliente, campanha, canal, formato, copy aprovada, motivo da aprovação, aprendizados. Salve a copy em `outputs/approved/{cliente}-{campanha}-{canal}.md` e um exemplo em `examples/approved/`.
-
-**Se reprovada:**
-Pergunte o motivo, oferecendo as opções:
-```
-[ ] tom inadequado
-[ ] promessa fraca
-[ ] copy genérica
-[ ] desalinhada com briefing
-[ ] desalinhada com cliente
-[ ] muito longa
-[ ] muito agressiva
-[ ] faltou clareza
-[ ] CTA fraco
-[ ] outro
-```
-Registre em `clients/{cliente}.md` e salve em `examples/rejected/{cliente}-{campanha}-{canal}.md`.
-
-**Se pedir ajuste:**
-Pergunte o que precisa mudar, gere nova versão (retornando à skill relevante — produção, adaptação ou revisão, conforme o tipo de ajuste), e registre: feedback recebido, ajuste feito, nova versão, aprendizado. Salve em `outputs/revised/{cliente}-{campanha}-{canal}-v{n}.md`.
-
-## Auto-validação
-
-- [ ] A versão entregue/aprovada é exatamente a versão revisada pela skill `13`?
-- [ ] Score Geral e Score de Humanização/Anti-Vícios de IA estão ambos ≥ 8/10 e sem vício crítico?
-- [ ] O Knowledge Gate foi concluído e o `quality/approval-checklist.md` passou integralmente?
-- [ ] A entrega final cita o cliente e a campanha pelo nome?
-- [ ] Justificativa estratégica conecta com big idea/framework reais desta conversa, não é genérica?
-- [ ] O tipo de resposta do gestor (aprovado/reprovado/ajuste) foi corretamente registrado em `clients/{cliente}.md`?
-- [ ] Se rodou como parte de `/aprovar-copy` ou `/reprovar-copy` direto (sem passar pelo fluxo completo), ainda assim registrou em `clients/{cliente}.md`?
-
-Se falhou → corrija silenciosamente.
-
-## Finalização
-
-1. Confirme ao gestor onde tudo foi salvo (`outputs/...`, `examples/...`, `clients/{cliente}.md`).
-2. Pergunte se ele quer produzir a próxima peça (nova variação, outro canal, ou nova campanha).
+Saída: caminhos reais e status correto. Não iniciar outra campanha ou fazer pergunta comercial de continuação sem necessidade.

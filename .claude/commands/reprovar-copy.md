@@ -1,3 +1,1 @@
-Registre a reprovação da copy que está sendo discutida nesta conversa, seguindo o ramo "Se reprovada" da skill `skills/14-final-delivery-feedback/SKILL.md`.
-
-Pergunte o motivo usando a lista de opções do template (`quality/feedback-template.md`), registre em `clients/{cliente}.md` e salve em `examples/rejected/`.
+Execute `skills/14-final-delivery-feedback/SKILL.md` no ramo reprovado para a copy em discussão. Use o motivo já informado em $ARGUMENTS ou na conversa; só pergunte se estiver ausente. Preserve versão, feedback literal e aprendizado interpretado separado. Atualize memória vigente e histórico com escopo, sem inventar nova regra global a partir de preferência de uma peça.

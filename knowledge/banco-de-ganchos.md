@@ -47,7 +47,7 @@ Usar `pesquisa-voz-do-cliente.md` para etiquetar a evidência.
 
 - `Imagine terminar [tarefa] sem [fricção específica].`
 - `[Resultado] começa quando [primeiro passo concreto].`
-- `Menos [custo/esforço real]. Mais [resultado real].`
+- Descrever a consequência verificável em frase completa; evitar pares mecânicos de menos/mais.
 
 ### Mecanismo/demonstração
 

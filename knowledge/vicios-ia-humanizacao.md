@@ -1,109 +1,34 @@
-# Vícios de IA em Copy — Guia de Humanização
+# Humanização e revisão editorial v2
 
-> Fonte: material trazido pelo Davi (guia de mercado sobre padrões que denunciam texto gerado por IA). Leitura integral obrigatória e independente nas skills `11-copy-production` (antes de escrever) e `13-copy-review-scorecard` (antes de pontuar). A skill `14-final-delivery-feedback` bloqueia entrega/aprovação sem o score derivado deste arquivo. Complementa `knowledge/termos-a-evitar.md`.
+Guia operacional revisado a partir das preferências do gestor e dos erros registrados. Ler integralmente imediatamente antes de escrever (fase production) e novamente antes de revisar (fase review). Não é detector de autoria por IA nem comprovação de performance.
 
-## Por que isso importa para o Copywriting Agent
+## O que procurar
 
-O Copywriting Agent É uma IA escrevendo copy — por definição, está exposta a todos os vícios abaixo. Regra prática: a skill `11-copy-production` deve evitar esses padrões na primeira escrita, e a skill `13-copy-review-scorecard` deve caçá-los explicitamente antes de aprovar, além dos 12 critérios do scorecard.
+1. **Português:** acentuação, concordância, regência, crase, referente de pronome, palavras omitidas. O lint não corrige gramática completa.
+2. **Registro:** português natural sem abreviações coloquiais. Transcrição, chat informal e voz pessoal não dispensam a política editorial. Não caricaturar o público com gírias.
+3. **Falso contraste:** construções “não é X, é Y”, “não é sobre…” e negações usadas para inventar profundidade. Negação factual útil pode permanecer.
+4. **Pontuação:** sem travessões na copy, conforme política vigente. Substituir por relações sintáticas claras, não por fragmentos sucessivos.
+5. **Ritmo:** evitar trincas telegráficas, pares mecânicos e repetição da mesma abertura. Frase curta não é defeito isolado; revisar recorrência e função.
+6. **Substância:** adjetivo não substitui informação. Detalhe pode ser situação, processo, critério ou evidência; não exigir número. Não inventar prova para parecer específico.
+7. **Entrada:** entregar assunto/valor sem aquecimento genérico. Uma abertura contextual é válida quando já traz informação relevante.
+8. **Redundância:** ler headline, apoio, bullets, legenda e conjunto. Cada campo/seção acrescenta algo; CTA/formulário podem se repetir quando necessário.
+9. **Causalidade:** verificar o salto de recurso técnico para benefício comercial. Durabilidade não demonstra margem, recurso não demonstra indicação e exclusividade do distribuidor não demonstra exclusividade da oficina.
+10. **Voz:** comparar com amostras reais daquela marca ou pessoa. Descrições “humana e consultiva” não bastam; observar vocabulário, ritmo e maneira de explicar.
+11. **Objetivo:** verificar se a copy responde à barreira do briefing. Não trocar desconhecimento de marca por medo ou prejuízo sem fonte.
+12. **Progressão:** a página ou calendário deve desenvolver informação. Quantidade de dobras/posts não é evidência de profundidade.
 
-## Os 12 vícios de linguagem da IA
+## Reescrever
 
-1. **Excesso de travessão descontextualizado** — travessão inserido em frase normal, sem informação nova.
-   ❌ "A IA revoluciona o marketing digital — ao proporcionar experiências únicas — e facilita a vida dos profissionais."
-   ✅ "A IA revoluciona o marketing digital ao criar experiências diferentes e simplificar processos."
+Revisar primeiro argumento e matéria-prima. Se forem fracos, retornar à direção ou à fonte; trocar sinônimos não resolve. Se o argumento estiver correto, identificar ideias úteis, afastar o rascunho e reconstruir no registro da marca. Ler tudo novamente para evitar repetir o mesmo erro em outro campo.
 
-2. **Conectores repetidos compulsivamente** — "além disso", "portanto", "ou seja", "no entanto" empilhados parágrafo após parágrafo.
-   ❌ "A IA melhora a análise de dados. Além disso, contribui para as vendas. Além disso, simplifica o atendimento."
-   ✅ "A IA melhora a análise de dados, impacta as vendas e ainda simplifica o atendimento."
+## Bloqueios e alertas
 
-3. **Adjetivos vazios e hipérboles sem substância** — "incrível", "fascinante", "essencial", "crucial", "robusto", "transformador", "inovador".
-   ❌ "O impacto da IA nas empresas é fascinante e crucial para o desenvolvimento do mercado moderno."
-   ✅ "A IA muda o jeito como as empresas crescem e cria oportunidades concretas de negócio."
+`quality/editorial-policy.json` define abreviações, expressões e pontuação bloqueadas. `knowledge/politica-editorial.md` explica o padrão. Alertas de cadência, similaridade e conectores exigem decisão editorial com trecho e justificativa. Não proibir automaticamente toda ocorrência de “não”, “além disso” ou palavra técnica necessária.
 
-4. **Estrutura "Não é X, é Y" (falso contraste)** — usada para criar profundidade artificial; perde impacto quando repetida.
-   ❌ "Não é só sobre aumentar cliques, é sobre criar conexão com o público."
-   ✅ "Aumentar cliques só funciona quando há conexão real com o público."
+Claims sem fonte, restrição violada, público/objetivo errados, português comprometido e falso contraste proibido não são compensados por média alta. Não atribuir falsamente “zero vícios” nem tomar aviso do script como diagnóstico completo.
 
-5. **Listas excessivas** — transformar narrativa que deveria fluir em bullet points secos.
+## Pontuação e limite
 
-6. **Redundância e circularidade de ideias** — repetir a mesma ideia com palavras diferentes, como se o leitor não tivesse entendido.
-   ❌ "A IA consegue automatizar tarefas. Ela automatiza processos rapidamente. Com a automação, tudo se torna mais simples."
-   ✅ "A IA automatiza tarefas rapidamente, tornando processos mais simples."
+`quality/scorecard.md` e `quality/rubric.json` definem 12 critérios gerais e 8 dimensões de humanização. Humanização usa 0, 5 ou 10; o script calcula a média. Registrar um trecho exato e justificativa por avaliação. Nota é julgamento editorial auxiliar, não medida de conversão nem certificação humana.
 
-7. **Vocabulário etéreo e metáforas abstratas** — "jornada do consumidor", "universo da inovação", "essência do negócio" — enfeitam sem transmitir informação real.
-
-8. **Palavras-bandeira de IA** — ver lista negra abaixo. O leitor reconhece essas palavras subconscientemente como "texto de robô", o que reduz engajamento e credibilidade.
-
-9. **Tom neutro e ausência de ponto de vista** — "é possível que...", "de modo geral", "dependendo do caso". Em copywriting, onde persuasão é o objetivo, isso é fatal — copy sem opinião não vende.
-
-10. **Abertura com introspecção longa (throat-clearing)** — parágrafo de aquecimento antes de entregar qualquer valor.
-    ❌ "Nos últimos anos, com o avanço da tecnologia digital e a transformação do comportamento do consumidor, tornou-se cada vez mais fundamental que as marcas..."
-    ✅ Corte o parágrafo inteiro. Comece pela promessa ou pelo gancho.
-
-11. **Frases iniciando com "É importante" / "É fundamental"** — "é importante lembrar que...", "é importante ressaltar que...". Comunica insegurança, como se o argumento não se sustentasse sozinho.
-
-12. **Falta de especificidade real** — a IA não tem vivência, então gera exemplos vagos.
-    ❌ "Muitas empresas já conseguiram crescer usando IA."
-    ✅ "A empresa X reduziu o CPL em 38% em 60 dias ao automatizar a segmentação de audiência."
-
-## Por que esses vícios acontecem (para entender, não só evitar)
-
-A IA prevê a próxima palavra estatisticamente mais provável a partir do que já leu — por isso tende ao genérico e ao seguro. Ela é treinada para não se comprometer (evita afirmações arriscadas) e não tem experiência de vida real para narrar com especificidade. Saber disso ajuda o Copywriting Agent a se auto-corrigir: sempre que uma frase "soa segura demais", é sinal de vício.
-
-## Lista negra de palavras/expressões
-
-| Categoria | Evitar |
-|---|---|
-| Verbos corporativos | utilize, leverage, foster, empower, harness, unlock, elevate, delve, dive into, underscore |
-| Adjetivos inflados | seamless, robust, pivotal, multifaceted, transformative, cutting-edge, groundbreaking, comprehensive, dynamic, innovative — e os equivalentes em PT: robusto, transformador, inovador, multifacetado |
-| Aberturas clichê | "No cenário atual...", "Em um mundo cada vez mais...", "No dinâmico universo de...", "É importante ressaltar que...", "Vale mencionar que..." |
-| Qualificadores vagos | vários, diversos, inúmeros, numerosos, múltiplos (trocar por quantidade/detalhe real quando disponível; nunca inventar número) |
-| Conectores de excesso | "além disso" (repetido), portanto, ou seja, "no entanto" (quando repetido), "dessa forma" |
-
-Ver `knowledge/termos-a-evitar.md` para os clichês de marketing (não sobrepõem — lá é sobre promessa genérica, aqui é sobre estrutura/ritmo de escrita).
-
-## Impacto real na performance
-
-| Impacto | Descrição |
-|---|---|
-| Perda de autenticidade | Copy que soa artificial faz o leitor questionar a credibilidade do produto |
-| Leitura fadigada | Texto prolixo com estrutura repetida aumenta taxa de rejeição |
-| Ausência de personalidade | Sem personalidade de marca, o copy não diferencia — e o que não diferencia, não vende |
-| Conteúdo genérico | Copy sem posicionamento real poderia ser de qualquer marca — ou seja, não é de nenhuma |
-
-Os padrões acima devem ser tratados como heurísticas editoriais. A base não associa uma queda universal de performance a uma palavra isolada; o problema é recorrência, inadequação ao tom e perda de clareza/especificidade.
-
-## Como aplicar no Copywriting Agent
-
-### Ao escrever (skill `11-copy-production`)
-
-- Nunca abrir com aquecimento/contexto — comece pelo gancho ou pela promessa.
-- Varie o tamanho das frases — não escreva tudo no mesmo ritmo.
-- Toda vez que for usar um adjetivo da lista negra ou um adjetivo vago, pergunte: "que número, resultado ou exemplo prova isso?" — e troque pelo dado, não pelo adjetivo.
-- Tenha um ponto de vista — copy neutra não persuade.
-- Puxe especificidade real do briefing/persona (skill `05`) em vez de generalizar.
-
-### Ao revisar (skill `13-copy-review-scorecard`) — Score de Humanização/Anti-Vícios de IA
-
-- [ ] O texto tem ponto de vista claro — não é neutro ou evasivo?
-- [ ] Há pelo menos um detalhe específico e real do briefing (produto, situação, dado ou exemplo), sem inventar evidência?
-- [ ] Adjetivos vagos foram substituídos por evidência concreta?
-- [ ] Os conectores variam ao longo do texto (não repetem)?
-- [ ] O primeiro trecho entrega valor imediato — sem aquecimento?
-- [ ] Lida "em voz alta" (mentalmente), soa como uma pessoa real falando?
-- [ ] Nenhuma palavra da lista negra presente?
-- [ ] Há variação no tamanho das frases?
-
-Pontue cada item em `0 = falha clara`, `5 = parcial/inconsistente` ou `10 = atende` e calcule a média. A copy precisa atingir pelo menos 8/10 neste score, separadamente do Score Geral. A fórmula completa e os vícios críticos que causam reprovação automática estão em `quality/scorecard.md`.
-
-### Framework de reescrita total (para casos onde os vícios estão muito presentes)
-
-1. Leia o rascunho e identifique as 3-5 ideias principais.
-2. Anote essas ideias em tópicos simples, com suas próprias palavras.
-3. "Feche" o rascunho original — não consulte mais.
-4. Reescreva do zero a partir dos tópicos, no tom da marca.
-5. Injete dados reais do briefing, tom de voz do cliente e especificidade de público.
-
-## IA como ferramenta, não como redator
-
-O equilíbrio eficaz: usar IA para estruturar ideias, gerar variações e acelerar rascunhos — e reservar para o processo humano (aprovação do gestor, feedback do cliente) o que a máquina não replica sozinha: opinião, vivência real, tom e conexão emocional específicos daquele cliente. É exatamente por isso que o Copywriting Agent nunca pula os checkpoints de validação com o gestor — eles existem para injetar o que só um humano sabe sobre aquele cliente específico.
+No máximo 2 ciclos internos por direção. Se faltar evidência ou houver falha persistente, informar a lacuna e revisar a direção. Aprovação final é decisão do gestor sobre a versão validada.

@@ -24,7 +24,7 @@ Uma variação útil muda uma variável com motivo claro. Se tudo muda ao mesmo 
 
 ### Exploração
 
-Usar quando ainda não se sabe qual tensão ressoa. Criar 3 ângulos diferentes:
+Quando o gestor pedir exploração, comparar ângulos pertinentes. Os exemplos abaixo são possibilidades, não quantidade ou tipos obrigatórios:
 
 - A: dor ou custo do status quo.
 - B: desejo/resultado.

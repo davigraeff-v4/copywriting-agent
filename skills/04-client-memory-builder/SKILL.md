@@ -1,62 +1,24 @@
 ---
 name: 04-client-memory-builder
-description: "Cria ou atualiza a ficha operacional do cliente em clients/{cliente}.md. Use sempre que houver informação nova de marca, público ou feedback para registrar, ou quando o gestor pedir explicitamente 'salvar/atualizar ficha do cliente'. Não bloqueia o fluxo principal — pode rodar em paralelo/a qualquer momento."
-dependencies: []
-outputs: ["clients/{cliente}.md"]
-week: 1
-estimated_time: "5 min"
+description: "Atualiza estado atual e histórico de cliente com fatos e feedbacks confirmados, preservando versões."
 ---
 
-# Client Memory Builder
-
-Cria e mantém a memória operacional do cliente — é o que permite ao Copywriting Agent melhorar com o tempo sem depender de memória solta no chat. Sem essa skill, cada conversa começaria do zero.
+# 04-client-memory-builder
 
 ## Dados necessários
 
-1. `clients/cliente-template.md` — modelo de campos.
-2. `clients/{cliente}.md`, se já existir — para atualizar, não recriar do zero.
-3. Outputs relevantes desta conversa (análise de marca, persona, feedback de aprovação/reprovação) que devem virar memória permanente.
+Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
-## Checkpoint único — Criar ou atualizar ficha
+- `knowledge/memoria-clientes.md`
+- `clients/cliente-template.md`
+- `quality/feedback-template.md`
 
-Se `clients/{cliente}.md` **não existir**: crie a partir de `clients/cliente-template.md`, preenchendo com o que já se sabe desta conversa.
+## Execução e auto-validação
 
-Se **existir**: atualize apenas os campos com informação nova ou mudada. Nunca sobrescreva o histórico de campanhas — sempre acrescente uma nova entrada.
+Pode executar quando houver informação confirmada. Ler estado atual e ficha original antes de editar. Criar/atualizar `clients/current/{cliente}.md`; manter `clients/{cliente}.md` como ponto de entrada e histórico, com referência à visão atual.
 
-Campos:
-```
-Cliente:
-Segmento:
-Produto/serviço:
-Público:
-Tom de voz:
-Promessas permitidas:
-Promessas proibidas:
-Campanhas anteriores:
-Copies aprovadas:
-Copies rejeitadas:
-Preferências do cliente:
-Restrições:
-Observações do gestor:
-Aprendizados:
-```
+Atualizar campo vigente e registrar mudança datada no histórico. Escopar restrições por pessoa, produto, formato e campanha. Preferência global vive na política; não propagá-la copiando para toda ficha. Nunca manter decisão superada como atual.
 
-O bloco `HARD CONSTRAINTS` desta conversa (ver `CONTRATO-OPERACIONAL-MODOS.md` seção 4) alimenta diretamente os campos `Promessas proibidas` e `Restrições` — toda restrição validada nesta conversa deve estar refletida na ficha, não só na memória de curto prazo da conversa. Preferências de processo do gestor (ex.: ritmo de vídeo, como tratar um asset visual, modo de operação preferido) entram em `Preferências do cliente` e/ou `Aprendizados`, com data — são o que evita repetir a mesma correção na próxima campanha desse cliente.
+Feedback literal e interpretação do agent são campos diferentes. Registrar aprovador, versão/hash, motivo e limite de aprendizado. Aprovação não implica publicação nem performance. Em aprovação parcial, identificar peças exatas; não promover lote inteiro.
 
-Este é um passo operacional — normalmente não precisa de aprovação explícita do gestor, apenas confirme brevemente o que foi salvo.
-
-**Informe:**
-- "Ficha de {cliente} atualizada: [resuma o que mudou]."
-
-## Auto-validação
-
-- [ ] Não sobrescreveu histórico anterior?
-- [ ] Só adicionou/atualizou o que é fato desta conversa (não hipótese)?
-- [ ] Data registrada em qualquer entrada de histórico de campanha?
-
-Se falhou → corrija silenciosamente.
-
-## Finalização
-
-1. Salve/atualize `clients/{cliente}.md`.
-2. Volte ao fluxo principal de onde essa skill foi chamada.
+Se houver migração de ficha contraditória, registrar o conflito e resolver apenas com correção explícita documentada. Preservar arquivos antigos. Saída: visão atual e histórico rastreável; confirmar brevemente o que mudou, sem checkpoint de permissão redundante.

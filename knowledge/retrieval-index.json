@@ -1,0 +1,153 @@
+[
+  {
+    "id": "rotas-lp",
+    "path": "knowledge/rotas/lp.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "tags": [
+      "LP",
+      "argumento",
+      "marca desconhecida",
+      "custo benefício",
+      "formulário"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "LP, argumento, marca desconhecida, custo benefício, formulário"
+  },
+  {
+    "id": "rotas-social",
+    "path": "knowledge/rotas/social.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "tags": [
+      "calendário",
+      "pauta",
+      "seguidores",
+      "viabilidade",
+      "obra"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "calendário, pauta, seguidores, viabilidade, obra"
+  },
+  {
+    "id": "rotas-ads",
+    "path": "knowledge/rotas/ads.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "tags": [
+      "estático",
+      "headline",
+      "legenda",
+      "redundância"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "estático, headline, legenda, redundância"
+  },
+  {
+    "id": "rotas-direct",
+    "path": "knowledge/rotas/direct.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "tags": [
+      "email",
+      "whatsapp",
+      "mensagem"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "email, whatsapp, mensagem"
+  },
+  {
+    "id": "provas-e-claims",
+    "path": "knowledge/provas-e-claims.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "evidência",
+      "prova",
+      "claim",
+      "margem",
+      "garantia"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "evidência, prova, claim, margem, garantia"
+  },
+  {
+    "id": "politica-editorial",
+    "path": "knowledge/politica-editorial.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "português",
+      "abreviação",
+      "travessão",
+      "contraste",
+      "voz"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "português, abreviação, travessão, contraste, voz"
+  },
+  {
+    "id": "calibracao-editorial",
+    "path": "knowledge/calibracao-editorial.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "exemplos",
+      "antes depois",
+      "voz",
+      "estilo"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "exemplos, antes depois, voz, estilo"
+  },
+  {
+    "id": "memoria-clientes",
+    "path": "knowledge/memoria-clientes.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "restrição",
+      "memória",
+      "estado atual",
+      "histórico"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "restrição, memória, estado atual, histórico"
+  }
+]

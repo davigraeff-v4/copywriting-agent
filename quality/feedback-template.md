@@ -1,46 +1,19 @@
-# Template de Feedback
+# Feedback e aprendizado
 
-Usado pela skill `14-final-delivery-feedback` para registrar em `clients/{cliente}.md` e em `examples/`.
+Registrar na campanha e na visão atual apenas o que for vigente/aplicável.
 
-## Se aprovada
+- Cliente/campanha/rota/formato:
+- Versão e SHA-256:
+- Data e responsável:
+- Decisão: ajuste | reprovado | aprovado pelo gestor | aprovado pelo cliente | publicado
+- Escopo: lote completo ou ids das peças:
+- Feedback literal:
+- Classificação: argumento | evidência | português | voz | formato | redundância | viabilidade | outro
+- Interpretação do agent (separada da fala):
+- Alteração aplicada:
+- Regra aprendida, escopo e limite:
+- Regra substituída (se houver):
+- Fonte/registro da decisão:
+- Publicação/performance: não informado, salvo evidência específica
 
-```
-Cliente:
-Campanha:
-Canal:
-Formato:
-Copy aprovada: [link ou trecho]
-Motivo da aprovação:
-Aprendizados:
-Data:
-```
-
-## Se reprovada
-
-```
-Cliente:
-Campanha:
-Canal:
-Formato:
-Copy reprovada: [link ou trecho]
-Motivo: [tom inadequado | promessa fraca | copy genérica | desalinhada com briefing |
-         desalinhada com cliente | muito longa | muito agressiva | faltou clareza |
-         CTA fraco | outro]
-Detalhe do motivo:
-Aprendizados:
-Data:
-```
-
-## Se ajuste
-
-```
-Cliente:
-Campanha:
-Canal:
-Formato:
-Feedback recebido:
-Ajuste feito:
-Nova versão: [link ou trecho]
-Aprendizado:
-Data:
-```
+Não pedir novamente motivo já fornecido. Não registrar alteração local como aprovação humana. Não substituir copy histórica por nova versão sem preservar a anterior.

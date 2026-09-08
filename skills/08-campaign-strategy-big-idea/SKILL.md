@@ -1,57 +1,23 @@
 ---
 name: 08-campaign-strategy-big-idea
-description: "Define a estratégia criativa da campanha: premissa, big idea, ângulo narrativo, mensagem central, linha criativa. Use no fluxo estratégico completo, após 07-reference-competitor-analysis, ou quando o gestor disser 'big idea', 'premissa' ou 'qual a ideia central'."
-dependencies: ["07-reference-competitor-analysis"]
-outputs: ["big idea da campanha (em memória de conversa)"]
-week: 1
-estimated_time: "20-30 min"
+description: "Escolhe argumento da LP/anúncio ou pauta do orgânico antes da estrutura de escrita."
 ---
 
-# Campaign Strategy & Big Idea
-
-Etapa de **ideação** do método da Thamy: entender premissa, big idea, conteúdo, oferta, estrutura, fluxo e gatilhos emocionais.
+# 08-campaign-strategy-big-idea
 
 ## Dados necessários
 
-1. Análise de marca (`03`), persona (`05`), funil (`06`) e referência (`07`) — OBRIGATÓRIO.
-2. `knowledge/banco-de-angulos.md` — taxonomia operacional; use para selecionar uma tensão, não como histórico de performance.
-3. `knowledge/matriz-de-variacoes-e-testes.md` — quando a campanha pedir variações, defina desde aqui quais hipóteses serão exploradas.
+Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
-## Checkpoint único — Big idea
+- `knowledge/pacote-contexto.md`
+- `knowledge/calibracao-editorial.md`
 
-Gere:
+## Execução e auto-validação
 
-```
-Premissa:
-Big idea:
-Ângulo narrativo:
-Mensagem central:
-Linha criativa:
-Papel da campanha (o que ela precisa cumprir no funil geral):
-Hipótese de impacto (por que essa big idea deveria funcionar para esse público específico):
-```
+Receber público, intenção e oferta/evidência da 09. Ler a rota aplicável. Considerar alternativas de argumento internamente quando a escolha não for evidente; compará-las por aderência ao objetivo, pertinência ao público, fonte, voz e desenvolvimento possível.
 
-Regra: a big idea deve nascer da conexão entre a dor/desejo da persona (skill 05) e a promessa possível da marca (skill 03) — nunca de uma fórmula genérica. Cite a persona e a marca pelo nome ao justificar a escolha. Verifique o bloco `HARD CONSTRAINTS` vigente antes de fechar a big idea — nenhuma ideia central pode depender de quebrar uma restrição já validada.
+Fechar direção pela barreira real, sem substituir por dor genérica. Framework não é ideia. Se a rota depender de prova ausente, buscar a fonte ou escolher outro argumento sustentado.
 
-## Modo de operação
+LP: construir outline com pergunta, função, informação nova e evidência por dobra. Social: cartão de pauta com assunto, valor, fonte, asset e viabilidade; revisar diversidade do lote. Ads: mensagem central, prova e destino, evitando excesso na arte.
 
-- **Estratégico:** apresente a big idea isoladamente e pergunte, como abaixo.
-- **Rápido/Express:** rode silenciosamente dentro do bloco de pesquisa e leve a big idea para o Checkpoint 2 ("Mapa estratégico"). Não gera pausa própria.
-
-**Apresente a big idea e pergunte (checkpoint isolado, modo Estratégico; ou dentro do Mapa estratégico, modos Rápido/Express):**
-- "Essa ideia central ressoa com o que você conhece desse público e desse cliente?"
-- "Está dentro do tom de voz e das promessas permitidas da marca?"
-
-Aguarde aprovação antes de avançar.
-
-## Auto-validação
-
-- [ ] A big idea cita a dor/desejo real da persona (skill 05), não é genérica?
-- [ ] Está dentro das promessas permitidas (skill 03) — não usa promessa sensível sem alerta?
-- [ ] Tem hipótese de impacto justificada, não só a ideia solta?
-
-Se falhou → regenere silenciosamente.
-
-## Finalização
-
-1. Informe: "Big idea definida. Próximo passo: `09-offer-promise-analysis`."
+Saída: direção, alternativa descartada e motivo breve quando útil, outline e HARD CONSTRAINTS. Validar no checkpoint da direção conforme o contrato; não criar pausas individuais em Rápido/Express.

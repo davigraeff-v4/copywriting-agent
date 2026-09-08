@@ -1,207 +1,85 @@
-# Contrato Operacional — Modos, Checkpoints, Hard Constraints e Canal×Formato
+# Contrato operacional v2
 
-> Saída da Fase 1 do `PLANO-OTIMIZACAO-AGILIDADE.md`. Este documento resolve as ambiguidades antes de editar `CLAUDE.md`, `AGENTS.md` e as 14 `SKILL.md` (Fases 2 e 3). Decisões validadas com o gestor em 2026-07-11.
+Vigente desde 2026-09-08. Revisão autorizada pelo gestor após comparação DMF. Substitui regras operacionais conflitantes dos documentos anteriores. Metodologia original continua preservada; convenções editoriais são decisões deste agent, não alegações de padrão oficial V4.
 
-## 0. Decisões validadas com o gestor
+## 1. Precedência e escopo
 
-1. **Modo Rápido é o padrão** quando o gestor não especificar nada.
-2. **Modo Express mantém 1 checkpoint mínimo** antes de produzir (mapa estratégico resumido), mesmo sem lacuna ou risco — não entrega 100% direto.
-3. **Mapa estratégico consolidado mostra todos os campos**, em formato compacto — não corta para "só decisões principais", para preservar rastreabilidade com o scorecard e com `clients/{cliente}.md`.
-4. **Nenhuma elevação automática para o modo Estratégico.** O gestor pede `--estrategico` explicitamente. A segurança para cliente novo/oferta sensível/contradição continua garantida pelo Checkpoint 1 (bloqueio por lacuna crítica) e pelo bloco `HARD CONSTRAINTS` (bloqueio por promessa sensível), que valem nos três modos.
-5. Nomes dos modos mantidos: `rápido`, `express`, `estratégico`.
-6. Limites padrão por canal/formato quando o briefing não informar: ver seção 4.
+1. Instrução atual explícita do gestor, respeitando seu escopo e fatos comprovados.
+2. Restrições ativas da campanha e política editorial vigente.
+3. Estado atual validado do cliente, compatível com a campanha.
+4. Metodologia aplicável e exemplos curados compatíveis.
+5. Referências históricas e genéricas, somente nos aspectos indicados.
 
-## 1. Matriz de campos — crítico, inferível, condicional
+Fato é julgado pela fonte e validade, não pela prioridade editorial. A instrução de usar um benefício não comprova esse benefício. Separar material original, interpretação do agent e decisão do gestor. Em conflito factual não resolvido, omitir o claim ou perguntar se indispensável.
 
-| Campo | Classificação | Regra |
-|---|---|---|
-| Cliente | Crítico | Bloqueia produção se ausente ou ambíguo |
-| Objetivo | Crítico | Bloqueia produção se ausente |
-| Canal | Crítico | Bloqueia produção se ausente |
-| Formato | Crítico | Bloqueia produção se ausente |
-| Campanha/ideia central | Crítico | Bloqueia produção se ausente |
-| Público | Crítico | Bloqueia produção se ausente ou contraditório |
-| Oferta | Crítico | Bloqueia produção se ausente — sem oferta não há promessa para traduzir em benefício (skill 09) |
-| Restrições | Crítico | Se não informado, perguntar explicitamente "existe alguma restrição?" antes de produzir — nunca assumir "sem restrições" silenciosamente |
-| Referência visual | Condicional | Crítico apenas se o formato exigir referência obrigatória (ex.: vídeo/Reels); se ausente, seguir com a limitação registrada (skill 07) |
-| Persona | Inferível | Gerar `[H]` a partir de público + marca; nunca bloqueia |
-| Tom de voz | Inferível (ou herdado de `clients/{cliente}.md`) | Gerar `[H]` se ausente e cliente novo |
-| Nível de consciência | Inferível | Gerar hipótese preliminar; refinar no mapa estratégico |
-| Framework/gatilho/figura de linguagem/CTA | Inferível | Sempre decidido pelo agent, nunca perguntado como campo obrigatório do briefing |
-| Duração/ritmo (formato vídeo) | Condicional | Se ausente, usar padrão de canal×formato (seção 4) e marcar como hipótese apenas se o padrão não se aplicar ao caso |
+## 2. Diagnóstico: mínimo suficiente
 
-Regra geral: **campo crítico ausente = pausa obrigatória nos três modos.** Campo inferível ausente = segue com hipótese `[H]`, nunca pausa.
-
-## 2. Definição final dos três modos
-
-### 2.1 Rápido (padrão)
-- Quando: gestor não especifica modo, briefing razoavelmente completo, sem sinalização de "quero ver passo a passo".
-- Checkpoints: até 3 (diagnóstico+fontes / mapa estratégico consolidado / entrega revisada).
-- Skills executadas: as 14, mas agrupadas em blocos — ver seção 3.
-
-### 2.2 Express
-- Quando: `clients/{cliente}.md` já existe e está com marca/público/restrições consolidados, e a demanda é semelhante a campanhas anteriores.
-- Checkpoints: 1 mínimo obrigatório (mapa estratégico resumido, mesmo sem lacuna) + aprovação final = 2 no total.
-- Não repete perguntas já respondidas na ficha do cliente. Só pausa fora do checkpoint mínimo se aparecer contradição, oferta nova, promessa sensível ou campo crítico ausente/alterado frente à ficha.
-
-### 2.3 Estratégico
-- Quando: o gestor pede explicitamente (`--estrategico`, "quero ver passo a passo", "quero construir junto").
-- Checkpoints: até 14 (um por skill), como o fluxo padrão completo usado no Teste 01.
-- Esse modo substitui o antigo "fluxo padrão completo" do `CLAUDE.md` atual.
-
-### 2.4 Seleção automática quando o gestor não informar o modo
-
-| Condição | Modo |
+| Campo | Regra |
 |---|---|
-| Gestor não diz nada, briefing tem os campos críticos ou pode preenchê-los rápido | Rápido |
-| `clients/{cliente}.md` completo (marca, público, restrições) e demanda recorrente | Express |
-| Gestor pede explicitamente "sem pausas"/"rápido" | Rápido |
-| Gestor pede explicitamente "passo a passo"/"quero validar tudo"/`--estrategico` | Estratégico |
+| Cliente, objetivo, canal/contexto, formato, público e tema | Resolver antes de produzir; extrair do material e instrução atual, sem perguntas repetidas |
+| Oferta/objeto comercial | Necessário em LP/anúncio de conversão; conhecer produto e ação não exige inventar promoção |
+| Valor ao público | Obrigatório no orgânico, mesmo sem oferta comercial |
+| Restrições | Ler as ativas; se cliente novo sem indicação, perguntar em uma única rodada |
+| Barreira/motivação | Extrair das fontes; hipótese explícita se periférica. Se a direção depende dela, resolver antes da escrita |
+| Voz pessoal ou da marca | Usar amostras reais. Se identidade for central e não houver amostra, pedir referência; não copiar voz de outra pessoa |
+| Persona/demografia | Inferência opcional; não inventar nome, idade ou renda sem utilidade decisória |
+| Número de dobras, duração, campos | Instrução direta atual supera template antigo; registrar resolução. Perguntar se conflito não foi resolvido |
+| Prova, estoque, desconto, disponibilidade de gravação | Nunca inferir como fato. Verificar ou retirar da copy |
+| Framework/gatilho/figura/variação/CTA | Decisão editorial opcional conforme objetivo, nunca campo crítico universal |
 
-Não há elevação automática por tipo de cliente/oferta (decisão 4 da seção 0) — a segurança fica com o Checkpoint 1 e os Hard Constraints, não com a escolha de modo.
+Descoberta não exige questionário completo. Pesquisar antes de perguntar. Uma fonte acessada não implica que seja relevante: selecionar evidência ligada às perguntas do público.
 
-O modo escolhido deve ser informado em uma frase curta no início da execução (ex.: "Sem indicação sua, vou seguir no modo Rápido — até 3 checkpoints.").
+## 3. Rotas e dependências
 
-## 3. Os três checkpoints consolidados (modo Rápido)
+- Todos: 01 → 02 → pacote de contexto (03/05/06/07 conforme lacunas) → direção (09 + 08 + 10 conforme rota) → 11 com 12 → 13 → 14.
+- A oferta/evidência da 09 informa a escolha de argumento da 08. Se a ideação revelar lacuna, retornar à fonte específica.
+- 04 registra fatos/feedback quando surgem; não interrompe a produção nem cria aprovação fictícia.
+- Consulta rápida de cliente recorrente pode reutilizar decisões vigentes. Registrar o que foi reutilizado e por quê. Não reexecutar 14 análises por ritual.
+- LP: arquitetura por pergunta, informação nova e prova em `knowledge/rotas/lp.md`.
+- Social: descoberta de pauta + viabilidade + diversidade do calendário em `knowledge/rotas/social.md`.
+- Ads: mensagem, intenção, arte e texto de plataforma em `knowledge/rotas/ads.md`.
+- Direct: contexto, desenvolvimento e próximo passo em `knowledge/rotas/direct.md`.
+- Revisão avulsa entra pela 13; diagnosticar contexto faltante e devolver crítica, sem inventar análise anterior.
 
-### Checkpoint 1 — Diagnóstico, fontes e restrições (skills 01+02)
-```
-Briefing compreendido:
-Lacunas críticas:
-Contradições:
-Oferta a confirmar:
-Restrições conhecidas:
-Fontes disponíveis:
-Fontes que devem ser ignoradas:
-Hipóteses permitidas:
-```
-Regras: uma única mensagem; todas as perguntas críticas juntas; pergunta explícita sobre quais documentos podem/não podem ser usados quando houver mais de uma fonte disponível; captura duração/ritmo/requisitos técnicos quando o formato for vídeo.
+## 4. Modos e checkpoints
 
-### Checkpoint 2 — Mapa estratégico consolidado (skills 03+05+06+07+08+09+10)
-```
-Mapa estratégico
+| Modo | Seleção | Interação |
+|---|---|---|
+| Rápido | Padrão | Até 3 checkpoints: lacunas/fontes, direção, entrega |
+| Express | Cliente e demanda recorrentes com estado atual confiável | 1 direção compacta + entrega |
+| Estratégico | Pedido explícito de acompanhar etapas | Checkpoint por decisão pertinente, sem etapas artificiais |
 
-Marca e tom:
-Público/persona:
-Dor central:
-Desejo central:
-Nível de consciência e funil:
-Oferta:
-Promessa sustentável:
-Restrições obrigatórias (= HARD CONSTRAINTS vigente):
-Referências consideradas:
-Big idea:
-Framework e gatilho:
-CTA:
-Hipóteses que precisam de validação:
-```
-Pergunta padrão: "Posso produzir com essa direção? Corrija apenas o que estiver errado, arriscado ou desalinhado."
+Risco não muda modo. Contradição material pode exigir uma pergunta consolidada. Se não houver lacunas, 01/02 seguem diretamente até a direção. Não pedir aprovação da organização do briefing.
 
-Todos os campos aparecem (decisão 3 da seção 0) — formato compacto, não telegráfico a ponto de perder rastreabilidade (cada linha deve continuar permitindo saber qual skill gerou o quê, para uso posterior em `clients/{cliente}.md` e no scorecard).
+Direção compacta: cliente/campanha, objetivo, rota, público, barreira ou motivação, valor/oferta, fatos/provas, voz, argumento/pauta, função de cada seção/peça, ação adequada, HARD CONSTRAINTS e hipóteses. Framework só aparece quando útil.
 
-### Checkpoint 3 — Entrega revisada (skills 11+12+13+14)
-```
-Copy final adaptada ao canal
-Variações previstas para o formato
-Orientação para design e tráfego
-Justificativa estratégica resumida
-Score Geral + Score de Humanização/Anti-Vícios de IA
-Pontos mais fracos
-Hipóteses ainda existentes
-Pedido de aprovação, reprovação ou ajuste
-```
-Não existe confirmação separada entre scorecard e entrega final — sai tudo junto.
+Pergunta padrão: “Posso produzir com essa direção? Corrija o que estiver errado ou desalinhado.” Autorização explícita para seguir sem pausas elimina esta confirmação naquela tarefa, preservando a resolução de lacunas indispensáveis.
 
-Antes deste checkpoint, as skills `11` e `13` cumprem o Knowledge Gate de forma silenciosa: ambas leem integralmente `knowledge/vicios-ia-humanizacao.md`, em momentos independentes. A entrega só avança se Score Geral ≥ 8, Score de Humanização/Anti-Vícios de IA ≥ 8, zero vício crítico, zero violação de `HARD CONSTRAINTS` e todas as leituras obrigatórias concluídas.
+## 5. Produção por formato
 
-No modo **Express**, os Checkpoints 1 e 2 colapsam em um único checkpoint mínimo (mapa estratégico resumido, já com o diagnóstico silencioso embutido), e o Checkpoint 3 permanece igual.
+Escrever no formato final em todos os modos. Número de versões segue pedido; não multiplicar copys para completar A/B/C. Na ausência de pedido de variação, entregar uma versão principal.
 
-No modo **Estratégico**, os checkpoints voltam a ser um por skill (14 no total), como hoje.
+- LP: quantidade de dobras e formulário do briefing. Nenhuma sequência universal obrigatória.
+- Social: uma pauta com substância por peça; calendário precisa variar tema e construção. CTA é consequência do conteúdo, não obrigação de engajamento vazio.
+- Estático: separar headline/subheadline de arte e texto principal/título de plataforma. Campos podem ser omitidos se a peça não precisa; preservar legibilidade e a solução já aprovada para o cliente.
+- Vídeo: distinguir fala, tela, imagem e disponibilidade dos assets. Duração depende da mensagem e do briefing. Na ausência, propor estimativa de duração de fala, sinalizar; não impor 9–12 segundos a todo Reels educativo.
+- Carrossel: cada slide entrega parte nova da ideia; quantidade depende do pedido/progressão.
+- Limites técnicos de plataforma: verificar documentação atual quando decisivos, sem inventar limite universal.
 
-## 4. Contrato de Hard Constraints
+## 6. HARD CONSTRAINTS
 
-Bloco único, gerado no Checkpoint 1 (a partir de restrições explícitas do briefing) e atualizado a qualquer momento que o gestor corrigir algo — nunca fica só na skill onde apareceu.
+Registrar id, regra, escopo (global/cliente/produto/campanha/formato), origem, data, status e substituição. Herdar apenas regras aplicáveis. Antes de produção e revisão, compor bloco ativo único. Termos obrigatórios/proibidos podem ter validação automática; restrições semânticas exigem verificação por trecho.
 
-```
-HARD CONSTRAINTS — {cliente} — {campanha}
-- [restrição 1]
-- [restrição 2]
-- ...
-```
+## 7. Gate, reescrita e entrega
 
-Regras:
-- Uma restrição validada deixa de ser hipótese e entra direto neste bloco.
-- Skills 08, 09, 10, 11, 12 e 13 devem consultar este bloco antes de produzir/validar qualquer trecho.
-- Violação de hard constraint = **reprovação automática**, independentemente da média do scorecard (mesmo que a média dê ≥ 8).
-- Ajuste do gestor sobre uma restrição atualiza o bloco imediatamente, antes de qualquer reescrita — nunca corrige só o trecho pontual sem propagar pro bloco.
-- O bloco é exibido no Checkpoint 2 (mapa estratégico) e na entrega final (Checkpoint 3), para o gestor sempre ver o que está valendo.
+Leituras: índice + metodologia + rota no contexto; humanização integral antes da escrita e novamente antes da revisão. Referências adicionais por necessidade. Recibos registram leitura do arquivo, não compreensão do modelo.
 
-Exemplo ilustrativo (baseado num teste real de campanha automotiva, cliente anonimizado):
-```
-HARD CONSTRAINTS — Cliente X — Reels Fundo de Funil
-- Não mencionar percentual de ganho de performance.
-- Não mencionar economia de recursos.
-- Ativo visual de prova é apoio apenas — nunca citado em locução/texto.
-- Não sugerir que todo cliente passa pelo mesmo teste/processo.
-- Não sugerir resultado idêntico ou garantido por caso.
-```
+`quality/FORMATO-ENTREGA.md` define o artefato; `quality/scorecard.md` define a revisão. `scripts/copycheck.py` verifica campos publicáveis, integridade e evidência registrada; não certifica fatos ou qualidade subjetiva.
 
-## 4.1 Contrato de Knowledge Gate e humanização
+Até 2 reescritas internas por direção. Se persistir falha estratégica, voltar ao argumento; se faltar dado, informar a lacuna concreta. Após o limite, entregar diagnóstico do impedimento, não copy reprovada com nota elevada.
 
-- `knowledge/README.md` e `knowledge/metodologia-thamy.md` são leitura obrigatória no início de toda campanha ou revisão avulsa.
-- Cada skill lê os arquivos de `knowledge/` listados em seus dados necessários antes de agir.
-- A skill `11` lê integralmente `knowledge/vicios-ia-humanizacao.md` imediatamente antes de escrever.
-- A skill `13` relê integralmente o mesmo arquivo antes de pontuar e calcula um score separado de humanização.
-- Alterar a copy invalida os scores anteriores; a nova versão volta à skill `13`.
-- A skill `14` e o comando `/aprovar-copy` bloqueiam registro de aprovação sem scores válidos da versão atual.
+Entrega: copy exata renderizada, notas separadas, scores calculados, limitações, HARD CONSTRAINTS e pedido de feedback. Aprovação só registra decisão expressa do humano sobre aquela versão; não é autorização de publicação.
 
-## 5. Contrato de canal × formato
+## 8. Estado e avaliação
 
-A skill 12 aplica este contrato **durante** a produção da skill 11 nos modos Rápido e Express (não existe mais copy base genérica intermediária nesses dois modos — só no Estratégico, onde a skill 11 ainda entrega uma copy base antes da 12 adaptar).
-
-### Vídeo / Reels (formato curto, ex.: Meta Reels, TikTok, Stories)
-```
-Duração máxima padrão: 9-12s quando o briefing não informar
-Entrada da locução: colada no primeiro frame — sem silêncio inicial
-Gancho no primeiro frame: obrigatório
-Quantidade de cenas: 3-4 blocos (hook / corpo / prova-autoridade / CTA, podendo fundir os dois últimos)
-Texto na tela: sincronizado com a locução, frases curtas
-Locução: tom definido pelo mapa estratégico (skill 03/10)
-CTA: alinhado ao objetivo de campanha (ex.: "Enviar mensagem" para objetivo Mensagem)
-Legenda: 1-2 frases + CTA, emoji conforme tom da marca
-Orientação visual: notas de corte/prova visual, sem repetir o texto da locução
-```
-
-### Vídeo institucional / educativo mais longo (ex.: YouTube Shorts educativo, vídeo de topo de funil)
-```
-Duração máxima padrão: 30-60s quando o briefing não informar
-Entrada da locução: pode ter até 2s de contexto visual antes da fala, nunca mais que isso
-Estrutura: hook → contexto/educação → prova/diferencial → CTA
-```
-
-### Estático (Meta/Google, imagem única)
-```
-Convenção real V4: 3 variações (A/B/C) por peça, para uso do gestor escolher/testar
-Headline + subheadline + CTA + rodapé sempre presentes
-```
-
-### Carrossel
-```
-5-8 slides quando o briefing não informar quantidade
-Slide 1 sempre é o hook/headline de abertura
-Último slide sempre é CTA
-```
-
-### Landing Page / WhatsApp / E-mail / Google Ads
-Seguem os templates já existentes na skill 12 atual (sem alteração de estrutura nesta fase — só passam a ser produzidos direto no formato final, sem copy base intermediária, nos modos Rápido/Express).
-
-Quando o briefing não informar esses dados e o padrão acima não se aplicar ao caso (ex.: cliente pede explicitamente vídeo de 30s no feed de Reels), o agent aplica o padrão do canal mas sinaliza a decisão como algo a confirmar no Checkpoint 1, não como fato consolidado.
-
-## 6. Critério de aceite da Fase 1
-
-- [x] Não existe contradição entre este contrato, o `PLANO-OTIMIZACAO-AGILIDADE.md` e as decisões do gestor.
-- [x] Os três modos, os três checkpoints, o bloco de hard constraints e o contrato de canal×formato estão definidos de forma que a Fase 2 (atualizar `CLAUDE.md`/`AGENTS.md`) e a Fase 3 (refatorar as 14 skills) possam ser executadas sem reabrir essas decisões.
-
-## 7. Próximo passo
-
-Fase 2 — atualizar `AGENTS.md` e `CLAUDE.md` com os três modos, a seleção automática, os checkpoints consolidados e o bloco `HARD CONSTRAINTS`.
+Memória atual: `knowledge/memoria-clientes.md`. Recuperação: `knowledge/recuperacao-contexto.md`. Regressões e avaliação comparativa: `evals/README.md`. Os arquivos de baseline e clientes são locais, fora do repositório público. Não confundir teste técnico aprovado com preferência editorial ou performance de mídia comprovada.

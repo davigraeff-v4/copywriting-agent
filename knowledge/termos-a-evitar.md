@@ -2,6 +2,10 @@
 
 > Baseline operacional. Não é uma lista oficial completa da Thamy/V4. A decisão depende de contexto, prova, canal e voz do cliente. Termos específicos de cliente sempre devem viver também em `clients/{cliente}.md` e em `HARD CONSTRAINTS` quando forem restrições absolutas.
 
+## Política vigente
+
+Restrições absolutas de expressão em `knowledge/politica-editorial.md` e `quality/editorial-policy.json` prevalecem. Termos contextuais abaixo são alertas, não proibições mecânicas de toda a lista.
+
 ## 1. Proibidos sem comprovação explícita
 
 - `resultados garantidos`, `resultado certo`, `sem risco`.

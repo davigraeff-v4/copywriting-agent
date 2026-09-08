@@ -1,22 +1,12 @@
-# Critérios de Revisão — Detalhamento
+# Critérios de revisão por rota
 
-Complementa `quality/scorecard.md` com o que cada critério significa na prática, para calibrar a nota.
+Complementa `quality/scorecard.md`; não cria outra fórmula.
 
-## Como pontuar cada critério (0-10)
+- LP: cada dobra responde pergunta distinta; apresentação da oferta/marca proporcional ao desconhecimento; provas próximas aos claims; custo-benefício desenvolvido quando pedido; próximo passo explicado.
+- Social: informação específica, fonte, viabilidade, valor antes do convite; calendário revisado por diversidade e público correto.
+- Ads: arte e plataforma separadas; campos complementares, intenção/destino alinhados; legibilidade sem truncar a legenda por limite da arte.
+- Direct: mensagem adequada ao contexto da relação; assunto/abertura/corpo complementares; ação proporcional.
 
-- **0-3** — ausente ou claramente errado (ex.: headline confusa, CTA inexistente).
-- **4-6** — presente mas fraco/genérico (funcionaria para qualquer marca do segmento).
-- **7-8** — bom, específico, mas com espaço de melhora pontual.
-- **9-10** — específico, testado contra a persona real, sem clichê, com justificativa estratégica clara.
+Revisão linguística cobre concordância, regência, crase, referência pronominal, acentos e sintaxe. O lint lexical não é corretor gramatical. Naturalidade não equivale a abreviação ou dramatização.
 
-## Sinais de alerta que devem baixar a nota mesmo se o texto "soa bem"
-
-- Frase que serviria para qualquer concorrente do mesmo segmento (baixa "Nível de especificidade").
-- Promessa sem lastro na análise de oferta/marca (baixa "Risco de promessa exagerada").
-- CTA que não corresponde ao objetivo declarado no briefing (baixa "CTA claro").
-- Tom mais agressivo/informal do que o registrado em `clients/{cliente}.md` (baixa "Tom de voz do cliente").
-- Característica do produto listada sem virar benefício (baixa "Tradução de característica em benefício").
-
-## Honestidade obrigatória
-
-Se a copy ficou boa mas fraca em algum critério geral ou dimensão de humanização, isso deve aparecer na entrega (skill `14`) mesmo estando aprovada — nunca omitir uma fragilidade real só porque os dois scores passaram de 8.
+Na justificativa, apontar o trecho e o efeito na leitura/decisão. Se o fato é real porém irrelevante, reduzir relevância/utilidade; inserir números não basta. Se o texto é curto porém genérico, revisar argumento antes de cortar mais.

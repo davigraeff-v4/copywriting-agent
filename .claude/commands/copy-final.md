@@ -1,12 +1,1 @@
-Execute o fluxo do Copywriting Agent a partir do briefing colado nesta conversa (ou peça o briefing se ainda não foi colado).
-
-Escolha o modo de operação conforme `CLAUDE.md` (seção "Modos de operação") e `CONTRATO-OPERACIONAL-MODOS.md`:
-
-- Se o comando vier com `--rapido`, use o modo Rápido (até 3 checkpoints).
-- Se vier com `--express`, use o modo Express (1 checkpoint mínimo + aprovação final) — só faz sentido se `clients/{cliente}.md` já estiver consolidado para esse cliente.
-- Se vier com `--estrategico`, use o modo Estratégico (checkpoint por skill, até 14).
-- Sem nenhum modificador, decida pela tabela de seleção automática do `CLAUDE.md` — na ausência de qualquer sinal, use o modo **Rápido** (padrão).
-
-Declare o modo escolhido em uma frase curta antes de começar.
-
-Inicie o Knowledge Gate lendo `knowledge/README.md` e `knowledge/metodologia-thamy.md`. Depois acione as skills em `skills/` respeitando as leituras obrigatórias, os checkpoints do modo escolhido (ver `CONTRATO-OPERACIONAL-MODOS.md` seção 3) e o bloco `HARD CONSTRAINTS`, até chegar à entrega final via `14-final-delivery-feedback`.
+Execute o pedido em $ARGUMENTS ou o briefing desta conversa. Leia `CONTRATO-OPERACIONAL-MODOS.md` e inicie `skills/01-briefing-intake/SKILL.md`. Modo Rápido por padrão; aceite os modos expressos. Selecione rota conforme objetivo/contexto, reutilize decisões vigentes e respeite autorização já dada. Produza com 11/12, revise com 13 e entregue com 14. Não impor 14 pausas, variações ou framework. A versão final passa pelo artefato e verificador de `quality/FORMATO-ENTREGA.md`.

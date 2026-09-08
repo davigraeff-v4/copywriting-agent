@@ -1,76 +1,42 @@
-# Scorecard de Qualidade — Copywriting Agent
+# Revisão por evidência v2
 
-Usado pela skill `13-copy-review-scorecard`. Baseado no checklist de revisão pós-copy da Thamy. A revisão gera **dois scores independentes e obrigatórios**: Score Geral e Score de Humanização/Anti-Vícios de IA. A média geral nunca compensa uma copy com sinais fortes de escrita artificial.
+Três camadas: verificação objetiva, julgamento editorial e sustentação factual. A versão atual precisa passar nas três; nenhum score compensa falha crítica. A aprovação humana é um estado posterior.
 
-## 1. Score Geral — 12 critérios (0 a 10 cada)
+## Critérios gerais (inteiros de 0 a 10)
 
-1. **Clareza da headline**
-2. **Força da headline**
-3. **Aderência ao público** — a persona certa se reconheceria nessa copy?
-4. **Clareza da subheadline**
-5. **Força da promessa**
-6. **Tradução de característica em benefício** — nenhuma característica ficou solta sem virar benefício
-7. **Aderência ao canal** — respeita a lógica/limite do formato
-8. **CTA claro**
-9. **Tom de voz do cliente** — coerente com `clients/{cliente}.md` / `03-brand-context-analysis`
-10. **Nível de especificidade** — cita produto, público e dor reais, não é intercambiável com outra marca
-11. **Conexão emocional**
-12. **Risco de promessa exagerada** — nota alta = baixo risco; validar claims com `knowledge/provas-e-claims.md` quando aplicável
+A lista executável está em `quality/rubric.json`:
 
-**Cálculo:** média aritmética dos 12 critérios.
-
-## 2. Score de Humanização/Anti-Vícios de IA — 8 dimensões
-
-Antes de pontuar, releia integralmente `knowledge/vicios-ia-humanizacao.md`. Avalie cada dimensão com a régua `0 = falha clara`, `5 = parcial/inconsistente`, `10 = atende`:
-
-1. **Ponto de vista** — a copy se posiciona, sem neutralidade ou evasivas artificiais.
-2. **Especificidade ancorada** — usa produto, situação, dado ou exemplo real do briefing; nunca inventa evidência.
-3. **Substância acima de adjetivos** — troca adjetivos vagos e hipérboles por benefício, prova ou cena concreta.
-4. **Conectores naturais** — não empilha "além disso", "portanto", "ou seja" ou estruturas repetidas.
-5. **Entrada direta** — começa pelo gancho, tensão, benefício ou promessa, sem aquecimento.
-6. **Oralidade humana** — lida em voz alta, soa como uma pessoa daquele público e daquela marca.
-7. **Ausência de palavras-bandeira** — não usa a lista negra nem clichês estruturais como muleta.
-8. **Ritmo e variedade** — alterna tamanho/estrutura de frases e evita circularidade, listas excessivas e cadência mecânica.
-
-**Cálculo:** média aritmética das 8 dimensões. O score deve ser apresentado separadamente; não entra na média do Score Geral.
-
-## 3. Vícios críticos — reprovação automática
-
-Reprove e reescreva a versão, independentemente dos scores, quando houver:
-
-- dado, prova, resultado ou exemplo inventado para gerar falsa especificidade;
-- abertura inteira de aquecimento antes de entregar valor;
-- palavra/expressão da lista negra usada como muleta central da peça;
-- dois ou mais dos 12 vícios de `knowledge/vicios-ia-humanizacao.md` aparecendo de forma recorrente.
-
-## Régua de aprovação
-
-| Nota | Decisão |
+| Critério | Pergunta |
 |---|---|
-| 9 a 10 | Aprovado |
-| 8 a 8,9 | Aprovado com ajustes leves |
-| 7 a 7,9 | Revisar antes de entregar |
-| Abaixo de 7 | Refazer |
+| objetivo | A peça conduz à decisão/ação solicitada? |
+| barreira | Responde ao desconhecimento, dúvida, desejo ou motivação real? |
+| especificidade | Usa informação relevante além de nome de marca/produto? |
+| progressao | Campos, seções e peças acrescentam informação? |
+| relevancia | O argumento interessa ao comprador/leitor correto? |
+| evidencia | Afirmações têm fonte e alcance proporcionais? |
+| mecanismo | Relações de causa e benefício são defensáveis? |
+| voz | Linguagem pertence à marca/pessoa e respeita o registro? |
+| formato | Cumpre briefing, canal, campos e viabilidade? |
+| acao | Próximo passo/encerramento é adequado, inclusive sem CTA quando justificado? |
+| coerencia | Não há contradição dentro da peça ou com contexto/restrições? |
+| utilidade | Leitor recebe informação suficiente para a função da peça? |
 
-## Gates de entrega e aprovação
+0–3: errado/ausente; 4–6: fraco/genérico; 7: precisa de ajuste; 8: suficiente; 9–10: forte, com evidência específica. Não atribuir nota alta por cumprir template. Objetivo, barreira, evidência, mecanismo, voz e formato precisam individualmente de 8 ou mais.
 
-A versão só pode ser entregue ou aprovada quando cumprir **todos** os gates:
+## Humanização (0, 5 ou 10)
 
-- Score Geral ≥ 8/10;
-- Score de Humanização/Anti-Vícios de IA ≥ 8/10;
-- zero vício crítico;
-- zero violação de `HARD CONSTRAINTS`;
-- Knowledge Gate concluído para a versão atual.
+Português, sintaxe, registro, ritmo, redundância, entrada, vocabulário e naturalidade. 0: falha clara; 5: parcial; 10: atende. Julgar adequação, não identificação da autoria por IA.
 
-Falhou em qualquer gate → reescreva internamente e recalcule os dois scores antes de mostrar ao gestor.
+Ambas as médias precisam atingir 8; calculadas pelo código a partir das notas individuais, nunca digitadas como estimativa. Com 8 dimensões de 0/5/10, resultados são múltiplos de 0,625; 8,6 ou 9,1 não são médias possíveis. Scores antigos não são comparáveis diretamente à rubrica v2.
 
-## Checklist headline/subheadline/CTA (base da revisão pós-copy da Thamy)
+## Evidência da revisão
 
-- [ ] Headline chamativa
-- [ ] Headline clara
-- [ ] Headline conversa com o público certo
-- [ ] Subheadline clara e explicativa
-- [ ] CTA claro
-- [ ] CTA direciona para o objetivo certo
-- [ ] Comunicação atraente
-- [ ] Evita termos repelentes (ver `knowledge/termos-a-evitar.md`)
+Cada critério exige campo, trecho literal e justificativa. Referenciar outros campos na justificativa para revisão do conjunto. Conferir inventário de todas as afirmações, inclusive qualitativas e causais; inventário vazio precisa de justificativa verdadeira. Conferir cada restrição semântica.
+
+Problemas críticos entram em critical_issues e bloqueiam: claim falso/sem base, restrição violada, objetivo/público errado, causalidade inventada, português que compromete sentido ou falta de substância central. Alertas objetivos precisam de resolução por campo/regra; não resolvê-los em lote com “ok”.
+
+## Processo
+
+A skill 13 lê humanização novamente, avalia texto e fatos, preenche review.json e executa copycheck. A skill 14 renderiza somente com status ready_for_human_approval. Conteúdo ou contexto alterado muda hash e exige revisão nova. Recibos registram fontes lidas, mas não provam compreensão; revisão semântica segue responsável por sustentar suas conclusões.
+
+Uma segunda leitura pelo mesmo modelo não é julgamento independente. Calibrar esta rubrica com feedback humano e avaliação cega em `evals/README.md`.

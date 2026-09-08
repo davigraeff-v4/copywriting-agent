@@ -1,59 +1,23 @@
 ---
 name: 06-funnel-consciousness-mapping
-description: "Define a etapa do funil (topo/meio/fundo) e o nível de consciência do público, conectando com objetivo, framework, gatilho, figura de linguagem e CTA recomendados. Use no fluxo estratégico completo, após 05-audience-persona-analysis."
-dependencies: ["05-audience-persona-analysis"]
-outputs: ["mapeamento de funil (em memória de conversa)"]
-week: 1
-estimated_time: "10 min"
+description: "Relaciona conhecimento prévio e intenção à ação esperada, sem impor um funil pela plataforma."
 ---
 
-# Funnel & Consciousness Mapping
-
-O documento da Thamy traz uma planilha-guia relacionando etapa do funil, objetivo, framework, gatilho, figura de linguagem e CTA. Esta skill formaliza essa decisão antes da produção.
+# 06-funnel-consciousness-mapping
 
 ## Dados necessários
 
-1. Persona e nível de consciência preliminar da skill `05` — OBRIGATÓRIO.
-2. Objetivo e canal do briefing (skill `01`) — OBRIGATÓRIO.
-3. `knowledge/frameworks-copy.md` — para a conexão framework/gatilho.
-4. `knowledge/funil-e-jornada.md` — modelos de funil (TOFU/MOFU/BOFU, 5 estágios, jornada B2B) para classificar com mais precisão.
+Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
-## Checkpoint único — Classificação de funil
+- `knowledge/funil-e-jornada.md`
+- `knowledge/pacote-contexto.md`
 
-Classifique:
+## Execução e auto-validação
 
-```
-Etapa do funil: topo | meio | fundo
-Nível de consciência: inconsciente | consciente do problema | consciente da solução | consciente do produto | mais consciente
-Objetivo nesta etapa:
-Framework sugerido (preliminar — refinado na skill 10):
-Gatilho sugerido (preliminar):
-Figura de linguagem sugerida (preliminar):
-CTA sugerido (preliminar):
-```
+Usar público, objetivo e contexto de entrada. Identificar o que já conhece, o que ainda precisa saber e qual compromisso cabe na peça.
 
-Critério: a classificação deve ser coerente com o objetivo declarado no briefing (ex.: "captação de leads" tende a topo/meio; "venda direta" tende a fundo) — se houver conflito entre objetivo declarado e nível de consciência do público, sinalize o conflito ao gestor em vez de decidir sozinho.
+Não deduzir consciência só do objetivo de plataforma: cadastro não define sozinho topo/meio; WhatsApp pode ser conversão de fundo. Orgânico pode buscar utilidade, acompanhamento ou pertencimento sem oferta.
 
-## Modo de operação
+Registrar classificação apenas quando ajuda a mensagem. CTA pode ser não aplicável; sua ausência precisa ser coerente com a função. Não tratar contradição de uma tabela genérica como contradição real do briefing.
 
-- **Estratégico:** apresente a classificação isoladamente e pergunte, como abaixo.
-- **Rápido/Express:** rode silenciosamente dentro do bloco de pesquisa e leve o resultado para o Checkpoint 2 ("Mapa estratégico"). A validação individual é opcional — **exceto** quando houver conflito real entre objetivo declarado e nível de consciência: esse conflito específico deve ser levado explicitamente ao Mapa estratégico consolidado, nunca resolvido silenciosamente.
-
-**Apresente a classificação e pergunte (checkpoint isolado, modo Estratégico; ou dentro do Mapa estratégico, modos Rápido/Express):**
-- "Essa etapa de funil faz sentido para o momento dessa campanha?"
-- [Se houver conflito objetivo x consciência] "Notei uma possível inconsistência: [descreva]. Como você quer resolver?"
-
-Aguarde aprovação antes de avançar.
-
-## Auto-validação
-
-- [ ] A etapa de funil é coerente com o objetivo do briefing?
-- [ ] Framework/gatilho/CTA preliminares fazem sentido com a etapa escolhida?
-- [ ] Conflitos foram sinalizados, não resolvidos silenciosamente?
-
-Se falhou → regenere silenciosamente.
-
-## Finalização
-
-1. Registre a classificação para uso pela skill `10-framework-trigger-selector` (que fará a escolha final).
-2. Informe: "Funil mapeado. Próximo passo: `07-reference-competitor-analysis`."
+Saída: conhecimento prévio, dúvida a responder e ação/encerramento adequado; alimentar 08/10.

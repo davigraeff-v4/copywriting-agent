@@ -1,0 +1,36 @@
+{
+  "version": "2.0",
+  "general": [
+    "objetivo",
+    "barreira",
+    "especificidade",
+    "progressao",
+    "relevancia",
+    "evidencia",
+    "mecanismo",
+    "voz",
+    "formato",
+    "acao",
+    "coerencia",
+    "utilidade"
+  ],
+  "humanization": [
+    "portugues",
+    "sintaxe",
+    "registro",
+    "ritmo",
+    "redundancia",
+    "entrada",
+    "vocabulario",
+    "naturalidade"
+  ],
+  "critical": [
+    "objetivo",
+    "barreira",
+    "evidencia",
+    "mecanismo",
+    "voz",
+    "formato"
+  ],
+  "minimum": 8
+}

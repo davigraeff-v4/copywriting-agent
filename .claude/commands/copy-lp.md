@@ -1,0 +1,1 @@
+Execute /copy-final para $ARGUMENTS ou briefing atual, selecionando rota lp e lendo `knowledge/rotas/lp.md`. Número de dobras e formulário seguem a instrução atual. Cada dobra precisa responder uma pergunta e acrescentar informação. Não fixar sequência problema/agitação nem fabricar benefício para preencher tabela.
