@@ -220,10 +220,25 @@ def check_review(doc, review, warnings):
         if not any(isinstance(r, dict) and r.get("field_id") == w["field_id"] and r.get("rule") == w["rule"] and r.get("reason") for r in resolutions):
             errors.append(f"unresolved warning: {w['field_id']}/{w['rule']}")
     readings = review.get("readings", [])
-    required = [("production", "knowledge/vicios-ia-humanizacao.md"), ("review", "knowledge/vicios-ia-humanizacao.md"), ("context", "knowledge/README.md"), ("context", "knowledge/metodologia-thamy.md"), ("context", f"knowledge/rotas/{doc['route']}.md")]
-    for phase, path in required:
+    required = [
+        ("production", "knowledge/vicios-ia-humanizacao.md", True),
+        ("review", "knowledge/vicios-ia-humanizacao.md", True),
+        # README is a routing index. Editorial additions to its catalog must not
+        # invalidate an otherwise current campaign review.
+        ("context", "knowledge/README.md", False),
+        ("context", "knowledge/metodologia-thamy.md", True),
+        ("context", f"knowledge/rotas/{doc['route']}.md", True),
+    ]
+    for phase, path, strict_hash in required:
         sha = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()
-        if not any(isinstance(r, dict) and r.get("phase") == phase and r.get("path") == path and r.get("sha256") == sha and r.get("read_at") for r in readings):
+        if not any(
+            isinstance(r, dict)
+            and r.get("phase") == phase
+            and r.get("path") == path
+            and (not strict_hash or r.get("sha256") == sha)
+            and r.get("read_at")
+            for r in readings
+        ):
             errors.append(f"missing/current reading receipt: {phase}/{path}")
     return errors, scores
 

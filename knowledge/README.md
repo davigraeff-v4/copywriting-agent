@@ -27,6 +27,7 @@ A base tem três níveis de autoridade:
 | `memoria-clientes.md` | Estado vigente separado do histórico |
 | `calibracao-editorial.md` | Compatibilidade dos exemplos e pares anotados |
 | `recuperacao-contexto.md` | Busca lexical com escopo e metadados |
+| `ajustes-incrementais.md` | Interpretação e revisão rápida de versão existente |
 
 ## Camada 1 — Fonte real Thamy/V4
 

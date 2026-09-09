@@ -55,6 +55,18 @@ Direção compacta: cliente/campanha, objetivo, rota, público, barreira ou moti
 
 Pergunta padrão: “Posso produzir com essa direção? Corrija o que estiver errado ou desalinhado.” Autorização explícita para seguir sem pausas elimina esta confirmação naquela tarefa, preservando a resolução de lacunas indispensáveis.
 
+## 4.1 Ajustes em versão existente
+
+Pedido de correção não reinicia automaticamente o fluxo. Ler `knowledge/ajustes-incrementais.md` e classificar a mudança antes de carregar fontes.
+
+- Corte de formato ou campo, sem alteração no texto preservado: ajuste de escopo.
+- Reescrita de campos identificados, sem mudar fatos ou direção: ajuste localizado.
+- Mudança de público, oferta, argumento, fatos, claims ou restrições: revisão estratégica/factual.
+
+Responder primeiro com uma linha declarando o que muda e o que fica idêntico. `Somente feed` remove Story e mantém os campos de Feed. `Ajuste somente a headline` altera a headline e preserva os demais campos. `Deixe somente a headline na arte` remove os outros campos da arte. Perguntar apenas quando a instrução continuar materialmente ambígua no contexto.
+
+Em ajuste de escopo/localizado, reutilizar a versão-pai validada com `scripts/revise_delivery.py`; não pesquisar novamente, não reapresentar direção e não reescrever artefatos completos manualmente. A revisão nova cobre apenas campos, claims e critérios afetados. Política/rubrica alterada, versão-pai inválida ou mudança estratégica exige fluxo completo.
+
 ## 5. Produção por formato
 
 Escrever no formato final em todos os modos. Número de versões segue pedido; não multiplicar copys para completar A/B/C. Na ausência de pedido de variação, entregar uma versão principal.
@@ -75,6 +87,8 @@ Registrar id, regra, escopo (global/cliente/produto/campanha/formato), origem, d
 Leituras: índice + metodologia + rota no contexto; humanização integral antes da escrita e novamente antes da revisão. Referências adicionais por necessidade. Recibos registram leitura do arquivo, não compreensão do modelo.
 
 `quality/FORMATO-ENTREGA.md` define o artefato; `quality/scorecard.md` define a revisão. `scripts/copycheck.py` verifica campos publicáveis, integridade e evidência registrada; não certifica fatos ou qualidade subjetiva.
+
+Para versão incremental, `scripts/revise_delivery.py` preserva campos intactos e cria um delta de revisão. Não reler o Knowledge Gate nem humanização se a correção acontece na mesma conversa, a revisão-pai continua válida e nenhum fato, política ou direção mudou.
 
 Até 2 reescritas internas por direção. Se persistir falha estratégica, voltar ao argumento; se faltar dado, informar a lacuna concreta. Após o limite, entregar diagnóstico do impedimento, não copy reprovada com nota elevada.
 

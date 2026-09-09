@@ -25,3 +25,5 @@ Separar campos publicáveis e notas internas em delivery.json. Hipóteses e pend
 Revisar primeiro o argumento: atende briefing, resolve barreira, tem evidência? Depois revisar frase e ritmo. Se falhar estrategicamente, retornar à 08/09 em vez de trocar sinônimos.
 
 Saída: versão rascunho para 13, sem afirmar qualidade aprovada nem salvar em approved. Até 2 reescritas por direção; depois comunicar a lacuna concreta ou propor nova direção.
+
+Para ajuste de escopo, não reescrever copy. Para ajuste de campo, modificar somente os ids declarados e preservar os demais byte a byte. Usar `scripts/revise_delivery.py` conforme `knowledge/ajustes-incrementais.md`; leitura integral de humanização não se repete na mesma conversa quando política, direção e fatos permanecem idênticos.

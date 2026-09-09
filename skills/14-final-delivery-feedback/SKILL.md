@@ -27,3 +27,5 @@ Reprovação: registrar mesmo sem score; não exigir revisão para aceitar crít
 Atualizar visão atual e histórico pela 04, com feedback literal separado da interpretação. Não rotular correção do agent como revisão da Thamy. Arquivos de clientes/campanhas permanecem locais. Não enviar, publicar, commitar ou fazer push sem autorização específica.
 
 Saída: caminhos reais e status correto. Não iniciar outra campanha ou fazer pergunta comercial de continuação sem necessidade.
+
+Em ajuste incremental, mostrar primeiro o resultado alterado e resumir em uma frase o que foi preservado. Não repetir pesquisa, direção e justificativas idênticas. Corte de formato isolado fica na campanha; não atualizar a visão atual do cliente salvo se o gestor definir preferência persistente.

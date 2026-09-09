@@ -28,3 +28,5 @@ Em revisão avulsa, ler índice/metodologia/rota e contexto necessário. Reler i
 Qualquer alteração em copy, fatos, requisitos ou contexto invalida a revisão. Corrigir e refazer, até 2 ciclos por direção. O script não prova veracidade/gramática completa nem execução mental; evidência registrada e julgamento continuam necessários. Não declarar “sem vícios” só porque um contador passou.
 
 Saída: versão revisada, relatório verificável, scores calculados e limitações; nenhuma aprovação humana presumida.
+
+Em ajuste de escopo ou campo na mesma conversa, usar a revisão derivada de `scripts/revise_delivery.py`. Preencher somente `review-delta.json`: critérios cuja evidência sumiu, critérios afetados pelo papel do campo, claims alterados, restrições e inventário quando aplicáveis. Não refazer scores herdados nem reler fontes intactas. Mudança estratégica/factual continua exigindo revisão completa.

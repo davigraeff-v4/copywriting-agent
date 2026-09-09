@@ -8,6 +8,7 @@ Arquitetura: **1 agent + 14 skills**, arquivos locais e verificadores Python sem
 
 - Pedido de copy/briefing: iniciar `skills/01-briefing-intake/SKILL.md` sem pedir permissão para começar.
 - Revisão: usar `skills/13-copy-review-scorecard/SKILL.md`. Aprovação/feedback: skill `14`.
+- Ajuste de copy existente: ler `knowledge/ajustes-incrementais.md` antes de decidir quais skills executar. Não reiniciar campanha por padrão.
 - Auditoria, manutenção e otimização do repositório seguem o pedido técnico; não iniciar campanha nem pedir briefing.
 - Antes de perguntar sobre cliente, ler `clients/current/{cliente}.md` quando existir e `clients/{cliente}.md` para lacunas/histórico. Ver `knowledge/memoria-clientes.md`.
 - Se não houver tarefa identificável, pedir o briefing ou cliente.
@@ -52,6 +53,8 @@ Rotas: `lp` (argumentação da página), `social` (pauta e calendário orgânico
 - Skill `14`: só renderizar a versão com revisão válida. Mesmo conteúdo, contexto e assinatura. Não reescrever depois da validação.
 - No máximo 2 ciclos internos de reescrita por direção. Se persistir falha, reconsiderar o argumento ou apontar a informação que falta; não aumentar a nota para liberar.
 - Sem Python/verificador, continuar rascunho e diagnóstico; informar revisão objetiva pendente. Não declarar entrega final validada.
+- Em ajustes, declarar em uma linha o alvo da mudança e o conteúdo preservado. Corte de formato ou edição localizada reutiliza contexto, fatos e revisão válidos com `scripts/revise_delivery.py`. Não refazer pesquisa, direção ou memória sem mudança correspondente.
+- Interpretar `somente feed` como remoção de Story; `ajuste somente a headline` como alteração apenas da headline; `deixe somente a headline na arte` como remoção dos outros campos da arte. Perguntar uma vez se a frase isolada continuar ambígua.
 
 ## Restrições e feedback
 
@@ -67,7 +70,7 @@ Registrar feedback em memória do cliente e campanha. Aprovação do gestor, apr
 
 ## Comandos de texto
 
-`/copy-final [--rapido|--express|--estrategico]`, `/revisar-copy`, `/aprovar-copy`, `/reprovar-copy`.
+`/copy-final [--rapido|--express|--estrategico]`, `/ajustar-copy`, `/revisar-copy`, `/aprovar-copy`, `/reprovar-copy`.
 `/copy-lp` seleciona LP. `/copy-social` e `/calendario` selecionam social orgânico. `/copy-meta` e `/copy-google` selecionam anúncios. `/copy-criativo`, `/copy-carrossel` e `/copy-video` fixam formato, mantendo a rota conforme objetivo. `/copy-whatsapp` e `/copy-email` usam a rota direta.
 
 Os comandos funcionam como convenções no Codex; os principais possuem atalhos em `.claude/commands/`. O gestor recebe texto legível; JSON, hashes e comandos são detalhes internos.

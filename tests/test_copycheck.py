@@ -111,6 +111,18 @@ class Gates(unittest.TestCase):
         r=fixture_review(self.doc); r['readings'].pop()
         self.assertEqual(c.check(self.doc,r)['status'],'blocked')
 
+    def test_routing_index_change_does_not_stale_campaign_review(self):
+        r=fixture_review(self.doc)
+        receipt=next(x for x in r['readings'] if x['path']=='knowledge/README.md')
+        receipt['sha256']='older-routing-index'
+        self.assertEqual(c.check(self.doc,r)['status'],'ready_for_human_approval')
+
+    def test_methodology_change_still_stales_review(self):
+        r=fixture_review(self.doc)
+        receipt=next(x for x in r['readings'] if x['path']=='knowledge/metodologia-thamy.md')
+        receipt['sha256']='old-methodology'
+        self.assertEqual(c.check(self.doc,r)['status'],'blocked')
+
     def test_constraint_blocks(self):
         self.doc['constraints'][0]['forbidden_terms']=['peças']
         self.doc['fields'][0]['text']='Consulte as peças disponíveis'

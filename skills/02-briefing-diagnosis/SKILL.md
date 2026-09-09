@@ -21,3 +21,5 @@ Perguntar apenas o que muda a direção ou impede sustentação. Agrupar lacunas
 Barreira principal não vira fato porque pode ser inferida: se a campanha depende dela, fundamentar ou validar. Para voz pessoal central, procurar amostra daquela pessoa. Para calendário, exigir pauta com matéria-prima e material viável, não apenas formato fácil.
 
 Sem lacunas: seguir para o pacote/direção sem aguardar confirmação extra. Havendo lacuna essencial: explicar qual decisão ela impede. Saída: modo/rota, hipóteses, pendências e HARD CONSTRAINTS ativas.
+
+Em ajuste incremental, diagnosticar somente se a instrução muda estratégia/fato ou se o alvo permanece ambíguo. Corte explícito de formato e edição de campo identificado não exigem novo checkpoint.

@@ -21,3 +21,5 @@ Instrução direta recente supera campo antigo do template: se o pedido atual di
 Ler visão atual do cliente e ficha histórica antes de perguntar. Definir rota pela finalidade: carrossel pode ser anúncio ou orgânico. Não inferir oferta promocional de um pedido de cadastro.
 
 Saída: briefing estruturado no pacote; encaminhar à 02. Não pedir aprovação da mera organização. Não acionar para manutenção técnica do agent.
+
+Se já existe versão e o gestor pede ajuste, não tratar como novo briefing. Ler `knowledge/ajustes-incrementais.md`, declarar o alvo e o conteúdo preservado e encaminhar somente às skills afetadas.

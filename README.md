@@ -51,6 +51,7 @@ As 14 skills são capacidades, não 14 pausas obrigatórias. Uma autorização e
 | `/revisar-copy` | Crítica da versão atual, linguagem, argumento e fatos |
 | `/aprovar-copy` | Registra aprovação expressa da versão revisada |
 | `/reprovar-copy` | Registra motivo e aprendizado |
+| `/ajustar-copy` | Corrige uma versão existente, preservando contexto e campos não afetados |
 
 Esses comandos têm arquivos em `.claude/commands/`. No Codex funcionam como convenções de texto. `/copy-meta`, `/copy-google`, `/copy-criativo`, `/copy-carrossel`, `/copy-video`, `/copy-whatsapp` e `/copy-email` são convenções adicionais; canal e formato não determinam sozinhos o objetivo.
 
@@ -72,6 +73,10 @@ Arquivos reais ficam locais, ignorados no Git. Um clone novo contém estrutura, 
 5. Aprovação humana, publicação e resultado de campanha são estados separados.
 
 O verificador não certifica verdade, gramática completa ou preferência humana. O chat ainda depende de o agent cumprir o fluxo. Detalhes em `quality/FORMATO-ENTREGA.md` e `quality/scorecard.md`.
+
+### Ajustes rápidos
+
+Correções em uma versão existente usam um fluxo incremental. `Somente feed` remove Story sem refazer pesquisa; `ajuste somente a headline` preserva os outros campos; mudanças de público, oferta, fatos ou direção voltam à revisão completa. O agent declara em uma linha o que entendeu, reaproveita a versão validada e revisa apenas o impacto da alteração. Ver `knowledge/ajustes-incrementais.md`.
 
 ## Base de conhecimento e recuperação
 

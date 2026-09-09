@@ -24,3 +24,5 @@ Vídeo: distinguir locução, tela e nota visual; verificar se o texto cabe no t
 Toda frase publicável, inclusive legenda, formulário, selo e texto de tela, deve estar em fields do artefato. Notas internas não são publicadas. Limites técnicos críticos precisam de fonte atual.
 
 Saída: delivery.json completo no formato da rota. A revisão considera a peça inteira, não apenas campos isolados.
+
+Em ajuste, distinguir formato de campo. `Somente feed` retira seções Story, mantendo todos os campos solicitados do Feed. `Somente headline` não autoriza remover apoio/CTA quando a frase significa alvo da edição; seguir os exemplos e a regra de ambiguidade em `knowledge/ajustes-incrementais.md`.

@@ -10,6 +10,8 @@ Python 3.10+; somente biblioteca padrão. O gestor continua recebendo copy legí
 - final.md: texto exato renderizado após aprovação técnica; ainda depende de feedback humano.
 - feedback.md: decisões humanas, versão e escopo.
 
+Versões derivadas podem ter `revision` com hashes da entrega/revisão-pai, tipo da mudança, instrução literal e ids removidos/alterados. Para ajuste de escopo ou campo, seguir `knowledge/ajustes-incrementais.md`; o script cria `review.pending.json` e `review-delta.json` para evitar reescrever a revisão inteira.
+
 `tests/fixtures/valid-delivery.json` é um exemplo técnico fictício de estrutura; não é referência de excelência editorial nem campanha real. Pode ser copiado e preenchido, retirando todos os dados fictícios.
 
 ## Campos
@@ -36,6 +38,8 @@ python3 scripts/copycheck.py campaigns/cliente/campanha/v1/delivery.json --revie
 # Salvar/preencher saída como review.json com notas reais, trechos, checks e readings.
 python3 scripts/copycheck.py campaigns/cliente/campanha/v1/delivery.json --review campaigns/cliente/campanha/v1/review.json --render campaigns/cliente/campanha/v1/final.md
 ```
+
+Em ajuste incremental, primeiro executar `scripts/revise_delivery.py inspect`. A nova versão herda somente uma revisão-pai que ainda retorna `ready_for_human_approval`. Preencher o delta gerado e usar `merge`; o `copycheck.py` continua sendo a autoridade final de liberação e renderização.
 
 O template sai pendente, nunca aprovado. A assinatura é SHA-256 da serialização canônica de TODO delivery, incluindo fatos, requisitos e contexto. Campos/claims alterados invalidam review. A revisão também registra hashes da rubrica e da política editorial; mudança em qualquer uma exige nova avaliação. O render exige arquivo de destino novo e não sobrescreve versão existente.
 
