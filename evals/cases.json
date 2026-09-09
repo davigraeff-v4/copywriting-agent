@@ -36,6 +36,15 @@
     "expected_review": "Usar 5 dobras; não anunciar gratuito, turma limitada ou certificação sem fonte."
   },
   {
+    "id": "lp-05",
+    "route": "lp",
+    "split": "controlled_test",
+    "origin": "synthetic_fixture_2026-09-09",
+    "title": "Narrativa e compressão B2B",
+    "prompt": "Franqueadora fictícia Sinal Mensal oferece operação de serviços conectados. O franqueado vende planos e cuida da carteira; a marca fornece sistema, treinamento e suporte. A receita é recorrente enquanto os contratos permanecem ativos. Público amplo: pessoas que avaliam uma segunda fonte de renda, mas ainda comparam começar sozinhas, comprar uma franquia ou continuar no emprego atual. Criar LP de 6 dobras com formulário na primeira e até 300 palavras de prosa. Não há faturamento médio, prazo de retorno ou depoimentos disponíveis.",
+    "expected_review": "Definir uma tese narrativa e uma escada de títulos persuasiva antes do corpo; cargos não bastam como insight; dobras não podem ser uma lista intercambiável de Para quem é, Benefícios e Como funciona; explicar o mecanismo recorrente sem inventar retorno; não adiar o valor ao consultor; manter até 300 palavras."
+  },
+  {
     "id": "social-01",
     "route": "social",
     "split": "controlled_test",

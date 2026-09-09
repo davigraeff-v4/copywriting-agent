@@ -16,7 +16,7 @@ Versões derivadas podem ter `revision` com hashes da entrega/revisão-pai, tipo
 
 ## Campos
 
-schema_version=2; client/campaign/version/route (`lp`, `social`, `ads`, `direct`). context tem objective, audience, barrier, value, voice, offer (necessária em lp/ads), hypotheses (lista), constraints_confirmed (boolean). Contexto nunca aparece automaticamente como texto publicável.
+schema_version=2; client/campaign/version/route (`lp`, `social`, `ads`, `direct`). context tem objective, audience, barrier, value, voice, offer (necessária em lp/ads), hypotheses (lista), constraints_confirmed (boolean). Em LP, registrar também buyer_insights, narrative_thesis e title_ladder conforme `knowledge/narrativa-lp.md`; são campos internos e não aparecem automaticamente como texto publicável. buyer_insights é um objeto com current_situation, trigger, desired_outcome, alternative, barrier, decision_criteria e observed_language; cada item contém status (`confirmed`, `inferred` ou `missing`), text e source_ids. title_ladder lista os ids das headlines na ordem das dobras.
 
 fields: lista não vazia de {id, section, role, text, max_chars?}. Todos os textos que vão para a peça precisam estar aqui, inclusive labels do formulário, CTA e legenda. role=form_label identifica rótulo do formulário; role=cta identifica ação. section é dobra/post/peça. max_chars só quando requisito real foi definido.
 
@@ -24,12 +24,12 @@ sources: {id, locator, excerpt}; registrar data/localização adicional quando d
 
 constraints: {id, rule, scope, source, forbidden_terms?, required_terms?}. Termos automáticos valem para toda a entrega; restrição contextual precisa de check semântico, não termo amplo proibido indevidamente.
 
-outline: {id: section, question, new_information}. Obrigatório em LP/social; social acrescenta source_ids, audience_value, asset e feasibility. requirements: sections opcional, forms opcional (objeto section→lista de rótulos na ordem). Condição de formulário/dobras deve vir do briefing, não ser alterada para o teste passar.
+outline: {id: section, question, new_information}. Obrigatório em LP/social. Em LP, registrar também function, evidence, transition e action para impedir dobras isoladas; social acrescenta source_ids, audience_value, asset e feasibility. requirements: sections opcional, forms opcional (objeto section→lista de rótulos na ordem). Em LP, prose_word_budget registra o máximo de palavras publicáveis, excluindo CTA, labels e opções de formulário; o padrão é 300. Valor maior exige prose_word_budget_reason. Condição de formulário/dobras deve vir do briefing, não ser alterada para o teste passar.
 
 ## Comandos internos
 
 ```bash
-python3 scripts/read_context.py knowledge/README.md knowledge/metodologia-thamy.md knowledge/rotas/lp.md --phase context --receipts campaigns/cliente/campanha/v1/readings.json
+python3 scripts/read_context.py knowledge/README.md knowledge/metodologia-thamy.md knowledge/rotas/lp.md knowledge/narrativa-lp.md --phase context --receipts campaigns/cliente/campanha/v1/readings.json
 python3 scripts/read_context.py knowledge/vicios-ia-humanizacao.md --phase production --receipts campaigns/cliente/campanha/v1/readings.json
 # Escrever delivery.json; depois reler antes de revisar:
 python3 scripts/read_context.py knowledge/vicios-ia-humanizacao.md --phase review --receipts campaigns/cliente/campanha/v1/readings.json

@@ -10,8 +10,8 @@ A lista executável está em `quality/rubric.json`:
 |---|---|
 | objetivo | A peça conduz à decisão/ação solicitada? |
 | barreira | Responde ao desconhecimento, dúvida, desejo ou motivação real? |
-| especificidade | Usa informação relevante além de nome de marca/produto? |
-| progressao | Campos, seções e peças acrescentam informação? |
+| especificidade | Usa situação, mecanismo ou critério relevante além de nome, cargo ou característica genérica? |
+| progressao | A peça desenvolve uma tese; em LP, títulos e dobras formam uma sequência que perde sentido se reordenada? |
 | relevancia | O argumento interessa ao comprador/leitor correto? |
 | evidencia | Afirmações têm fonte e alcance proporcionais? |
 | mecanismo | Relações de causa e benefício são defensáveis? |
@@ -21,7 +21,9 @@ A lista executável está em `quality/rubric.json`:
 | coerencia | Não há contradição dentro da peça ou com contexto/restrições? |
 | utilidade | Leitor recebe informação suficiente para a função da peça? |
 
-0–3: errado/ausente; 4–6: fraco/genérico; 7: precisa de ajuste; 8: suficiente; 9–10: forte, com evidência específica. Não atribuir nota alta por cumprir template. Objetivo, barreira, evidência, mecanismo, voz e formato precisam individualmente de 8 ou mais.
+0–3: errado/ausente; 4–6: fraco/genérico; 7: precisa de ajuste; 8: suficiente; 9–10: forte, com evidência específica. Não atribuir nota alta por cumprir template. Objetivo, barreira, especificidade, progressão, evidência, mecanismo, voz e formato precisam individualmente de 8 ou mais.
+
+Para LP, aplicar também os testes e tetos de `knowledge/narrativa-lp.md`. A justificativa de progressão precisa considerar a escada completa de títulos e a dependência entre dobras. A justificativa de especificidade precisa apontar um insight de decisão, não apenas uma lista de ocupações. A justificativa de redundância precisa comparar todas as dobras.
 
 ## Humanização (0, 5 ou 10)
 

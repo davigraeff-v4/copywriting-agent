@@ -5,6 +5,7 @@ Saída das skills 01/02/03/05/06/07/09, consumida por 08/10/11/13. Usar `quality
 ## Conteúdo
 
 - Objetivo, público e ação esperada, sem transformar objetivo secundário de reunião em objetivo da campanha.
+- Em LP, buyer_insights com situação atual, gatilho, resultado desejado, alternativa, dúvida/risco, critérios e linguagem observada; cada item marcado como confirmado, inferência ou ausente.
 - Barreira ou motivação: desconhecimento, comparação, desejo, risco, interesse editorial ou problema. Indicar evidência ou hipótese.
 - Valor a entregar e oferta comercial, quando aplicável.
 - Voz da empresa/pessoa: trechos reais, padrão observado e o que evitar. Linguagem do público pode ajudar vocabulário, não autoriza abreviações.
@@ -14,6 +15,7 @@ Saída das skills 01/02/03/05/06/07/09, consumida por 08/10/11/13. Usar `quality
 - HARD CONSTRAINTS ativas, preferências aplicáveis e requisitos de formato.
 - Hipóteses, pendências e exclusões de fonte.
 - Referências curadas: aspecto aproveitável e aspecto incompatível. Não copiar resultados de outra marca.
+- Em LP, narrative_thesis e title_ladder internas antes dos campos publicáveis; não apresentar a tese interna como copy automaticamente.
 
 ## Pesquisa no Drive
 

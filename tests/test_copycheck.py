@@ -25,6 +25,8 @@ def fixture_review(doc):
     paths = [('context', 'knowledge/README.md'), ('context', 'knowledge/metodologia-thamy.md'),
              ('context', f"knowledge/rotas/{doc['route']}.md"),
              ('production', 'knowledge/vicios-ia-humanizacao.md'), ('review', 'knowledge/vicios-ia-humanizacao.md')]
+    if doc['route'] == 'lp':
+        paths.append(('context', 'knowledge/narrativa-lp.md'))
     r['readings'] = [dict(phase=phase, path=p, sha256=hashlib.sha256((c.ROOT/p).read_bytes()).hexdigest(),
                           read_at='test-fixture-not-a-real-reading') for phase, p in paths]
     return r
@@ -88,6 +90,24 @@ class Gates(unittest.TestCase):
         self.doc['requirements']['sections'] = 5
         self.assertEqual(c.check(self.doc)['status'], 'blocked')
 
+    def test_lp_requires_buyer_insights_thesis_title_ladder_and_full_outline(self):
+        for mutation in ('insights', 'thesis', 'ladder', 'outline'):
+            with self.subTest(mutation=mutation):
+                d=copy.deepcopy(self.doc)
+                if mutation == 'insights': d['context'].pop('buyer_insights')
+                elif mutation == 'thesis': d['context'].pop('narrative_thesis')
+                elif mutation == 'ladder': d['context']['title_ladder'] = []
+                else: d['outline'][0].pop('transition')
+                self.assertEqual(c.check(d)['status'], 'blocked')
+
+    def test_lp_word_budget_blocks_excess_and_requires_reason_above_default(self):
+        d=copy.deepcopy(self.doc); d['requirements']['prose_word_budget']=3
+        self.assertEqual(c.check(d)['status'], 'blocked')
+        d=copy.deepcopy(self.doc); d['requirements']['prose_word_budget']=301
+        self.assertEqual(c.check(d)['status'], 'blocked')
+        d['requirements']['prose_word_budget_reason']='Briefing pede explicação técnica adicional.'
+        self.assertEqual(c.check(d)['status'], 'needs_editorial_review')
+
     def test_short_sentences_need_explained_review(self):
         self.doc['fields'][0]['text'] = 'Peças certas. Equipe pronta. Consulte agora.'
         r=fixture_review(self.doc)
@@ -106,6 +126,12 @@ class Gates(unittest.TestCase):
     def test_low_critical_score_cannot_hide_in_average(self):
         r=fixture_review(self.doc); r['general']['evidencia']['score']=7
         self.assertEqual(c.check(self.doc,r)['status'],'blocked')
+
+    def test_generic_or_nonprogressive_copy_cannot_hide_in_average(self):
+        for criterion in ('especificidade', 'progressao'):
+            with self.subTest(criterion=criterion):
+                r=fixture_review(self.doc); r['general'][criterion]['score']=7
+                self.assertEqual(c.check(self.doc,r)['status'],'blocked')
 
     def test_no_reading_receipt_no_release(self):
         r=fixture_review(self.doc); r['readings'].pop()

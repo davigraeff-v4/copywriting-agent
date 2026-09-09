@@ -110,6 +110,8 @@ def prepare(parent, parent_review, change):
     if not doc["fields"]:
         fail("revision cannot remove every publishable field")
     changed_ids = set(replacements)
+    if isinstance(doc.get("context", {}).get("title_ladder"), list):
+        doc["context"]["title_ladder"] = [field_id for field_id in doc["context"]["title_ladder"] if field_id not in removed_ids]
     for field in doc["fields"]:
         if field["id"] in replacements:
             field["text"] = replacements[field["id"]]

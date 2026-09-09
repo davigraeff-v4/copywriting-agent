@@ -11,6 +11,7 @@ Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-M
 
 - `knowledge/pacote-contexto.md`
 - `knowledge/calibracao-editorial.md`
+- `knowledge/narrativa-lp.md` (somente rota LP)
 
 ## Execução e auto-validação
 
@@ -18,6 +19,6 @@ Receber público, intenção e oferta/evidência da 09. Ler a rota aplicável. C
 
 Fechar direção pela barreira real, sem substituir por dor genérica. Framework não é ideia. Se a rota depender de prova ausente, buscar a fonte ou escolher outro argumento sustentado.
 
-LP: construir outline com pergunta, função, informação nova e evidência por dobra. Social: cartão de pauta com assunto, valor, fonte, asset e viabilidade; revisar diversidade do lote. Ads: mensagem central, prova e destino, evitando excesso na arte.
+LP: antes do outline, escrever uma tese narrativa interna e a mudança de entendimento do comprador. Construir a progressão situação inicial → tensão → mecanismo → consequência → prova/redução de risco → decisão, fundindo movimentos conforme a quantidade solicitada. Só então criar o outline com pergunta, função, informação nova, evidência, transição e ação por dobra. Social: cartão de pauta com assunto, valor, fonte, asset e viabilidade; revisar diversidade do lote. Ads: mensagem central, prova e destino, evitando excesso na arte.
 
-Saída: direção, alternativa descartada e motivo breve quando útil, outline e HARD CONSTRAINTS. Validar no checkpoint da direção conforme o contrato; não criar pausas individuais em Rápido/Express.
+Saída: direção, alternativa descartada e motivo breve quando útil, tese narrativa e escada preliminar de títulos em LP, outline e HARD CONSTRAINTS. Validar no checkpoint da direção conforme o contrato; não criar pausas individuais em Rápido/Express.

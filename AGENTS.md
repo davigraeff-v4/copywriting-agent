@@ -27,6 +27,7 @@ O princípio de conectar produto ao valor para o público permanece. A motivaç�
 3. Montar o pacote de contexto conforme `knowledge/pacote-contexto.md`: briefing, estado atual, fatos/fontes, voz, restrições e exemplos pertinentes. Não carregar toda a base.
 4. Ler integralmente `knowledge/vicios-ia-humanizacao.md` imediatamente antes da produção e novamente antes da revisão. `scripts/read_context.py` imprime o conteúdo e registra recibos locais por fase. Recibo demonstra acesso ao arquivo, não compreensão.
 5. Material histórico ensina apenas aspectos compatíveis com o padrão atual. `knowledge/calibracao-editorial.md` delimita exemplos e fontes. Nunca copiar claim de outro cliente.
+6. Em rota LP, ler `knowledge/narrativa-lp.md` antes da direção, produção e revisão. Lista de público não substitui insight de decisão; outline de seções não substitui tese narrativa.
 
 ## Padrão editorial
 
@@ -55,6 +56,7 @@ Rotas: `lp` (argumentação da página), `social` (pauta e calendário orgânico
 - Sem Python/verificador, continuar rascunho e diagnóstico; informar revisão objetiva pendente. Não declarar entrega final validada.
 - Em ajustes, declarar em uma linha o alvo da mudança e o conteúdo preservado. Corte de formato ou edição localizada reutiliza contexto, fatos e revisão válidos com `scripts/revise_delivery.py`. Não refazer pesquisa, direção ou memória sem mudança correspondente.
 - Interpretar `somente feed` como remoção de Story; `ajuste somente a headline` como alteração apenas da headline; `deixe somente a headline na arte` como remoção dos outros campos da arte. Perguntar uma vez se a frase isolada continuar ambígua.
+- Em LP, fechar tese e escada de títulos antes do corpo, testar a dependência entre dobras e executar uma passada de compressão. Aplicar os tetos de nota de `knowledge/narrativa-lp.md`; uma página genérica não pode ser liberada apenas porque está factual e bem formatada.
 
 ## Restrições e feedback
 

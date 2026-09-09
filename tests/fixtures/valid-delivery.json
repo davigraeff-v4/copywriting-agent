@@ -11,6 +11,17 @@
     "value": "Conhecer as peças disponíveis",
     "voice": "Direta e técnica",
     "offer": "Consulta ao catálogo",
+    "buyer_insights": {
+      "current_situation": {"status": "confirmed", "text": "Comprador precisa consultar aplicações antes do pedido.", "source_ids": ["s1"]},
+      "trigger": {"status": "inferred", "text": "Necessidade de encontrar uma peça para a oficina.", "source_ids": ["s1"]},
+      "desired_outcome": {"status": "confirmed", "text": "Receber catálogo com modelos e referências.", "source_ids": ["s1"]},
+      "alternative": {"status": "missing", "text": "Alternativa atual não informada no briefing.", "source_ids": []},
+      "barrier": {"status": "confirmed", "text": "Não conhece o conteúdo do catálogo.", "source_ids": ["s1"]},
+      "decision_criteria": {"status": "confirmed", "text": "Aplicação por modelo e referência.", "source_ids": ["s1"]},
+      "observed_language": {"status": "missing", "text": "Não há fala real do comprador na fixture.", "source_ids": []}
+    },
+    "narrative_thesis": "Para o comprador que precisa conferir uma aplicação, o catálogo organiza modelos e referências antes do pedido.",
+    "title_ladder": ["hero"],
     "hypotheses": [],
     "constraints_confirmed": true
   },
@@ -80,11 +91,16 @@
     {
       "id": "dobra-1",
       "question": "Como consultar o catálogo?",
-      "new_information": "Conteúdo e solicitação do catálogo."
+      "new_information": "Conteúdo e solicitação do catálogo.",
+      "function": "Apresentar o valor do catálogo e capturar a solicitação.",
+      "evidence": "O briefing confirma modelos e referências.",
+      "transition": "A própria dobra conclui a decisão curta.",
+      "action": "Solicitar catálogo."
     }
   ],
   "requirements": {
     "sections": 1,
+    "prose_word_budget": 300,
     "forms": {
       "dobra-1": [
         "Nome"

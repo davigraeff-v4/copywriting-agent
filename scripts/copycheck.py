@@ -132,9 +132,43 @@ def validate(doc):
         for key in ("forbidden_terms", "required_terms"):
             require(isinstance(c.get(key, []), list) and all(isinstance(v, str) and v for v in c.get(key, [])), f"constraint {c['id']}: invalid {key}")
     sections = {f.get("section") for f in fields.values()}
+    if doc.get("route") == "lp":
+        insight_keys = {
+            "current_situation", "trigger", "desired_outcome", "alternative",
+            "barrier", "decision_criteria", "observed_language",
+        }
+        insights = context.get("buyer_insights")
+        require(isinstance(insights, dict) and set(insights) == insight_keys, "lp context.buyer_insights incomplete")
+        if isinstance(insights, dict) and set(insights) == insight_keys:
+            useful = 0
+            for key, value in insights.items():
+                ok = isinstance(value, dict) and value.get("status") in ("confirmed", "inferred", "missing")
+                ok = ok and isinstance(value.get("text"), str) and bool(value["text"].strip())
+                refs = value.get("source_ids", []) if isinstance(value, dict) else []
+                ok = ok and isinstance(refs, list) and all(isinstance(ref, str) and ref in sources for ref in refs)
+                require(ok, f"lp buyer_insights.{key} invalid")
+                if ok and value["status"] != "missing":
+                    useful += 1
+            require(useful >= 4, "lp needs at least four usable buyer insights")
+        require(isinstance(context.get("narrative_thesis"), str) and bool(context["narrative_thesis"].strip()), "lp context.narrative_thesis required")
+        headline_ids = []
+        seen_sections = set()
+        for field in doc.get("fields", []):
+            if field.get("section") not in seen_sections:
+                section_headlines = [f["id"] for f in doc.get("fields", []) if f.get("section") == field.get("section") and f.get("role") == "headline"]
+                require(len(section_headlines) == 1, f"lp section {field.get('section')}: exactly one headline required")
+                if len(section_headlines) == 1:
+                    headline_ids.append(section_headlines[0])
+                seen_sections.add(field.get("section"))
+        require(context.get("title_ladder") == headline_ids, "lp context.title_ladder must match headline ids in section order")
     for o in collections["outline"].values():
         require(o["id"] in sections, f"outline {o['id']}: no fields")
-        required = ("question", "new_information") + (("source_ids", "asset", "feasibility", "audience_value") if doc.get("route") == "social" else ())
+        route_fields = ()
+        if doc.get("route") == "social":
+            route_fields = ("source_ids", "asset", "feasibility", "audience_value")
+        elif doc.get("route") == "lp":
+            route_fields = ("function", "evidence", "transition", "action")
+        required = ("question", "new_information") + route_fields
         require(all(bool(o.get(k)) for k in required), f"outline {o['id']}: incomplete function/value/production")
         if doc.get("route") == "social":
             refs = o.get("source_ids", [])
@@ -149,6 +183,15 @@ def validate(doc):
         for section, labels in requirements.get("forms", {}).items():
             actual = [f.get("text") for f in fields.values() if f.get("section") == section and f.get("role") == "form_label"]
             require(actual == labels, f"form {section}: labels/order differ from briefing")
+        if doc.get("route") == "lp":
+            budget = requirements.get("prose_word_budget", 300)
+            require(type(budget) is int and budget > 0, "lp prose_word_budget must be a positive integer")
+            if type(budget) is int and budget > 300:
+                require(isinstance(requirements.get("prose_word_budget_reason"), str) and bool(requirements["prose_word_budget_reason"].strip()), "lp prose_word_budget above 300 needs a reason")
+            if type(budget) is int and budget > 0:
+                prose_roles = {"headline", "subheadline", "body", "support", "item", "seal", "title", "primary_text"}
+                actual_words = sum(len(re.findall(r"\w+", f["text"], flags=re.UNICODE)) for f in fields.values() if f.get("role") in prose_roles)
+                require(actual_words <= budget, f"lp prose exceeds word budget: {actual_words}/{budget}")
     return errors
 
 
@@ -229,6 +272,8 @@ def check_review(doc, review, warnings):
         ("context", "knowledge/metodologia-thamy.md", True),
         ("context", f"knowledge/rotas/{doc['route']}.md", True),
     ]
+    if doc.get("route") == "lp":
+        required.append(("context", "knowledge/narrativa-lp.md", True))
     for phase, path, strict_hash in required:
         sha = hashlib.sha256((ROOT / path).read_bytes()).hexdigest()
         if not any(

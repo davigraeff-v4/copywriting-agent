@@ -21,6 +21,7 @@ A base tem três níveis de autoridade:
 | `politica-editorial.md` | Português e padrão de expressão |
 | `pacote-contexto.md` | Pesquisa convertida em matéria-prima e claims |
 | `rotas/lp.md` | Argumentação por dúvida do comprador |
+| `narrativa-lp.md` | Tese, escada de títulos, progressão e compressão de LP |
 | `rotas/social.md` | Pauta, viabilidade e conjunto editorial |
 | `rotas/ads.md` | Anúncios, arte e campos da plataforma |
 | `rotas/direct.md` | E-mail/WhatsApp |
@@ -79,7 +80,7 @@ O núcleo obrigatório da campanha é o da seção Knowledge Gate. A tabela abai
 | Público | `metodologia-thamy.md`, `use-case-map-exemplos.md` | `pesquisa-voz-do-cliente.md`, `objecoes-e-mecanismos.md` |
 | Funil | `funil-e-jornada.md`, matriz de `metodologia-thamy.md` | `frameworks-copy.md` |
 | Referências | `exemplos-de-estruturas.md` | `pesquisa-voz-do-cliente.md`, `provas-e-claims.md` |
-| Big idea | `banco-de-angulos.md`, `processo-de-copy.md` | `matriz-de-variacoes-e-testes.md` |
+| Big idea | `banco-de-angulos.md`, `processo-de-copy.md` | `narrativa-lp.md` em LP; `matriz-de-variacoes-e-testes.md` |
 | Oferta | `use-case-map-exemplos.md`, `provas-e-claims.md` | `objecoes-e-mecanismos.md` |
 | Produção | `metodologia-thamy.md`, `vicios-ia-humanizacao.md` | headlines, ganchos, termos, variações |
 | Adaptação | `regras-por-canal.md`, `exemplos-de-estruturas.md` | `matriz-de-variacoes-e-testes.md` |

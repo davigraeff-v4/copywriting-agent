@@ -37,6 +37,8 @@ def valid_review(doc):
         ("production", "knowledge/vicios-ia-humanizacao.md"),
         ("review", "knowledge/vicios-ia-humanizacao.md"),
     ]
+    if doc["route"] == "lp":
+        required.append(("context", "knowledge/narrativa-lp.md"))
     review["readings"] = [
         {
             "phase": phase,
@@ -81,10 +83,15 @@ class IncrementalRevision(unittest.TestCase):
             "text": "Consulte o catálogo disponível",
         }
         self.doc["fields"].append(extra)
+        self.doc["context"]["title_ladder"].append("story_headline")
         self.doc["outline"].append({
             "id": "story-1",
             "question": "Como consultar?",
             "new_information": "Apresenta a consulta ao catálogo.",
+            "function": "Reforçar a consulta em outro formato.",
+            "evidence": "O catálogo está disponível para solicitação.",
+            "transition": "Conclui a sequência de teste.",
+            "action": "Solicitar catálogo.",
         })
         self.doc["requirements"]["sections"] = 2
         self.review = valid_review(self.doc)
@@ -99,7 +106,9 @@ class IncrementalRevision(unittest.TestCase):
         }
         revised, pending, delta, summary = revise_delivery.prepare(self.doc, self.review, change)
         self.assertEqual(revised["fields"], self.doc["fields"][:-1])
-        self.assertEqual(revised["context"], self.doc["context"])
+        expected_context = copy.deepcopy(self.doc["context"])
+        expected_context["title_ladder"] = ["hero"]
+        self.assertEqual(revised["context"], expected_context)
         self.assertEqual(revised["requirements"]["sections"], 1)
         self.assertEqual(summary["removed_fields"], 1)
         self.assertEqual(set(delta["general"]), revise_delivery.SCOPE_GENERAL)

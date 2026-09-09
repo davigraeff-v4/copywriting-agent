@@ -10,6 +10,7 @@ description: "Organiza a narrativa escolhida e decide se framework, CTA ou varia
 Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
 - `knowledge/rotas/lp.md` (somente rota LP)
+- `knowledge/narrativa-lp.md` (somente rota LP)
 - `knowledge/rotas/social.md (somente orgânico)`
 - `knowledge/rotas/ads.md (somente anúncio)`
 - `knowledge/rotas/direct.md (somente mensagem direta)`
@@ -18,7 +19,9 @@ Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-M
 
 Receber argumento/pauta da 08 e evidência da 09. Escolher ordem da informação pela pergunta do público e pelo formato. Framework, gatilho e figura de linguagem são opcionais; registrar não aplicável quando acrescentariam fórmula sem valor.
 
-Não usar PAS para inventar sofrimento. Não forçar storytelling, escassez ou transformação. A estrutura deve servir ao argumento. Se precisar, consultar `knowledge/frameworks-copy.md` e ler ressalvas em `knowledge/calibracao-editorial.md`.
+Não usar PAS para inventar sofrimento. Storytelling em LP é a história causal da decisão do comprador, não uma anedota fabricada. Não forçar escassez ou transformação. A estrutura deve servir ao argumento. Se precisar, consultar `knowledge/frameworks-copy.md` e ler ressalvas em `knowledge/calibracao-editorial.md`.
+
+Em LP, revisar a escada de headlines antes do corpo. Títulos lidos sozinhos devem contar a mudança de entendimento; dobras intercambiáveis indicam sequência fraca. Rótulos de índice não podem dominar a página.
 
 Decidir CTA conforme compromisso/destino; pode não existir em orgânico. Variações apenas se solicitadas ou parte de teste autorizado. Ler `knowledge/matriz-de-variacoes-e-testes.md` quando houver; distinguir exploração criativa de experimento controlado.
 
