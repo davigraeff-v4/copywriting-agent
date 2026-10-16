@@ -28,4 +28,12 @@ class Retrieval(unittest.TestCase):
             entries.append(dict(id='escape',path='../outside.md',client='a',routes=['lp'],status='active',use='positive',tags=['catálogo']))
             self.assertEqual(retrieve('catalogo',entries,'lp','a',root=root),[])
 
+    def test_private_physical_owner_overrides_global_or_false_client_metadata(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root=Path(tmp);entries=[]
+            for path,client in [('clients/b/CLIENTE.md','*'),('clients/current/b.md','a'),('clients/b.md','a')]:
+                p=root/path;p.parent.mkdir(parents=True,exist_ok=True);p.write_text('SEGREDO')
+                entries.append(dict(id=path,path=path,client=client,routes=['lp'],status='active',use='positive',tags=['catalogo']))
+            self.assertEqual(retrieve('catalogo',entries,'lp','a',root=root),[])
+
 if __name__=='__main__': unittest.main()

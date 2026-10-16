@@ -1,0 +1,141 @@
+{
+  "principal": {
+    "lexical": {
+      "accents_removed": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 8,
+        "preserved": 8,
+        "eligible_base_hits": 8,
+        "stability_grade": 10.0,
+        "first_document_unchanged": 8
+      },
+      "case_punctuation": {
+        "cases": 8,
+        "base_hit3": 7,
+        "variant_hit3": 7,
+        "preserved": 7,
+        "eligible_base_hits": 7,
+        "stability_grade": 10.0,
+        "first_document_unchanged": 8
+      },
+      "light_typo": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 6,
+        "preserved": 6,
+        "eligible_base_hits": 8,
+        "stability_grade": 7.5,
+        "first_document_unchanged": 7
+      }
+    },
+    "semantic": {
+      "accents_removed": {
+        "cases": 8,
+        "base_hit3": 6,
+        "variant_hit3": 5,
+        "preserved": 5,
+        "eligible_base_hits": 6,
+        "stability_grade": 8.33,
+        "first_document_unchanged": 5
+      },
+      "case_punctuation": {
+        "cases": 8,
+        "base_hit3": 5,
+        "variant_hit3": 0,
+        "preserved": 0,
+        "eligible_base_hits": 5,
+        "stability_grade": 0.0,
+        "first_document_unchanged": 0
+      },
+      "light_typo": {
+        "cases": 8,
+        "base_hit3": 4,
+        "variant_hit3": 2,
+        "preserved": 2,
+        "eligible_base_hits": 4,
+        "stability_grade": 5.0,
+        "first_document_unchanged": 2
+      }
+    },
+    "hybrid": {
+      "accents_removed": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 8,
+        "preserved": 8,
+        "eligible_base_hits": 8,
+        "stability_grade": 10.0,
+        "first_document_unchanged": 8
+      },
+      "case_punctuation": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 7,
+        "preserved": 7,
+        "eligible_base_hits": 8,
+        "stability_grade": 8.75,
+        "first_document_unchanged": 5
+      },
+      "light_typo": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 6,
+        "preserved": 6,
+        "eligible_base_hits": 8,
+        "stability_grade": 7.5,
+        "first_document_unchanged": 7
+      }
+    }
+  },
+  "isolamento_formatacao": {
+    "lexical": {
+      "upper_only": {
+        "cases": 8,
+        "base_hit3": 7,
+        "variant_hit3": 7,
+        "preserved": 7,
+        "stability_grade": 10.0
+      },
+      "punctuation_only": {
+        "cases": 8,
+        "base_hit3": 7,
+        "variant_hit3": 7,
+        "preserved": 7,
+        "stability_grade": 10.0
+      }
+    },
+    "semantic": {
+      "upper_only": {
+        "cases": 8,
+        "base_hit3": 5,
+        "variant_hit3": 3,
+        "preserved": 3,
+        "stability_grade": 6.0
+      },
+      "punctuation_only": {
+        "cases": 8,
+        "base_hit3": 5,
+        "variant_hit3": 5,
+        "preserved": 5,
+        "stability_grade": 10.0
+      }
+    },
+    "hybrid": {
+      "upper_only": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 7,
+        "preserved": 7,
+        "stability_grade": 8.75
+      },
+      "punctuation_only": {
+        "cases": 8,
+        "base_hit3": 8,
+        "variant_hit3": 8,
+        "preserved": 8,
+        "stability_grade": 10.0
+      }
+    }
+  }
+}

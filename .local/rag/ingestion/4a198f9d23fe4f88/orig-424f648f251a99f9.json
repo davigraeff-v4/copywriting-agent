@@ -1,0 +1,464 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/6753ecd0a4fbd8ce3a974afeafa48786.jpg",
+  "source_sha256": "424f648f251a99f9434476cd6a99601932ac32f253b0afec44546f2897e3410f",
+  "text": "COPYWRITING FRAMEWORKS\nTO WRITE HIGH-CONVERTING COPY\nPASO\nACE\nTalk about the prospect's main problem.\nCapture the reader's attention.\nMake the problem hurt, agitate it.\nProvide valuable content or information.\nS\nPresent your solution to the problem.\nEngage the reader with a call to action.\nShow the outcome your solution provides.\nQUEST\nQualify your visitors.\nAddress the main problem.\nUnderstand their needs.\nMention the advantages of solving\nEducate them about your product.\nthe problem.\nShow proof that you can solve it.\nStimulate their interest.\nAsk them to take action with a CTA.\nTransition them to take action.\nHERO\nSLAP\nHook the prospect with your headline.\nS\nMake the reader stop.\nEngage them with a story or narrative.\nMake them look (i.e. read).\nReveal your product.\nMotivate them to take action.\nMake an offer they can't refuse.\nPush them towards making a purchase.\nBookmark this and follow Chase Dimond for more great tips.\n\nGrade de seis frameworks de copy, cada um com sigla, passos e figura ilustrativa.",
+  "segments": [
+    {
+      "text": "COPYWRITING FRAMEWORKS\nTO WRITE HIGH-CONVERTING COPY\nPASO\nACE\nTalk about the prospect's main problem.\nCapture the reader's attention.\nMake the problem hurt, agitate it.\nProvide valuable content or information.\nS\nPresent your solution to the problem.\nEngage the reader with a call to action.\nShow the outcome your solution provides.\nQUEST\nQualify your visitors.\nAddress the main problem.\nUnderstand their needs.\nMention the advantages of solving\nEducate them about your product.\nthe problem.\nShow proof that you can solve it.\nStimulate their interest.\nAsk them to take action with a CTA.\nTransition them to take action.\nHERO\nSLAP\nHook the prospect with your headline.\nS\nMake the reader stop.\nEngage them with a story or narrative.\nMake them look (i.e. read).\nReveal your product.\nMotivate them to take action.\nMake an offer they can't refuse.\nPush them towards making a purchase.\nBookmark this and follow Chase Dimond for more great tips.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.19791666641255046,
+            0.9332425064823144,
+            0.6614583333333334,
+            0.041757493967581216
+          ],
+          "text": "COPYWRITING FRAMEWORKS",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "box": [
+            0.280510026899843,
+            0.9113372098283362,
+            0.4681238418970352,
+            0.01918050118947867
+          ],
+          "text": "TO WRITE HIGH-CONVERTING COPY",
+          "confidence": 1,
+          "start_char": 23,
+          "end_char": 52
+        },
+        {
+          "box": [
+            0.18032786966726755,
+            0.7921511631280928,
+            0.06921675592406179,
+            0.023255813349170373
+          ],
+          "text": "PASO",
+          "confidence": 1,
+          "start_char": 53,
+          "end_char": 57
+        },
+        {
+          "box": [
+            0.7049180329363337,
+            0.7921511631413063,
+            0.05100182101257855,
+            0.023255813349170373
+          ],
+          "text": "ACE",
+          "confidence": 1,
+          "start_char": 58,
+          "end_char": 61
+        },
+        {
+          "box": [
+            0.07468123231246786,
+            0.7572674419103571,
+            0.36429873735476764,
+            0.01598837200237546
+          ],
+          "text": "Talk about the prospect's main problem.",
+          "confidence": 1,
+          "start_char": 62,
+          "end_char": 101
+        },
+        {
+          "box": [
+            0.595502301949309,
+            0.7527026623918741,
+            0.2807039961855635,
+            0.019766594473607513
+          ],
+          "text": "Capture the reader's attention.",
+          "confidence": 1,
+          "start_char": 102,
+          "end_char": 133
+        },
+        {
+          "box": [
+            0.07468123894870633,
+            0.7207084469929033,
+            0.3005464472322383,
+            0.017711171662125436
+          ],
+          "text": "Make the problem hurt, agitate it.",
+          "confidence": 1,
+          "start_char": 134,
+          "end_char": 168
+        },
+        {
+          "box": [
+            0.5955437372412964,
+            0.7194317922176099,
+            0.3663060897435898,
+            0.017179562545277305
+          ],
+          "text": "Provide valuable content or information.",
+          "confidence": 1,
+          "start_char": 169,
+          "end_char": 209
+        },
+        {
+          "box": [
+            0.03825136574853355,
+            0.6904069767293385,
+            0.014571949559399201,
+            0.014534883992873282
+          ],
+          "text": "S",
+          "confidence": 1,
+          "start_char": 210,
+          "end_char": 211
+        },
+        {
+          "box": [
+            0.07468124279019565,
+            0.6873297003225903,
+            0.3387978056557158,
+            0.016348773841961872
+          ],
+          "text": "Present your solution to the problem.",
+          "confidence": 1,
+          "start_char": 212,
+          "end_char": 249
+        },
+        {
+          "box": [
+            0.5956284092152663,
+            0.6831395351153522,
+            0.34790529430422,
+            0.017441860011877752
+          ],
+          "text": "Engage the reader with a call to action.",
+          "confidence": 1,
+          "start_char": 250,
+          "end_char": 290
+        },
+        {
+          "box": [
+            0.07103824913048955,
+            0.6525885556509201,
+            0.3861566527276976,
+            0.01634877384196176
+          ],
+          "text": "Show the outcome your solution provides.",
+          "confidence": 1,
+          "start_char": 291,
+          "end_char": 331
+        },
+        {
+          "box": [
+            0.19489981818943644,
+            0.5159883726073644,
+            0.07832422501001604,
+            0.024709301358672553
+          ],
+          "text": "QUEST",
+          "confidence": 1,
+          "start_char": 332,
+          "end_char": 337
+        },
+        {
+          "box": [
+            0.08196721417505028,
+            0.4822888285898509,
+            0.1876138409997663,
+            0.01634877384196176
+          ],
+          "text": "Qualify your visitors.",
+          "confidence": 1,
+          "start_char": 338,
+          "end_char": 360
+        },
+        {
+          "box": [
+            0.5952971904367299,
+            0.469312410575769,
+            0.25214048206296746,
+            0.02169952210678394
+          ],
+          "text": "Address the main problem.",
+          "confidence": 1,
+          "start_char": 361,
+          "end_char": 386
+        },
+        {
+          "box": [
+            0.08171131097689474,
+            0.4475214666341145,
+            0.22101844722389155,
+            0.01965876691023083
+          ],
+          "text": "Understand their needs.",
+          "confidence": 1,
+          "start_char": 387,
+          "end_char": 410
+        },
+        {
+          "box": [
+            0.5956284184106091,
+            0.44040697679463436,
+            0.3096539097973424,
+            0.01599629308612216
+          ],
+          "text": "Mention the advantages of solving",
+          "confidence": 1,
+          "start_char": 411,
+          "end_char": 444
+        },
+        {
+          "box": [
+            0.08196720895932909,
+            0.41279069772452937,
+            0.31147541796040334,
+            0.015988372002375573
+          ],
+          "text": "Educate them about your product.",
+          "confidence": 1,
+          "start_char": 445,
+          "end_char": 477
+        },
+        {
+          "box": [
+            0.5955060411505213,
+            0.41945282081437196,
+            0.12046332726111775,
+            0.017199009575700974
+          ],
+          "text": "the problem.",
+          "confidence": 1,
+          "start_char": 478,
+          "end_char": 490
+        },
+        {
+          "box": [
+            0.5956284113563701,
+            0.39373296977607575,
+            0.29508197490985577,
+            0.017711171662125325
+          ],
+          "text": "Show proof that you can solve it.",
+          "confidence": 1,
+          "start_char": 491,
+          "end_char": 524
+        },
+        {
+          "box": [
+            0.08014572089230003,
+            0.3779069767965223,
+            0.21857923197950052,
+            0.015988372002375573
+          ],
+          "text": "Stimulate their interest.",
+          "confidence": 1,
+          "start_char": 525,
+          "end_char": 550
+        },
+        {
+          "box": [
+            0.5956284096485588,
+            0.36035422375523973,
+            0.3151184082031251,
+            0.016348773841961872
+          ],
+          "text": "Ask them to take action with a CTA.",
+          "confidence": 1,
+          "start_char": 551,
+          "end_char": 586
+        },
+        {
+          "box": [
+            0.07994097596358488,
+            0.3429204844070106,
+            0.2791463998647836,
+            0.01891479050431011
+          ],
+          "text": "Transition them to take action.",
+          "confidence": 1,
+          "start_char": 587,
+          "end_char": 618
+        },
+        {
+          "box": [
+            0.17850637604525507,
+            0.18895348852501892,
+            0.06921675592406179,
+            0.021802325339668083
+          ],
+          "text": "HERO",
+          "confidence": 1,
+          "start_char": 619,
+          "end_char": 623
+        },
+        {
+          "box": [
+            0.6958105637790697,
+            0.18895348873545148,
+            0.06557377220219018,
+            0.023255813349170373
+          ],
+          "text": "SLAP",
+          "confidence": 1,
+          "start_char": 624,
+          "end_char": 628
+        },
+        {
+          "box": [
+            0.07832422704893592,
+            0.1482558141852075,
+            0.3460837861411592,
+            0.017441860011877752
+          ],
+          "text": "Hook the prospect with your headline.",
+          "confidence": 1,
+          "start_char": 629,
+          "end_char": 666
+        },
+        {
+          "box": [
+            0.5537340615590982,
+            0.15261627951115397,
+            0.014571949559399222,
+            0.013081394684087422
+          ],
+          "text": "S",
+          "confidence": 1,
+          "start_char": 667,
+          "end_char": 668
+        },
+        {
+          "box": [
+            0.593583814872399,
+            0.14941279581445466,
+            0.1991452469784989,
+            0.018328959675510847
+          ],
+          "text": "Make the reader stop.",
+          "confidence": 1,
+          "start_char": 669,
+          "end_char": 690
+        },
+        {
+          "box": [
+            0.07832422854435218,
+            0.114825581445403,
+            0.3424407958984375,
+            0.015988372002375573
+          ],
+          "text": "Engage them with a story or narrative.",
+          "confidence": 1,
+          "start_char": 691,
+          "end_char": 729
+        },
+        {
+          "box": [
+            0.5938069213655884,
+            0.11482558144733457,
+            0.23861566527276967,
+            0.015988372002375573
+          ],
+          "text": "Make them look (i.e. read).",
+          "confidence": 1,
+          "start_char": 730,
+          "end_char": 757
+        },
+        {
+          "box": [
+            0.0783242246821,
+            0.0783378743375327,
+            0.1930783263638488,
+            0.017711171662125325
+          ],
+          "text": "Reveal your product.",
+          "confidence": 1,
+          "start_char": 758,
+          "end_char": 778
+        },
+        {
+          "box": [
+            0.5936508731960609,
+            0.07983835756113467,
+            0.2681705050998263,
+            0.01881053077427497
+          ],
+          "text": "Motivate them to take action.",
+          "confidence": 1,
+          "start_char": 779,
+          "end_char": 808
+        },
+        {
+          "box": [
+            0.08014572202573025,
+            0.04495912801319446,
+            0.28415300418169065,
+            0.017711171662125325
+          ],
+          "text": "Make an offer they can't refuse.",
+          "confidence": 1,
+          "start_char": 809,
+          "end_char": 841
+        },
+        {
+          "box": [
+            0.5956284207569789,
+            0.0449591283118248,
+            0.35154825846354165,
+            0.016348773841961872
+          ],
+          "text": "Push them towards making a purchase.",
+          "confidence": 1,
+          "start_char": 842,
+          "end_char": 878
+        },
+        {
+          "box": [
+            0.22586520084821451,
+            0.008720930463141485,
+            0.5446266109107906,
+            0.017441860011877752
+          ],
+          "text": "Bookmark this and follow Chase Dimond for more great tips.",
+          "confidence": 1,
+          "start_char": 879,
+          "end_char": 937
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 937
+    },
+    {
+      "text": "Grade de seis frameworks de copy, cada um com sigla, passos e figura ilustrativa.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 939,
+      "end_char": 1020
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1170,
+      1467
+    ],
+    "ocr_rows": 35,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

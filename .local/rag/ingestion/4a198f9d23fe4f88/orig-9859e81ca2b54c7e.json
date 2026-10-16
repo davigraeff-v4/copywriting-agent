@@ -1,0 +1,380 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c82fa5db8b0f95cfedfdf55925a582f9.png",
+  "source_sha256": "9859e81ca2b54c7ed126420b70ac2e4ff6cae0159b5ab5e0a0213325d391f21a",
+  "text": "TIKSLY\n4- STEP CONTENT\nCOPYWRITING PROCESS\nClear Buisness Objective\nStart\nhere\n1.Research and Strategy\nIdeal Customer Problem Dream Outcome\nPositioning Messaging\n2.Ideation\n2.ldeation\nBig Idea\nPillars\nStructure\nFramework\n3.Writing\n• Headline\nBody\nMost marketers\nCTA\nstart here\n......\nTake a break\n4.Editing\nProofread\nPeer review\ncutting\nPiece of copy\n\nFunil de processo de copy em quatro etapas, enfatizando pesquisa, ideação, escrita e edição.",
+  "segments": [
+    {
+      "text": "TIKSLY\n4- STEP CONTENT\nCOPYWRITING PROCESS\nClear Buisness Objective\nStart\nhere\n1.Research and Strategy\nIdeal Customer Problem Dream Outcome\nPositioning Messaging\n2.Ideation\n2.ldeation\nBig Idea\nPillars\nStructure\nFramework\n3.Writing\n• Headline\nBody\nMost marketers\nCTA\nstart here\n......\nTake a break\n4.Editing\nProofread\nPeer review\ncutting\nPiece of copy",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "TIKSLY",
+          "confidence": 0.5,
+          "box": [
+            0.46511628105969416,
+            0.9409641238366189,
+            0.13517441412415165,
+            0.02129162732985394
+          ],
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "text": "4- STEP CONTENT",
+          "confidence": 1,
+          "box": [
+            0.22529068919147063,
+            0.874185837536459,
+            0.5828488539365004,
+            0.03580864567185197
+          ],
+          "start_char": 7,
+          "end_char": 22
+        },
+        {
+          "text": "COPYWRITING PROCESS",
+          "confidence": 1,
+          "box": [
+            0.1191860536133543,
+            0.8199889676603486,
+            0.7950581251972854,
+            0.038837864330033715
+          ],
+          "start_char": 23,
+          "end_char": 42
+        },
+        {
+          "text": "Clear Buisness Objective",
+          "confidence": 1,
+          "box": [
+            0.3183139510582329,
+            0.7695761993592308,
+            0.3808139582675716,
+            0.022452989054167864
+          ],
+          "start_char": 43,
+          "end_char": 67
+        },
+        {
+          "text": "Start",
+          "confidence": 1,
+          "box": [
+            0.14244186054179184,
+            0.7348224570240639,
+            0.04651162760827679,
+            0.009678012227998705
+          ],
+          "start_char": 68,
+          "end_char": 73
+        },
+        {
+          "text": "here",
+          "confidence": 1,
+          "box": [
+            0.14672421099545288,
+            0.7211345613633976,
+            0.042307391311183135,
+            0.010923169885764403
+          ],
+          "start_char": 74,
+          "end_char": 78
+        },
+        {
+          "text": "1.Research and Strategy",
+          "confidence": 1,
+          "box": [
+            0.3151654626044602,
+            0.7057042337005476,
+            0.39434642342204596,
+            0.02458632022451893
+          ],
+          "start_char": 79,
+          "end_char": 102
+        },
+        {
+          "text": "Ideal Customer Problem Dream Outcome",
+          "confidence": 1,
+          "box": [
+            0.14534884424890257,
+            0.6592758911736178,
+            0.7325581251972854,
+            0.019414092863405695
+          ],
+          "start_char": 103,
+          "end_char": 139
+        },
+        {
+          "text": "Positioning Messaging",
+          "confidence": 1,
+          "box": [
+            0.3066860449492067,
+            0.6185798483001016,
+            0.40988372391723227,
+            0.023333688415304622
+          ],
+          "start_char": 140,
+          "end_char": 161
+        },
+        {
+          "text": "2.Ideation",
+          "confidence": 0.5,
+          "box": [
+            0.4272819313783671,
+            0.5517523500236351,
+            0.17014543937914295,
+            0.021602967867448402
+          ],
+          "start_char": 162,
+          "end_char": 172
+        },
+        {
+          "text": "2.ldeation",
+          "confidence": 0.5,
+          "box": [
+            0.4272866451631256,
+            0.5517753617747759,
+            0.17013601181081645,
+            0.02252474561889891
+          ],
+          "start_char": 173,
+          "end_char": 183
+        },
+        {
+          "text": "Big Idea",
+          "confidence": 1,
+          "box": [
+            0.2538593302075699,
+            0.486773901936589,
+            0.138114672317248,
+            0.029121752237624497
+          ],
+          "start_char": 184,
+          "end_char": 192
+        },
+        {
+          "text": "Pillars",
+          "confidence": 1,
+          "box": [
+            0.4501145118918011,
+            0.4961523517338146,
+            0.09979514561919656,
+            0.019101408670164712
+          ],
+          "start_char": 193,
+          "end_char": 200
+        },
+        {
+          "text": "Structure",
+          "confidence": 1,
+          "box": [
+            0.616238682614635,
+            0.496585090766755,
+            0.1526970526184699,
+            0.017736938673560628
+          ],
+          "start_char": 201,
+          "end_char": 210
+        },
+        {
+          "text": "Framework",
+          "confidence": 1,
+          "box": [
+            0.4200581394627954,
+            0.45416009354290104,
+            0.18749999999999994,
+            0.018388224089711098
+          ],
+          "start_char": 211,
+          "end_char": 220
+        },
+        {
+          "text": "3.Writing",
+          "confidence": 1,
+          "box": [
+            0.44120247112939776,
+            0.378426102229105,
+            0.14820138693658597,
+            0.025875741432397667
+          ],
+          "start_char": 221,
+          "end_char": 230
+        },
+        {
+          "text": "• Headline",
+          "confidence": 1,
+          "box": [
+            0.32409359857776965,
+            0.32926121072346093,
+            0.18919255677297064,
+            0.025510995133084424
+          ],
+          "start_char": 231,
+          "end_char": 241
+        },
+        {
+          "text": "Body",
+          "confidence": 1,
+          "box": [
+            0.5772399975429128,
+            0.3257103251274294,
+            0.09199231080334602,
+            0.029568925119336332
+          ],
+          "start_char": 242,
+          "end_char": 246
+        },
+        {
+          "text": "Most marketers",
+          "confidence": 1,
+          "box": [
+            0.05813953688551555,
+            0.3022152972944182,
+            0.2136627865158749,
+            0.0146525107572964
+          ],
+          "start_char": 247,
+          "end_char": 261
+        },
+        {
+          "text": "CTA",
+          "confidence": 0.3,
+          "box": [
+            0.47674418619786224,
+            0.2925372845096437,
+            0.06976744141241514,
+            0.017420422652782833
+          ],
+          "start_char": 262,
+          "end_char": 265
+        },
+        {
+          "text": "start here",
+          "confidence": 1,
+          "box": [
+            0.09738372385872526,
+            0.2770137525465271,
+            0.13372092455725879,
+            0.014594442885209115
+          ],
+          "start_char": 266,
+          "end_char": 276
+        },
+        {
+          "text": "......",
+          "confidence": 1,
+          "box": [
+            0.6497093035153939,
+            0.26156764445565606,
+            0.08284883467035264,
+            0.005806807550927593
+          ],
+          "start_char": 277,
+          "end_char": 283
+        },
+        {
+          "text": "Take a break",
+          "confidence": 1,
+          "box": [
+            0.7499999976870759,
+            0.2576480493473491,
+            0.17732558587584835,
+            0.014594442885209115
+          ],
+          "start_char": 284,
+          "end_char": 296
+        },
+        {
+          "text": "4.Editing",
+          "confidence": 0.5,
+          "box": [
+            0.4398094332304157,
+            0.2108901018425432,
+            0.1438651165175518,
+            0.025453379607220696
+          ],
+          "start_char": 297,
+          "end_char": 306
+        },
+        {
+          "text": "Proofread",
+          "confidence": 1,
+          "box": [
+            0.4459742791030676,
+            0.16936663626671764,
+            0.14290171921855271,
+            0.01732711834817868
+          ],
+          "start_char": 307,
+          "end_char": 316
+        },
+        {
+          "text": "Peer review",
+          "confidence": 1,
+          "box": [
+            0.4345930256984482,
+            0.14341846781433734,
+            0.16569766934070523,
+            0.015562243786816431
+          ],
+          "start_char": 317,
+          "end_char": 328
+        },
+        {
+          "text": "cutting",
+          "confidence": 1,
+          "box": [
+            0.4633631033952177,
+            0.1134643912991087,
+            0.10573946506487397,
+            0.02028834160679749
+          ],
+          "start_char": 329,
+          "end_char": 336
+        },
+        {
+          "text": "Piece of copy",
+          "confidence": 1,
+          "box": [
+            0.42880020208666153,
+            0.02330320708443868,
+            0.18415413801918928,
+            0.021679086565378872
+          ],
+          "start_char": 337,
+          "end_char": 350
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 350
+    },
+    {
+      "text": "Funil de processo de copy em quatro etapas, enfatizando pesquisa, ideação, escrita e edição.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 352,
+      "end_char": 444
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2375,
+      3563
+    ],
+    "ocr_rows": 28,
+    "low_confidence_rows": 5,
+    "ocr_mean_confidence": 0.9035714285714286,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

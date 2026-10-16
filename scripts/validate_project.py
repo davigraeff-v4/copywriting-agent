@@ -5,6 +5,8 @@ import json
 import re
 from pathlib import Path
 from copycheck import validate
+from validate_repertoire import validate_repertoire
+from validate_rag import validate_rag
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -36,8 +38,15 @@ def validate_project(root=ROOT):
     fixture=json.loads((root/'tests/fixtures/valid-delivery.json').read_text()); errors+=validate(fixture)
     cases=json.loads((root/'evals/cases.json').read_text())
     if len({c['id'] for c in cases})!=len(cases): errors.append('Duplicate evaluation case')
+    repertoire=None
+    if (root/'knowledge/repertorio/catalogo.json').exists():
+        repertoire=validate_repertoire(root)
+        errors+=repertoire['errors']
+    rag=validate_rag(root)
+    errors+=rag['errors']
     return dict(status='failed' if errors else 'passed',skills=len(skills),skill_references=refs,
-                retrieval_entries=len(index),evaluation_cases=len(cases),errors=errors)
+                retrieval_entries=len(index),repertoire_units=repertoire['units'] if repertoire else 0,
+                evaluation_cases=len(cases),rag=rag,errors=errors)
 
 if __name__=='__main__':
     result=validate_project(); print(json.dumps(result,ensure_ascii=False,indent=2)); raise SystemExit(bool(result['errors']))

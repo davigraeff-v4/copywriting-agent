@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "files": 239,
+    "unchanged": 239,
+    "mismatches": []
+  },
+  "private": {
+    "files": 338,
+    "unchanged": 338,
+    "mismatches": []
+  },
+  "ranking": {
+    "files": 5,
+    "unchanged": 5,
+    "mismatches": []
+  },
+  "existing_fixtures": {
+    "files": 5,
+    "unchanged": 5,
+    "mismatches": []
+  },
+  "private_inventory": {
+    "added": [],
+    "removed": []
+  },
+  "index_pointer": true,
+  "semantic_pointer": true,
+  "evals/retrieval/broad-suite-v1.json": true,
+  "evals/retrieval/formatting-probes-v1.json": true,
+  "status": "passed"
+}

@@ -1,0 +1,356 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/89a9b530baa4b868cd0f3ebe7d332ff2.jpg",
+  "source_sha256": "b0612f232c4e6d01487d203979d97df9c4515aabf8548d53cd70aec0dce85d21",
+  "text": "Nick Broekema\nMy content strategy:\nGrowth content\n• Personal stories\nTop of Funnel\n• Transformations\n• Lessons/growth\n(1-2x p/w)\nAuthority-building content\nMiddle of Funnel\n-→ • How-I... posts to build authority\n• Actionable and simple advice\n• Showcase skills and experience\n(1-2x p/w)\nLead generating content\nBottom of Funnel\n• Pains, agitation, ideal situation, solution\n• Address ideal customer directly\n• Add a clear promo CTA\n(1x p/w)\nInbound leads\n→\nDMs\n→→\nCall\nSign client\n\nFunil de estratégia de conteúdo com tipos de pauta e caminho de contato até contratação.",
+  "segments": [
+    {
+      "text": "Nick Broekema\nMy content strategy:\nGrowth content\n• Personal stories\nTop of Funnel\n• Transformations\n• Lessons/growth\n(1-2x p/w)\nAuthority-building content\nMiddle of Funnel\n-→ • How-I... posts to build authority\n• Actionable and simple advice\n• Showcase skills and experience\n(1-2x p/w)\nLead generating content\nBottom of Funnel\n• Pains, agitation, ideal situation, solution\n• Address ideal customer directly\n• Add a clear promo CTA\n(1x p/w)\nInbound leads\n→\nDMs\n→→\nCall\nSign client",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.027173912886705686,
+            0.9646739131061873,
+            0.10054347826086958,
+            0.016304347826086918
+          ],
+          "confidence": 1,
+          "text": "Nick Broekema",
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "box": [
+            0.19112121405154084,
+            0.798862017744212,
+            0.6176326585852581,
+            0.07236362021902332
+          ],
+          "confidence": 1,
+          "text": "My content strategy:",
+          "start_char": 14,
+          "end_char": 34
+        },
+        {
+          "box": [
+            0.6249999983695652,
+            0.7010869567255436,
+            0.2065217391304347,
+            0.024456521739130377
+          ],
+          "confidence": 1,
+          "text": "Growth content",
+          "start_char": 35,
+          "end_char": 49
+        },
+        {
+          "box": [
+            0.6247490117874797,
+            0.6660346729618429,
+            0.17443457893703285,
+            0.02216939433761267
+          ],
+          "confidence": 1,
+          "text": "• Personal stories",
+          "start_char": 50,
+          "end_char": 68
+        },
+        {
+          "box": [
+            0.21968326429973473,
+            0.6441677451206018,
+            0.17744333847709326,
+            0.03283270545627759
+          ],
+          "confidence": 1,
+          "text": "Top of Funnel",
+          "start_char": 69,
+          "end_char": 82
+        },
+        {
+          "box": [
+            0.6277173911389413,
+            0.6413043478438091,
+            0.17391304347826086,
+            0.016304347826086918
+          ],
+          "confidence": 1,
+          "text": "• Transformations",
+          "start_char": 83,
+          "end_char": 100
+        },
+        {
+          "box": [
+            0.6277173910939691,
+            0.6086956522089761,
+            0.17391304347826086,
+            0.021739130434782705
+          ],
+          "confidence": 0.5,
+          "text": "• Lessons/growth",
+          "start_char": 101,
+          "end_char": 117
+        },
+        {
+          "box": [
+            0.6218864801048719,
+            0.5842155645051407,
+            0.07671113117881445,
+            0.020805763809577216
+          ],
+          "confidence": 0.5,
+          "text": "(1-2x p/w)",
+          "start_char": 118,
+          "end_char": 128
+        },
+        {
+          "box": [
+            0.5896739129076087,
+            0.5108695652292529,
+            0.34782608695652173,
+            0.029891304347826053
+          ],
+          "confidence": 1,
+          "text": "Authority-building content",
+          "start_char": 129,
+          "end_char": 155
+        },
+        {
+          "box": [
+            0.20108695638586957,
+            0.4701086956698193,
+            0.2146739130434783,
+            0.02717391304347827
+          ],
+          "confidence": 1,
+          "text": "Middle of Funnel",
+          "start_char": 156,
+          "end_char": 172
+        },
+        {
+          "box": [
+            0.5296016341117419,
+            0.4750232639697404,
+            0.37283308609672217,
+            0.030018228551615844
+          ],
+          "confidence": 1,
+          "text": "-→ • How-I... posts to build authority",
+          "start_char": 173,
+          "end_char": 211
+        },
+        {
+          "box": [
+            0.586760229763534,
+            0.44996893780481084,
+            0.2938339813895847,
+            0.02356000050254481
+          ],
+          "confidence": 1,
+          "text": "• Actionable and simple advice",
+          "start_char": 212,
+          "end_char": 242
+        },
+        {
+          "box": [
+            0.5896739129088218,
+            0.42391304348675274,
+            0.3125,
+            0.0190217391304347
+          ],
+          "confidence": 1,
+          "text": "• Showcase skills and experience",
+          "start_char": 243,
+          "end_char": 275
+        },
+        {
+          "box": [
+            0.5923913042069242,
+            0.3967391304649758,
+            0.07608695652173914,
+            0.01630434782608703
+          ],
+          "confidence": 0.5,
+          "text": "(1-2x p/w)",
+          "start_char": 276,
+          "end_char": 286
+        },
+        {
+          "box": [
+            0.5516304346467392,
+            0.3260869565346233,
+            0.32065217391304346,
+            0.029891304347826053
+          ],
+          "confidence": 1,
+          "text": "Lead generating content",
+          "start_char": 287,
+          "end_char": 310
+        },
+        {
+          "box": [
+            0.19836956507984435,
+            0.2880434782759661,
+            0.22282608695652176,
+            0.024456521739130488
+          ],
+          "confidence": 1,
+          "text": "Bottom of Funnel",
+          "start_char": 311,
+          "end_char": 327
+        },
+        {
+          "box": [
+            0.5515086388580018,
+            0.2937104522712254,
+            0.3969660634579866,
+            0.024561025526212532
+          ],
+          "confidence": 1,
+          "text": "• Pains, agitation, ideal situation, solution",
+          "start_char": 328,
+          "end_char": 373
+        },
+        {
+          "box": [
+            0.5596169389327027,
+            0.26616312680657994,
+            0.3128620230633279,
+            0.024965091891910762
+          ],
+          "confidence": 1,
+          "text": "• Address ideal customer directly",
+          "start_char": 374,
+          "end_char": 407
+        },
+        {
+          "box": [
+            0.5622637522595452,
+            0.2371229213750976,
+            0.22603706691576086,
+            0.024297312549922734
+          ],
+          "confidence": 1,
+          "text": "• Add a clear promo CTA",
+          "start_char": 408,
+          "end_char": 431
+        },
+        {
+          "box": [
+            0.5565074554375748,
+            0.21099555636870648,
+            0.06354795849841577,
+            0.019660042679828127
+          ],
+          "confidence": 0.5,
+          "text": "(1x p/w)",
+          "start_char": 432,
+          "end_char": 440
+        },
+        {
+          "box": [
+            0.2282608694267842,
+            0.10597826088751028,
+            0.15217391304347827,
+            0.01902173913043481
+          ],
+          "confidence": 1,
+          "text": "Inbound leads",
+          "start_char": 441,
+          "end_char": 454
+        },
+        {
+          "box": [
+            0.40489130421195657,
+            0.10597826096837948,
+            0.03532608695652173,
+            0.021739130434782594
+          ],
+          "confidence": 0.5,
+          "text": "→",
+          "start_char": 455,
+          "end_char": 456
+        },
+        {
+          "box": [
+            0.4565217389945653,
+            0.10326086980978244,
+            0.0625,
+            0.024456521739130488
+          ],
+          "confidence": 0.5,
+          "text": "DMs",
+          "start_char": 457,
+          "end_char": 460
+        },
+        {
+          "box": [
+            0.5326086955267558,
+            0.10326086966973236,
+            0.0434782608695653,
+            0.02717391304347827
+          ],
+          "confidence": 1,
+          "text": "→→",
+          "start_char": 461,
+          "end_char": 463
+        },
+        {
+          "box": [
+            0.5896739129257247,
+            0.105978260942029,
+            0.05163043478260865,
+            0.021739130434782594
+          ],
+          "confidence": 1,
+          "text": "Call",
+          "start_char": 464,
+          "end_char": 468
+        },
+        {
+          "box": [
+            0.7277699811288566,
+            0.0982473609631872,
+            0.11782960269762122,
+            0.031766147717185556
+          ],
+          "confidence": 1,
+          "text": "Sign client",
+          "start_char": 469,
+          "end_char": 480
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 480
+    },
+    {
+      "text": "Funil de estratégia de conteúdo com tipos de pauta e caminho de contato até contratação.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 482,
+      "end_char": 570
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      736
+    ],
+    "ocr_rows": 26,
+    "low_confidence_rows": 6,
+    "ocr_mean_confidence": 0.8846153846153846,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

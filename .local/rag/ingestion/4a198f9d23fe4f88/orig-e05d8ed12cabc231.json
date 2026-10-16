@@ -1,0 +1,164 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62b19601069dd7b835454a4be41cd3d7.jpg",
+  "source_sha256": "e05d8ed12cabc231be29d12e4f0814e65e5a6f903e968e9342ddc1f9105c5d04",
+  "text": "Problem-Solving hooks\nStruggling With (Common Niche-Specific Problem)?\nFix It With This Simple Trick!\nThe 3 Biggest Mistakes Keeping You From\n(Desired Result)\nTired of (Niche Pain Point)? Try This Instead\nThe Step-by-Step Blueprint to Achieve\n(Niche Goal) Faster\nWhat No One Tells You About\n(Common Niche Struggle) & How to Fix It\n\nLista de ganchos ligados à solução de problemas em caixas de texto arredondadas.",
+  "segments": [
+    {
+      "text": "Problem-Solving hooks\nStruggling With (Common Niche-Specific Problem)?\nFix It With This Simple Trick!\nThe 3 Biggest Mistakes Keeping You From\n(Desired Result)\nTired of (Niche Pain Point)? Try This Instead\nThe Step-by-Step Blueprint to Achieve\n(Niche Goal) Faster\nWhat No One Tells You About\n(Common Niche Struggle) & How to Fix It",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.14999999990589571,
+            0.8370370370482237,
+            0.7018518518518518,
+            0.05481481481481476
+          ],
+          "text": "Problem-Solving hooks",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "box": [
+            0.18137939497901126,
+            0.7416873254801437,
+            0.6335572984483507,
+            0.029155971385814494
+          ],
+          "text": "Struggling With (Common Niche-Specific Problem)?",
+          "confidence": 1,
+          "start_char": 22,
+          "end_char": 70
+        },
+        {
+          "box": [
+            0.31481481475646883,
+            0.7140740740826992,
+            0.37407407407407406,
+            0.0251851851851852
+          ],
+          "text": "Fix It With This Simple Trick!",
+          "confidence": 1,
+          "start_char": 71,
+          "end_char": 101
+        },
+        {
+          "box": [
+            0.24259259249137805,
+            0.6044444444495427,
+            0.5111111111111111,
+            0.0251851851851852
+          ],
+          "text": "The 3 Biggest Mistakes Keeping You From",
+          "confidence": 1,
+          "start_char": 102,
+          "end_char": 141
+        },
+        {
+          "box": [
+            0.40347001959320006,
+            0.5776225057844866,
+            0.19675341005678537,
+            0.02471608762387878
+          ],
+          "text": "(Desired Result)",
+          "confidence": 1,
+          "start_char": 142,
+          "end_char": 158
+        },
+        {
+          "box": [
+            0.22407407399161428,
+            0.45333333333808523,
+            0.5555555555555556,
+            0.0251851851851852
+          ],
+          "text": "Tired of (Niche Pain Point)? Try This Instead",
+          "confidence": 1,
+          "start_char": 159,
+          "end_char": 204
+        },
+        {
+          "box": [
+            0.26666666656701943,
+            0.32888888889523804,
+            0.4629629629629629,
+            0.026666666666666727
+          ],
+          "text": "The Step-by-Step Blueprint to Achieve",
+          "confidence": 1,
+          "start_char": 205,
+          "end_char": 242
+        },
+        {
+          "box": [
+            0.37962962952764356,
+            0.30074074075899093,
+            0.24444444444444446,
+            0.0251851851851852
+          ],
+          "text": "(Niche Goal) Faster",
+          "confidence": 1,
+          "start_char": 243,
+          "end_char": 262
+        },
+        {
+          "box": [
+            0.31481481471390554,
+            0.19555555556220905,
+            0.36666666666666664,
+            0.022222222222222143
+          ],
+          "text": "What No One Tells You About",
+          "confidence": 1,
+          "start_char": 263,
+          "end_char": 290
+        },
+        {
+          "box": [
+            0.24259259249828535,
+            0.16296296296762702,
+            0.5166666666666667,
+            0.0251851851851852
+          ],
+          "text": "(Common Niche Struggle) & How to Fix It",
+          "confidence": 1,
+          "start_char": 291,
+          "end_char": 330
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 330
+    },
+    {
+      "text": "Lista de ganchos ligados à solução de problemas em caixas de texto arredondadas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 332,
+      "end_char": 412
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 10,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

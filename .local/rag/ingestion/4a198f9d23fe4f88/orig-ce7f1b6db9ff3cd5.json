@@ -1,0 +1,728 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9baf07e8b656f0fc34e7775b427a7079.png",
+  "source_sha256": "ce7f1b6db9ff3cd5fa662e051bf829ad1aa8e003783dcf15aedcb1429d075b87",
+  "text": "TIKSLY\nThe Digital Mrketing Funnel\n5. RETENTION/LOYALTY\nGoal: Keep customers\ncoming back\n_ Tactics:\n• Loyalty programs\n• Personalized follow-ups\n• Referral incentives\n3.CONSIDERATION\n_ Key Metrics:\n4.CONVERSION\n• Repeat purchase rate\nGoal: Nurture leads.\n• Customer lifetime value\nGoal: Turn leads into\n(CLV)\ncustomers.\n- Tactics:\n_ Tactics:\n• Product Demos\n• Case studies\n• Slaes calls\n• Free trials\n5\n• Discount offers\n• Limited-time-deals\n_ Key Metrics:\n_ Key Metrics:\n• Demo requests\n• Trial sign-ups\n• Conversion rate\n• Time on site\n• Revenue\n• Average order value\n3\n1.AWARENESS\n2\n2. INTEREST\nGoal: Attract strangers\nGoal: Engage prospects\n_ Tactics:\n_ Tactics:\n• Social media ads\n• Email newsletters\n• Blog posts/ SEO\n• Webinars/ebooks\n• Influencer partenership\n• Social followers\n_ Key Metrics:\n_ Key Metrics:\n• Website traffic\n• Email sign-ups\n• Impressions\n• Content downloads\n• Social reach\n• Retargeting ads\n\nDiagrama de funil de marketing com caminho curvo, etapas, táticas e indicadores.",
+  "segments": [
+    {
+      "text": "TIKSLY\nThe Digital Mrketing Funnel\n5. RETENTION/LOYALTY\nGoal: Keep customers\ncoming back\n_ Tactics:\n• Loyalty programs\n• Personalized follow-ups\n• Referral incentives\n3.CONSIDERATION\n_ Key Metrics:\n4.CONVERSION\n• Repeat purchase rate\nGoal: Nurture leads.\n• Customer lifetime value\nGoal: Turn leads into\n(CLV)\ncustomers.\n- Tactics:\n_ Tactics:\n• Product Demos\n• Case studies\n• Slaes calls\n• Free trials\n5\n• Discount offers\n• Limited-time-deals\n_ Key Metrics:\n_ Key Metrics:\n• Demo requests\n• Trial sign-ups\n• Conversion rate\n• Time on site\n• Revenue\n• Average order value\n3\n1.AWARENESS\n2\n2. INTEREST\nGoal: Attract strangers\nGoal: Engage prospects\n_ Tactics:\n_ Tactics:\n• Social media ads\n• Email newsletters\n• Blog posts/ SEO\n• Webinars/ebooks\n• Influencer partenership\n• Social followers\n_ Key Metrics:\n_ Key Metrics:\n• Website traffic\n• Email sign-ups\n• Impressions\n• Content downloads\n• Social reach\n• Retargeting ads",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.465049032062996,
+            0.94066670414097,
+            0.13530891253380767,
+            0.021712103332749307
+          ],
+          "text": "TIKSLY",
+          "confidence": 0.5,
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "box": [
+            0.047965128208891095,
+            0.8603855358105086,
+            0.9026162550343956,
+            0.0445990664148271
+          ],
+          "text": "The Digital Mrketing Funnel",
+          "confidence": 1,
+          "start_char": 7,
+          "end_char": 34
+        },
+        {
+          "box": [
+            0.36918604276009304,
+            0.8148169271677212,
+            0.26162791498853477,
+            0.017451808024828812
+          ],
+          "text": "5. RETENTION/LOYALTY",
+          "confidence": 1,
+          "start_char": 35,
+          "end_char": 55
+        },
+        {
+          "box": [
+            0.3719459521292611,
+            0.7695087428079238,
+            0.23138169354127475,
+            0.016497513879945924
+          ],
+          "text": "Goal: Keep customers",
+          "confidence": 1,
+          "start_char": 56,
+          "end_char": 76
+        },
+        {
+          "box": [
+            0.4212775421072777,
+            0.7553990932888381,
+            0.1400328068271181,
+            0.017579203118643763
+          ],
+          "text": "coming back",
+          "confidence": 1,
+          "start_char": 77,
+          "end_char": 88
+        },
+        {
+          "box": [
+            0.36101588720492916,
+            0.7294980588786407,
+            0.12064689571635406,
+            0.018390997739478374
+          ],
+          "text": "_ Tactics:",
+          "confidence": 1,
+          "start_char": 89,
+          "end_char": 99
+        },
+        {
+          "box": [
+            0.3619186041444232,
+            0.7081669900792279,
+            0.2093023262490446,
+            0.015512717712478887
+          ],
+          "text": "• Loyalty programs",
+          "confidence": 1,
+          "start_char": 100,
+          "end_char": 118
+        },
+        {
+          "box": [
+            0.36166336710117475,
+            0.6894731754331851,
+            0.2752479991033632,
+            0.01809335203661376
+          ],
+          "text": "• Personalized follow-ups",
+          "confidence": 1,
+          "start_char": 119,
+          "end_char": 144
+        },
+        {
+          "box": [
+            0.36191860790373576,
+            0.6731493099176884,
+            0.21947673750955432,
+            0.013801756587202006
+          ],
+          "text": "• Referral incentives",
+          "confidence": 1,
+          "start_char": 145,
+          "end_char": 166
+        },
+        {
+          "box": [
+            0.07267441819709887,
+            0.6441770277126295,
+            0.2093023262490446,
+            0.015512717712478944
+          ],
+          "text": "3.CONSIDERATION",
+          "confidence": 1,
+          "start_char": 167,
+          "end_char": 182
+        },
+        {
+          "box": [
+            0.3618627081484115,
+            0.6332707965974643,
+            0.16726295564495386,
+            0.01793428227174539
+          ],
+          "text": "_ Key Metrics:",
+          "confidence": 1,
+          "start_char": 183,
+          "end_char": 197
+        },
+        {
+          "box": [
+            0.7267441833032403,
+            0.6306033991709585,
+            0.17441860999235648,
+            0.014543173154593993
+          ],
+          "text": "4.CONVERSION",
+          "confidence": 1,
+          "start_char": 198,
+          "end_char": 210
+        },
+        {
+          "box": [
+            0.36753364179294284,
+            0.6083344682471205,
+            0.24018045965501528,
+            0.01752083992569177
+          ],
+          "text": "• Repeat purchase rate",
+          "confidence": 1,
+          "start_char": 211,
+          "end_char": 233
+        },
+        {
+          "box": [
+            0.057875909970315616,
+            0.5868697209917842,
+            0.22004870525083786,
+            0.016690121391037906
+          ],
+          "text": "Goal: Nurture leads.",
+          "confidence": 1,
+          "start_char": 234,
+          "end_char": 254
+        },
+        {
+          "box": [
+            0.36773256022185274,
+            0.5937606934858076,
+            0.2601744112605098,
+            0.013573628596709103
+          ],
+          "text": "• Customer lifetime value",
+          "confidence": 1,
+          "start_char": 255,
+          "end_char": 280
+        },
+        {
+          "box": [
+            0.7093023231593357,
+            0.5840652445643321,
+            0.21511628374331204,
+            0.013573628596709103
+          ],
+          "text": "Goal: Turn leads into",
+          "confidence": 1,
+          "start_char": 281,
+          "end_char": 302
+        },
+        {
+          "box": [
+            0.3937511331853415,
+            0.573184560292662,
+            0.05842796677367823,
+            0.017883189499303394
+          ],
+          "text": "(CLV)",
+          "confidence": 0.5,
+          "start_char": 303,
+          "end_char": 308
+        },
+        {
+          "box": [
+            0.7585508497897547,
+            0.5699152364098773,
+            0.11815750968983352,
+            0.012367346654722089
+          ],
+          "text": "customers.",
+          "confidence": 1,
+          "start_char": 309,
+          "end_char": 319
+        },
+        {
+          "box": [
+            0.03723944187186065,
+            0.5481857989560637,
+            0.12255243568743385,
+            0.025377874242765833
+          ],
+          "text": "- Tactics:",
+          "confidence": 1,
+          "start_char": 320,
+          "end_char": 330
+        },
+        {
+          "box": [
+            0.6794993649412876,
+            0.5357888656918344,
+            0.12040463552537772,
+            0.017879518391646254
+          ],
+          "confidence": 1,
+          "text": "_ Tactics:",
+          "start_char": 331,
+          "end_char": 341
+        },
+        {
+          "box": [
+            0.0595930253774971,
+            0.5278316413867905,
+            0.19767441126050972,
+            0.013573628596709044
+          ],
+          "confidence": 1,
+          "text": "• Product Demos",
+          "start_char": 342,
+          "end_char": 357
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.059593021503634436,
+            0.5074711987118786,
+            0.17151163124522284,
+            0.013573628596709044
+          ],
+          "text": "• Case studies",
+          "start_char": 358,
+          "end_char": 372
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7020348868152116,
+            0.5141154330440375,
+            0.1366279006340766,
+            0.012860727728983655
+          ],
+          "text": "• Slaes calls",
+          "start_char": 373,
+          "end_char": 386
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0581395379623685,
+            0.4871107561460656,
+            0.13662790063407662,
+            0.013573628596709103
+          ],
+          "text": "• Free trials",
+          "start_char": 387,
+          "end_char": 400
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.42732558086366557,
+            0.4822630316227779,
+            0.03779069859243628,
+            0.030055892063652962
+          ],
+          "text": "5",
+          "start_char": 401,
+          "end_char": 402
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7018240062191476,
+            0.4938433432394637,
+            0.18213662894850957,
+            0.01504736772295525
+          ],
+          "text": "• Discount offers",
+          "start_char": 403,
+          "end_char": 420
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7020348821550355,
+            0.47547621777959526,
+            0.22965116312452227,
+            0.014543173154593993
+          ],
+          "text": "• Limited-time-deals",
+          "start_char": 421,
+          "end_char": 441
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04033915848668855,
+            0.45311794066701067,
+            0.17062943495340427,
+            0.017613656248621528
+          ],
+          "text": "_ Key Metrics:",
+          "start_char": 442,
+          "end_char": 456
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6797977751014429,
+            0.43545786552813565,
+            0.17076746742341842,
+            0.018201671250940372
+          ],
+          "text": "_ Key Metrics:",
+          "start_char": 457,
+          "end_char": 471
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.06073485912091868,
+            0.42605361711435125,
+            0.19680242098846862,
+            0.017446233158279086
+          ],
+          "text": "• Demo requests",
+          "start_char": 472,
+          "end_char": 487
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.06031941655293202,
+            0.4040656448523206,
+            0.18158685319959725,
+            0.021922878519055822
+          ],
+          "text": "• Trial sign-ups",
+          "start_char": 488,
+          "end_char": 504
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.70203488182059,
+            0.41526382074829365,
+            0.19186046812070057,
+            0.011649604424030255
+          ],
+          "text": "• Conversion rate",
+          "start_char": 505,
+          "end_char": 522
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.06250000225393904,
+            0.3891283352206457,
+            0.15988371625668804,
+            0.013632016319552482
+          ],
+          "text": "• Time on site",
+          "start_char": 523,
+          "end_char": 537
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7034883712786946,
+            0.3968005018723505,
+            0.11627907093582801,
+            0.01168745225166886
+          ],
+          "text": "• Revenue",
+          "start_char": 538,
+          "end_char": 547
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.702034887145844,
+            0.37452948569220773,
+            0.23982557438503205,
+            0.015683814303638646
+          ],
+          "text": "• Average order value",
+          "start_char": 548,
+          "end_char": 569
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.341569767911651,
+            0.3242736127968248,
+            0.034883719845302585,
+            0.029039428404613037
+          ],
+          "text": "3",
+          "start_char": 570,
+          "end_char": 571
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0901162824730146,
+            0.25941889022058556,
+            0.17732557438503205,
+            0.014519714202306518
+          ],
+          "text": "1.AWARENESS",
+          "start_char": 572,
+          "end_char": 583
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.5872093017938981,
+            0.24973908139521891,
+            0.037790698592436334,
+            0.03194337028781028
+          ],
+          "text": "2",
+          "start_char": 584,
+          "end_char": 585
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7557011921157508,
+            0.258964966682456,
+            0.14557435976819733,
+            0.01736352315062711
+          ],
+          "text": "2. INTEREST",
+          "start_char": 586,
+          "end_char": 597
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04328400726747788,
+            0.218160425231166,
+            0.2665823849438499,
+            0.018803604872642536
+          ],
+          "text": "Goal: Attract strangers",
+          "start_char": 598,
+          "end_char": 621
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6947674434543637,
+            0.22166763409781745,
+            0.26598836875477716,
+            0.01645567545777133
+          ],
+          "text": "Goal: Engage prospects",
+          "start_char": 622,
+          "end_char": 644
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04445315494799092,
+            0.18393162914502065,
+            0.11867376777885773,
+            0.017637889388214825
+          ],
+          "text": "_ Tactics:",
+          "start_char": 645,
+          "end_char": 655
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6941555703068786,
+            0.1864932048940596,
+            0.1187128908546714,
+            0.017002307336632563
+          ],
+          "text": "_ Tactics:",
+          "start_char": 656,
+          "end_char": 666
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04941860424078039,
+            0.1664927208463359,
+            0.2093023262490446,
+            0.012616438728054923
+          ],
+          "text": "• Social media ads",
+          "start_char": 667,
+          "end_char": 685
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.704941860531011,
+            0.16746070178181172,
+            0.20784883687547773,
+            0.01258948636025078
+          ],
+          "text": "• Email newsletters",
+          "start_char": 686,
+          "end_char": 705
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.050518405587576795,
+            0.14418900311499921,
+            0.1896996197561442,
+            0.019246907874362236
+          ],
+          "text": "• Blog posts/ SEO",
+          "start_char": 706,
+          "end_char": 723
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7049418599818145,
+            0.1480552069655078,
+            0.21075581562261136,
+            0.016624843161856938
+          ],
+          "text": "• Webinars/ebooks",
+          "start_char": 724,
+          "end_char": 741
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.050872093615710115,
+            0.12578419065759322,
+            0.26889534750191085,
+            0.016624843161856938
+          ],
+          "text": "• Influencer partenership",
+          "start_char": 742,
+          "end_char": 767
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7049418603334597,
+            0.12970944491468758,
+            0.1875,
+            0.013640617935391293
+          ],
+          "text": "• Social followers",
+          "start_char": 768,
+          "end_char": 786
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04500548096270946,
+            0.0917352530743827,
+            0.1643495030371737,
+            0.017869528742925477
+          ],
+          "text": "_ Key Metrics:",
+          "start_char": 787,
+          "end_char": 801
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.69143922035711,
+            0.09385859666006753,
+            0.17069268069621646,
+            0.01874678107995161
+          ],
+          "text": "_ Key Metrics:",
+          "start_char": 802,
+          "end_char": 816
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.050872096451156715,
+            0.07151819335385615,
+            0.17732557438503205,
+            0.012696147712889409
+          ],
+          "text": "• Website traffic",
+          "start_char": 817,
+          "end_char": 834
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7049418623427269,
+            0.07057716465431972,
+            0.18168604250573261,
+            0.015683814303638646
+          ],
+          "text": "• Email sign-ups",
+          "start_char": 835,
+          "end_char": 851
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.05061289067026051,
+            0.05034941812103855,
+            0.1531376520194541,
+            0.01656511167959405
+          ],
+          "text": "• Impressions",
+          "start_char": 852,
+          "end_char": 865
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.704941857697893,
+            0.054206932748976526,
+            0.2325581418716559,
+            0.013551732377994027
+          ],
+          "text": "• Content downloads",
+          "start_char": 866,
+          "end_char": 885
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.05087208952544196,
+            0.03387703861089769,
+            0.15552326249044568,
+            0.013554027418569795
+          ],
+          "text": "• Social reach",
+          "start_char": 886,
+          "end_char": 900
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7063953476838358,
+            0.03291135196730782,
+            0.19186046812070057,
+            0.015487694830038895
+          ],
+          "text": "• Retargeting ads",
+          "start_char": 901,
+          "end_char": 918
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 918
+    },
+    {
+      "text": "Diagrama de funil de marketing com caminho curvo, etapas, táticas e indicadores.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 920,
+      "end_char": 1000
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2125,
+      3188
+    ],
+    "ocr_rows": 57,
+    "low_confidence_rows": 3,
+    "ocr_mean_confidence": 0.9736842105263158,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d4b5b4fabef024c3d392fb26e4d416e8.jpg",
+  "source_sha256": "0e9fad78740cf6baf2e639ed08741e4d69d3e200b32533894d7f6b0c4599148e",
+  "text": "4-Step Copywriting Process\nfor D2C Brands\nClear Business Objective\nStart Here\n1. Research and Strategy\nTarget Persona\nPain Points Desired Lifestyle Positioning\nMessaging\n2. Ideation\nBig Idea\nContent Pillars Page Flow\nStory Framework\nMost D2C teams start at\nStep 3, skipping strategy.\n3. Writing\nHook\nBenefits\nCTA\nTake a break before polishing\n4. Editing\nProofread\nPeer Review\nTrim excess\nby Marc Allard\n\nFunil de processo de copy para marcas D2C, com objetivos, pesquisa, ideação, escrita e revisão.",
+  "segments": [
+    {
+      "text": "4-Step Copywriting Process\nfor D2C Brands\nClear Business Objective\nStart Here\n1. Research and Strategy\nTarget Persona\nPain Points Desired Lifestyle Positioning\nMessaging\n2. Ideation\nBig Idea\nContent Pillars Page Flow\nStory Framework\nMost D2C teams start at\nStep 3, skipping strategy.\n3. Writing\nHook\nBenefits\nCTA\nTake a break before polishing\n4. Editing\nProofread\nPeer Review\nTrim excess\nby Marc Allard",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "4-Step Copywriting Process",
+          "confidence": 1,
+          "box": [
+            0.05499999983712115,
+            0.8840000000098485,
+            0.89,
+            0.052000000000000046
+          ],
+          "start_char": 0,
+          "end_char": 26
+        },
+        {
+          "text": "for D2C Brands",
+          "confidence": 1,
+          "box": [
+            0.7599999998634616,
+            0.8640000000138461,
+            0.1825,
+            0.018000000000000016
+          ],
+          "start_char": 27,
+          "end_char": 41
+        },
+        {
+          "text": "Clear Business Objective",
+          "confidence": 1,
+          "box": [
+            0.34999999986320757,
+            0.7840000000103774,
+            0.3,
+            0.02199999999999991
+          ],
+          "start_char": 42,
+          "end_char": 66
+        },
+        {
+          "text": "Start Here",
+          "confidence": 1,
+          "box": [
+            0.06240761295920404,
+            0.7696057007168015,
+            0.11768477439880372,
+            0.018788599014282203
+          ],
+          "start_char": 67,
+          "end_char": 77
+        },
+        {
+          "text": "1. Research and Strategy",
+          "confidence": 1,
+          "box": [
+            0.3749999998224638,
+            0.7060000000144928,
+            0.25,
+            0.019999999999999907
+          ],
+          "start_char": 78,
+          "end_char": 102
+        },
+        {
+          "text": "Target Persona",
+          "confidence": 1,
+          "box": [
+            0.14249999977586206,
+            0.6680000000275863,
+            0.13499999999999998,
+            0.015999999999999903
+          ],
+          "start_char": 103,
+          "end_char": 117
+        },
+        {
+          "text": "Pain Points Desired Lifestyle Positioning",
+          "confidence": 1,
+          "box": [
+            0.3123830955828729,
+            0.6679184413189811,
+            0.4077361679077147,
+            0.020392610549926804
+          ],
+          "start_char": 118,
+          "end_char": 159
+        },
+        {
+          "text": "Messaging",
+          "confidence": 1,
+          "box": [
+            0.7418287050770597,
+            0.6675508545329711,
+            0.11161922454833983,
+            0.020771360397338845
+          ],
+          "start_char": 160,
+          "end_char": 169
+        },
+        {
+          "text": "2. Ideation",
+          "confidence": 1,
+          "box": [
+            0.44726340148019306,
+            0.5506641901452138,
+            0.10780576705932621,
+            0.019091803550720154
+          ],
+          "start_char": 170,
+          "end_char": 181
+        },
+        {
+          "text": "Big Idea",
+          "confidence": 1,
+          "box": [
+            0.23990742190987965,
+            0.49576041035144036,
+            0.08018515586853028,
+            0.020479179382324242
+          ],
+          "start_char": 182,
+          "end_char": 190
+        },
+        {
+          "text": "Content Pillars Page Flow",
+          "confidence": 1,
+          "box": [
+            0.31749999991015626,
+            0.49600000001718747,
+            0.26500000000000007,
+            0.02199999999999991
+          ],
+          "start_char": 191,
+          "end_char": 216
+        },
+        {
+          "text": "Story Framework",
+          "confidence": 1,
+          "box": [
+            0.6074999998770491,
+            0.49600000001639344,
+            0.15500000000000003,
+            0.019999999999999907
+          ],
+          "start_char": 217,
+          "end_char": 232
+        },
+        {
+          "text": "Most D2C teams start at",
+          "confidence": 1,
+          "box": [
+            0.1524999997331081,
+            0.4000000000189189,
+            0.20249999999999999,
+            0.014000000000000012
+          ],
+          "start_char": 233,
+          "end_char": 256
+        },
+        {
+          "text": "Step 3, skipping strategy.",
+          "confidence": 1,
+          "box": [
+            0.14999999982017545,
+            0.3840000000140351,
+            0.205,
+            0.016000000000000014
+          ],
+          "start_char": 257,
+          "end_char": 283
+        },
+        {
+          "text": "3. Writing",
+          "confidence": 1,
+          "box": [
+            0.4496163059073893,
+            0.39031345878181767,
+            0.10338059425354007,
+            0.02345610332489012
+          ],
+          "start_char": 284,
+          "end_char": 294
+        },
+        {
+          "text": "Hook",
+          "confidence": 1,
+          "box": [
+            0.3649999998684211,
+            0.33800000005263153,
+            0.05499999999999999,
+            0.020000000000000018
+          ],
+          "start_char": 295,
+          "end_char": 299
+        },
+        {
+          "text": "Benefits",
+          "confidence": 1,
+          "box": [
+            0.4549999998489583,
+            0.3380000000458333,
+            0.08249999999999996,
+            0.02200000000000002
+          ],
+          "start_char": 300,
+          "end_char": 308
+        },
+        {
+          "text": "CTA",
+          "confidence": 1,
+          "box": [
+            0.5699999998375,
+            0.34000000009,
+            0.04249999999999998,
+            0.018000000000000016
+          ],
+          "start_char": 309,
+          "end_char": 312
+        },
+        {
+          "text": "Take a break before polishing",
+          "confidence": 1,
+          "box": [
+            0.647499999862745,
+            0.2640000000107844,
+            0.28,
+            0.02199999999999991
+          ],
+          "start_char": 313,
+          "end_char": 342
+        },
+        {
+          "text": "4. Editing",
+          "confidence": 1,
+          "box": [
+            0.45464898012702615,
+            0.23084416040002387,
+            0.09567605018615721,
+            0.019667188644409195
+          ],
+          "start_char": 343,
+          "end_char": 353
+        },
+        {
+          "text": "Proofread",
+          "confidence": 1,
+          "box": [
+            0.45249999987847217,
+            0.19400000002222217,
+            0.09249999999999997,
+            0.016000000000000014
+          ],
+          "start_char": 354,
+          "end_char": 363
+        },
+        {
+          "text": "Peer Review",
+          "confidence": 1,
+          "box": [
+            0.4424559210100832,
+            0.159821994808251,
+            0.11258815765380864,
+            0.01835601043701174
+          ],
+          "start_char": 364,
+          "end_char": 375
+        },
+        {
+          "text": "Trim excess",
+          "confidence": 1,
+          "box": [
+            0.44499999985576927,
+            0.1280000000205127,
+            0.11249999999999999,
+            0.016000000000000014
+          ],
+          "start_char": 376,
+          "end_char": 387
+        },
+        {
+          "text": "by Marc Allard",
+          "confidence": 1,
+          "box": [
+            0.7324196433096446,
+            0.015626825355967155,
+            0.14266071319580087,
+            0.020746349334716863
+          ],
+          "start_char": 388,
+          "end_char": 402
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 402
+    },
+    {
+      "text": "Funil de processo de copy para marcas D2C, com objetivos, pesquisa, ideação, escrita e revisão.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 404,
+      "end_char": 499
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      800,
+      1000
+    ],
+    "ocr_rows": 24,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

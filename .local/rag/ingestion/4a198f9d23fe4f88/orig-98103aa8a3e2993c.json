@@ -1,0 +1,452 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee44a1b4e207b584aeced96c70321d7b.jpg",
+  "source_sha256": "98103aa8a3e2993c248c8f619e175b37c0974826c3400bb7fe69da6799b1746b",
+  "text": "Email Marketing\nFunnel Diagram\nRealistic Goals\nPLANNING\nKPIs\nList building\nAWARENESS\nGood content\nWelcome emails\nCONSIDERATION\nAutoresponder\nKey\ninformation\nFAMILIARITY\nBenefits\nInterested\nprospects\nINTENT\nPrepare an email cycle\nEmphasize USP\nEVALUATION\nSchedule a call\nExclusive offers\nCONVERSION\nDrive attention\nCustomer Lifetime\nValue\nRELATIONS\nFeedback\nDelight customers\nLOYALTY &\nADVOCACY\nLoyalty program\nwww.digitallearnerpro.com\n\nFunil de e-mail com etapas e ações laterais, incluindo relacionamento e defesa da marca.",
+  "segments": [
+    {
+      "text": "Email Marketing\nFunnel Diagram\nRealistic Goals\nPLANNING\nKPIs\nList building\nAWARENESS\nGood content\nWelcome emails\nCONSIDERATION\nAutoresponder\nKey\ninformation\nFAMILIARITY\nBenefits\nInterested\nprospects\nINTENT\nPrepare an email cycle\nEmphasize USP\nEVALUATION\nSchedule a call\nExclusive offers\nCONVERSION\nDrive attention\nCustomer Lifetime\nValue\nRELATIONS\nFeedback\nDelight customers\nLOYALTY &\nADVOCACY\nLoyalty program\nwww.digitallearnerpro.com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.15619680100937774,
+            0.8259844874163049,
+            0.664926029969768,
+            0.06868568844265406
+          ],
+          "text": "Email Marketing",
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17305471738506287,
+            0.7651197821158999,
+            0.6239771038029059,
+            0.055378833346896694
+          ],
+          "text": "Funnel Diagram",
+          "start_char": 16,
+          "end_char": 30
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8066860474851997,
+            0.7016666666251551,
+            0.1264534862702832,
+            0.008333333333333356
+          ],
+          "text": "Realistic Goals",
+          "start_char": 31,
+          "end_char": 46
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4272337315324032,
+            0.6810755839763358,
+            0.1309976530687006,
+            0.01366582552591959
+          ],
+          "text": "PLANNING",
+          "start_char": 47,
+          "end_char": 55
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.8023255822869192,
+            0.6691176472340203,
+            0.0406976720540686,
+            0.00980392138163247
+          ],
+          "text": "KPIs",
+          "start_char": 56,
+          "end_char": 60
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07088047924034888,
+            0.6403081897239133,
+            0.11416354089945938,
+            0.01234603775872127
+          ],
+          "text": "List building",
+          "start_char": 61,
+          "end_char": 74
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4127907012792125,
+            0.6233660130785728,
+            0.16133720194599116,
+            0.013888888888888893
+          ],
+          "text": "AWARENESS",
+          "start_char": 75,
+          "end_char": 84
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.06086271827055396,
+            0.606767252191397,
+            0.12391849378489789,
+            0.009660290612114757
+          ],
+          "text": "Good content",
+          "start_char": 85,
+          "end_char": 97
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7863372088753563,
+            0.5808333332447737,
+            0.1453488379099056,
+            0.009166666666666665
+          ],
+          "text": "Welcome emails",
+          "start_char": 98,
+          "end_char": 112
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38808139702715194,
+            0.5612745099332535,
+            0.21075581045047198,
+            0.013071895175510032
+          ],
+          "text": "CONSIDERATION",
+          "start_char": 113,
+          "end_char": 126
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7805232566058524,
+            0.5449346404985183,
+            0.13662790522523593,
+            0.010620915095011384
+          ],
+          "text": "Autoresponder",
+          "start_char": 127,
+          "end_char": 140
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1771802331754939,
+            0.5237250665889186,
+            0.03537790537586569,
+            0.011357056299845356
+          ],
+          "text": "Key",
+          "start_char": 141,
+          "end_char": 144
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11482558268100854,
+            0.5155228759204391,
+            0.09593022940542478,
+            0.008169934484693744
+          ],
+          "text": "information",
+          "start_char": 145,
+          "end_char": 156
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4142441840519983,
+            0.5040849674653496,
+            0.16424418954952796,
+            0.01307189517550998
+          ],
+          "text": "FAMILIARITY",
+          "start_char": 157,
+          "end_char": 168
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11474715216548578,
+            0.4867156181327806,
+            0.06847081085536463,
+            0.008594907654656292
+          ],
+          "text": "Benefits",
+          "start_char": 169,
+          "end_char": 177
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7325234049517502,
+            0.4753753981476956,
+            0.08437179459988897,
+            0.008399530516730428
+          ],
+          "text": "Interested",
+          "start_char": 178,
+          "end_char": 188
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7338432197110122,
+            0.46389258489475554,
+            0.0817470870625231,
+            0.008945531845092785
+          ],
+          "text": "prospects",
+          "start_char": 189,
+          "end_char": 198
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.43594790877138667,
+            0.45074426208670076,
+            0.09758092761628134,
+            0.013544155756632478
+          ],
+          "text": "INTENT",
+          "start_char": 199,
+          "end_char": 205
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7281976775676583,
+            0.4346405230918636,
+            0.18023255358561363,
+            0.00980392138163247
+          ],
+          "text": "Prepare an email cycle",
+          "start_char": 206,
+          "end_char": 228
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.12645348723248256,
+            0.42075163408763433,
+            0.12354651372971681,
+            0.00980392138163247
+          ],
+          "text": "Emphasize USP",
+          "start_char": 229,
+          "end_char": 242
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40697674463954403,
+            0.4027777780331711,
+            0.15697674313514165,
+            0.01225490146213112
+          ],
+          "text": "EVALUATION",
+          "start_char": 243,
+          "end_char": 253
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.12920221039640106,
+            0.38694348691363667,
+            0.12240400248430561,
+            0.009373300340440545
+          ],
+          "text": "Schedule a call",
+          "start_char": 254,
+          "end_char": 269
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813929807777,
+            0.3725000001944745,
+            0.13226744641438637,
+            0.010669934484693777
+          ],
+          "text": "Exclusive offers",
+          "start_char": 270,
+          "end_char": 286
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4156976708529066,
+            0.356209150178117,
+            0.1409883790990561,
+            0.011437908808390296
+          ],
+          "text": "CONVERSION",
+          "start_char": 287,
+          "end_char": 297
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813942109432,
+            0.33823529409452735,
+            0.12354651372971681,
+            0.010653594864739328
+          ],
+          "text": "Drive attention",
+          "start_char": 298,
+          "end_char": 313
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.14534883885759178,
+            0.33083333337041937,
+            0.148255810450472,
+            0.008333333333333356
+          ],
+          "text": "Customer Lifetime",
+          "start_char": 314,
+          "end_char": 331
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.24661715113924937,
+            0.3197098433406245,
+            0.04742328082703179,
+            0.009002670711941193
+          ],
+          "text": "Value",
+          "start_char": 332,
+          "end_char": 337
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4258720914647457,
+            0.3080065359237229,
+            0.11773256111709884,
+            0.010620915095011384
+          ],
+          "text": "RELATIONS",
+          "start_char": 338,
+          "end_char": 347
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.21218645304041606,
+            0.2907784309032278,
+            0.07998755889018927,
+            0.00831241925557454
+          ],
+          "text": "Feedback",
+          "start_char": 348,
+          "end_char": 356
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6540697645638713,
+            0.2769444445665367,
+            0.15261628432429208,
+            0.011454248428344747
+          ],
+          "text": "Delight customers",
+          "start_char": 357,
+          "end_char": 374
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4330404310834894,
+            0.26746209074730515,
+            0.10626454179166928,
+            0.010571805106268975
+          ],
+          "text": "LOYALTY &",
+          "start_char": 375,
+          "end_char": 384
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4316860472522887,
+            0.2557189542274126,
+            0.11046511470271242,
+            0.010620915095011384
+          ],
+          "text": "ADVOCACY",
+          "start_char": 385,
+          "end_char": 393
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6482558124699176,
+            0.24183006521127323,
+            0.14389535163962242,
+            0.01150326834784613
+          ],
+          "text": "Loyalty program",
+          "start_char": 394,
+          "end_char": 409
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.27127003505599384,
+            0.031250000023974864,
+            0.44759556430466435,
+            0.020138888888888894
+          ],
+          "text": "www.digitallearnerpro.com",
+          "start_char": 410,
+          "end_char": 435
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 435
+    },
+    {
+      "text": "Funil de e-mail com etapas e ações laterais, incluindo relacionamento e defesa da marca.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 437,
+      "end_char": 525
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      675,
+      1200
+    ],
+    "ocr_rows": 34,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9705882352941176,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

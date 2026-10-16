@@ -1,0 +1,43 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/63d40267f1d866afb8bfcc1182278f4e.jpg",
+  "source_sha256": "799c90e98bdee87131acae02b98a0bc33ce0830d08e01b1066dc327c6b349b65",
+  "text": "Fotografia de anel metálico com inscrição caligráfica não latina, segurado entre dedos. A inscrição está parcialmente ocultada; não há transcrição confiável.",
+  "segments": [
+    {
+      "text": "",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 0
+    },
+    {
+      "text": "Fotografia de anel metálico com inscrição caligráfica não latina, segurado entre dedos. A inscrição está parcialmente ocultada; não há transcrição confiável.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 0,
+      "end_char": 157
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1920
+    ],
+    "ocr_rows": 0,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": null,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": true
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

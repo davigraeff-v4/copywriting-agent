@@ -12,6 +12,7 @@ Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-M
 - `knowledge/pacote-contexto.md`
 - `knowledge/pesquisa-voz-do-cliente.md`
 - `knowledge/memoria-clientes.md`
+- `quality/DESENVOLVIMENTO-EDITORIAL.md` (voz observável e registro provisório quando faltarem amostras)
 
 ## Execução e auto-validação
 

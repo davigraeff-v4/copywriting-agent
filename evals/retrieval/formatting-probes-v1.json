@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "labeling": "Formatting isolation follow-up after the broad stress test; no ranking change. Labels inherited from frozen base cases, fixed before follow-up predictions.",
+  "grading": {
+    "recovery_grade": "10 * (0.6 * MRR@5 + 0.4 * Hit@3), global positive cases only",
+    "first_result_grade": "10 * Hit@1",
+    "availability_grade": "10 * Hit@3",
+    "page_grade": "10 * joint source-and-page accuracy at first result",
+    "section_grade": "10 * joint source-and-section accuracy at first result",
+    "abstention_grade": "10 * empty-return rate on out_of_domain cases only",
+    "technical_grade": "10 * passed checks / all checks; reported separately, never blended into relevance",
+    "no_overall_blend": true
+  },
+  "queries": [
+    {
+      "id": "format-01",
+      "category": "robustness",
+      "query": "UMA CHAMADA APARECE SOZINHA NUMA ARTE. COMO ASSEGURAR QUE ALGUÉM ENTENDA O OBJETO E A UTILIDADE SEM A LEGENDA?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m09"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-009",
+      "base_query": "Uma chamada aparece sozinha numa arte. Como assegurar que alguém entenda o objeto e a utilidade sem a legenda?"
+    },
+    {
+      "id": "format-02",
+      "category": "robustness",
+      "query": "Uma chamada aparece sozinha numa arte. Como assegurar que alguém entenda o objeto e a utilidade sem a legenda !!!",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m09"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-009",
+      "base_query": "Uma chamada aparece sozinha numa arte. Como assegurar que alguém entenda o objeto e a utilidade sem a legenda?"
+    },
+    {
+      "id": "format-03",
+      "category": "robustness",
+      "query": "UMA FUNÇÃO DE E-MAIL DECIDE QUEM PODE CHEGAR À CAIXA DE ENTRADA. PRECISO DE REFERÊNCIA QUE EXPLIQUE ESSA ESCOLHA COTIDIANA.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e02"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-022",
+      "base_query": "Uma função de e-mail decide quem pode chegar à caixa de entrada. Preciso de referência que explique essa escolha cotidiana."
+    },
+    {
+      "id": "format-04",
+      "category": "robustness",
+      "query": "Uma função de e-mail decide quem pode chegar à caixa de entrada. Preciso de referência que explique essa escolha cotidiana !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e02"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-022",
+      "base_query": "Uma função de e-mail decide quem pode chegar à caixa de entrada. Preciso de referência que explique essa escolha cotidiana."
+    },
+    {
+      "id": "format-05",
+      "category": "robustness",
+      "query": "O VISITANTE DIGITA O E-MAIL PARA INICIAR UMA ASSINATURA. QUERO REFERÊNCIA QUE EXPLIQUE O PRÓXIMO PASSO AO LADO DO PRÓPRIO CAMPO.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e15"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-035",
+      "base_query": "O visitante digita o e-mail para iniciar uma assinatura. Quero referência que explique o próximo passo ao lado do próprio campo."
+    },
+    {
+      "id": "format-06",
+      "category": "robustness",
+      "query": "O visitante digita o e-mail para iniciar uma assinatura. Quero referência que explique o próximo passo ao lado do próprio campo !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e15"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-035",
+      "base_query": "O visitante digita o e-mail para iniciar uma assinatura. Quero referência que explique o próximo passo ao lado do próprio campo."
+    },
+    {
+      "id": "format-07",
+      "category": "robustness",
+      "query": "UM ANÚNCIO DE PEÇA TÉCNICA PROMETE QUALIDADE, MAS O COMPRADOR PRECISA PRIMEIRO SABER SE ELA É COMPATÍVEL COM SEU EQUIPAMENTO.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r01"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-051",
+      "base_query": "Um anúncio de peça técnica promete qualidade, mas o comprador precisa primeiro saber se ela é compatível com seu equipamento."
+    },
+    {
+      "id": "format-08",
+      "category": "robustness",
+      "query": "Um anúncio de peça técnica promete qualidade, mas o comprador precisa primeiro saber se ela é compatível com seu equipamento !!!",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r01"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-051",
+      "base_query": "Um anúncio de peça técnica promete qualidade, mas o comprador precisa primeiro saber se ela é compatível com seu equipamento."
+    },
+    {
+      "id": "format-09",
+      "category": "robustness",
+      "query": "QUERO UM EXEMPLO DE CARROSSEL REVISADO EM QUE AS TELAS DESENVOLVEM UMA PAUTA, EM VEZ DE REPETIR A MESMA CHAMADA.",
+      "route": "social",
+      "use": "structure",
+      "expected": [
+        "rep-01-r09"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-059",
+      "base_query": "Quero um exemplo de carrossel revisado em que as telas desenvolvem uma pauta, em vez de repetir a mesma chamada."
+    },
+    {
+      "id": "format-10",
+      "category": "robustness",
+      "query": "Quero um exemplo de carrossel revisado em que as telas desenvolvem uma pauta, em vez de repetir a mesma chamada !!!",
+      "route": "social",
+      "use": "structure",
+      "expected": [
+        "rep-01-r09"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-059",
+      "base_query": "Quero um exemplo de carrossel revisado em que as telas desenvolvem uma pauta, em vez de repetir a mesma chamada."
+    },
+    {
+      "id": "format-11",
+      "category": "robustness",
+      "query": "QUERO UMA REFERÊNCIA DA SITRAK EM QUE UMA UTILIDADE PEQUENA E COTIDIANA APROXIMA A COMUNICAÇÃO DE UM TERRITÓRIO INDUSTRIAL.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a10"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-070",
+      "base_query": "Quero uma referência da Sitrak em que uma utilidade pequena e cotidiana aproxima a comunicação de um território industrial."
+    },
+    {
+      "id": "format-12",
+      "category": "robustness",
+      "query": "Quero uma referência da Sitrak em que uma utilidade pequena e cotidiana aproxima a comunicação de um território industrial !!!",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a10"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-070",
+      "base_query": "Quero uma referência da Sitrak em que uma utilidade pequena e cotidiana aproxima a comunicação de um território industrial."
+    },
+    {
+      "id": "format-13",
+      "category": "robustness",
+      "query": "BUSCO UMA PÁGINA DE ROUPAS QUE EXPLIQUE BENEFÍCIOS DURANTE O USO E DELIMITE AS CONDIÇÕES DE CONSERVAÇÃO E LAVAGEM.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-081",
+      "base_query": "Busco uma página de roupas que explique benefícios durante o uso e delimite as condições de conservação e lavagem."
+    },
+    {
+      "id": "format-14",
+      "category": "robustness",
+      "query": "Busco uma página de roupas que explique benefícios durante o uso e delimite as condições de conservação e lavagem !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-081",
+      "base_query": "Busco uma página de roupas que explique benefícios durante o uso e delimite as condições de conservação e lavagem."
+    },
+    {
+      "id": "format-15",
+      "category": "robustness",
+      "query": "COMO UMA ACADEMIA MOSTRA AS DIFERENÇAS DE ACESSO, UNIDADES E COMPROMISSO ENTRE PLANOS, DEIXANDO CLARAS AS CONDIÇÕES?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l12"
+      ],
+      "variant": "upper_only",
+      "base_case": "broad-092",
+      "base_query": "Como uma academia mostra as diferenças de acesso, unidades e compromisso entre planos, deixando claras as condições?"
+    },
+    {
+      "id": "format-16",
+      "category": "robustness",
+      "query": "Como uma academia mostra as diferenças de acesso, unidades e compromisso entre planos, deixando claras as condições !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l12"
+      ],
+      "variant": "punctuation_only",
+      "base_case": "broad-092",
+      "base_query": "Como uma academia mostra as diferenças de acesso, unidades e compromisso entre planos, deixando claras as condições?"
+    }
+  ]
+}

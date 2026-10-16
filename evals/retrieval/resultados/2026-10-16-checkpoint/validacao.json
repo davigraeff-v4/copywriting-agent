@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-16",
+  "purpose": "Local Git checkpoint of RAG and agent; no remote publication",
+  "unit_tests": {
+    "count": 184,
+    "seconds": 32.871,
+    "status": "passed"
+  },
+  "validations": {
+    "project": {
+      "status": "passed",
+      "skills": 14,
+      "skill_references": 92,
+      "retrieval_entries": 8,
+      "repertoire_units": 100,
+      "evaluation_cases": 13,
+      "rag": {
+        "status": "passed",
+        "documents": 239,
+        "chunks": 8094,
+        "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+        "dimensions": 384,
+        "max_chunk_tokens": 120,
+        "private_documents": 0,
+        "semantic_channel": {
+          "status": "passed",
+          "chunks": 8094,
+          "dimensions": 384,
+          "max_tokens": 120
+        },
+        "errors": []
+      },
+      "errors": []
+    },
+    "repertoire": {
+      "status": "passed",
+      "units": 100,
+      "sources": 90,
+      "by_kind": {
+        "metodo": 20,
+        "exemplo": 70,
+        "revisao": 10
+      },
+      "by_primary_route": {
+        "ads": 39,
+        "lp": 40,
+        "social": 7,
+        "direct": 14
+      },
+      "by_batch": {
+        "lote-01": 60,
+        "lote-02": 40
+      },
+      "complete_piece_scopes": {
+        "single_static_creative": 20,
+        "commercial_page_text": 12,
+        "archived_email": 8
+      },
+      "errors": []
+    },
+    "rag": {
+      "status": "passed",
+      "documents": 239,
+      "chunks": 8094,
+      "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "dimensions": 384,
+      "max_chunk_tokens": 120,
+      "private_documents": 0,
+      "semantic_channel": {
+        "status": "passed",
+        "chunks": 8094,
+        "dimensions": 384,
+        "max_tokens": 120
+      },
+      "errors": []
+    },
+    "coverage": {
+      "status": "passed",
+      "documents": 239,
+      "chunks": 8094,
+      "by_format": {
+        ".md": 135,
+        ".pdf": 1,
+        ".txt": 1,
+        ".webp": 7,
+        ".jpg": 72,
+        ".png": 20,
+        ".json": 3
+      },
+      "all_extracted_text_indexed": true,
+      "errors": []
+    }
+  },
+  "source_snapshot_preservation": {
+    "files": 223,
+    "unchanged": 223,
+    "mismatches": []
+  },
+  "privacy": {
+    "private_documents_in_index": 0,
+    "real_client_files_included": false,
+    "real_ekyte_benchmarks_included": false,
+    "model_weights_included": false
+  },
+  "whitespace_check": {
+    "code_and_documentation": "passed",
+    "excluded": [
+      "retained originals and derived extraction/vector data",
+      "historical technical evaluation outputs",
+      "RAG-TESTES-COMPLETOS.md: three existing source-excerpt trailing spaces preserved"
+    ]
+  },
+  "git_repair": {
+    "method": "fetch --refetch --no-tags origin main",
+    "working_tree_replaced": false,
+    "fsck": "passed; dangling objects retained"
+  },
+  "limitations": [
+    "Pattern scans do not prove universal absence of secrets.",
+    "No new editorial benchmark or human approval was run for this checkpoint.",
+    "Existing model cache is required for semantic queries."
+  ]
+}

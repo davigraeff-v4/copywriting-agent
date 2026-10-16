@@ -13,6 +13,8 @@ Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-M
 - `knowledge/regras-por-canal.md`
 - `knowledge/politica-editorial.md`
 
+- `quality/REDUNDANCIA.md` (contribuição por campo, compressão e julgamento de retomadas)
+
 ## Execução e auto-validação
 
 Executar junto da 11, usando rota e requisitos extraídos do briefing. Aplicar quantidade de peças/dobras, posição/campos de formulário, duração e espaço. Instrução específica prevalece sobre exemplo histórico.

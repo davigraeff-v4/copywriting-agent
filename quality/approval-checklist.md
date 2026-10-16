@@ -3,6 +3,7 @@
 - [ ] Briefing/rota/estado atual e HARD CONSTRAINTS conferidos?
 - [ ] Texto publicável inteiro está em fields, com notas separadas?
 - [ ] Claims completos e fontes/limites conferidos, inclusive causalidade?
+- [ ] A copy realiza o argumento escolhido, com voz aplicável e informação complementar entre campos? Fragilidade material foi tratada antes das notas?
 - [ ] Leituras de contexto, produção e revisão registradas na versão vigente?
 - [ ] copycheck com review retorna ready_for_human_approval, sem bloqueios nem alertas sem resolução?
 - [ ] Scores foram calculados, com notas e trechos individuais, e critérios críticos passaram?

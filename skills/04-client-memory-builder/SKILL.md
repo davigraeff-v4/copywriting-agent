@@ -10,12 +10,13 @@ description: "Atualiza estado atual e histórico de cliente com fatos e feedback
 Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-MODOS.md`; caminhos relativos à raiz do projeto.
 
 - `knowledge/memoria-clientes.md`
-- `clients/cliente-template.md`
+- `clients/cliente-template/CLIENTE.md`
+- `clients/cliente-template/APRENDIZADOS.md`
 - `quality/feedback-template.md`
 
 ## Execução e auto-validação
 
-Pode executar quando houver informação confirmada. Ler estado atual e ficha original antes de editar. Criar/atualizar `clients/current/{cliente}.md`; manter `clients/{cliente}.md` como ponto de entrada e histórico, com referência à visão atual.
+Pode executar quando houver informação confirmada. Usar `scripts/client_brief.py` antes de editar. Criar/atualizar `clients/{cliente}/CLIENTE.md` com o estado vigente e `clients/{cliente}/APRENDIZADOS.md` com decisões datadas e escopadas. Campanhas e feedback ficam em `clients/{cliente}/campanhas/`. Para clientes ainda não migrados, consultar ficha atual e legada; não criar duas fichas vigentes nem apagar originais. Migração de pasta usa `scripts/migrate_clients.py` com plano e verificação de hashes.
 
 Atualizar campo vigente e registrar mudança datada no histórico. Escopar restrições por pessoa, produto, formato e campanha. Preferência global vive na política; não propagá-la copiando para toda ficha. Nunca manter decisão superada como atual.
 

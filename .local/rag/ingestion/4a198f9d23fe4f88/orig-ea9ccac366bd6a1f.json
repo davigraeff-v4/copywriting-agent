@@ -1,0 +1,812 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/165ccbd531f63976c94230333c3eeb93.jpg",
+  "source_sha256": "ea9ccac366bd6a1faedef008d54eb186c275a243ff6c0d27e0062e869546a41d",
+  "text": "@joaofurlan.autor\nO QUE É UM PROMPT\nPERFEITO?\nExemplo:ạẠ¿ou gestor\nContexto\nDiga quem você é,\nde RH e quero um texto\nqual é o público, e\npara enviar por e-mail\nclaro\npara que será usado\naos líderes da empresa\no conteúdo.\nsobre a importância do\nfeedbackiỊạẠi\nObjetivo da\nDetalhe qual é a meta\nExemplo:ỗẠQuero que o\nprincipal? Informar?\nexto motive os líderes\ndemanda\nVender? Inspirar?\na darem feedbacks\nEngajar? Ensinar?\nmais frequentes e\nconsistentes.\"\nEspecifique qual é o tom\nde voz que você quer\nExemplo:ẠQuero algo\nTom de voz\nusar: formal, inspirador,\ncom um tom inspirador\ntécnico, direto, empático,\ne direto, como os textos\ndesejado\nno estilo de alguém\nque o João Furlan\nespecífico (ex:ỗẠno estilo\npublica no LinkedInạẠạ\ndo João FurlanỊ.\nEstrutura\nTem formato? Diga para\no Chat GPT qual é! Post,\nExemplo:ẠỌPreciso de\nesperada\ne-mail, artigo, roteiro,\numa legenda para um\ncarrossel, título com\ncarrossel no Instagram.\n(se houver)\ncom um CTA no final.\"\nCTA? Isso guia a entrega.\nInstruções\nSe tiver referências,\nExemplo: \"Use os termos\nlinks, ou pontos\n'feedback empático' e\nespecíficas\nobrigatórios que quer\n*cultura de confiança. E\nque estejam no texto,\nmencione o curso\nmanda junto!\ngratuito no final.\n\nTabela de definição de prompt em três colunas, ligando campo, explicação e exemplo.",
+  "segments": [
+    {
+      "text": "@joaofurlan.autor\nO QUE É UM PROMPT\nPERFEITO?\nExemplo:ạẠ¿ou gestor\nContexto\nDiga quem você é,\nde RH e quero um texto\nqual é o público, e\npara enviar por e-mail\nclaro\npara que será usado\naos líderes da empresa\no conteúdo.\nsobre a importância do\nfeedbackiỊạẠi\nObjetivo da\nDetalhe qual é a meta\nExemplo:ỗẠQuero que o\nprincipal? Informar?\nexto motive os líderes\ndemanda\nVender? Inspirar?\na darem feedbacks\nEngajar? Ensinar?\nmais frequentes e\nconsistentes.\"\nEspecifique qual é o tom\nde voz que você quer\nExemplo:ẠQuero algo\nTom de voz\nusar: formal, inspirador,\ncom um tom inspirador\ntécnico, direto, empático,\ne direto, como os textos\ndesejado\nno estilo de alguém\nque o João Furlan\nespecífico (ex:ỗẠno estilo\npublica no LinkedInạẠạ\ndo João FurlanỊ.\nEstrutura\nTem formato? Diga para\no Chat GPT qual é! Post,\nExemplo:ẠỌPreciso de\nesperada\ne-mail, artigo, roteiro,\numa legenda para um\ncarrossel, título com\ncarrossel no Instagram.\n(se houver)\ncom um CTA no final.\"\nCTA? Isso guia a entrega.\nInstruções\nSe tiver referências,\nExemplo: \"Use os termos\nlinks, ou pontos\n'feedback empático' e\nespecíficas\nobrigatórios que quer\n*cultura de confiança. E\nque estejam no texto,\nmencione o curso\nmanda junto!\ngratuito no final.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.2946859899861239,
+            0.9382470119797406,
+            0.3985507246376812,
+            0.02589641434262946
+          ],
+          "text": "@joaofurlan.autor",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "box": [
+            0.2070706997128726,
+            0.8166666677475748,
+            0.5656565790591033,
+            0.05416666464026709
+          ],
+          "text": "O QUE É UM PROMPT",
+          "confidence": 1,
+          "start_char": 18,
+          "end_char": 35
+        },
+        {
+          "box": [
+            0.3574879225856194,
+            0.782868525913311,
+            0.28743961352657005,
+            0.03784860557768921
+          ],
+          "text": "PERFEITO?",
+          "confidence": 1,
+          "start_char": 36,
+          "end_char": 45
+        },
+        {
+          "box": [
+            0.7412817352980067,
+            0.6723862174874826,
+            0.20344093801894625,
+            0.020396304795466502
+          ],
+          "text": "Exemplo:ạẠ¿ou gestor",
+          "confidence": 1,
+          "start_char": 46,
+          "end_char": 66
+        },
+        {
+          "box": [
+            0.06982674331050258,
+            0.6404477695318334,
+            0.17677163386690442,
+            0.029861433097565948
+          ],
+          "text": "Contexto",
+          "confidence": 1,
+          "start_char": 67,
+          "end_char": 75
+        },
+        {
+          "box": [
+            0.4130434781349206,
+            0.6553784860685827,
+            0.17632850241545894,
+            0.017928286852589626
+          ],
+          "text": "Diga quem você é,",
+          "confidence": 1,
+          "start_char": 76,
+          "end_char": 93
+        },
+        {
+          "box": [
+            0.7294685989075538,
+            0.6593625498087197,
+            0.22705314009661837,
+            0.013944223107569709
+          ],
+          "text": "de RH e quero um texto",
+          "confidence": 1,
+          "start_char": 94,
+          "end_char": 116
+        },
+        {
+          "box": [
+            0.41545893706219805,
+            0.6414342629681276,
+            0.1714975845410628,
+            0.015936254980079667
+          ],
+          "text": "qual é o público, e",
+          "confidence": 1,
+          "start_char": 117,
+          "end_char": 136
+        },
+        {
+          "box": [
+            0.7391304347265355,
+            0.6434262948331673,
+            0.20772946859903385,
+            0.013944223107569709
+          ],
+          "text": "para enviar por e-mail",
+          "confidence": 1,
+          "start_char": 137,
+          "end_char": 159
+        },
+        {
+          "box": [
+            0.10869565173107892,
+            0.6135458169488712,
+            0.09661835748792269,
+            0.02589641434262946
+          ],
+          "text": "claro",
+          "confidence": 1,
+          "start_char": 160,
+          "end_char": 165
+        },
+        {
+          "box": [
+            0.4057971032306763,
+            0.6274900400398407,
+            0.1908212560386473,
+            0.015936254980079667
+          ],
+          "text": "para que será usado",
+          "confidence": 1,
+          "start_char": 166,
+          "end_char": 185
+        },
+        {
+          "box": [
+            0.7341245329331425,
+            0.6268847334585308,
+            0.21775548815151335,
+            0.017955058124435874
+          ],
+          "text": "aos líderes da empresa",
+          "confidence": 1,
+          "start_char": 186,
+          "end_char": 208
+        },
+        {
+          "box": [
+            0.4418652536864381,
+            0.6106799534106828,
+            0.11868495296164988,
+            0.017683918257633602
+          ],
+          "text": "o conteúdo.",
+          "confidence": 1,
+          "start_char": 209,
+          "end_char": 220
+        },
+        {
+          "box": [
+            0.7342995167937961,
+            0.6115537848710422,
+            0.21739130434782605,
+            0.015936254980079667
+          ],
+          "text": "sobre a importância do",
+          "confidence": 1,
+          "start_char": 221,
+          "end_char": 243
+        },
+        {
+          "box": [
+            0.787404083281399,
+            0.5974505337297134,
+            0.1039357945538949,
+            0.016254311063850002
+          ],
+          "text": "feedbackiỊạẠi",
+          "confidence": 0.5,
+          "start_char": 244,
+          "end_char": 257
+        },
+        {
+          "box": [
+            0.048309178610640574,
+            0.5019920318919129,
+            0.21980676328502416,
+            0.029880478087649376
+          ],
+          "text": "Objetivo da",
+          "confidence": 1,
+          "start_char": 258,
+          "end_char": 269
+        },
+        {
+          "box": [
+            0.396135265575237,
+            0.5199203187361664,
+            0.2077294685990338,
+            0.017928286852589626
+          ],
+          "text": "Detalhe qual é a meta",
+          "confidence": 1,
+          "start_char": 270,
+          "end_char": 291
+        },
+        {
+          "box": [
+            0.7391304346604148,
+            0.527888446223342,
+            0.20772946859903385,
+            0.013944223107569709
+          ],
+          "text": "Exemplo:ỗẠQuero que o",
+          "confidence": 1,
+          "start_char": 292,
+          "end_char": 313
+        },
+        {
+          "box": [
+            0.4030870918329491,
+            0.5038207389980247,
+            0.1937623876304443,
+            0.02207455312113371
+          ],
+          "text": "principal? Informar?",
+          "confidence": 1,
+          "start_char": 314,
+          "end_char": 334
+        },
+        {
+          "box": [
+            0.7415458954911432,
+            0.5159362552124834,
+            0.2028985507246377,
+            0.013944223107569709
+          ],
+          "text": "exto motive os líderes",
+          "confidence": 1,
+          "start_char": 335,
+          "end_char": 357
+        },
+        {
+          "box": [
+            0.06749794434823811,
+            0.473445479160328,
+            0.18142923180031892,
+            0.027212627380492682
+          ],
+          "text": "demanda",
+          "confidence": 1,
+          "start_char": 358,
+          "end_char": 365
+        },
+        {
+          "box": [
+            0.42028985495169086,
+            0.4920318725203663,
+            0.16183574879227053,
+            0.013944223107569709
+          ],
+          "text": "Vender? Inspirar?",
+          "confidence": 1,
+          "start_char": 366,
+          "end_char": 383
+        },
+        {
+          "box": [
+            0.7509914604769515,
+            0.49616544911493876,
+            0.1839998954736093,
+            0.01804541401654136
+          ],
+          "text": "a darem feedbacks",
+          "confidence": 1,
+          "start_char": 384,
+          "end_char": 401
+        },
+        {
+          "box": [
+            0.41750296467546927,
+            0.4702770568912529,
+            0.1672644868565067,
+            0.021910405253984133
+          ],
+          "text": "Engajar? Ensinar?",
+          "confidence": 1,
+          "start_char": 402,
+          "end_char": 419
+        },
+        {
+          "box": [
+            0.7557591091451441,
+            0.4803403291672037,
+            0.17214337408830582,
+            0.018704587244892434
+          ],
+          "text": "mais frequentes e",
+          "confidence": 1,
+          "start_char": 420,
+          "end_char": 437
+        },
+        {
+          "box": [
+            0.7753623202294685,
+            0.4701195220866533,
+            0.13043478260869568,
+            0.01394422310756982
+          ],
+          "text": "consistentes.\"",
+          "confidence": 1,
+          "start_char": 438,
+          "end_char": 452
+        },
+        {
+          "box": [
+            0.3840579708499615,
+            0.40239043825856,
+            0.23188405797101452,
+            0.015936254980079667
+          ],
+          "text": "Especifique qual é o tom",
+          "confidence": 1,
+          "start_char": 453,
+          "end_char": 477
+        },
+        {
+          "box": [
+            0.3985507244785676,
+            0.38645418327958003,
+            0.20531400966183572,
+            0.015936254980079667
+          ],
+          "text": "de voz que você quer",
+          "confidence": 1,
+          "start_char": 478,
+          "end_char": 498
+        },
+        {
+          "box": [
+            0.7364419350475164,
+            0.38617007203156817,
+            0.20832631207894592,
+            0.02341907622804673
+          ],
+          "text": "Exemplo:ẠQuero algo",
+          "confidence": 1,
+          "start_char": 499,
+          "end_char": 518
+        },
+        {
+          "box": [
+            0.048309178515542936,
+            0.36454183269963625,
+            0.21980676328502413,
+            0.027888446215139417
+          ],
+          "text": "Tom de voz",
+          "confidence": 1,
+          "start_char": 519,
+          "end_char": 529
+        },
+        {
+          "box": [
+            0.38617547388711043,
+            0.36831069844841147,
+            0.2279329161713089,
+            0.02303632227073149
+          ],
+          "text": "usar: formal, inspirador,",
+          "confidence": 1,
+          "start_char": 530,
+          "end_char": 555
+        },
+        {
+          "box": [
+            0.7318840578502416,
+            0.3725099601680236,
+            0.2222222222222222,
+            0.015936254980079667
+          ],
+          "text": "com um tom inspirador",
+          "confidence": 1,
+          "start_char": 556,
+          "end_char": 577
+        },
+        {
+          "box": [
+            0.37899309222465094,
+            0.3544356625909173,
+            0.24447263266153385,
+            0.02065123219888998
+          ],
+          "text": "técnico, direto, empático,",
+          "confidence": 1,
+          "start_char": 578,
+          "end_char": 604
+        },
+        {
+          "box": [
+            0.7246376810287013,
+            0.3565737051898289,
+            0.23188405797101452,
+            0.017928286852589626
+          ],
+          "text": "e direto, como os textos",
+          "confidence": 1,
+          "start_char": 605,
+          "end_char": 629
+        },
+        {
+          "box": [
+            0.07004830897549194,
+            0.33067729087552233,
+            0.17632850241545894,
+            0.031872509960159334
+          ],
+          "text": "desejado",
+          "confidence": 1,
+          "start_char": 630,
+          "end_char": 638
+        },
+        {
+          "box": [
+            0.4057971013246065,
+            0.34063745021205505,
+            0.18840579710144928,
+            0.015936254980079667
+          ],
+          "text": "no estilo de alguém",
+          "confidence": 1,
+          "start_char": 639,
+          "end_char": 658
+        },
+        {
+          "box": [
+            0.7560386472774328,
+            0.3446215139641434,
+            0.1714975845410628,
+            0.013944223107569709
+          ],
+          "text": "que o João Furlan",
+          "confidence": 1,
+          "start_char": 659,
+          "end_char": 676
+        },
+        {
+          "box": [
+            0.386473430025713,
+            0.32669322711733706,
+            0.22946859903381644,
+            0.015936254980079778
+          ],
+          "text": "específico (ex:ỗẠno estilo",
+          "confidence": 1,
+          "start_char": 677,
+          "end_char": 703
+        },
+        {
+          "box": [
+            0.7387845359263422,
+            0.3258770410756653,
+            0.20118720750301933,
+            0.020932389445513788
+          ],
+          "text": "publica no LinkedInạẠạ",
+          "confidence": 1,
+          "start_char": 704,
+          "end_char": 726
+        },
+        {
+          "box": [
+            0.41787439600874166,
+            0.3067729083823436,
+            0.16425120772946855,
+            0.019920318725099584
+          ],
+          "text": "do João FurlanỊ.",
+          "confidence": 1,
+          "start_char": 727,
+          "end_char": 743
+        },
+        {
+          "box": [
+            0.06994361674930392,
+            0.2425768214237347,
+            0.1741224279726185,
+            0.028790580323967863
+          ],
+          "text": "Estrutura",
+          "confidence": 1,
+          "start_char": 744,
+          "end_char": 753
+        },
+        {
+          "box": [
+            0.38616088754286887,
+            0.2439874514715964,
+            0.22525026256911423,
+            0.021449141293407914
+          ],
+          "text": "Tem formato? Diga para",
+          "confidence": 1,
+          "start_char": 754,
+          "end_char": 776
+        },
+        {
+          "box": [
+            0.38888888875984373,
+            0.23306772909321616,
+            0.2222222222222222,
+            0.013944223107569709
+          ],
+          "text": "o Chat GPT qual é! Post,",
+          "confidence": 1,
+          "start_char": 777,
+          "end_char": 801
+        },
+        {
+          "box": [
+            0.7439613525266972,
+            0.24302788845669943,
+            0.19806763285024154,
+            0.015936254980079667
+          ],
+          "text": "Exemplo:ẠỌPreciso de",
+          "confidence": 1,
+          "start_char": 802,
+          "end_char": 822
+        },
+        {
+          "box": [
+            0.06977870700094405,
+            0.2112143932281645,
+            0.17446348402235243,
+            0.02736316354151269
+          ],
+          "text": "esperada",
+          "confidence": 1,
+          "start_char": 823,
+          "end_char": 831
+        },
+        {
+          "box": [
+            0.39595674403467207,
+            0.2150167998131316,
+            0.21052847968207467,
+            0.017951966281905984
+          ],
+          "text": "e-mail, artigo, roteiro,",
+          "confidence": 1,
+          "start_char": 832,
+          "end_char": 856
+        },
+        {
+          "box": [
+            0.7391304345755693,
+            0.22709163349459305,
+            0.20772946859903385,
+            0.015936254980079667
+          ],
+          "text": "uma legenda para um",
+          "confidence": 1,
+          "start_char": 857,
+          "end_char": 876
+        },
+        {
+          "box": [
+            0.4057971014090177,
+            0.2031872510734838,
+            0.1908212560386474,
+            0.013944223107569709
+          ],
+          "text": "carrossel, título com",
+          "confidence": 1,
+          "start_char": 877,
+          "end_char": 898
+        },
+        {
+          "box": [
+            0.7340762514436444,
+            0.21097125007848816,
+            0.22038777669270837,
+            0.019081510870580187
+          ],
+          "text": "carrossel no Instagram.",
+          "confidence": 1,
+          "start_char": 899,
+          "end_char": 922
+        },
+        {
+          "box": [
+            0.05072463756038648,
+            0.18127490041462058,
+            0.21256038647342995,
+            0.027888446215139417
+          ],
+          "text": "(se houver)",
+          "confidence": 1,
+          "start_char": 923,
+          "end_char": 934
+        },
+        {
+          "box": [
+            0.7365017875039798,
+            0.19684708388106342,
+            0.20825941666312842,
+            0.016462873177699344
+          ],
+          "text": "com um CTA no final.\"",
+          "confidence": 1,
+          "start_char": 935,
+          "end_char": 956
+        },
+        {
+          "box": [
+            0.38130120847300536,
+            0.18134412227279406,
+            0.23250008550818996,
+            0.022517628878711227
+          ],
+          "text": "CTA? Isso guia a entrega.",
+          "confidence": 1,
+          "start_char": 957,
+          "end_char": 982
+        },
+        {
+          "box": [
+            0.05510025189114839,
+            0.08780966210899221,
+            0.20141526005694257,
+            0.03454035496806718
+          ],
+          "text": "Instruções",
+          "confidence": 1,
+          "start_char": 983,
+          "end_char": 993
+        },
+        {
+          "box": [
+            0.40559907371949405,
+            0.10743330589491529,
+            0.1913007100423177,
+            0.019237121262873358
+          ],
+          "text": "Se tiver referências,",
+          "confidence": 1,
+          "start_char": 994,
+          "end_char": 1015
+        },
+        {
+          "box": [
+            0.7246376809983898,
+            0.10956175299911464,
+            0.23671497584541057,
+            0.015936254980079667
+          ],
+          "text": "Exemplo: \"Use os termos",
+          "confidence": 1,
+          "start_char": 1016,
+          "end_char": 1039
+        },
+        {
+          "box": [
+            0.4223292207850117,
+            0.09175786572213418,
+            0.15520176910547817,
+            0.018007071369672722
+          ],
+          "text": "links, ou pontos",
+          "confidence": 1,
+          "start_char": 1040,
+          "end_char": 1056
+        },
+        {
+          "box": [
+            0.7391304346528895,
+            0.09561752988908567,
+            0.21014492753623193,
+            0.013944223107569709
+          ],
+          "text": "'feedback empático' e",
+          "confidence": 1,
+          "start_char": 1057,
+          "end_char": 1078
+        },
+        {
+          "box": [
+            0.052587106276534734,
+            0.0599710794986853,
+            0.2110632560103412,
+            0.032111114714725164
+          ],
+          "text": "específicas",
+          "confidence": 1,
+          "start_char": 1079,
+          "end_char": 1090
+        },
+        {
+          "box": [
+            0.39855072429636623,
+            0.07768924306253244,
+            0.20531400966183572,
+            0.015936254980079667
+          ],
+          "text": "obrigatórios que quer",
+          "confidence": 1,
+          "start_char": 1091,
+          "end_char": 1112
+        },
+        {
+          "box": [
+            0.7318840578706317,
+            0.07768924303823666,
+            0.22222222222222232,
+            0.015936254980079667
+          ],
+          "text": "*cultura de confiança. E",
+          "confidence": 1,
+          "start_char": 1113,
+          "end_char": 1137
+        },
+        {
+          "box": [
+            0.39613526558503837,
+            0.06175298805952667,
+            0.21014492753623187,
+            0.015936254980079667
+          ],
+          "text": "que estejam no texto,",
+          "confidence": 1,
+          "start_char": 1138,
+          "end_char": 1159
+        },
+        {
+          "box": [
+            0.7558277572131875,
+            0.06362656268854683,
+            0.17188869236748006,
+            0.01587547486521812
+          ],
+          "text": "mencione o curso",
+          "confidence": 1,
+          "start_char": 1160,
+          "end_char": 1176
+        },
+        {
+          "box": [
+            0.43236715111714974,
+            0.04581673329183267,
+            0.13285024154589375,
+            0.017928286852589626
+          ],
+          "text": "manda junto!",
+          "confidence": 1,
+          "start_char": 1177,
+          "end_char": 1189
+        },
+        {
+          "box": [
+            0.7657004832595277,
+            0.04780876498450648,
+            0.15700483091787443,
+            0.015936254980079667
+          ],
+          "text": "gratuito no final.",
+          "confidence": 1,
+          "start_char": 1190,
+          "end_char": 1208
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1208
+    },
+    {
+      "text": "Tabela de definição de prompt em três colunas, ligando campo, explicação e exemplo.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1210,
+      "end_char": 1293
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      828,
+      1003
+    ],
+    "ocr_rows": 64,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9921875,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

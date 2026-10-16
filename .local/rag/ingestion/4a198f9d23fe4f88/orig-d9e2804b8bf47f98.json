@@ -1,0 +1,1064 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ca35a9636d418dba92df0c8bf983df78.jpg",
+  "source_sha256": "d9e2804b8bf47f98e2e22c0d59247c10c8becc3201a5ba687986d50395622912",
+  "text": "Google AdWords\nExplaining Quality Score, Ad Rank and how Google calculates cost per click.\nWhat is Quality Score?\nGoogle assigns a score (1-10 scale) that gauges how\nrelevant an advertiser's keywords, ads and landing pages\nare to the searcher's query.\nQuality Score is impacted by three key elements:\nClickthrough Rate\nAd Relevance\nLanding Page Quality\nCTR\n• Expected CTR\n• Display URL's Past CTR\n• Query Matches Keywords\n• Query Matches Ad Message\n• Query Matches Content\n• Account History\n• Geography & Device\n• Page Load Time\n• Ease of Use\nLow Quality Scores can negatively impact ad eligibility, ad position & CPC.\nTo view Quality Score in the AdWords reporting interface:\nNavigate to the Keywords' tab > select the 'Columns/Customize Columns'\ndropdown > add 'Qual. Score' and click \"Apply\nWhat is Ad Rank?\nA value that is calculated and used by Google to determine\nan ad's position, where it ranks among competitors in paid\nsearch results.\nAd Rank = CPC Bid x Quality Score\nAdvertiser\nCPC Bid\nQuality Score\nAd Rank\nPOSITION 2\nAlberto\n$3.00\n4/10\n12\nPOSITION 3\nBarry\n$2.50\n2/10\n5\nPOSITION 1\nClint\n$2.00\n8/10\n16\nIn the example above, Clint earns the highest Ad Rank despite having the lowest\ncost per click bid. Barry has the lowest Ad Rank due to a poor Quality Score.\nHow much do clicks actually cost?\nAs an AdWords advertiser, your cost is affected by others.\nGoogle determines the price you pay by dividing the Ad Rank\nof the person below you by your quality score plus 1c.\nActual CPC =\nNearest Competitor's Ad Rank\nQuality Score\n+10\nCPC Bid\nQuality Score\nAd Rank\nActual CPC\nPOSITION 1\n$2.00\n8/10\n16\n（12/8）+.01= $1.51\nPOSITION 2\n$3.00\n4/10\n12\n（5/4）+-01= $1.26\nPOSITION 3\n$2.50\n2/10\n5\n（4/2）+.01=$2.01\nPOSITION A\n$2.00\n2/10\n4\nEt cetera\nGoogle rewards advertisers who provide relevant ads and landing page\nexperiences with tavorable cost per click pricing.\nTEACH TO FISH DIGITAL\n\nInfográfico histórico de Google AdWords com fórmulas e exemplos de pontuação e custo. Mecânicas precisam de verificação atual.",
+  "segments": [
+    {
+      "text": "Google AdWords\nExplaining Quality Score, Ad Rank and how Google calculates cost per click.\nWhat is Quality Score?\nGoogle assigns a score (1-10 scale) that gauges how\nrelevant an advertiser's keywords, ads and landing pages\nare to the searcher's query.\nQuality Score is impacted by three key elements:\nClickthrough Rate\nAd Relevance\nLanding Page Quality\nCTR\n• Expected CTR\n• Display URL's Past CTR\n• Query Matches Keywords\n• Query Matches Ad Message\n• Query Matches Content\n• Account History\n• Geography & Device\n• Page Load Time\n• Ease of Use\nLow Quality Scores can negatively impact ad eligibility, ad position & CPC.\nTo view Quality Score in the AdWords reporting interface:\nNavigate to the Keywords' tab > select the 'Columns/Customize Columns'\ndropdown > add 'Qual. Score' and click \"Apply\nWhat is Ad Rank?\nA value that is calculated and used by Google to determine\nan ad's position, where it ranks among competitors in paid\nsearch results.\nAd Rank = CPC Bid x Quality Score\nAdvertiser\nCPC Bid\nQuality Score\nAd Rank\nPOSITION 2\nAlberto\n$3.00\n4/10\n12\nPOSITION 3\nBarry\n$2.50\n2/10\n5\nPOSITION 1\nClint\n$2.00\n8/10\n16\nIn the example above, Clint earns the highest Ad Rank despite having the lowest\ncost per click bid. Barry has the lowest Ad Rank due to a poor Quality Score.\nHow much do clicks actually cost?\nAs an AdWords advertiser, your cost is affected by others.\nGoogle determines the price you pay by dividing the Ad Rank\nof the person below you by your quality score plus 1c.\nActual CPC =\nNearest Competitor's Ad Rank\nQuality Score\n+10\nCPC Bid\nQuality Score\nAd Rank\nActual CPC\nPOSITION 1\n$2.00\n8/10\n16\n（12/8）+.01= $1.51\nPOSITION 2\n$3.00\n4/10\n12\n（5/4）+-01= $1.26\nPOSITION 3\n$2.50\n2/10\n5\n（4/2）+.01=$2.01\nPOSITION A\n$2.00\n2/10\n4\nEt cetera\nGoogle rewards advertisers who provide relevant ads and landing page\nexperiences with tavorable cost per click pricing.\nTEACH TO FISH DIGITAL",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.03670252610079054,
+            0.9126054657983498,
+            0.9280829264322917,
+            0.08241309278420506
+          ],
+          "text": "Google AdWords",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "box": [
+            0.05645159432266231,
+            0.9069767442847354,
+            0.8911290690104167,
+            0.013081395157460096
+          ],
+          "text": "Explaining Quality Score, Ad Rank and how Google calculates cost per click.",
+          "confidence": 1,
+          "start_char": 15,
+          "end_char": 90
+        },
+        {
+          "box": [
+            0.2540322493359075,
+            0.8662511984533512,
+            0.3467742106119791,
+            0.01456275493735204
+          ],
+          "text": "What is Quality Score?",
+          "confidence": 1,
+          "start_char": 91,
+          "end_char": 113
+        },
+        {
+          "box": [
+            0.2580645119780638,
+            0.8531976744966889,
+            0.592741943359375,
+            0.010177205873015738
+          ],
+          "text": "Google assigns a score (1-10 scale) that gauges how",
+          "confidence": 1,
+          "start_char": 114,
+          "end_char": 165
+        },
+        {
+          "box": [
+            0.2540322506667927,
+            0.8370086289617509,
+            0.6491935628255208,
+            0.0134228187919464
+          ],
+          "text": "relevant an advertiser's keywords, ads and landing pages",
+          "confidence": 1,
+          "start_char": 166,
+          "end_char": 222
+        },
+        {
+          "box": [
+            0.2573969875343345,
+            0.8233316614214731,
+            0.3080758870442708,
+            0.014998730854242859
+          ],
+          "text": "are to the searcher's query.",
+          "confidence": 1,
+          "start_char": 223,
+          "end_char": 251
+        },
+        {
+          "box": [
+            0.05645161133364066,
+            0.7994186047426082,
+            0.5725806477864583,
+            0.011703159299358612
+          ],
+          "text": "Quality Score is impacted by three key elements:",
+          "confidence": 1,
+          "start_char": 252,
+          "end_char": 300
+        },
+        {
+          "box": [
+            0.052419359843176305,
+            0.7761265580429697,
+            0.2096774088541667,
+            0.01311762792380633
+          ],
+          "text": "Clickthrough Rate",
+          "confidence": 1,
+          "start_char": 301,
+          "end_char": 318
+        },
+        {
+          "box": [
+            0.3829126586619586,
+            0.777346185992218,
+            0.1575617777506511,
+            0.012168093358567389
+          ],
+          "text": "Ad Relevance",
+          "confidence": 1,
+          "start_char": 319,
+          "end_char": 331
+        },
+        {
+          "box": [
+            0.7016129030555555,
+            0.7761265580415516,
+            0.25,
+            0.01311762792380633
+          ],
+          "text": "Landing Page Quality",
+          "confidence": 1,
+          "start_char": 332,
+          "end_char": 352
+        },
+        {
+          "box": [
+            0.12903225851919523,
+            0.6773255815273747,
+            0.08870967610677086,
+            0.013081395157460207
+          ],
+          "text": "CTR",
+          "confidence": 0.5,
+          "start_char": 353,
+          "end_char": 356
+        },
+        {
+          "box": [
+            0.05241935661190257,
+            0.653883029766677,
+            0.1411290283203125,
+            0.00910834132310645
+          ],
+          "text": "• Expected CTR",
+          "confidence": 1,
+          "start_char": 357,
+          "end_char": 371
+        },
+        {
+          "box": [
+            0.056451608767664876,
+            0.6438159155192709,
+            0.21774194335937502,
+            0.008800363494931407
+          ],
+          "text": "• Display URL's Past CTR",
+          "confidence": 1,
+          "start_char": 372,
+          "end_char": 396
+        },
+        {
+          "box": [
+            0.3830645185525873,
+            0.6538830297617801,
+            0.22983870442708332,
+            0.00910834132310645
+          ],
+          "text": "• Query Matches Keywords",
+          "confidence": 1,
+          "start_char": 397,
+          "end_char": 421
+        },
+        {
+          "box": [
+            0.3870967739439325,
+            0.6438159155214256,
+            0.25,
+            0.008800363494931629
+          ],
+          "text": "• Query Matches Ad Message",
+          "confidence": 1,
+          "start_char": 422,
+          "end_char": 448
+        },
+        {
+          "box": [
+            0.7056451571509575,
+            0.653883029761927,
+            0.21774194335937502,
+            0.00910834132310645
+          ],
+          "text": "• Query Matches Content",
+          "confidence": 1,
+          "start_char": 449,
+          "end_char": 472
+        },
+        {
+          "box": [
+            0.056142864059609526,
+            0.632891191819916,
+            0.153951171875,
+            0.010015646769010678
+          ],
+          "text": "• Account History",
+          "confidence": 1,
+          "start_char": 473,
+          "end_char": 490
+        },
+        {
+          "box": [
+            0.3870967716333096,
+            0.6322674419490206,
+            0.18951613362630204,
+            0.010174418455802359
+          ],
+          "text": "• Geography & Device",
+          "confidence": 1,
+          "start_char": 491,
+          "end_char": 511
+        },
+        {
+          "box": [
+            0.7056451599014268,
+            0.6337209303131215,
+            0.15725806681315102,
+            0.008720930104973545
+          ],
+          "text": "• Page Load Time",
+          "confidence": 1,
+          "start_char": 512,
+          "end_char": 528
+        },
+        {
+          "box": [
+            0.7056451605964906,
+            0.6438159155328458,
+            0.12096774291992185,
+            0.008800363494931629
+          ],
+          "text": "• Ease of Use",
+          "confidence": 1,
+          "start_char": 529,
+          "end_char": 542
+        },
+        {
+          "box": [
+            0.04838710575875765,
+            0.6102588685342776,
+            0.8669354654947916,
+            0.0134228187919464
+          ],
+          "text": "Low Quality Scores can negatively impact ad eligibility, ad position & CPC.",
+          "confidence": 1,
+          "start_char": 543,
+          "end_char": 618
+        },
+        {
+          "box": [
+            0.04838709415532594,
+            0.5901162793289734,
+            0.6774193522135417,
+            0.013081395157460207
+          ],
+          "text": "To view Quality Score in the AdWords reporting interface:",
+          "confidence": 1,
+          "start_char": 619,
+          "end_char": 676
+        },
+        {
+          "box": [
+            0.05229760147896885,
+            0.5763809026544403,
+            0.8228732096354167,
+            0.013757178104506718
+          ],
+          "text": "Navigate to the Keywords' tab > select the 'Columns/Customize Columns'",
+          "confidence": 1,
+          "start_char": 677,
+          "end_char": 747
+        },
+        {
+          "box": [
+            0.052419347503010194,
+            0.5623202302084209,
+            0.5241935628255208,
+            0.01342281879194629
+          ],
+          "text": "dropdown > add 'Qual. Score' and click \"Apply",
+          "confidence": 1,
+          "start_char": 748,
+          "end_char": 793
+        },
+        {
+          "box": [
+            0.2499999971796195,
+            0.526162790803745,
+            0.2701612955729167,
+            0.013146892832886836
+          ],
+          "text": "What is Ad Rank?",
+          "confidence": 1,
+          "start_char": 794,
+          "end_char": 810
+        },
+        {
+          "box": [
+            0.2540322617720578,
+            0.5115052730523539,
+            0.657258056640625,
+            0.011984659635666306
+          ],
+          "text": "A value that is calculated and used by Google to determine",
+          "confidence": 1,
+          "start_char": 811,
+          "end_char": 869
+        },
+        {
+          "box": [
+            0.2540322618183645,
+            0.4985465117057687,
+            0.657258056640625,
+            0.010174418455802359
+          ],
+          "text": "an ad's position, where it ranks among competitors in paid",
+          "confidence": 1,
+          "start_char": 870,
+          "end_char": 928
+        },
+        {
+          "box": [
+            0.25352492131333837,
+            0.4839026844152604,
+            0.17459318033854165,
+            0.011698721467820028
+          ],
+          "text": "search results.",
+          "confidence": 1,
+          "start_char": 929,
+          "end_char": 944
+        },
+        {
+          "box": [
+            0.07258063836826856,
+            0.44622093038693667,
+            0.8629032389322917,
+            0.020348836911604717
+          ],
+          "text": "Ad Rank = CPC Bid x Quality Score",
+          "confidence": 1,
+          "start_char": 945,
+          "end_char": 978
+        },
+        {
+          "box": [
+            0.20557781871288602,
+            0.4184943208568682,
+            0.16545726521809898,
+            0.013302056009908858
+          ],
+          "text": "Advertiser",
+          "confidence": 1,
+          "start_char": 979,
+          "end_char": 989
+        },
+        {
+          "box": [
+            0.39494820211546683,
+            0.4183202030555445,
+            0.13349069213867187,
+            0.013650291603797937
+          ],
+          "text": "CPC Bid",
+          "confidence": 1,
+          "start_char": 990,
+          "end_char": 997
+        },
+        {
+          "box": [
+            0.5482094487248212,
+            0.41681410762594584,
+            0.21003271484374997,
+            0.015208994096443273
+          ],
+          "text": "Quality Score",
+          "confidence": 1,
+          "start_char": 998,
+          "end_char": 1011
+        },
+        {
+          "box": [
+            0.7819512364895318,
+            0.4181912348355057,
+            0.13367817179361974,
+            0.013908228046713544
+          ],
+          "text": "Ad Rank",
+          "confidence": 1,
+          "start_char": 1012,
+          "end_char": 1019
+        },
+        {
+          "box": [
+            0.06048387028086222,
+            0.4011627907896408,
+            0.12096774291992188,
+            0.010174418455802359
+          ],
+          "text": "POSITION 2",
+          "confidence": 1,
+          "start_char": 1020,
+          "end_char": 1030
+        },
+        {
+          "box": [
+            0.2054626644460011,
+            0.3995038592420549,
+            0.11326821899414063,
+            0.013492281576359622
+          ],
+          "text": "Alberto",
+          "confidence": 1,
+          "start_char": 1031,
+          "end_char": 1038
+        },
+        {
+          "box": [
+            0.4112903237778267,
+            0.39970930250457637,
+            0.09677419026692713,
+            0.01453488350828902
+          ],
+          "text": "$3.00",
+          "confidence": 1,
+          "start_char": 1039,
+          "end_char": 1044
+        },
+        {
+          "box": [
+            0.6129032253774991,
+            0.39970930205197375,
+            0.08064516194661464,
+            0.01598837277347498
+          ],
+          "text": "4/10",
+          "confidence": 1,
+          "start_char": 1045,
+          "end_char": 1049
+        },
+        {
+          "box": [
+            0.8225806455398397,
+            0.39970930261358795,
+            0.04435483805338547,
+            0.01453488350828902
+          ],
+          "text": "12",
+          "confidence": 1,
+          "start_char": 1050,
+          "end_char": 1052
+        },
+        {
+          "box": [
+            0.06854838542597144,
+            0.3849472672692157,
+            0.11290322875976563,
+            0.00910834132310645
+          ],
+          "text": "POSITION 3",
+          "confidence": 1,
+          "start_char": 1053,
+          "end_char": 1063
+        },
+        {
+          "box": [
+            0.20335942681322816,
+            0.3801941920609483,
+            0.08953544108072914,
+            0.01576702889637205
+          ],
+          "text": "Barry",
+          "confidence": 1,
+          "start_char": 1064,
+          "end_char": 1069
+        },
+        {
+          "box": [
+            0.41482765718810927,
+            0.3818232409688558,
+            0.08969952392578123,
+            0.013969797187432076
+          ],
+          "text": "$2.50",
+          "confidence": 1,
+          "start_char": 1070,
+          "end_char": 1075
+        },
+        {
+          "box": [
+            0.6169354843757089,
+            0.3822674421121346,
+            0.07258064270019526,
+            0.01453488350828902
+          ],
+          "text": "2/10",
+          "confidence": 1,
+          "start_char": 1076,
+          "end_char": 1080
+        },
+        {
+          "box": [
+            0.8346774196037309,
+            0.38372093043389377,
+            0.024193547566731755,
+            0.011627906806631283
+          ],
+          "text": "5",
+          "confidence": 0.5,
+          "start_char": 1081,
+          "end_char": 1082
+        },
+        {
+          "box": [
+            0.06854839044937626,
+            0.36768935765238975,
+            0.10887096150716145,
+            0.008764130728585395
+          ],
+          "text": "POSITION 1",
+          "confidence": 1,
+          "start_char": 1083,
+          "end_char": 1093
+        },
+        {
+          "box": [
+            0.20967741866378947,
+            0.3633720927629718,
+            0.08064516194661459,
+            0.015988372773474868
+          ],
+          "text": "Clint",
+          "confidence": 1,
+          "start_char": 1094,
+          "end_char": 1099
+        },
+        {
+          "box": [
+            0.4150928554262628,
+            0.36318156951491787,
+            0.09320138549804685,
+            0.014915930801932986
+          ],
+          "text": "$2.00",
+          "confidence": 1,
+          "start_char": 1100,
+          "end_char": 1105
+        },
+        {
+          "box": [
+            0.6129032247844737,
+            0.3633720931723261,
+            0.07661290486653649,
+            0.01453488350828902
+          ],
+          "text": "8/10",
+          "confidence": 1,
+          "start_char": 1106,
+          "end_char": 1110
+        },
+        {
+          "box": [
+            0.8225806457800424,
+            0.36337209320225083,
+            0.04838709513346351,
+            0.01453488350828902
+          ],
+          "text": "16",
+          "confidence": 1,
+          "start_char": 1111,
+          "end_char": 1113
+        },
+        {
+          "box": [
+            0.048387109583867945,
+            0.341569767542504,
+            0.8991935221354167,
+            0.013176157741967232
+          ],
+          "text": "In the example above, Clint earns the highest Ad Rank despite having the lowest",
+          "confidence": 1,
+          "start_char": 1114,
+          "end_char": 1193
+        },
+        {
+          "box": [
+            0.05241935988201309,
+            0.3269415147156456,
+            0.8346774088541666,
+            0.013174764261949856
+          ],
+          "text": "cost per click bid. Barry has the lowest Ad Rank due to a poor Quality Score.",
+          "confidence": 1,
+          "start_char": 1194,
+          "end_char": 1271
+        },
+        {
+          "box": [
+            0.25403226639469917,
+            0.2876318314748304,
+            0.5282257893880209,
+            0.016299137104506256
+          ],
+          "text": "How much do clicks actually cost?",
+          "confidence": 1,
+          "start_char": 1272,
+          "end_char": 1305
+        },
+        {
+          "box": [
+            0.2540322644191474,
+            0.27612655800912156,
+            0.6370967610677083,
+            0.010210651222148592
+          ],
+          "text": "As an AdWords advertiser, your cost is affected by others.",
+          "confidence": 1,
+          "start_char": 1306,
+          "end_char": 1364
+        },
+        {
+          "box": [
+            0.2580645060805806,
+            0.2616279070653458,
+            0.6693548583984376,
+            0.011627906806631283
+          ],
+          "text": "Google determines the price you pay by dividing the Ad Rank",
+          "confidence": 1,
+          "start_char": 1365,
+          "end_char": 1424
+        },
+        {
+          "box": [
+            0.24999999126520062,
+            0.2468839885412647,
+            0.5967742106119791,
+            0.011984659635666306
+          ],
+          "text": "of the person below you by your quality score plus 1c.",
+          "confidence": 1,
+          "start_char": 1425,
+          "end_char": 1479
+        },
+        {
+          "box": [
+            0.056451613318785995,
+            0.20784883734990334,
+            0.3387096761067708,
+            0.017462764238922568
+          ],
+          "text": "Actual CPC =",
+          "confidence": 1,
+          "start_char": 1480,
+          "end_char": 1492
+        },
+        {
+          "box": [
+            0.399193544984669,
+            0.21947674426725383,
+            0.4314516194661458,
+            0.010174418455802359
+          ],
+          "text": "Nearest Competitor's Ad Rank",
+          "confidence": 1,
+          "start_char": 1493,
+          "end_char": 1521
+        },
+        {
+          "box": [
+            0.5241043123895198,
+            0.19750610114915368,
+            0.1896946004231771,
+            0.013418030304511053
+          ],
+          "text": "Quality Score",
+          "confidence": 1,
+          "start_char": 1522,
+          "end_char": 1535
+        },
+        {
+          "box": [
+            0.8427419369633108,
+            0.20639534957122396,
+            0.09677419026692702,
+            0.016039933362834602
+          ],
+          "text": "+10",
+          "confidence": 0.3,
+          "start_char": 1536,
+          "end_char": 1539
+        },
+        {
+          "box": [
+            0.20936993470185986,
+            0.16674982557752627,
+            0.12964722696940104,
+            0.013884069821292866
+          ],
+          "text": "CPC Bid",
+          "confidence": 1,
+          "start_char": 1540,
+          "end_char": 1547
+        },
+        {
+          "box": [
+            0.36284308059547205,
+            0.1655852516158307,
+            0.2097977091471354,
+            0.01475972937257497
+          ],
+          "text": "Quality Score",
+          "confidence": 1,
+          "start_char": 1548,
+          "end_char": 1561
+        },
+        {
+          "box": [
+            0.5805739360847433,
+            0.16704590076617132,
+            0.14933599853515633,
+            0.013291919905753069
+          ],
+          "text": "Ad Rank",
+          "confidence": 1,
+          "start_char": 1562,
+          "end_char": 1569
+        },
+        {
+          "box": [
+            0.7780255105243511,
+            0.16679243368952312,
+            0.1778199462890625,
+            0.01379885358069799
+          ],
+          "text": "Actual CPC",
+          "confidence": 1,
+          "start_char": 1570,
+          "end_char": 1580
+        },
+        {
+          "box": [
+            0.06451612834589332,
+            0.15100671141491373,
+            0.12096774291992188,
+            0.00910834132310645
+          ],
+          "text": "POSITION 1",
+          "confidence": 1,
+          "start_char": 1581,
+          "end_char": 1591
+        },
+        {
+          "box": [
+            0.22538732859162355,
+            0.14790503304787583,
+            0.09358017985026043,
+            0.015236445835658419
+          ],
+          "text": "$2.00",
+          "confidence": 1,
+          "start_char": 1592,
+          "end_char": 1597
+        },
+        {
+          "box": [
+            0.4274193558676443,
+            0.14825581408551414,
+            0.07258064270019532,
+            0.013081395157460207
+          ],
+          "text": "8/10",
+          "confidence": 1,
+          "start_char": 1598,
+          "end_char": 1602
+        },
+        {
+          "box": [
+            0.6370967750139134,
+            0.14825581468750304,
+            0.04838709513346362,
+            0.01598837094476102
+          ],
+          "text": "16",
+          "confidence": 1,
+          "start_char": 1603,
+          "end_char": 1605
+        },
+        {
+          "box": [
+            0.7095965729377097,
+            0.14664080230099297,
+            0.24612943522135422,
+            0.0163114187472847
+          ],
+          "text": "（12/8）+.01= $1.51",
+          "confidence": 0.3,
+          "start_char": 1606,
+          "end_char": 1623
+        },
+        {
+          "box": [
+            0.05630131412905564,
+            0.1320164614808983,
+            0.12933285522460936,
+            0.01067637940038313
+          ],
+          "text": "POSITION 2",
+          "confidence": 1,
+          "start_char": 1624,
+          "end_char": 1634
+        },
+        {
+          "box": [
+            0.22561342887724997,
+            0.1306359219124883,
+            0.09312798055013019,
+            0.013437458561342264
+          ],
+          "text": "$3.00",
+          "confidence": 1,
+          "start_char": 1635,
+          "end_char": 1640
+        },
+        {
+          "box": [
+            0.42741935587950386,
+            0.13081395362253534,
+            0.07258064270019532,
+            0.013081395157460207
+          ],
+          "text": "4/10",
+          "confidence": 1,
+          "start_char": 1641,
+          "end_char": 1645
+        },
+        {
+          "box": [
+            0.6370967744813718,
+            0.1308139537148746,
+            0.04435483805338536,
+            0.013081395157460207
+          ],
+          "text": "12",
+          "confidence": 1,
+          "start_char": 1646,
+          "end_char": 1648
+        },
+        {
+          "box": [
+            0.7216834787078029,
+            0.1277315259682762,
+            0.23808465576171878,
+            0.01633927371792232
+          ],
+          "text": "（5/4）+-01= $1.26",
+          "confidence": 0.3,
+          "start_char": 1649,
+          "end_char": 1665
+        },
+        {
+          "box": [
+            0.06451612894326486,
+            0.11313518699191294,
+            0.12096774291992188,
+            0.011984659635666306
+          ],
+          "text": "POSITION 3",
+          "confidence": 1,
+          "start_char": 1666,
+          "end_char": 1676
+        },
+        {
+          "box": [
+            0.22569361296065593,
+            0.11182552568796256,
+            0.09296761067708331,
+            0.014721042014951391
+          ],
+          "text": "$2.50",
+          "confidence": 1,
+          "start_char": 1677,
+          "end_char": 1682
+        },
+        {
+          "box": [
+            0.42715552842341353,
+            0.11174779296653647,
+            0.07310829671223962,
+            0.01487650738695101
+          ],
+          "text": "2/10",
+          "confidence": 1,
+          "start_char": 1683,
+          "end_char": 1687
+        },
+        {
+          "box": [
+            0.6491935485956665,
+            0.11482558159695344,
+            0.024193547566731755,
+            0.010174418455802359
+          ],
+          "text": "5",
+          "confidence": 0.5,
+          "start_char": 1688,
+          "end_char": 1689
+        },
+        {
+          "box": [
+            0.7217741973722068,
+            0.11169702776477541,
+            0.2379032185872395,
+            0.014860977948226273
+          ],
+          "text": "（4/2）+.01=$2.01",
+          "confidence": 0.3,
+          "start_char": 1690,
+          "end_char": 1705
+        },
+        {
+          "box": [
+            0.06451612841173994,
+            0.09587727721477501,
+            0.12096774291992186,
+            0.01022737389671502
+          ],
+          "text": "POSITION A",
+          "confidence": 1,
+          "start_char": 1706,
+          "end_char": 1716
+        },
+        {
+          "box": [
+            0.22945438609521482,
+            0.09274540818634991,
+            0.08947832234700517,
+            0.016544067733925583
+          ],
+          "text": "$2.00",
+          "confidence": 1,
+          "start_char": 1717,
+          "end_char": 1722
+        },
+        {
+          "box": [
+            0.4274193558676443,
+            0.0930232559656956,
+            0.07258064270019532,
+            0.014534883508289131
+          ],
+          "text": "2/10",
+          "confidence": 1,
+          "start_char": 1723,
+          "end_char": 1727
+        },
+        {
+          "box": [
+            0.6491935485956665,
+            0.09593023278854484,
+            0.024193547566731755,
+            0.011627906806631283
+          ],
+          "text": "4",
+          "confidence": 1,
+          "start_char": 1728,
+          "end_char": 1729
+        },
+        {
+          "box": [
+            0.8215589854479922,
+            0.09240442370156043,
+            0.1388419901529948,
+            0.014053247804723945
+          ],
+          "text": "Et cetera",
+          "confidence": 1,
+          "start_char": 1730,
+          "end_char": 1739
+        },
+        {
+          "box": [
+            0.05629631706170934,
+            0.06970364216377656,
+            0.7906090494791667,
+            0.013081263490056894
+          ],
+          "text": "Google rewards advertisers who provide relevant ads and landing page",
+          "confidence": 1,
+          "start_char": 1740,
+          "end_char": 1808
+        },
+        {
+          "box": [
+            0.05645161662461275,
+            0.0565675934738491,
+            0.532258056640625,
+            0.010292871572141538
+          ],
+          "text": "experiences with tavorable cost per click pricing.",
+          "confidence": 1,
+          "start_char": 1809,
+          "end_char": 1859
+        },
+        {
+          "box": [
+            0.21774195061918955,
+            0.011505273243779035,
+            0.5604838460286459,
+            0.02205177372962608
+          ],
+          "text": "TEACH TO FISH DIGITAL",
+          "confidence": 1,
+          "start_char": 1860,
+          "end_char": 1881
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1881
+    },
+    {
+      "text": "Infográfico histórico de Google AdWords com fórmulas e exemplos de pontuação e custo. Mecânicas precisam de verificação atual.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1883,
+      "end_char": 2009
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      750,
+      2086
+    ],
+    "ocr_rows": 85,
+    "low_confidence_rows": 7,
+    "ocr_mean_confidence": 0.9494117647058824,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

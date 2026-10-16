@@ -1,0 +1,464 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fc14a323ec1a4524235a25d2d9e6a500.jpg",
+  "source_sha256": "2c6f1b7879c3e129a2987567297a11d93dd873bbe3838f2d741702c302a44f7a",
+  "text": "The Framing Effect.\nThe way you say something is MORE important\nthan what you say. Shift the focus from a potentially\nnegotive aspect to a neutral / positive perspective.\nInstead of this...\nSay this...\nSoftware cost is $1,000 per year.\nOnly $2.74 per day for\ncutting-edge business solutions.\nInstead of this...\nSay this...\nThis training programme\nInvest just 1.5 hours a day to\nrequires 10 hours of your time\nunlock new career heights with our\nper week.\nspeciolised training programme.\nInstead of this...\nSay this...\nThis yoghurt contains 20% fat.\nThis yoghurt is 80% fat-free.\nInstead of this...\nSay this...\nWe provide complex finoncil\nGain financial and strategic\nreports.\nclority with our detailed, easy-\nto-understand reporting.\nInstead of this...\nSay this...\nThis house is 20 years old\nEmbrace the charm and proven\ndurability of a home with two\ndecades of character and care.\nFletch+CO. MARKETING MENTOR FOR SMALL BUSINESS\n\nTabela de efeito de enquadramento, com pares de redação e setas entre versões.",
+  "segments": [
+    {
+      "text": "The Framing Effect.\nThe way you say something is MORE important\nthan what you say. Shift the focus from a potentially\nnegotive aspect to a neutral / positive perspective.\nInstead of this...\nSay this...\nSoftware cost is $1,000 per year.\nOnly $2.74 per day for\ncutting-edge business solutions.\nInstead of this...\nSay this...\nThis training programme\nInvest just 1.5 hours a day to\nrequires 10 hours of your time\nunlock new career heights with our\nper week.\nspeciolised training programme.\nInstead of this...\nSay this...\nThis yoghurt contains 20% fat.\nThis yoghurt is 80% fat-free.\nInstead of this...\nSay this...\nWe provide complex finoncil\nGain financial and strategic\nreports.\nclority with our detailed, easy-\nto-understand reporting.\nInstead of this...\nSay this...\nThis house is 20 years old\nEmbrace the charm and proven\ndurability of a home with two\ndecades of character and care.\nFletch+CO. MARKETING MENTOR FOR SMALL BUSINESS",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "The Framing Effect.",
+          "box": [
+            0.10630865587753173,
+            0.8686619722960763,
+            0.7875111897786459,
+            0.055364757113986585
+          ],
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "confidence": 1,
+          "text": "The way you say something is MORE important",
+          "box": [
+            0.14379084358043134,
+            0.8270348836257447,
+            0.7058823649088541,
+            0.02185400538974336
+          ],
+          "start_char": 20,
+          "end_char": 63
+        },
+        {
+          "confidence": 1,
+          "text": "than what you say. Shift the focus from a potentially",
+          "box": [
+            0.106753820664028,
+            0.8037790696721544,
+            0.7799564107259114,
+            0.021802325778537246
+          ],
+          "start_char": 64,
+          "end_char": 117
+        },
+        {
+          "confidence": 1,
+          "text": "negotive aspect to a neutral / positive perspective.",
+          "box": [
+            0.1198257197569338,
+            0.7805232558667717,
+            0.7559912618001302,
+            0.02058785544501418
+          ],
+          "start_char": 118,
+          "end_char": 170
+        },
+        {
+          "confidence": 1,
+          "text": "Instead of this...",
+          "box": [
+            0.14789175922339637,
+            0.7075988036909389,
+            0.25332071940104167,
+            0.023192632463243323
+          ],
+          "start_char": 171,
+          "end_char": 189
+        },
+        {
+          "confidence": 1,
+          "text": "Say this...",
+          "box": [
+            0.6513138643615376,
+            0.704636188551131,
+            0.15488861083984373,
+            0.02386715783013238
+          ],
+          "start_char": 190,
+          "end_char": 201
+        },
+        {
+          "confidence": 1,
+          "text": "Software cost is $1,000 per year.",
+          "box": [
+            0.09979730607187103,
+            0.6619284856294636,
+            0.3210951487223307,
+            0.0218657377031114
+          ],
+          "start_char": 202,
+          "end_char": 235
+        },
+        {
+          "confidence": 1,
+          "text": "Only $2.74 per day for",
+          "box": [
+            0.5838779961387618,
+            0.665555555385769,
+            0.21132897694905595,
+            0.016130491362677635
+          ],
+          "start_char": 236,
+          "end_char": 258
+        },
+        {
+          "confidence": 1,
+          "text": "cutting-edge business solutions.",
+          "box": [
+            0.581504865688428,
+            0.6459971972160226,
+            0.31188379923502607,
+            0.019336119757758174
+          ],
+          "start_char": 259,
+          "end_char": 291
+        },
+        {
+          "confidence": 1,
+          "text": "Instead of this...",
+          "box": [
+            0.14784488020172282,
+            0.5869530416847397,
+            0.2533795928955078,
+            0.02368244594997826
+          ],
+          "start_char": 292,
+          "end_char": 310
+        },
+        {
+          "confidence": 1,
+          "text": "Say this...",
+          "box": [
+            0.6513389078231238,
+            0.5840860287021509,
+            0.15483852386474606,
+            0.02514189614189999
+          ],
+          "start_char": 311,
+          "end_char": 322
+        },
+        {
+          "confidence": 1,
+          "text": "This training programme",
+          "box": [
+            0.09944430034031247,
+            0.5409839763281807,
+            0.24320276896158854,
+            0.02452221128675669
+          ],
+          "start_char": 323,
+          "end_char": 346
+        },
+        {
+          "confidence": 1,
+          "text": "Invest just 1.5 hours a day to",
+          "box": [
+            0.5795207080986604,
+            0.5465116280298964,
+            0.2766884358723959,
+            0.01598837216695148
+          ],
+          "start_char": 347,
+          "end_char": 377
+        },
+        {
+          "confidence": 1,
+          "text": "requires 10 hours of your time",
+          "box": [
+            0.10239650832339042,
+            0.5288888889210239,
+            0.2875817108154297,
+            0.014715762138366673
+          ],
+          "start_char": 378,
+          "end_char": 408
+        },
+        {
+          "confidence": 1,
+          "text": "unlock new career heights with our",
+          "box": [
+            0.581699345632434,
+            0.5288888889202608,
+            0.33769063313802083,
+            0.014715762138366673
+          ],
+          "start_char": 409,
+          "end_char": 443
+        },
+        {
+          "confidence": 1,
+          "text": "per week.",
+          "box": [
+            0.10423470205592437,
+            0.5118641883447244,
+            0.09413380304972331,
+            0.014207478629218229
+          ],
+          "start_char": 444,
+          "end_char": 453
+        },
+        {
+          "confidence": 1,
+          "text": "speciolised training programme.",
+          "box": [
+            0.5814813897566172,
+            0.5090120369248805,
+            0.3163958740234376,
+            0.019838834338717914
+          ],
+          "start_char": 454,
+          "end_char": 485
+        },
+        {
+          "confidence": 1,
+          "text": "Instead of this...",
+          "box": [
+            0.14789127738425076,
+            0.44900153224218,
+            0.25333045959472655,
+            0.023428894678751644
+          ],
+          "start_char": 486,
+          "end_char": 504
+        },
+        {
+          "confidence": 1,
+          "text": "Say this...",
+          "box": [
+            0.6511179160536457,
+            0.4467599792926338,
+            0.15528050740559896,
+            0.02508469263712565
+          ],
+          "start_char": 505,
+          "end_char": 516
+        },
+        {
+          "confidence": 1,
+          "text": "This yoghurt contains 20% fat.",
+          "box": [
+            0.09803922155866711,
+            0.4038888887718245,
+            0.2941176350911458,
+            0.016169250806172708
+          ],
+          "start_char": 517,
+          "end_char": 547
+        },
+        {
+          "confidence": 1,
+          "text": "This yoghurt is 80% fat-free.",
+          "box": [
+            0.5795206933027861,
+            0.40388888877307716,
+            0.2745098114013673,
+            0.016169250806172597
+          ],
+          "start_char": 548,
+          "end_char": 577
+        },
+        {
+          "confidence": 1,
+          "text": "Instead of this...",
+          "box": [
+            0.1479060859564161,
+            0.3398962240867077,
+            0.2532678985595703,
+            0.02332847489251033
+          ],
+          "start_char": 578,
+          "end_char": 596
+        },
+        {
+          "confidence": 1,
+          "text": "Say this...",
+          "box": [
+            0.6514161236761621,
+            0.33866279047547176,
+            0.154684092203776,
+            0.02325581444634328
+          ],
+          "start_char": 597,
+          "end_char": 608
+        },
+        {
+          "confidence": 1,
+          "text": "We provide complex finoncil",
+          "box": [
+            0.10021785908197846,
+            0.2949999998090074,
+            0.2875817108154297,
+            0.016111111111111076
+          ],
+          "start_char": 609,
+          "end_char": 636
+        },
+        {
+          "confidence": 1,
+          "text": "Gain financial and strategic",
+          "box": [
+            0.581699346522113,
+            0.29499999987302483,
+            0.267973861694336,
+            0.01749999999999996
+          ],
+          "start_char": 637,
+          "end_char": 665
+        },
+        {
+          "confidence": 1,
+          "text": "reports.",
+          "box": [
+            0.09952019269289122,
+            0.27663330079572535,
+            0.0818032137552897,
+            0.016560778088039796
+          ],
+          "start_char": 666,
+          "end_char": 674
+        },
+        {
+          "confidence": 1,
+          "text": "clority with our detailed, easy-",
+          "box": [
+            0.5816993522507234,
+            0.27761627904079744,
+            0.29411763509114575,
+            0.015988372166951592
+          ],
+          "start_char": 675,
+          "end_char": 707
+        },
+        {
+          "confidence": 1,
+          "text": "to-understand reporting.",
+          "box": [
+            0.581699347229168,
+            0.26162790709801864,
+            0.24400871276855463,
+            0.014534883499145446
+          ],
+          "start_char": 708,
+          "end_char": 732
+        },
+        {
+          "confidence": 1,
+          "text": "Instead of this...",
+          "box": [
+            0.14789174624799328,
+            0.19887787372988408,
+            0.25332603454589847,
+            0.023520801332261754
+          ],
+          "start_char": 733,
+          "end_char": 751
+        },
+        {
+          "confidence": 1,
+          "text": "Say this...",
+          "box": [
+            0.6511748058698151,
+            0.1955323918550107,
+            0.15516672770182294,
+            0.026086379157172268
+          ],
+          "start_char": 752,
+          "end_char": 763
+        },
+        {
+          "confidence": 1,
+          "text": "This house is 20 years old",
+          "box": [
+            0.09803921582666865,
+            0.1538888887728127,
+            0.2483660125732422,
+            0.016169250806172708
+          ],
+          "start_char": 764,
+          "end_char": 790
+        },
+        {
+          "confidence": 1,
+          "text": "Embrace the charm and proven",
+          "box": [
+            0.5835984189812302,
+            0.1546977580859421,
+            0.3077644602457682,
+            0.01821256849500874
+          ],
+          "start_char": 791,
+          "end_char": 819
+        },
+        {
+          "confidence": 1,
+          "text": "durability of a home with two",
+          "box": [
+            0.581699341228034,
+            0.13662790694989935,
+            0.28322441101074214,
+            0.016149871084425116
+          ],
+          "start_char": 820,
+          "end_char": 849
+        },
+        {
+          "confidence": 1,
+          "text": "decades of character and care.",
+          "box": [
+            0.5836829534232613,
+            0.12055310255673068,
+            0.30330724080403637,
+            0.017049840291341156
+          ],
+          "start_char": 850,
+          "end_char": 880
+        },
+        {
+          "confidence": 1,
+          "text": "Fletch+CO. MARKETING MENTOR FOR SMALL BUSINESS",
+          "box": [
+            0.12160032239661367,
+            0.023981827688351776,
+            0.7697901916503906,
+            0.03232640160454647
+          ],
+          "start_char": 881,
+          "end_char": 927
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 927
+    },
+    {
+      "text": "Tabela de efeito de enquadramento, com pares de redação e setas entre versões.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 929,
+      "end_char": 1007
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1200,
+      1800
+    ],
+    "ocr_rows": 35,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

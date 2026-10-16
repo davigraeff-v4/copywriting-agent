@@ -1,0 +1,512 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5b511c35e52667b65c2590ad16e806c.jpg",
+  "source_sha256": "21b4e451846cf730dd8a1806c87497b80f7b18ca5b8278b71be1bf763440eafb",
+  "text": "MARKETING FUNNEL\nContent:\nGoal:\nBlog posts,\nAwareness\nGrab ottention\nReels, Pins, Ads\n& introduce\nyour brand\nContent:\nGoal:\nGuides, Tips,\nInterest\nEducate &\nIntogr1phics, Freebies\nnurture curiosity\nContent:\nCase studies,\nGoal:\nTestimonials,\nConsider1tion\nBuild trust +\nComparisons\nshow value\nContent:\nLanding Pages,\nConversion\nGo›I:\nClose the sale\nOffers, CTAs\nContent:\nLoy›1ity &\nGoal:\nEmail sequences,\nAdvocacy\nTurn buyers into\nCommunities, VIP rewards\nlong-term fans\nexpandgrid.com\n\nFunil de marketing com cinco níveis, formatos de conteúdo e objetivos em cada estágio.",
+  "segments": [
+    {
+      "text": "MARKETING FUNNEL\nContent:\nGoal:\nBlog posts,\nAwareness\nGrab ottention\nReels, Pins, Ads\n& introduce\nyour brand\nContent:\nGoal:\nGuides, Tips,\nInterest\nEducate &\nIntogr1phics, Freebies\nnurture curiosity\nContent:\nCase studies,\nGoal:\nTestimonials,\nConsider1tion\nBuild trust +\nComparisons\nshow value\nContent:\nLanding Pages,\nConversion\nGo›I:\nClose the sale\nOffers, CTAs\nContent:\nLoy›1ity &\nGoal:\nEmail sequences,\nAdvocacy\nTurn buyers into\nCommunities, VIP rewards\nlong-term fans\nexpandgrid.com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.1481481620546226,
+            0.7645348838457745,
+            0.7080609741210937,
+            0.036337209065755216
+          ],
+          "text": "MARKETING FUNNEL",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.06746444185440466,
+            0.6523666312508738,
+            0.09818658447265623,
+            0.013580691019693947
+          ],
+          "text": "Content:",
+          "start_char": 17,
+          "end_char": 25
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.864923747728741,
+            0.6613372091243963,
+            0.05882352828979487,
+            0.014534884134928427
+          ],
+          "text": "Goal:",
+          "start_char": 26,
+          "end_char": 31
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.05655699402821193,
+            0.62760935181932,
+            0.12000148010253905,
+            0.016583621978759733
+          ],
+          "text": "Blog posts,",
+          "start_char": 32,
+          "end_char": 43
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4204793061126642,
+            0.6293604652589546,
+            0.16993463134765635,
+            0.01889534886678068
+          ],
+          "text": "Awareness",
+          "start_char": 44,
+          "end_char": 53
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8148148136376885,
+            0.6393333333608688,
+            0.1568627471923829,
+            0.014736434300740564
+          ],
+          "text": "Grab ottention",
+          "start_char": 54,
+          "end_char": 68
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.03654970799937783,
+            0.6057738420833222,
+            0.1598280792236328,
+            0.018576391855875674
+          ],
+          "text": "Reels, Pins, Ads",
+          "start_char": 69,
+          "end_char": 85
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8300653591088198,
+            0.6191860464696977,
+            0.1263616561889649,
+            0.013081395467122392
+          ],
+          "text": "& introduce",
+          "start_char": 86,
+          "end_char": 97
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8318128518186544,
+            0.5954825457613001,
+            0.12278359985351561,
+            0.016760314941406285
+          ],
+          "text": "your brand",
+          "start_char": 98,
+          "end_char": 108
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1067296505338858,
+            0.5246366385110649,
+            0.09808753967285155,
+            0.014680211385091124
+          ],
+          "text": "Content:",
+          "start_char": 109,
+          "end_char": 117
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8190508187273922,
+            0.5245055862135295,
+            0.06560206604003915,
+            0.017849292755127033
+          ],
+          "text": "Goal:",
+          "start_char": 118,
+          "end_char": 123
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08932462087450384,
+            0.5013333333355565,
+            0.1350762481689453,
+            0.01610852686564135
+          ],
+          "text": "Guides, Tips,",
+          "start_char": 124,
+          "end_char": 137
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.44619432723041963,
+            0.5030955135432231,
+            0.11850459289550785,
+            0.02142525227864578
+          ],
+          "text": "Interest",
+          "start_char": 138,
+          "end_char": 146
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7952069698710278,
+            0.5043604650702178,
+            0.1111111145019531,
+            0.013081395467122503
+          ],
+          "text": "Educate &",
+          "start_char": 147,
+          "end_char": 156
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.036849249455331974,
+            0.4786202785943985,
+            0.23570594787597654,
+            0.01870681508382155
+          ],
+          "text": "Intogr1phics, Freebies",
+          "start_char": 157,
+          "end_char": 179
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7620555051869501,
+            0.47941669479756877,
+            0.17539920043945312,
+            0.020500551859537808
+          ],
+          "text": "nurture curiosity",
+          "start_char": 180,
+          "end_char": 197
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1371204951019456,
+            0.41814189464370655,
+            0.09830802917480469,
+            0.01400690841674801
+          ],
+          "text": "Content:",
+          "start_char": 198,
+          "end_char": 206
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11523850842344432,
+            0.39525418397720125,
+            0.14443684387207031,
+            0.015543692270914788
+          ],
+          "text": "Case studies,",
+          "start_char": 207,
+          "end_char": 220
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7668845317143882,
+            0.4069767440081171,
+            0.06100217819213871,
+            0.014534884134928427
+          ],
+          "text": "Goal:",
+          "start_char": 221,
+          "end_char": 226
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11526727819107009,
+            0.37350743898780314,
+            0.14453671264648438,
+            0.01720764287312826
+          ],
+          "text": "Testimonials,",
+          "start_char": 227,
+          "end_char": 240
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40305010846333833,
+            0.38081395349458125,
+            0.2026143798828125,
+            0.01889534886678057
+          ],
+          "text": "Consider1tion",
+          "start_char": 241,
+          "end_char": 254
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7318672957963728,
+            0.38457644866675644,
+            0.13103665161132816,
+            0.017184312184651662
+          ],
+          "text": "Build trust +",
+          "start_char": 255,
+          "end_char": 268
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11542831789934081,
+            0.35158259577067397,
+            0.14387103271484375,
+            0.016311552683512365
+          ],
+          "text": "Comparisons",
+          "start_char": 269,
+          "end_char": 280
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7339884539156961,
+            0.36258944206192156,
+            0.1246156845092774,
+            0.017553674062093072
+          ],
+          "text": "show value",
+          "start_char": 281,
+          "end_char": 291
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17418808753957796,
+            0.28455902960276547,
+            0.10042556762695312,
+            0.015184266408284519
+          ],
+          "text": "Content:",
+          "start_char": 292,
+          "end_char": 300
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.13943354831971483,
+            0.2613333331729145,
+            0.16775599670410157,
+            0.016282945632934642
+          ],
+          "text": "Landing Pages,",
+          "start_char": 301,
+          "end_char": 315
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4248365998186498,
+            0.26453488386664004,
+            0.1590413970947266,
+            0.017441860198974646
+          ],
+          "text": "Conversion",
+          "start_char": 316,
+          "end_char": 326
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.7210523195400037,
+            0.27602039090429176,
+            0.06334198379516609,
+            0.01627317174275722
+          ],
+          "text": "Go›I:",
+          "start_char": 327,
+          "end_char": 332
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6753812634506168,
+            0.2543604649211939,
+            0.1503267974853515,
+            0.014534884134928316
+          ],
+          "text": "Close the sale",
+          "start_char": 333,
+          "end_char": 347
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1607996921979035,
+            0.23923081735992868,
+            0.12706063079833982,
+            0.017945383707682283
+          ],
+          "text": "Offers, CTAs",
+          "start_char": 348,
+          "end_char": 360
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.18068260763522462,
+            0.17541375632192957,
+            0.1005084228515625,
+            0.015451557159423812
+          ],
+          "text": "Content:",
+          "start_char": 361,
+          "end_char": 369
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.44861951302411557,
+            0.16375686864648586,
+            0.111475570678711,
+            0.01986998367309578
+          ],
+          "text": "Loy›1ity &",
+          "start_char": 370,
+          "end_char": 380
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6904634537750732,
+            0.17559786485462925,
+            0.06351753616333011,
+            0.017990317026774116
+          ],
+          "text": "Goal:",
+          "start_char": 381,
+          "end_char": 386
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.13651537133733205,
+            0.15033698662957673,
+            0.18879571533203127,
+            0.021119094212849965
+          ],
+          "text": "Email sequences,",
+          "start_char": 387,
+          "end_char": 403
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4440323783737977,
+            0.14273174024620583,
+            0.1227817459106445,
+            0.020037647247314494
+          ],
+          "text": "Advocacy",
+          "start_char": 404,
+          "end_char": 412
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6339869246508636,
+            0.1526162792264084,
+            0.17211329650878904,
+            0.017441860198974646
+          ],
+          "text": "Turn buyers into",
+          "start_char": 413,
+          "end_char": 429
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08932462184757389,
+            0.13066666689565876,
+            0.2788670959472656,
+            0.017589146931966226
+          ],
+          "text": "Communities, VIP rewards",
+          "start_char": 430,
+          "end_char": 454
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6361655745106193,
+            0.13199999994110778,
+            0.16775599670410157,
+            0.018000000000000016
+          ],
+          "text": "long-term fans",
+          "start_char": 455,
+          "end_char": 469
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3761717533914277,
+            0.0536364966224131,
+            0.24762873840332034,
+            0.029873354593912715
+          ],
+          "text": "expandgrid.com",
+          "start_char": 470,
+          "end_char": 484
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 484
+    },
+    {
+      "text": "Funil de marketing com cinco níveis, formatos de conteúdo e objetivos em cada estágio.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 486,
+      "end_char": 572
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1000,
+      1500
+    ],
+    "ocr_rows": 39,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9871794871794872,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

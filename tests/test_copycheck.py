@@ -22,6 +22,14 @@ def fixture_review(doc):
         for key in r[group]:
             r[group][key] = dict(status='pass', reason='Synthetic gate fixture')
     r['claim_inventory'] = dict(status='pass', reason='Synthetic gate fixture')
+    for f in doc['fields']:
+        ids = [x['id'] for x in doc['claims'] if x['field_id'] == f['id']]
+        r['field_checks'][f['id']] = dict(status='mapped' if ids else 'no_factual_claim',
+                                         claim_ids=ids, reason='Synthetic factual classification only')
+    for s in doc['sources']:
+        p = 'tests/fixtures/briefing-source.txt'
+        r['source_checks'][s['id']] = dict(status='pass', path=p,
+            sha256=hashlib.sha256((c.ROOT/p).read_bytes()).hexdigest(), reason='Synthetic preserved briefing')
     paths = [('context', 'knowledge/README.md'), ('context', 'knowledge/metodologia-thamy.md'),
              ('context', f"knowledge/rotas/{doc['route']}.md"),
              ('production', 'knowledge/vicios-ia-humanizacao.md'), ('review', 'knowledge/vicios-ia-humanizacao.md')]

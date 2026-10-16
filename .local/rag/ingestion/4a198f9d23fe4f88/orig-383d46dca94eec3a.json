@@ -1,0 +1,836 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e210c9bac18d7040d623a35829e1308.png",
+  "source_sha256": "383d46dca94eec3a235c496c8595246bab4d9f864999b808370c5a4ef142f75c",
+  "text": "On-Page SEO Cheat Sheet 2026\nKeyword Research\nKeyword Research\nPage Title\n• Target One Keyword\n• 1000+ Words\n• Target One Keyword\nPer Page\n• Paragraphs < 20\n• Deliver Promised\n• Choose Less\nWords\nContent\nCompetitive Keywords\n• Bullet Points and\n• Use Odd Numbers\n• Align Keywords with\nSubheadings\nand Emotional Words\nUser intent\nuser Intent\nURL\nMeta Description\nKeyword Placement\n• Use Hyphens (-)\n• Target One Keyword\n• H1 Tag\nfor Spaces\nPer Page\n• First 100 Words\n• Include Main\n• Align Keywords with\n• Image File Names\nKeyword\nUser Intent\n• H2 and H3 Headings\n• Check Monthly Search\n• Place in Alt Text Of\nVolume\nImage\nInternal & External\nImages\nSchema\nLinks\n• Less than 100 KB\n• Add Relevant\n• 3-5 Internal Links\n• Atleast 4/5 Images\nSchemas\n• Use Exact Or Partial\n• Alt Text With Keyword\n• Add Schema To Every\nMatch Anchor Texts\n• Less Than Page Width\nPage\n• External Links Must\n• Infographics, Unique,\n• Add Schema In\nOpen In New Tab\nHigh Quality\nHeader\nI Help brands and Websites to\n@Mayank Singh\ngrow their sales and Traffic\nSEO Professional\nOrganically with SEO & Pinterest\n\nGrade de critérios de SEO on-page organizada por tema em nove cartões.",
+  "segments": [
+    {
+      "text": "On-Page SEO Cheat Sheet 2026\nKeyword Research\nKeyword Research\nPage Title\n• Target One Keyword\n• 1000+ Words\n• Target One Keyword\nPer Page\n• Paragraphs < 20\n• Deliver Promised\n• Choose Less\nWords\nContent\nCompetitive Keywords\n• Bullet Points and\n• Use Odd Numbers\n• Align Keywords with\nSubheadings\nand Emotional Words\nUser intent\nuser Intent\nURL\nMeta Description\nKeyword Placement\n• Use Hyphens (-)\n• Target One Keyword\n• H1 Tag\nfor Spaces\nPer Page\n• First 100 Words\n• Include Main\n• Align Keywords with\n• Image File Names\nKeyword\nUser Intent\n• H2 and H3 Headings\n• Check Monthly Search\n• Place in Alt Text Of\nVolume\nImage\nInternal & External\nImages\nSchema\nLinks\n• Less than 100 KB\n• Add Relevant\n• 3-5 Internal Links\n• Atleast 4/5 Images\nSchemas\n• Use Exact Or Partial\n• Alt Text With Keyword\n• Add Schema To Every\nMatch Anchor Texts\n• Less Than Page Width\nPage\n• External Links Must\n• Infographics, Unique,\n• Add Schema In\nOpen In New Tab\nHigh Quality\nHeader\nI Help brands and Websites to\n@Mayank Singh\ngrow their sales and Traffic\nSEO Professional\nOrganically with SEO & Pinterest",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.08129652861865287,
+            0.9193954375781159,
+            0.8403473510742188,
+            0.04235666503906249
+          ],
+          "text": "On-Page SEO Cheat Sheet 2026",
+          "start_char": 0,
+          "end_char": 28
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07412790654975257,
+            0.8456000002251735,
+            0.20348837280273432,
+            0.017471672058105434
+          ],
+          "text": "Keyword Research",
+          "start_char": 29,
+          "end_char": 45
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3997093018985898,
+            0.8456000002251735,
+            0.20348837280273435,
+            0.017471672058105434
+          ],
+          "text": "Keyword Research",
+          "start_char": 46,
+          "end_char": 62
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7716342564890577,
+            0.84495793404375,
+            0.11080125427246101,
+            0.01882133331298831
+          ],
+          "text": "Page Title",
+          "start_char": 63,
+          "end_char": 73
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.049418606885952274,
+            0.8027303755101435,
+            0.23982557678222655,
+            0.01746962432861328
+          ],
+          "text": "• Target One Keyword",
+          "start_char": 74,
+          "end_char": 94
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37500000254786287,
+            0.8049999998997424,
+            0.1613372039794922,
+            0.016296928405761718
+          ],
+          "text": "• 1000+ Words",
+          "start_char": 95,
+          "end_char": 108
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813990025975,
+            0.8027303755101435,
+            0.23837208557128908,
+            0.01746962432861328
+          ],
+          "text": "• Target One Keyword",
+          "start_char": 109,
+          "end_char": 129
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07524751917012082,
+            0.7810712383572423,
+            0.09658795166015627,
+            0.016448703765869134
+          ],
+          "text": "Per Page",
+          "start_char": 130,
+          "end_char": 138
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37484469940517406,
+            0.779536973415166,
+            0.19657313537597654,
+            0.019228089904785146
+          ],
+          "text": "• Paragraphs < 20",
+          "start_char": 139,
+          "end_char": 156
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7004597831182295,
+            0.7817434954432015,
+            0.2051654815673828,
+            0.01728773803710935
+          ],
+          "text": "• Deliver Promised",
+          "start_char": 157,
+          "end_char": 175
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.049269015456694334,
+            0.7585009704441763,
+            0.15581036376953122,
+            0.017429428100585922
+          ],
+          "text": "• Choose Less",
+          "start_char": 176,
+          "end_char": 189
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4011304739957077,
+            0.7597014033955283,
+            0.06837858581542972,
+            0.015272961425781256
+          ],
+          "text": "Words",
+          "start_char": 190,
+          "end_char": 195
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7252906972808331,
+            0.759795221991464,
+            0.08575581359863282,
+            0.01276450500488284
+          ],
+          "text": "Content",
+          "start_char": 196,
+          "end_char": 203
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07412791062617714,
+            0.7341999999875748,
+            0.23837208557128908,
+            0.01747235488891601
+          ],
+          "text": "Competitive Keywords",
+          "start_char": 204,
+          "end_char": 224
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3764534880448036,
+            0.7365870307974293,
+            0.20348837280273435,
+            0.015085324096679668
+          ],
+          "text": "• Bullet Points and",
+          "start_char": 225,
+          "end_char": 244
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7004694567335895,
+            0.7353444989972919,
+            0.22114517211914064,
+            0.017413971710205083
+          ],
+          "text": "• Use Odd Numbers",
+          "start_char": 245,
+          "end_char": 262
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04941860688550372,
+            0.710999999778901,
+            0.23982557678222657,
+            0.017464163970947275
+          ],
+          "text": "• Align Keywords with",
+          "start_char": 263,
+          "end_char": 284
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3995249808181708,
+            0.7117835100103,
+            0.14140895080566407,
+            0.018711944580078126
+          ],
+          "text": "Subheadings",
+          "start_char": 285,
+          "end_char": 296
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7252906945916691,
+            0.7133788396639918,
+            0.2296511688232422,
+            0.015085324096679668
+          ],
+          "text": "and Emotional Words",
+          "start_char": 297,
+          "end_char": 316
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07550951956291169,
+            0.6898090627209861,
+            0.11642282104492188,
+            0.015808496093749964
+          ],
+          "text": "User intent",
+          "start_char": 317,
+          "end_char": 328
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07558139474297104,
+            0.6895563140465715,
+            0.11773255920410156,
+            0.010443685913085936
+          ],
+          "text": "user Intent",
+          "start_char": 329,
+          "end_char": 340
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.15406976748179352,
+            0.563071672548361,
+            0.04651162719726562,
+            0.015085324096679707
+          ],
+          "text": "URL",
+          "start_char": 341,
+          "end_char": 344
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4084302324745979,
+            0.5607508533285712,
+            0.18749999999999994,
+            0.017449147033691378
+          ],
+          "text": "Meta Description",
+          "start_char": 345,
+          "end_char": 361
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7151162801390112,
+            0.5607508533347049,
+            0.22529069519042977,
+            0.017449147033691416
+          ],
+          "text": "Keyword Placement",
+          "start_char": 362,
+          "end_char": 379
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.05087209633338904,
+            0.5177999999765239,
+            0.19186045837402343,
+            0.01742184295654297
+          ],
+          "text": "• Use Hyphens (-)",
+          "start_char": 380,
+          "end_char": 397
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37500000223480084,
+            0.5177999999742269,
+            0.23982557678222655,
+            0.01742184295654297
+          ],
+          "text": "• Target One Keyword",
+          "start_char": 398,
+          "end_char": 418
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7000946646321079,
+            0.5174286598471859,
+            0.09552667999267572,
+            0.019798112487792962
+          ],
+          "text": "• H1 Tag",
+          "start_char": 419,
+          "end_char": 427
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07244481590973328,
+            0.4954274467691201,
+            0.11096353912353515,
+            0.01527905807495116
+          ],
+          "text": "for Spaces",
+          "start_char": 428,
+          "end_char": 438
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4007838461600242,
+            0.4955379038137986,
+            0.09516281127929688,
+            0.015826584625244115
+          ],
+          "text": "Per Page",
+          "start_char": 439,
+          "end_char": 447
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813964452621,
+            0.49692832774804485,
+            0.18604650878906248,
+            0.01627167205810547
+          ],
+          "text": "• First 100 Words",
+          "start_char": 448,
+          "end_char": 465
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.05072748836317345,
+            0.4736170793406557,
+            0.16159678649902343,
+            0.01652054901123045
+          ],
+          "text": "• Include Main",
+          "start_char": 466,
+          "end_char": 480
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3764534920258591,
+            0.47139931749530634,
+            0.23837208557128908,
+            0.018600682830810532
+          ],
+          "text": "• Align Keywords with",
+          "start_char": 481,
+          "end_char": 502
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813959584496,
+            0.47139931749247044,
+            0.21802325439453119,
+            0.017406143188476574
+          ],
+          "text": "• Image File Names",
+          "start_char": 503,
+          "end_char": 521
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07703488338211414,
+            0.4493515359226245,
+            0.09011627960205079,
+            0.016245733642578104
+          ],
+          "text": "Keyword",
+          "start_char": 522,
+          "end_char": 529
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40116279001817884,
+            0.45160000013353974,
+            0.11773255920410158,
+            0.012836859893798822
+          ],
+          "text": "User Intent",
+          "start_char": 530,
+          "end_char": 541
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.700364735157913,
+            0.44793919743980715,
+            0.2417454986572265,
+            0.021011959838867205
+          ],
+          "text": "• H2 and H3 Headings",
+          "start_char": 542,
+          "end_char": 562
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37645349362266967,
+            0.4249829352422433,
+            0.2601744079589843,
+            0.01861706466674805
+          ],
+          "text": "• Check Monthly Search",
+          "start_char": 563,
+          "end_char": 585
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7018986890388914,
+            0.42722594566259914,
+            0.2226492614746094,
+            0.0182977981567383
+          ],
+          "text": "• Place in Alt Text Of",
+          "start_char": 586,
+          "end_char": 608
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.39948763769600476,
+            0.4049517658087777,
+            0.08190175628662111,
+            0.013370729064941387
+          ],
+          "text": "Volume",
+          "start_char": 609,
+          "end_char": 615
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7234295787907481,
+            0.4024154289151311,
+            0.07198989105224607,
+            0.01696699371337893
+          ],
+          "text": "Image",
+          "start_char": 616,
+          "end_char": 621
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.39680232236065366,
+            0.28976109222075985,
+            0.20639535522460933,
+            0.013924914550781273
+          ],
+          "text": "Internal & External",
+          "start_char": 622,
+          "end_char": 641
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.13304062537304456,
+            0.27928208168759,
+            0.08544235229492189,
+            0.018876329040527322
+          ],
+          "text": "Images",
+          "start_char": 642,
+          "end_char": 648
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7804202280349366,
+            0.28242623578103787,
+            0.09032233428955083,
+            0.01699053192138671
+          ],
+          "text": "Schema",
+          "start_char": 649,
+          "end_char": 655
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4709107975175004,
+            0.2665038227477411,
+            0.059631893157959026,
+            0.015183480834960909
+          ],
+          "text": "Links",
+          "start_char": 656,
+          "end_char": 661
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04941860564413173,
+            0.24100000017223602,
+            0.20203488159179686,
+            0.015200000000000028
+          ],
+          "text": "• Less than 100 KB",
+          "start_char": 662,
+          "end_char": 680
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813991625408,
+            0.2398000003407103,
+            0.1671511535644532,
+            0.01746962432861328
+          ],
+          "text": "• Add Relevant",
+          "start_char": 681,
+          "end_char": 695
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37499999673085166,
+            0.22940000006825112,
+            0.20639535522460933,
+            0.015199999999999991
+          ],
+          "text": "• 3-5 Internal Links",
+          "start_char": 696,
+          "end_char": 716
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.049208803035080226,
+            0.2150279813266055,
+            0.22141976928710938,
+            0.020641143798828105
+          ],
+          "text": "• Atleast 4/5 Images",
+          "start_char": 717,
+          "end_char": 737
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7237748948730348,
+            0.21757052383211767,
+            0.0989618377685546,
+            0.016736085510253892
+          ],
+          "text": "Schemas",
+          "start_char": 738,
+          "end_char": 745
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37500000028264113,
+            0.20619999985895607,
+            0.23401162719726565,
+            0.015096928405761717
+          ],
+          "text": "• Use Exact Or Partial",
+          "start_char": 746,
+          "end_char": 768
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.050747365790382276,
+            0.1930393750428436,
+            0.2546153259277344,
+            0.01877456512451173
+          ],
+          "text": "• Alt Text With Keyword",
+          "start_char": 769,
+          "end_char": 792
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7004712224603804,
+            0.19219869677016752,
+            0.25313359069824226,
+            0.01953569946289064
+          ],
+          "text": "• Add Schema To Every",
+          "start_char": 793,
+          "end_char": 814
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40116278881754475,
+            0.1841638226032264,
+            0.20494186401367187,
+            0.013924914550781273
+          ],
+          "text": "Match Anchor Texts",
+          "start_char": 815,
+          "end_char": 833
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.049418611321589055,
+            0.16900000030484447,
+            0.2587209167480469,
+            0.01864505081176757
+          ],
+          "text": "• Less Than Page Width",
+          "start_char": 834,
+          "end_char": 856
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7231523300684357,
+            0.1669872447278934,
+            0.05954364395141598,
+            0.021141284179687515
+          ],
+          "text": "Page",
+          "start_char": 857,
+          "end_char": 861
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37499999688088653,
+            0.15979522192357534,
+            0.22965116882324216,
+            0.01624573364257814
+          ],
+          "text": "• External Links Must",
+          "start_char": 862,
+          "end_char": 883
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.04913870607691962,
+            0.14337014286409686,
+            0.25212472534179686,
+            0.02408553009033201
+          ],
+          "text": "• Infographics, Unique,",
+          "start_char": 884,
+          "end_char": 907
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7005813966464807,
+            0.1481911263637492,
+            0.18604650878906248,
+            0.01624573364257814
+          ],
+          "text": "• Add Schema In",
+          "start_char": 908,
+          "end_char": 923
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.39970930030180707,
+            0.13539999999944088,
+            0.18168605041503905,
+            0.01743276443481444
+          ],
+          "text": "Open In New Tab",
+          "start_char": 924,
+          "end_char": 939
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07550906821954499,
+            0.12234819421237653,
+            0.1324120941162109,
+            0.02035480651855469
+          ],
+          "text": "High Quality",
+          "start_char": 940,
+          "end_char": 952
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7237229788776539,
+            0.12349809649141935,
+            0.08162380981445305,
+            0.019215411376953137
+          ],
+          "text": "Header",
+          "start_char": 953,
+          "end_char": 959
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.020803944410944582,
+            0.03656115486855614,
+            0.21099795532226562,
+            0.011470751190185556
+          ],
+          "text": "I Help brands and Websites to",
+          "start_char": 960,
+          "end_char": 989
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8541666664182692,
+            0.029999999777738127,
+            0.13749999999999996,
+            0.01666666717529297
+          ],
+          "text": "@Mayank Singh",
+          "start_char": 990,
+          "end_char": 1003
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.021750936261876207,
+            0.022023877452651476,
+            0.18249012756347655,
+            0.011778885650634762
+          ],
+          "text": "grow their sales and Traffic",
+          "start_char": 1004,
+          "end_char": 1032
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.8625000014493814,
+            0.013333334050292956,
+            0.12083332824707027,
+            0.01666666564941406
+          ],
+          "text": "SEO Professional",
+          "start_char": 1033,
+          "end_char": 1049
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.020833331024576837,
+            0.004583333644590925,
+            0.22760417175292968,
+            0.01708333282470703
+          ],
+          "text": "Organically with SEO & Pinterest",
+          "start_char": 1050,
+          "end_char": 1082
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1082
+    },
+    {
+      "text": "Grade de critérios de SEO on-page organizada por tema em nove cartões.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1084,
+      "end_char": 1154
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      4000,
+      5000
+    ],
+    "ocr_rows": 66,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9924242424242424,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

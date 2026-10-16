@@ -1,0 +1,31 @@
+{
+  "accessed_at": "2026-10-09",
+  "files": [
+    {
+      "path": ".local/repertorio/originais/scientific-advertising-1923.pdf",
+      "sha256": "94211e766522b503fb33a27596b7c7bc8e0b41aa61dd23afc16bdf2f2e0130e4",
+      "source_url": "https://www.scientificadvertising.com/ScientificAdvertising.pdf",
+      "role": "PDF local da fonte m18, 116 páginas; inspeção estrutural sem flags",
+      "counted_as_unit": false
+    },
+    {
+      "path": ".local/repertorio/originais/scientific-advertising-1923.txt",
+      "sha256": "27bb68f9ce0a47256d5a9ddb8c155d4b9127ee47b7f8a4f24867432f6cd5cd17",
+      "source_url": "https://www.scientificadvertising.com/ScientificAdvertising.pdf",
+      "role": "Extração textual do mesmo PDF com marcadores de página; não é unidade adicional",
+      "counted_as_unit": false
+    },
+    {
+      "path": ".local/repertorio/originais/history-of-advertising-1874-gutenberg.txt",
+      "sha256": "506066d9b886f43840a33e325cba222c2ef6cdcd2fb60319e650fe07b949ae98",
+      "source_url": "https://www.gutenberg.org/cache/epub/54149/pg54149.txt",
+      "role": "Henry Sampson, 1874; domínio público nos EUA declarado pelo Gutenberg; arquivo histórico complementar, fora do catálogo ativo",
+      "counted_as_unit": false
+    }
+  ],
+  "rights_evidence": [
+    "https://www.loc.gov/item/23009362/",
+    "https://www.gutenberg.org/ebooks/54149"
+  ],
+  "scope": "Originais somente para leitura local. Nenhum executável, script remoto, macro ou mídia foi incorporado. Não equivale a certificação antivírus."
+}

@@ -1,0 +1,620 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/69a9ac6f12ce8a519e940996d3cd208c.jpg",
+  "source_sha256": "52c28f357070fa482a846d4723e26cca481acdb3bf44690523dd81e18c31a6ed",
+  "text": "30 Trigger Words/Phrases\nTo Use In Your Headlines\n1. Everything you\n2. How to...\n3. Vital reasons\nneed to...\nto...\n4. Proven ways\n5. Fix\n6. Crush\nto...\n7. Get your\n8. Newest/New\n9. Fastest way\nhands on...\nto...\n10. The truth\n11. ...before it's\n12. ...mind\nabout...\ntoo late\nblowing\n13. Find the\n14. Pay attention\n15. Money\nanswers to...\nto...\n16. Free\n18. Life\n17. Secret\nchanging...\n19. Easy/Simple\n20. Unlock\n21. Discover\n22. Steal my...\n23. Instant\n24. Top\n25. Imagine\n26. Avoid\n27. Mistake\n28. Stop\n29. Tips to help\n30. You won't\nyou.\nbelieve this!\nCHISOM NNAJI\nothechisomnnai\nSAVE IT\n\nTabela de trinta palavras ou fórmulas de headline, distribuídas em três colunas.",
+  "segments": [
+    {
+      "text": "30 Trigger Words/Phrases\nTo Use In Your Headlines\n1. Everything you\n2. How to...\n3. Vital reasons\nneed to...\nto...\n4. Proven ways\n5. Fix\n6. Crush\nto...\n7. Get your\n8. Newest/New\n9. Fastest way\nhands on...\nto...\n10. The truth\n11. ...before it's\n12. ...mind\nabout...\ntoo late\nblowing\n13. Find the\n14. Pay attention\n15. Money\nanswers to...\nto...\n16. Free\n18. Life\n17. Secret\nchanging...\n19. Easy/Simple\n20. Unlock\n21. Discover\n22. Steal my...\n23. Instant\n24. Top\n25. Imagine\n26. Avoid\n27. Mistake\n28. Stop\n29. Tips to help\n30. You won't\nyou.\nbelieve this!\nCHISOM NNAJI\nothechisomnnai\nSAVE IT",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.08247423784382296,
+            0.8373134319203275,
+            0.8298968844943577,
+            0.05447761194029843
+          ],
+          "text": "30 Trigger Words/Phrases",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "box": [
+            0.10555555847736624,
+            0.7985074629270315,
+            0.788888888888889,
+            0.0432835820895523
+          ],
+          "text": "To Use In Your Headlines",
+          "confidence": 1,
+          "start_char": 25,
+          "end_char": 49
+        },
+        {
+          "box": [
+            0.11851851875925924,
+            0.735820895761194,
+            0.2314814814814815,
+            0.023880597014925398
+          ],
+          "text": "1. Everything you",
+          "confidence": 1,
+          "start_char": 50,
+          "end_char": 67
+        },
+        {
+          "box": [
+            0.383189971052105,
+            0.7247232238319014,
+            0.15213857580114293,
+            0.023687880786497195
+          ],
+          "text": "2. How to...",
+          "confidence": 1,
+          "start_char": 68,
+          "end_char": 80
+        },
+        {
+          "box": [
+            0.6518518515070243,
+            0.737313432874421,
+            0.21111111111111114,
+            0.022388059701492602
+          ],
+          "text": "3. Vital reasons",
+          "confidence": 1,
+          "start_char": 81,
+          "end_char": 97
+        },
+        {
+          "box": [
+            0.12193105821292868,
+            0.7143602051860708,
+            0.12299988358109087,
+            0.018813836396630146
+          ],
+          "text": "need to...",
+          "confidence": 1,
+          "start_char": 98,
+          "end_char": 108
+        },
+        {
+          "box": [
+            0.6497720793797728,
+            0.711251436091646,
+            0.05401709521258313,
+            0.021354763543427913
+          ],
+          "text": "to...",
+          "confidence": 1,
+          "start_char": 109,
+          "end_char": 114
+        },
+        {
+          "box": [
+            0.12009565174642073,
+            0.669875392581349,
+            0.20608199790672022,
+            0.024308443781155153
+          ],
+          "text": "4. Proven ways",
+          "confidence": 1,
+          "start_char": 115,
+          "end_char": 129
+        },
+        {
+          "box": [
+            0.38518518506944444,
+            0.6597014925772922,
+            0.07222222222222224,
+            0.02238805970149249
+          ],
+          "text": "5. Fix",
+          "confidence": 1,
+          "start_char": 130,
+          "end_char": 136
+        },
+        {
+          "box": [
+            0.6536165625036408,
+            0.6594171709293769,
+            0.11128539332637077,
+            0.022956702958291997
+          ],
+          "text": "6. Crush",
+          "confidence": 1,
+          "start_char": 137,
+          "end_char": 145
+        },
+        {
+          "box": [
+            0.11629629677634717,
+            0.6461308843815752,
+            0.05438746346367729,
+            0.022296210901061042
+          ],
+          "text": "to...",
+          "confidence": 1,
+          "start_char": 146,
+          "end_char": 151
+        },
+        {
+          "box": [
+            0.11813047056801801,
+            0.6010051176272331,
+            0.15076799745912906,
+            0.024594408006810564
+          ],
+          "text": "7. Get your",
+          "confidence": 1,
+          "start_char": 152,
+          "end_char": 163
+        },
+        {
+          "box": [
+            0.3848949945692947,
+            0.590726229974396,
+            0.2098033763744213,
+            0.025071642292079588
+          ],
+          "text": "8. Newest/New",
+          "confidence": 1,
+          "start_char": 164,
+          "end_char": 177
+        },
+        {
+          "box": [
+            0.6515986534462199,
+            0.6013387484671109,
+            0.19495475203902635,
+            0.024462628720411606
+          ],
+          "text": "9. Fastest way",
+          "confidence": 1,
+          "start_char": 178,
+          "end_char": 192
+        },
+        {
+          "box": [
+            0.12022576133038883,
+            0.5810666381586111,
+            0.14851765102810333,
+            0.019102243167250954
+          ],
+          "text": "hands on...",
+          "confidence": 1,
+          "start_char": 193,
+          "end_char": 204
+        },
+        {
+          "box": [
+            0.6497435903215886,
+            0.5782089561760706,
+            0.0542450127778229,
+            0.02137772574353569
+          ],
+          "text": "to...",
+          "confidence": 1,
+          "start_char": 205,
+          "end_char": 210
+        },
+        {
+          "box": [
+            0.1166666665730566,
+            0.5373134328473019,
+            0.17407407407407408,
+            0.020895522388059695
+          ],
+          "text": "10. The truth",
+          "confidence": 1,
+          "start_char": 211,
+          "end_char": 224
+        },
+        {
+          "box": [
+            0.3833333323842593,
+            0.5373134330970148,
+            0.18703703703703706,
+            0.020895522388059806
+          ],
+          "text": "11. ...before it's",
+          "confidence": 1,
+          "start_char": 225,
+          "end_char": 243
+        },
+        {
+          "box": [
+            0.6498047878477752,
+            0.536987952613991,
+            0.13381035416214548,
+            0.022813411257160188
+          ],
+          "text": "12. ...mind",
+          "confidence": 1,
+          "start_char": 244,
+          "end_char": 255
+        },
+        {
+          "box": [
+            0.11847020254947291,
+            0.5154944014362564,
+            0.10402696397569444,
+            0.01847380026062928
+          ],
+          "text": "about...",
+          "confidence": 1,
+          "start_char": 256,
+          "end_char": 264
+        },
+        {
+          "box": [
+            0.3849695345885434,
+            0.5155521471281648,
+            0.10598685653121387,
+            0.01964197443492377
+          ],
+          "text": "too late",
+          "confidence": 1,
+          "start_char": 265,
+          "end_char": 273
+        },
+        {
+          "box": [
+            0.6530766534363058,
+            0.5135255118520912,
+            0.11247371391013816,
+            0.022167615748163394
+          ],
+          "text": "blowing",
+          "confidence": 1,
+          "start_char": 274,
+          "end_char": 281
+        },
+        {
+          "box": [
+            0.11848207392589759,
+            0.4669965245986064,
+            0.15748029638219763,
+            0.022723368032654623
+          ],
+          "text": "13. Find the",
+          "confidence": 1,
+          "start_char": 282,
+          "end_char": 294
+        },
+        {
+          "box": [
+            0.38333333322560537,
+            0.467164179115241,
+            0.22777777777777775,
+            0.022388059701492602
+          ],
+          "text": "14. Pay attention",
+          "confidence": 1,
+          "start_char": 295,
+          "end_char": 312
+        },
+        {
+          "box": [
+            0.6516233153965509,
+            0.4560157517952278,
+            0.1355874803331163,
+            0.02298656719834058
+          ],
+          "text": "15. Money",
+          "confidence": 1,
+          "start_char": 313,
+          "end_char": 322
+        },
+        {
+          "box": [
+            0.11834861696229108,
+            0.44452086132345936,
+            0.16897436071325228,
+            0.01955877560288155
+          ],
+          "text": "answers to...",
+          "confidence": 1,
+          "start_char": 323,
+          "end_char": 336
+        },
+        {
+          "box": [
+            0.3828490034898673,
+            0.4425717570930725,
+            0.05264957216050892,
+            0.021216991766175197
+          ],
+          "text": "to...",
+          "confidence": 1,
+          "start_char": 337,
+          "end_char": 342
+        },
+        {
+          "box": [
+            0.1184594188064371,
+            0.3908525865800446,
+            0.1038219028049045,
+            0.02127990082128728
+          ],
+          "text": "16. Free",
+          "confidence": 1,
+          "start_char": 343,
+          "end_char": 351
+        },
+        {
+          "box": [
+            0.6512244071394224,
+            0.40059441917677074,
+            0.09385159103958696,
+            0.02557744268161144
+          ],
+          "text": "18. Life",
+          "confidence": 1,
+          "start_char": 352,
+          "end_char": 360
+        },
+        {
+          "box": [
+            0.38296823028666743,
+            0.3885894937923541,
+            0.13200286582664206,
+            0.02348970584015342
+          ],
+          "text": "17. Secret",
+          "confidence": 1,
+          "start_char": 361,
+          "end_char": 371
+        },
+        {
+          "box": [
+            0.6517034037710411,
+            0.3769669890601639,
+            0.15585245203088838,
+            0.025170499887039455
+          ],
+          "text": "changing...",
+          "confidence": 1,
+          "start_char": 372,
+          "end_char": 383
+        },
+        {
+          "box": [
+            0.118518518505291,
+            0.3223880598720682,
+            0.20925925925925926,
+            0.023880597014925398
+          ],
+          "text": "19. Easy/Simple",
+          "confidence": 1,
+          "start_char": 384,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.3848667456020098,
+            0.32293670809924047,
+            0.14700395089608648,
+            0.02417126555940996
+          ],
+          "text": "20. Unlock",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 410
+        },
+        {
+          "box": [
+            0.6516492417665088,
+            0.3213864340987628,
+            0.16336818271213105,
+            0.02439130953888402
+          ],
+          "text": "21. Discover",
+          "confidence": 1,
+          "start_char": 411,
+          "end_char": 423
+        },
+        {
+          "box": [
+            0.11851851836882717,
+            0.2552238806156717,
+            0.18703703703703706,
+            0.02238805970149249
+          ],
+          "text": "22. Steal my...",
+          "confidence": 1,
+          "start_char": 424,
+          "end_char": 439
+        },
+        {
+          "box": [
+            0.384956832915463,
+            0.25422365990196916,
+            0.14490114847819002,
+            0.024388501181531352
+          ],
+          "text": "23. Instant",
+          "confidence": 1,
+          "start_char": 440,
+          "end_char": 451
+        },
+        {
+          "box": [
+            0.6516657615875522,
+            0.25466078363023614,
+            0.1022240320841471,
+            0.023514253701736654
+          ],
+          "text": "24. Top",
+          "confidence": 1,
+          "start_char": 452,
+          "end_char": 459
+        },
+        {
+          "box": [
+            0.11818856828367016,
+            0.18639691767536137,
+            0.16177101135253905,
+            0.025713627373994297
+          ],
+          "text": "25. Imagine",
+          "confidence": 1,
+          "start_char": 460,
+          "end_char": 471
+        },
+        {
+          "box": [
+            0.38492079125271106,
+            0.18706578640911298,
+            0.12460286175763158,
+            0.02437588990624273
+          ],
+          "text": "26. Avoid",
+          "confidence": 1,
+          "start_char": 472,
+          "end_char": 481
+        },
+        {
+          "box": [
+            0.6515935331662003,
+            0.18682794287961602,
+            0.15607219272189665,
+            0.02485157696168816
+          ],
+          "text": "27. Mistake",
+          "confidence": 1,
+          "start_char": 482,
+          "end_char": 493
+        },
+        {
+          "box": [
+            0.11839148186999097,
+            0.12047158145008419,
+            0.11321703592936198,
+            0.023235941644924707
+          ],
+          "text": "28. Stop",
+          "confidence": 1,
+          "start_char": 494,
+          "end_char": 502
+        },
+        {
+          "box": [
+            0.38518518508511046,
+            0.13134328359415048,
+            0.2055555555555556,
+            0.023880597014925398
+          ],
+          "text": "29. Tips to help",
+          "confidence": 1,
+          "start_char": 503,
+          "end_char": 519
+        },
+        {
+          "box": [
+            0.6518518517552768,
+            0.13134328359492875,
+            0.187037037037037,
+            0.023880597014925287
+          ],
+          "text": "30. You won't",
+          "confidence": 1,
+          "start_char": 520,
+          "end_char": 533
+        },
+        {
+          "box": [
+            0.38333333320156693,
+            0.10895522391791035,
+            0.0759259259259259,
+            0.0194029850746269
+          ],
+          "text": "you.",
+          "confidence": 0.3,
+          "start_char": 534,
+          "end_char": 538
+        },
+        {
+          "box": [
+            0.6534719748948424,
+            0.11044130094438254,
+            0.16532878169306997,
+            0.022713726669994716
+          ],
+          "text": "believe this!",
+          "confidence": 1,
+          "start_char": 539,
+          "end_char": 552
+        },
+        {
+          "box": [
+            0.1828597524874841,
+            0.03699305008624476,
+            0.18471648604781538,
+            0.02373590611699805
+          ],
+          "text": "CHISOM NNAJI",
+          "confidence": 0.5,
+          "start_char": 553,
+          "end_char": 565
+        },
+        {
+          "box": [
+            0.18333333464506174,
+            0.02537313442786071,
+            0.17962962962962964,
+            0.011940298507462588
+          ],
+          "text": "othechisomnnai",
+          "confidence": 0.5,
+          "start_char": 566,
+          "end_char": 580
+        },
+        {
+          "box": [
+            0.7498358442587109,
+            0.029223343890664277,
+            0.10218016306559252,
+            0.01916525257167534
+          ],
+          "text": "SAVE IT",
+          "confidence": 1,
+          "start_char": 581,
+          "end_char": 588
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 588
+    },
+    {
+      "text": "Tabela de trinta palavras ou fórmulas de headline, distribuídas em três colunas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 590,
+      "end_char": 670
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1340
+    ],
+    "ocr_rows": 48,
+    "low_confidence_rows": 3,
+    "ocr_mean_confidence": 0.9645833333333332,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

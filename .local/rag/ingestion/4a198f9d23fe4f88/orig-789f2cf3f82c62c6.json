@@ -1,0 +1,392 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/da8a427fec0a341f772e1e975a45887f.png",
+  "source_sha256": "789f2cf3f82c62c6dfcc40d7cbfa8e1b962356319dcd3492532cc90667291022",
+  "text": "SOCIAL MEDIA\nSTRATEGISTA\nLIBERDADE\n@BIAMENESESS\n5 ganchos\npara você\n\"Você sabia que...\nÓtimo para curiosidades, dados ou algo que\nsurpreenda logo de cara.\n\"A única maneira de...\nGera urgência e exclusividade. Faz a pessoa\nsentir que precisa saber daquilo.\n\"Se você é [perfil da audiência], isso\naqui é pra vocêạ\nConecta de imediato com quem assiste e filtra\no público certo.\n\"O maior erro que eu vejo as pessoas\ncometendo é...\nFunciona muito bem para atrair atenção com\nautoridade.\n\"Deixa eu te mostrar um negócio que\nmudou tudo pra mim...\nTraz o tom pessoal + promete transformação =\nretenção alta.\nGancho bom = retenção alta.\nReels sem gancho = ninguém fica.\nSOCIAL MEDIA ESTRATEGISTA\nLIBERDADE\n@BIAMENESESS\n\nCartão de cinco ganchos para Reels, em balões de texto com exemplos.",
+  "segments": [
+    {
+      "text": "SOCIAL MEDIA\nSTRATEGISTA\nLIBERDADE\n@BIAMENESESS\n5 ganchos\npara você\n\"Você sabia que...\nÓtimo para curiosidades, dados ou algo que\nsurpreenda logo de cara.\n\"A única maneira de...\nGera urgência e exclusividade. Faz a pessoa\nsentir que precisa saber daquilo.\n\"Se você é [perfil da audiência], isso\naqui é pra vocêạ\nConecta de imediato com quem assiste e filtra\no público certo.\n\"O maior erro que eu vejo as pessoas\ncometendo é...\nFunciona muito bem para atrair atenção com\nautoridade.\n\"Deixa eu te mostrar um negócio que\nmudou tudo pra mim...\nTraz o tom pessoal + promete transformação =\nretenção alta.\nGancho bom = retenção alta.\nReels sem gancho = ninguém fica.\nSOCIAL MEDIA ESTRATEGISTA\nLIBERDADE\n@BIAMENESESS",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "SOCIAL MEDIA",
+          "box": [
+            0.09074074064366787,
+            0.955555555567503,
+            0.12407407407407407,
+            0.014814814814814725
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "text": "STRATEGISTA",
+          "box": [
+            0.23327406782727375,
+            0.9552803407506452,
+            0.10567408667670355,
+            0.01536524454752608
+          ],
+          "confidence": 1,
+          "start_char": 13,
+          "end_char": 24
+        },
+        {
+          "text": "LIBERDADE",
+          "box": [
+            0.5074074073482511,
+            0.9555555555761317,
+            0.09444444444444444,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 25,
+          "end_char": 34
+        },
+        {
+          "text": "@BIAMENESESS",
+          "box": [
+            0.7722222221412037,
+            0.9555555555671297,
+            0.13703703703703707,
+            0.014814814814814725
+          ],
+          "confidence": 1,
+          "start_char": 35,
+          "end_char": 47
+        },
+        {
+          "text": "5 ganchos",
+          "box": [
+            0.3551503122345824,
+            0.8701596339569719,
+            0.2675359655309607,
+            0.04502923188386143
+          ],
+          "confidence": 1,
+          "start_char": 48,
+          "end_char": 57
+        },
+        {
+          "text": "para você",
+          "box": [
+            0.44218797938278037,
+            0.8529970175201029,
+            0.10821663185402203,
+            0.01696892773663561
+          ],
+          "confidence": 1,
+          "start_char": 58,
+          "end_char": 67
+        },
+        {
+          "text": "\"Você sabia que...",
+          "box": [
+            0.21790634334228173,
+            0.6697007431667509,
+            0.19375738920988858,
+            0.022013084976761355
+          ],
+          "confidence": 1,
+          "start_char": 68,
+          "end_char": 86
+        },
+        {
+          "text": "Ótimo para curiosidades, dados ou algo que",
+          "box": [
+            0.2201415095273778,
+            0.6486812125524481,
+            0.36149670636212383,
+            0.021099852102774097
+          ],
+          "confidence": 1,
+          "start_char": 87,
+          "end_char": 129
+        },
+        {
+          "text": "surpreenda logo de cara.",
+          "box": [
+            0.2183666930553295,
+            0.6322712695052006,
+            0.2076799887197989,
+            0.019225307040744433
+          ],
+          "confidence": 1,
+          "start_char": 130,
+          "end_char": 154
+        },
+        {
+          "text": "\"A única maneira de...",
+          "box": [
+            0.42369157797286283,
+            0.5670694437433061,
+            0.23223908035843455,
+            0.02110637664794912
+          ],
+          "confidence": 1,
+          "start_char": 155,
+          "end_char": 177
+        },
+        {
+          "text": "Gera urgência e exclusividade. Faz a pessoa",
+          "box": [
+            0.4240740739478115,
+            0.5481481481538462,
+            0.36851851851851847,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 178,
+          "end_char": 221
+        },
+        {
+          "text": "sentir que precisa saber daquilo.",
+          "box": [
+            0.4240740739869743,
+            0.5303703703772756,
+            0.2685185185185185,
+            0.016296296296296364
+          ],
+          "confidence": 1,
+          "start_char": 222,
+          "end_char": 255
+        },
+        {
+          "text": "\"Se você é [perfil da audiência], isso",
+          "box": [
+            0.2088575790783896,
+            0.46283613030908777,
+            0.38033483999746814,
+            0.025603390446415686
+          ],
+          "confidence": 1,
+          "start_char": 256,
+          "end_char": 294
+        },
+        {
+          "text": "aqui é pra vocêạ",
+          "box": [
+            0.21083132253243245,
+            0.44787134258896966,
+            0.17100452846950956,
+            0.02043880321361402
+          ],
+          "confidence": 1,
+          "start_char": 295,
+          "end_char": 311
+        },
+        {
+          "text": "Conecta de imediato com quem assiste e filtra",
+          "box": [
+            0.2129629628639334,
+            0.42962962963359086,
+            0.37407407407407406,
+            0.014814814814814725
+          ],
+          "confidence": 1,
+          "start_char": 312,
+          "end_char": 357
+        },
+        {
+          "text": "o público certo.",
+          "box": [
+            0.21084284453996216,
+            0.4102274240771696,
+            0.12833983809859661,
+            0.017848287511754823
+          ],
+          "confidence": 1,
+          "start_char": 358,
+          "end_char": 374
+        },
+        {
+          "text": "\"O maior erro que eu vejo as pessoas",
+          "box": [
+            0.4106587592284848,
+            0.33798255990023773,
+            0.3932063067400897,
+            0.029532699584960964
+          ],
+          "confidence": 1,
+          "start_char": 375,
+          "end_char": 411
+        },
+        {
+          "text": "cometendo é...",
+          "box": [
+            0.4107813815373398,
+            0.33018153509375625,
+            0.15824450740107787,
+            0.020734902134648014
+          ],
+          "confidence": 1,
+          "start_char": 412,
+          "end_char": 426
+        },
+        {
+          "text": "Funciona muito bem para atrair atenção com",
+          "box": [
+            0.41111111100529096,
+            0.3096296296349206,
+            0.3666666666666667,
+            0.01777777777777778
+          ],
+          "confidence": 1,
+          "start_char": 427,
+          "end_char": 469
+        },
+        {
+          "text": "autoridade.",
+          "box": [
+            0.41088151867300077,
+            0.293410581698504,
+            0.09686920024730533,
+            0.015882172761140123
+          ],
+          "confidence": 1,
+          "start_char": 470,
+          "end_char": 481
+        },
+        {
+          "text": "\"Deixa eu te mostrar um negócio que",
+          "box": [
+            0.20555555543967619,
+            0.23111111111687732,
+            0.38703703703703707,
+            0.019259259259259198
+          ],
+          "confidence": 1,
+          "start_char": 482,
+          "end_char": 517
+        },
+        {
+          "text": "mudou tudo pra mim...",
+          "box": [
+            0.2092592591624579,
+            0.21481481482491593,
+            0.23703703703703705,
+            0.01777777777777778
+          ],
+          "confidence": 1,
+          "start_char": 518,
+          "end_char": 539
+        },
+        {
+          "text": "Traz o tom pessoal + promete transformação =",
+          "box": [
+            0.2074074073075049,
+            0.19407407407836252,
+            0.38333333333333336,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 540,
+          "end_char": 584
+        },
+        {
+          "text": "retenção alta.",
+          "box": [
+            0.20533484429598756,
+            0.17611639450191585,
+            0.11693522135416665,
+            0.018394951996979936
+          ],
+          "confidence": 1,
+          "start_char": 585,
+          "end_char": 599
+        },
+        {
+          "text": "Gancho bom = retenção alta.",
+          "box": [
+            0.30370370360596716,
+            0.10666666667666069,
+            0.3981481481481481,
+            0.0251851851851852
+          ],
+          "confidence": 1,
+          "start_char": 600,
+          "end_char": 627
+        },
+        {
+          "text": "Reels sem gancho = ninguém fica.",
+          "box": [
+            0.2648148185555555,
+            0.07851851877037042,
+            0.47407407407407404,
+            0.0251851851851852
+          ],
+          "confidence": 1,
+          "start_char": 628,
+          "end_char": 660
+        },
+        {
+          "text": "SOCIAL MEDIA ESTRATEGISTA",
+          "box": [
+            0.08888888879559484,
+            0.02666666667227824,
+            0.24999999999999997,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 661,
+          "end_char": 686
+        },
+        {
+          "text": "LIBERDADE",
+          "box": [
+            0.5054589270748053,
+            0.026253577355845548,
+            0.0964895530983253,
+            0.015640993471498832
+          ],
+          "confidence": 1,
+          "start_char": 687,
+          "end_char": 696
+        },
+        {
+          "text": "@BIAMENESESS",
+          "box": [
+            0.7722222221309338,
+            0.026666666677099604,
+            0.13703703703703696,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 697,
+          "end_char": 709
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 709
+    },
+    {
+      "text": "Cartão de cinco ganchos para Reels, em balões de texto com exemplos.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 711,
+      "end_char": 779
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 29,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

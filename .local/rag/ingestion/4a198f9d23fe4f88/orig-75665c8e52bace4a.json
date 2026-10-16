@@ -1,0 +1,560 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/005cd71a9291cdd2ce353800ca38ae56.png",
+  "source_sha256": "75665c8e52bace4ada497434cfd0a6fee24b26ab3f19ced94c4061ed2f4a38ef",
+  "text": "ChatGPT Prompts That Don't\nExist on Google\nInstagram\n•Ạ¿rite me 5 carousel slide ideas that feel like mini comic strips\nabout my niche-but with an unexpected plot twist in the last slide.\"\n• crange, surprising apogy pecomparing it to pizza toppings or\nairport security).\"\n•ỗẠGive me 3 Reels hooks written as if a friend is spilling tea over\nbrunch, not a marketer shouting at the camera.\nPinterest\n• Invent 5 pin titles that sound like secret diary entries, not blog\nheadlines-make people curious enough to click just to 'snoop.\"\n• Describe my blog as if it were a Pinterest recipe, listing ingredient\n(topics), instructions (steps), and servings (value readers get)\n• Turn my top 3 tips into a Pinterest graphic outline where each tip is\ndrawn as if it were a tattoo design.\nYouTube\nồỊDroft me 3 video title ideas that feel like movie troilers, not tutorials\n-build suspense with pacing and tone.\n• Write my video intro as if the viewer just stumbled into a secret\nunderground club where my niche is the theme.'\n• \"Give me 5 thumbnail text ideas written like they're fragments ol\noverheard conversations-mysterious, casual, and o little nosyiại\nTwitter / X\n•ỊWrite 5 tweets explaining my niche as if they were fortune cookie\nmessages-short, punchy, and cryptic but usefuliỊ\n• Tund ike a be from a sto a up ter they r-bit each tweet should\n• *he first sentence of a scot i0280 characters, but make it read like\nTikTok\n•ỊGive me 5 TikTok skit ideas where I argue with an exaggerated\nversion of my worst habitẠại\n• Write me 3 TikTok hooks that sound like I just found the juiciest\ngossip about my niche.\n• Turn my main advice into a TikTok trena idea, but explain it using\nsound effects and camera movements instead of words.\nBLOG\nBlogs\n• Write a blog intro that reads like the opening, scene of a Netflix\ndrama-set the mood before diving into tips.\nỊTurn my how-to guide into a blog structured like a treasure hunt\nmap, with each tip being a 'landmark.\"\n• short story blot just a summons that feel like surprise endings in a\nCOLLABAI\n\nLista de exemplos de prompts agrupada por plataformas sociais e blogs.",
+  "segments": [
+    {
+      "text": "ChatGPT Prompts That Don't\nExist on Google\nInstagram\n•Ạ¿rite me 5 carousel slide ideas that feel like mini comic strips\nabout my niche-but with an unexpected plot twist in the last slide.\"\n• crange, surprising apogy pecomparing it to pizza toppings or\nairport security).\"\n•ỗẠGive me 3 Reels hooks written as if a friend is spilling tea over\nbrunch, not a marketer shouting at the camera.\nPinterest\n• Invent 5 pin titles that sound like secret diary entries, not blog\nheadlines-make people curious enough to click just to 'snoop.\"\n• Describe my blog as if it were a Pinterest recipe, listing ingredient\n(topics), instructions (steps), and servings (value readers get)\n• Turn my top 3 tips into a Pinterest graphic outline where each tip is\ndrawn as if it were a tattoo design.\nYouTube\nồỊDroft me 3 video title ideas that feel like movie troilers, not tutorials\n-build suspense with pacing and tone.\n• Write my video intro as if the viewer just stumbled into a secret\nunderground club where my niche is the theme.'\n• \"Give me 5 thumbnail text ideas written like they're fragments ol\noverheard conversations-mysterious, casual, and o little nosyiại\nTwitter / X\n•ỊWrite 5 tweets explaining my niche as if they were fortune cookie\nmessages-short, punchy, and cryptic but usefuliỊ\n• Tund ike a be from a sto a up ter they r-bit each tweet should\n• *he first sentence of a scot i0280 characters, but make it read like\nTikTok\n•ỊGive me 5 TikTok skit ideas where I argue with an exaggerated\nversion of my worst habitẠại\n• Write me 3 TikTok hooks that sound like I just found the juiciest\ngossip about my niche.\n• Turn my main advice into a TikTok trena idea, but explain it using\nsound effects and camera movements instead of words.\nBLOG\nBlogs\n• Write a blog intro that reads like the opening, scene of a Netflix\ndrama-set the mood before diving into tips.\nỊTurn my how-to guide into a blog structured like a treasure hunt\nmap, with each tip being a 'landmark.\"\n• short story blot just a summons that feel like surprise endings in a\nCOLLABAI",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "ChatGPT Prompts That Don't",
+          "box": [
+            0.10650886923632007,
+            0.9476744189735802,
+            0.7899408411096643,
+            0.03052325508811249
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 26
+        },
+        {
+          "text": "Exist on Google",
+          "box": [
+            0.28994082640260976,
+            0.9156976747933558,
+            0.42603550663700807,
+            0.03066596117886633
+          ],
+          "confidence": 1,
+          "start_char": 27,
+          "end_char": 42
+        },
+        {
+          "text": "Instagram",
+          "box": [
+            0.17357329391135828,
+            0.8745215927556249,
+            0.20000056514033565,
+            0.02239123951305033
+          ],
+          "confidence": 1,
+          "start_char": 43,
+          "end_char": 52
+        },
+        {
+          "text": "•Ạ¿rite me 5 carousel slide ideas that feel like mini comic strips",
+          "box": [
+            0.073895124273012,
+            0.8516874543559543,
+            0.7930484913013599,
+            0.014489352486350304
+          ],
+          "confidence": 1,
+          "start_char": 53,
+          "end_char": 119
+        },
+        {
+          "text": "about my niche-but with an unexpected plot twist in the last slide.\"",
+          "box": [
+            0.10337533980504361,
+            0.836311217891367,
+            0.828821705005787,
+            0.018392673839222384
+          ],
+          "confidence": 1,
+          "start_char": 120,
+          "end_char": 188
+        },
+        {
+          "text": "• crange, surprising apogy pecomparing it to pizza toppings or",
+          "box": [
+            0.07060726016088349,
+            0.7995401373101069,
+            0.8439299406828704,
+            0.032031215320934
+          ],
+          "confidence": 1,
+          "start_char": 189,
+          "end_char": 251
+        },
+        {
+          "text": "airport security).\"",
+          "box": [
+            0.10059171635166743,
+            0.792151163022714,
+            0.2159763336181641,
+            0.01466701897707856
+          ],
+          "confidence": 1,
+          "start_char": 252,
+          "end_char": 271
+        },
+        {
+          "text": "•ỗẠGive me 3 Reels hooks written as if a friend is spilling tea over",
+          "box": [
+            0.07079977828876588,
+            0.7652314540475262,
+            0.7903266059027778,
+            0.018858091180974812
+          ],
+          "confidence": 1,
+          "start_char": 272,
+          "end_char": 340
+        },
+        {
+          "text": "brunch, not a marketer shouting at the camera.",
+          "box": [
+            0.10355030356625523,
+            0.7558139534614658,
+            0.5887573807327835,
+            0.013276955431157922
+          ],
+          "confidence": 1,
+          "start_char": 341,
+          "end_char": 387
+        },
+        {
+          "text": "Pinterest",
+          "box": [
+            0.18927618397381565,
+            0.7222202579406864,
+            0.17470207214355468,
+            0.019222275127064092
+          ],
+          "confidence": 1,
+          "start_char": 388,
+          "end_char": 397
+        },
+        {
+          "text": "• Invent 5 pin titles that sound like secret diary entries, not blog",
+          "box": [
+            0.07100591065286008,
+            0.6931818181242384,
+            0.7899408411096643,
+            0.01466701897707856
+          ],
+          "confidence": 1,
+          "start_char": 398,
+          "end_char": 466
+        },
+        {
+          "text": "headlines-make people curious enough to click just to 'snoop.\"",
+          "box": [
+            0.0975420884765519,
+            0.6802331604031726,
+            0.7932397347909433,
+            0.01896182667125368
+          ],
+          "confidence": 1,
+          "start_char": 467,
+          "end_char": 529
+        },
+        {
+          "text": "• Describe my blog as if it were a Pinterest recipe, listing ingredient",
+          "box": [
+            0.07988166136893508,
+            0.6568181816417337,
+            0.8313609370478877,
+            0.014693446159362744
+          ],
+          "confidence": 1,
+          "start_char": 530,
+          "end_char": 601
+        },
+        {
+          "text": "(topics), instructions (steps), and servings (value readers get)",
+          "box": [
+            0.10650888545425286,
+            0.6468023254123143,
+            0.7603550098560474,
+            0.011834038387645296
+          ],
+          "confidence": 1,
+          "start_char": 602,
+          "end_char": 666
+        },
+        {
+          "text": "• Turn my top 3 tips into a Pinterest graphic outline where each tip is",
+          "box": [
+            0.07086979464078272,
+            0.6193115350269369,
+            0.8582818490487558,
+            0.0197220186753706
+          ],
+          "confidence": 1,
+          "start_char": 667,
+          "end_char": 738
+        },
+        {
+          "text": "drawn as if it were a tattoo design.",
+          "box": [
+            0.10059172082964796,
+            0.6118181818534565,
+            0.4289940728081597,
+            0.013181818181818183
+          ],
+          "confidence": 1,
+          "start_char": 739,
+          "end_char": 775
+        },
+        {
+          "text": "YouTube",
+          "box": [
+            0.18600631624185196,
+            0.5747506559665249,
+            0.163490323667173,
+            0.020556827891956675
+          ],
+          "confidence": 1,
+          "start_char": 776,
+          "end_char": 783
+        },
+        {
+          "text": "ồỊDroft me 3 video title ideas that feel like movie troilers, not tutorials",
+          "box": [
+            0.07396449321177556,
+            0.5449999999021495,
+            0.8520710132740162,
+            0.016046511910178474
+          ],
+          "confidence": 1,
+          "start_char": 784,
+          "end_char": 859
+        },
+        {
+          "text": "-build suspense with pacing and tone.",
+          "box": [
+            0.10620413070776746,
+            0.5339356591886649,
+            0.47989371970847794,
+            0.017682661576704617
+          ],
+          "confidence": 1,
+          "start_char": 860,
+          "end_char": 897
+        },
+        {
+          "text": "• Write my video intro as if the viewer just stumbled into a secret",
+          "box": [
+            0.07100593035623783,
+            0.5116279069494207,
+            0.8106508608217593,
+            0.01308139540932396
+          ],
+          "confidence": 1,
+          "start_char": 898,
+          "end_char": 965
+        },
+        {
+          "text": "underground club where my niche is the theme.'",
+          "box": [
+            0.10048305962568531,
+            0.4997451595636434,
+            0.5948526453088832,
+            0.015435447692871085
+          ],
+          "confidence": 1,
+          "start_char": 966,
+          "end_char": 1012
+        },
+        {
+          "text": "• \"Give me 5 thumbnail text ideas written like they're fragments ol",
+          "box": [
+            0.07386382787572601,
+            0.47742946362921723,
+            0.8108425564236111,
+            0.013994134122675028
+          ],
+          "confidence": 1,
+          "start_char": 1013,
+          "end_char": 1080
+        },
+        {
+          "text": "overheard conversations-mysterious, casual, and o little nosyiại",
+          "box": [
+            0.10343197773533029,
+            0.463218262864704,
+            0.7784463387948495,
+            0.016480357430198045
+          ],
+          "confidence": 1,
+          "start_char": 1081,
+          "end_char": 1145
+        },
+        {
+          "text": "Twitter / X",
+          "box": [
+            0.17746967352930093,
+            0.42576581321998885,
+            0.1983150906032986,
+            0.020561396858908898
+          ],
+          "confidence": 1,
+          "start_char": 1146,
+          "end_char": 1157
+        },
+        {
+          "text": "•ỊWrite 5 tweets explaining my niche as if they were fortune cookie",
+          "box": [
+            0.0739018197453926,
+            0.4002323926408954,
+            0.8285211068612558,
+            0.012629835822365543
+          ],
+          "confidence": 1,
+          "start_char": 1158,
+          "end_char": 1225
+        },
+        {
+          "text": "messages-short, punchy, and cryptic but usefuliỊ",
+          "box": [
+            0.10345637494942131,
+            0.38808159867413694,
+            0.60675698739511,
+            0.013121011907404223
+          ],
+          "confidence": 1,
+          "start_char": 1226,
+          "end_char": 1274
+        },
+        {
+          "text": "• Tund ike a be from a sto a up ter they r-bit each tweet should",
+          "box": [
+            0.071005919739079,
+            0.3502906979258664,
+            0.8668639006438079,
+            0.02925475640730424
+          ],
+          "confidence": 1,
+          "start_char": 1275,
+          "end_char": 1339
+        },
+        {
+          "text": "• *he first sentence of a scot i0280 characters, but make it read like",
+          "box": [
+            0.06775597560482685,
+            0.31549309309795015,
+            0.8614120483398438,
+            0.030246901078657684
+          ],
+          "confidence": 1,
+          "start_char": 1340,
+          "end_char": 1410
+        },
+        {
+          "text": "TikTok",
+          "box": [
+            0.20710058984683777,
+            0.28052325579543136,
+            0.12426035845721206,
+            0.017441860545765242
+          ],
+          "confidence": 1,
+          "start_char": 1411,
+          "end_char": 1417
+        },
+        {
+          "text": "•ỊGive me 5 TikTok skit ideas where I argue with an exaggerated",
+          "box": [
+            0.07090922077097403,
+            0.2508574062168797,
+            0.8019528989438657,
+            0.016663896387273613
+          ],
+          "confidence": 1,
+          "start_char": 1418,
+          "end_char": 1481
+        },
+        {
+          "text": "version of my worst habitẠại",
+          "box": [
+            0.10017059562429996,
+            0.23895894186165234,
+            0.3265804432056568,
+            0.01847329226407135
+          ],
+          "confidence": 1,
+          "start_char": 1482,
+          "end_char": 1510
+        },
+        {
+          "text": "• Write me 3 TikTok hooks that sound like I just found the juiciest",
+          "box": [
+            0.07082557174570281,
+            0.21080702608101176,
+            0.8022031995985243,
+            0.02225630760192865
+          ],
+          "confidence": 1,
+          "start_char": 1511,
+          "end_char": 1578
+        },
+        {
+          "text": "gossip about my niche.",
+          "box": [
+            0.1005917163323922,
+            0.2049418604454224,
+            0.292899407280816,
+            0.013239957636052901
+          ],
+          "confidence": 1,
+          "start_char": 1579,
+          "end_char": 1601
+        },
+        {
+          "text": "• Turn my main advice into a TikTok trena idea, but explain it using",
+          "box": [
+            0.07100592185627214,
+            0.17727272699369778,
+            0.8313609370478878,
+            0.01749471491033383
+          ],
+          "confidence": 1,
+          "start_char": 1602,
+          "end_char": 1670
+        },
+        {
+          "text": "sound effects and camera movements instead of words.",
+          "box": [
+            0.10052817713270791,
+            0.17148667580225962,
+            0.7043056346752026,
+            0.01295031547546377
+          ],
+          "confidence": 1,
+          "start_char": 1671,
+          "end_char": 1723
+        },
+        {
+          "text": "BLOG",
+          "box": [
+            0.10355029634194761,
+            0.13953488380977974,
+            0.04733727773030598,
+            0.008720930272882566
+          ],
+          "confidence": 1,
+          "start_char": 1724,
+          "end_char": 1728
+        },
+        {
+          "text": "Blogs",
+          "box": [
+            0.20561362204884762,
+            0.13269778661762532,
+            0.11482269852249713,
+            0.02058712699196552
+          ],
+          "confidence": 1,
+          "start_char": 1729,
+          "end_char": 1734
+        },
+        {
+          "text": "• Write a blog intro that reads like the opening, scene of a Netflix",
+          "box": [
+            0.0709160301867443,
+            0.10340544814995967,
+            0.8019892939814814,
+            0.01893920291553841
+          ],
+          "confidence": 1,
+          "start_char": 1735,
+          "end_char": 1803
+        },
+        {
+          "text": "drama-set the mood before diving into tips.",
+          "box": [
+            0.10045237971815028,
+            0.09303327267544503,
+            0.5505495989764179,
+            0.01779243295842947
+          ],
+          "confidence": 1,
+          "start_char": 1804,
+          "end_char": 1847
+        },
+        {
+          "text": "ỊTurn my how-to guide into a blog structured like a treasure hunt",
+          "box": [
+            0.07100591471277684,
+            0.07267441858151724,
+            0.8284023708767361,
+            0.013234672112898416
+          ],
+          "confidence": 1,
+          "start_char": 1848,
+          "end_char": 1913
+        },
+        {
+          "text": "map, with each tip being a 'landmark.\"",
+          "box": [
+            0.10028243235098104,
+            0.05863322979124319,
+            0.4800793117947048,
+            0.018518839749422922
+          ],
+          "confidence": 1,
+          "start_char": 1914,
+          "end_char": 1952
+        },
+        {
+          "text": "• short story blot just a summons that feel like surprise endings in a",
+          "box": [
+            0.06797081773898254,
+            0.023921103090341678,
+            0.8671095671477141,
+            0.0284955961054022
+          ],
+          "confidence": 1,
+          "start_char": 1953,
+          "end_char": 2023
+        },
+        {
+          "text": "COLLABAI",
+          "box": [
+            0.3964497032834774,
+            0.005813953616718437,
+            0.21005917301884403,
+            0.010174418362704163
+          ],
+          "confidence": 1,
+          "start_char": 2024,
+          "end_char": 2032
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 2032
+    },
+    {
+      "text": "Lista de exemplos de prompts agrupada por plataformas sociais e blogs.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 2034,
+      "end_char": 2104
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      2200
+    ],
+    "ocr_rows": 43,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

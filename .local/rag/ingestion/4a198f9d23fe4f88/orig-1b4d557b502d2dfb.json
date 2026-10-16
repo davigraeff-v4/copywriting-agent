@@ -1,0 +1,1124 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f27acaa84b0cd335d2996f187de12cc0.jpg",
+  "source_sha256": "1b4d557b502d2dfb15bc0af5add2a4f7c1e8a870d5d30b3cfe4ef074de56940a",
+  "text": "SaIn\nSignatures\nKiosks\nBanners\nWeb Sites\nEvents\nShow Rooms\nPosters\nCustomer Service\nLocation\nGraphics\nTent Cards\nProduct\nPeople\nBrochures\npoints of Purchase\nTelemarketing\nDispensers\nTelevision\nProduct A\nPrint\nRadio\nOutdoor\nRetail\nOutlets\nProduct B\nNewletters\nP.O.S.\nVideo\nTrade Shows\nWholesale\nName\nDirect TV\nCollateral\nProduct C\nTelemarketing\nAdvertising\nFlat Mail\nR&D\nDesign\nDirect\nSales\nProduct D\nMaterial\nMarketing\nPress Events\nDesign\nPackaging\nMarketing\nUser Interface\nLaunches\nServices\nproducts\nService A\nPress Kits\nPublic Relations\nSearch Marketing\nBrand\nInternet\nWeb Sites\nManufacturing\nService B\nAds\nCustomer\nService\nDirect Marketing\nCommunications\nCorporate\nService C\n/Surveys\nCustrogramyally\nPolicies &\nInvestor\nProcedures\nRelations\nService D\nNewletters\nAffairs\nPublic\nResources\nHuman\nAnnual Reports\nOther\nEarnings Releases\nService Centers\nExecutive Speeches\nCall Centers\nCommunication\nCommunity Affairs\nRecruiting\n\nMapa circular de ecossistema de marca, com segmentos de funções e canais.",
+  "segments": [
+    {
+      "text": "SaIn\nSignatures\nKiosks\nBanners\nWeb Sites\nEvents\nShow Rooms\nPosters\nCustomer Service\nLocation\nGraphics\nTent Cards\nProduct\nPeople\nBrochures\npoints of Purchase\nTelemarketing\nDispensers\nTelevision\nProduct A\nPrint\nRadio\nOutdoor\nRetail\nOutlets\nProduct B\nNewletters\nP.O.S.\nVideo\nTrade Shows\nWholesale\nName\nDirect TV\nCollateral\nProduct C\nTelemarketing\nAdvertising\nFlat Mail\nR&D\nDesign\nDirect\nSales\nProduct D\nMaterial\nMarketing\nPress Events\nDesign\nPackaging\nMarketing\nUser Interface\nLaunches\nServices\nproducts\nService A\nPress Kits\nPublic Relations\nSearch Marketing\nBrand\nInternet\nWeb Sites\nManufacturing\nService B\nAds\nCustomer\nService\nDirect Marketing\nCommunications\nCorporate\nService C\n/Surveys\nCustrogramyally\nPolicies &\nInvestor\nProcedures\nRelations\nService D\nNewletters\nAffairs\nPublic\nResources\nHuman\nAnnual Reports\nOther\nEarnings Releases\nService Centers\nExecutive Speeches\nCall Centers\nCommunication\nCommunity Affairs\nRecruiting",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.32838813032676367,
+            0.8560913774187522,
+            0.02984663412416999,
+            0.04335183037651913
+          ],
+          "text": "SaIn",
+          "confidence": 0.5,
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "box": [
+            0.42842008388034725,
+            0.8369810723880043,
+            0.03270642212340136,
+            0.09444856770833332
+          ],
+          "text": "Signatures",
+          "confidence": 1,
+          "start_char": 5,
+          "end_char": 15
+        },
+        {
+          "box": [
+            0.48255813749628396,
+            0.859467456631251,
+            0.01744186441311668,
+            0.05177514648437498
+          ],
+          "text": "Kiosks",
+          "confidence": 1,
+          "start_char": 16,
+          "end_char": 22
+        },
+        {
+          "box": [
+            0.38196286298028415,
+            0.8350119400081517,
+            0.030800847690975075,
+            0.0734429117838542
+          ],
+          "text": "Banners",
+          "confidence": 1,
+          "start_char": 23,
+          "end_char": 30
+        },
+        {
+          "box": [
+            0.5253511958669689,
+            0.8407601308376487,
+            0.022709839006993193,
+            0.08490962049696182
+          ],
+          "text": "Web Sites",
+          "confidence": 1,
+          "start_char": 31,
+          "end_char": 40
+        },
+        {
+          "box": [
+            0.5691938936185169,
+            0.8441652052888813,
+            0.031033284585097243,
+            0.06107065158420144
+          ],
+          "text": "Events",
+          "confidence": 1,
+          "start_char": 41,
+          "end_char": 47
+        },
+        {
+          "box": [
+            0.6035554568943242,
+            0.810732526632813,
+            0.05369857135659528,
+            0.11360095214843746
+          ],
+          "text": "Show Rooms",
+          "confidence": 1,
+          "start_char": 48,
+          "end_char": 58
+        },
+        {
+          "box": [
+            0.2973837217899156,
+            0.8109356810305978,
+            0.04098836955391716,
+            0.06037716335720489
+          ],
+          "text": "Posters",
+          "confidence": 1,
+          "start_char": 59,
+          "end_char": 66
+        },
+        {
+          "box": [
+            0.6329844963522887,
+            0.7763183488571896,
+            0.08729811530254694,
+            0.14259206814236114
+          ],
+          "text": "Customer Service",
+          "confidence": 1,
+          "start_char": 67,
+          "end_char": 83
+        },
+        {
+          "box": [
+            0.23823028956523493,
+            0.7736203767169741,
+            0.059167612285514176,
+            0.06904586452907979
+          ],
+          "text": "Location",
+          "confidence": 1,
+          "start_char": 84,
+          "end_char": 92
+        },
+        {
+          "box": [
+            0.25427316062448674,
+            0.7823018381503691,
+            0.061257879979531416,
+            0.07489071316189233
+          ],
+          "text": "Graphics",
+          "confidence": 1,
+          "start_char": 93,
+          "end_char": 101
+        },
+        {
+          "box": [
+            0.2707940817127155,
+            0.78808439166321,
+            0.05968174426759515,
+            0.08650221082899301
+          ],
+          "text": "Tent Cards",
+          "confidence": 1,
+          "start_char": 102,
+          "end_char": 112
+        },
+        {
+          "box": [
+            0.6879470115350106,
+            0.7863192915858664,
+            0.0553340345985186,
+            0.07062645806206591
+          ],
+          "text": "Product",
+          "confidence": 1,
+          "start_char": 113,
+          "end_char": 120
+        },
+        {
+          "box": [
+            0.2255962886959565,
+            0.7653662049669976,
+            0.05346572170290853,
+            0.06122353786892354
+          ],
+          "text": "People",
+          "confidence": 1,
+          "start_char": 121,
+          "end_char": 127
+        },
+        {
+          "box": [
+            0.20458049339012221,
+            0.7451421561302036,
+            0.06549531627075836,
+            0.07141269938151051
+          ],
+          "text": "Brochures",
+          "confidence": 1,
+          "start_char": 128,
+          "end_char": 137
+        },
+        {
+          "box": [
+            0.46184294268208775,
+            0.7603995321067575,
+            0.1576224521816713,
+            0.048008324517143985
+          ],
+          "text": "points of Purchase",
+          "confidence": 1,
+          "start_char": 138,
+          "end_char": 156
+        },
+        {
+          "box": [
+            0.7038137063115749,
+            0.7387266986980625,
+            0.10145126129736248,
+            0.10791442192925338
+          ],
+          "text": "Telemarketing",
+          "confidence": 1,
+          "start_char": 157,
+          "end_char": 170
+        },
+        {
+          "box": [
+            0.18624489052598195,
+            0.7279913647755195,
+            0.07470040046731838,
+            0.07756400553385412
+          ],
+          "text": "Dispensers",
+          "confidence": 1,
+          "start_char": 171,
+          "end_char": 181
+        },
+        {
+          "box": [
+            0.17429438786817306,
+            0.7172567533489728,
+            0.0713790241128279,
+            0.06972406005859377
+          ],
+          "text": "Television",
+          "confidence": 1,
+          "start_char": 182,
+          "end_char": 192
+        },
+        {
+          "box": [
+            0.7529390975415731,
+            0.7140429518108272,
+            0.0813953539463862,
+            0.077594245062934
+          ],
+          "text": "Product A",
+          "confidence": 1,
+          "start_char": 193,
+          "end_char": 202
+        },
+        {
+          "box": [
+            0.17757413431842062,
+            0.7178866792953689,
+            0.0397628997216882,
+            0.0365765719943576
+          ],
+          "text": "Print",
+          "confidence": 1,
+          "start_char": 203,
+          "end_char": 208
+        },
+        {
+          "box": [
+            0.1603309488732932,
+            0.6994688198120804,
+            0.049754024592161605,
+            0.04154938761393234
+          ],
+          "text": "Radio",
+          "confidence": 1,
+          "start_char": 209,
+          "end_char": 214
+        },
+        {
+          "box": [
+            0.14183481330534317,
+            0.6760540700863182,
+            0.06759576314822957,
+            0.052451555040147646
+          ],
+          "text": "Outdoor",
+          "confidence": 1,
+          "start_char": 215,
+          "end_char": 222
+        },
+        {
+          "box": [
+            0.5099860710386013,
+            0.6694550962750191,
+            0.026397337256093723,
+            0.05608192274305557
+          ],
+          "text": "Retail",
+          "confidence": 1,
+          "start_char": 223,
+          "end_char": 229
+        },
+        {
+          "box": [
+            0.5266860461329695,
+            0.6607940705511366,
+            0.027616279495532137,
+            0.06752428521050358
+          ],
+          "text": "Outlets",
+          "confidence": 1,
+          "start_char": 230,
+          "end_char": 237
+        },
+        {
+          "box": [
+            0.7849482124078087,
+            0.671369690224449,
+            0.083443247210917,
+            0.060875807020399186
+          ],
+          "text": "Product B",
+          "confidence": 1,
+          "start_char": 238,
+          "end_char": 247
+        },
+        {
+          "box": [
+            0.12388192359544412,
+            0.6556598425151032,
+            0.08242398406822643,
+            0.05857107883029511
+          ],
+          "text": "Newletters",
+          "confidence": 1,
+          "start_char": 248,
+          "end_char": 258
+        },
+        {
+          "box": [
+            0.37645348877759893,
+            0.6579753945974476,
+            0.04011627849692034,
+            0.0550551283094618
+          ],
+          "text": "P.O.S.",
+          "confidence": 1,
+          "start_char": 259,
+          "end_char": 265
+        },
+        {
+          "box": [
+            0.12962199363208107,
+            0.6466990064757872,
+            0.05414621243302112,
+            0.04132588704427098
+          ],
+          "text": "Video",
+          "confidence": 1,
+          "start_char": 266,
+          "end_char": 271
+        },
+        {
+          "box": [
+            0.3348358360795103,
+            0.6167937546881486,
+            0.08083663061651264,
+            0.10150585937500001
+          ],
+          "text": "Trade Shows",
+          "confidence": 1,
+          "start_char": 272,
+          "end_char": 283
+        },
+        {
+          "box": [
+            0.5757064767374704,
+            0.6273770428410743,
+            0.06997479610210111,
+            0.08811033121744782
+          ],
+          "text": "Wholesale",
+          "confidence": 1,
+          "start_char": 284,
+          "end_char": 293
+        },
+        {
+          "box": [
+            0.7154078093892521,
+            0.6309477645525534,
+            0.04663240722336692,
+            0.062280897352430475
+          ],
+          "text": "Name",
+          "confidence": 1,
+          "start_char": 294,
+          "end_char": 298
+        },
+        {
+          "box": [
+            0.1113845630435518,
+            0.6270999650816707,
+            0.07367936645294774,
+            0.0429713439941406
+          ],
+          "text": "Direct TV",
+          "confidence": 1,
+          "start_char": 299,
+          "end_char": 308
+        },
+        {
+          "box": [
+            0.3183139545490429,
+            0.6094541629842058,
+            0.07558138915589552,
+            0.07694966634114575
+          ],
+          "text": "Collateral",
+          "confidence": 1,
+          "start_char": 309,
+          "end_char": 319
+        },
+        {
+          "box": [
+            0.8089030393778698,
+            0.6216052984864489,
+            0.09396265106467472,
+            0.055235860188802
+          ],
+          "text": "Product C",
+          "confidence": 1,
+          "start_char": 320,
+          "end_char": 329
+        },
+        {
+          "box": [
+            0.08427512689160953,
+            0.5999942570289651,
+            0.11159073994421835,
+            0.05786156548394106
+          ],
+          "text": "Telemarketing",
+          "confidence": 1,
+          "start_char": 330,
+          "end_char": 343
+        },
+        {
+          "box": [
+            0.2915218040280891,
+            0.5841324892040252,
+            0.08956888541709274,
+            0.07584412299262144
+          ],
+          "text": "Advertising",
+          "confidence": 1,
+          "start_char": 344,
+          "end_char": 355
+        },
+        {
+          "box": [
+            0.09996160969344788,
+            0.5923836730982395,
+            0.06938349139627985,
+            0.034893256293402786
+          ],
+          "text": "Flat Mail",
+          "confidence": 1,
+          "start_char": 356,
+          "end_char": 365
+        },
+        {
+          "box": [
+            0.6383611230126877,
+            0.5924673439499889,
+            0.05673267038288743,
+            0.04937088351779517
+          ],
+          "text": "R&D",
+          "confidence": 0.5,
+          "start_char": 366,
+          "end_char": 369
+        },
+        {
+          "box": [
+            0.10029070188955226,
+            0.5723343276284734,
+            0.05813952807148505,
+            0.034325425889756955
+          ],
+          "text": "Design",
+          "confidence": 0.5,
+          "start_char": 370,
+          "end_char": 376
+        },
+        {
+          "box": [
+            0.29157492722287864,
+            0.5684105885288477,
+            0.05907699158886548,
+            0.03868913438585064
+          ],
+          "text": "Direct",
+          "confidence": 1,
+          "start_char": 377,
+          "end_char": 383
+        },
+        {
+          "box": [
+            0.49139087803773596,
+            0.5835785847907357,
+            0.05372316383774578,
+            0.028962537977430647
+          ],
+          "text": "Sales",
+          "confidence": 1,
+          "start_char": 384,
+          "end_char": 389
+        },
+        {
+          "box": [
+            0.8273969457779002,
+            0.5713943524894898,
+            0.08965451971190552,
+            0.036456376817491254
+          ],
+          "text": "Product D",
+          "confidence": 1,
+          "start_char": 390,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.09061940898602917,
+            0.5554722907994107,
+            0.07015876703445408,
+            0.029303483751085047
+          ],
+          "text": "Material",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 408
+        },
+        {
+          "box": [
+            0.2682110764069964,
+            0.544816453580599,
+            0.08960124044102108,
+            0.05486710272894968
+          ],
+          "text": "Marketing",
+          "confidence": 1,
+          "start_char": 409,
+          "end_char": 418
+        },
+        {
+          "box": [
+            0.07531976590748718,
+            0.5351473416419128,
+            0.09366279455587712,
+            0.02964614698621948
+          ],
+          "text": "Press Events",
+          "confidence": 1,
+          "start_char": 419,
+          "end_char": 431
+        },
+        {
+          "box": [
+            0.6609589747056354,
+            0.5454889658916631,
+            0.06346719552085034,
+            0.027200288560655372
+          ],
+          "text": "Design",
+          "confidence": 1,
+          "start_char": 432,
+          "end_char": 438
+        },
+        {
+          "box": [
+            0.2568491248980258,
+            0.523118826793113,
+            0.09434911385048539,
+            0.037446858723958365
+          ],
+          "text": "Packaging",
+          "confidence": 1,
+          "start_char": 439,
+          "end_char": 448
+        },
+        {
+          "box": [
+            0.38302385672842365,
+            0.49762496746402385,
+            0.06869215907018633,
+            0.09442858886718741
+          ],
+          "text": "Marketing",
+          "confidence": 1,
+          "start_char": 449,
+          "end_char": 458
+        },
+        {
+          "box": [
+            0.7613785742602392,
+            0.48642703465194326,
+            0.03866965275576395,
+            0.12426291232638886
+          ],
+          "text": "User Interface",
+          "confidence": 1,
+          "start_char": 459,
+          "end_char": 473
+        },
+        {
+          "box": [
+            0.08031118642284599,
+            0.5176542419870891,
+            0.07913172723527145,
+            0.023062840779622285
+          ],
+          "text": "Launches",
+          "confidence": 1,
+          "start_char": 474,
+          "end_char": 482
+        },
+        {
+          "box": [
+            0.5728326422017673,
+            0.47186021053720406,
+            0.03204965175342389,
+            0.08068233235677091
+          ],
+          "text": "Services",
+          "confidence": 1,
+          "start_char": 483,
+          "end_char": 491
+        },
+        {
+          "box": [
+            0.5857525146655336,
+            0.480343452798521,
+            0.039897512599019636,
+            0.08693917507595483
+          ],
+          "text": "products",
+          "confidence": 1,
+          "start_char": 492,
+          "end_char": 500
+        },
+        {
+          "box": [
+            0.8383851823991912,
+            0.5222131090589069,
+            0.08201696319313789,
+            0.01675781249999997
+          ],
+          "text": "Service A",
+          "confidence": 1,
+          "start_char": 501,
+          "end_char": 510
+        },
+        {
+          "box": [
+            0.08551219255094561,
+            0.5018991204251433,
+            0.06735008466098114,
+            0.015516990661621155
+          ],
+          "text": "Press Kits",
+          "confidence": 1,
+          "start_char": 511,
+          "end_char": 521
+        },
+        {
+          "box": [
+            0.2402694209255889,
+            0.5018293655974284,
+            0.12265705687837453,
+            0.025901242574056127
+          ],
+          "text": "Public Relations",
+          "confidence": 1,
+          "start_char": 522,
+          "end_char": 538
+        },
+        {
+          "box": [
+            0.04941860723578947,
+            0.48076923138815697,
+            0.1453488334935373,
+            0.017897435506184944
+          ],
+          "text": "Search Marketing",
+          "confidence": 1,
+          "start_char": 539,
+          "end_char": 555
+        },
+        {
+          "box": [
+            0.4490849286803029,
+            0.4835761979815607,
+            0.10037665508596483,
+            0.029889024522569474
+          ],
+          "text": "Brand",
+          "confidence": 1,
+          "start_char": 556,
+          "end_char": 561
+        },
+        {
+          "box": [
+            0.2680253351510633,
+            0.4715572873586722,
+            0.06899389296926128,
+            0.023395916408962658
+          ],
+          "text": "Internet",
+          "confidence": 1,
+          "start_char": 562,
+          "end_char": 570
+        },
+        {
+          "box": [
+            0.0825085100237144,
+            0.4610294791594517,
+            0.07621777785802178,
+            0.01644162835015195
+          ],
+          "text": "Web Sites",
+          "confidence": 1,
+          "start_char": 571,
+          "end_char": 580
+        },
+        {
+          "box": [
+            0.6335760472694588,
+            0.4498848533620645,
+            0.13031321420719488,
+            0.03737850273980037
+          ],
+          "text": "Manufacturing",
+          "confidence": 1,
+          "start_char": 581,
+          "end_char": 594
+        },
+        {
+          "box": [
+            0.8392456634594512,
+            0.4581892551021012,
+            0.08009679904158828,
+            0.02255760362413195
+          ],
+          "text": "Service B",
+          "confidence": 1,
+          "start_char": 595,
+          "end_char": 604
+        },
+        {
+          "box": [
+            0.10755813897318103,
+            0.44082840251937705,
+            0.030523256897718287,
+            0.014792899237738744
+          ],
+          "text": "Ads",
+          "confidence": 1,
+          "start_char": 605,
+          "end_char": 608
+        },
+        {
+          "box": [
+            0.3966270753527629,
+            0.3928590299777973,
+            0.08014852047798726,
+            0.08430451795789928
+          ],
+          "text": "Customer",
+          "confidence": 1,
+          "start_char": 609,
+          "end_char": 617
+        },
+        {
+          "box": [
+            0.3891027665427715,
+            0.38761633246818417,
+            0.06368197030005862,
+            0.0701556667751736
+          ],
+          "text": "Service",
+          "confidence": 1,
+          "start_char": 618,
+          "end_char": 625
+        },
+        {
+          "box": [
+            0.057671839550046136,
+            0.3777268291124859,
+            0.14410265910895914,
+            0.05111582438151041
+          ],
+          "text": "Direct Marketing",
+          "confidence": 1,
+          "start_char": 626,
+          "end_char": 642
+        },
+        {
+          "box": [
+            0.47986409010132614,
+            0.3588887435777526,
+            0.13827325577927307,
+            0.09065344238281248
+          ],
+          "text": "Communications",
+          "confidence": 1,
+          "start_char": 643,
+          "end_char": 657
+        },
+        {
+          "box": [
+            0.49567881922524143,
+            0.38317325536277125,
+            0.09581237979376295,
+            0.06377503119574657
+          ],
+          "text": "Corporate",
+          "confidence": 1,
+          "start_char": 658,
+          "end_char": 667
+        },
+        {
+          "box": [
+            0.8284078047335939,
+            0.3905962790611488,
+            0.08540234390977774,
+            0.03762319268120662
+          ],
+          "text": "Service C",
+          "confidence": 1,
+          "start_char": 668,
+          "end_char": 677
+        },
+        {
+          "box": [
+            0.09637746067683808,
+            0.3668057307971032,
+            0.07602862080146297,
+            0.03322968546549476
+          ],
+          "text": "/Surveys",
+          "confidence": 1,
+          "start_char": 678,
+          "end_char": 686
+        },
+        {
+          "box": [
+            0.19105783271582452,
+            0.2875570098515664,
+            0.11249940349585516,
+            0.1616206325954861
+          ],
+          "text": "Custrogramyally",
+          "confidence": 0.5,
+          "start_char": 687,
+          "end_char": 702
+        },
+        {
+          "box": [
+            0.3139241523254375,
+            0.31917610427651544,
+            0.07664017069818252,
+            0.08101698811848956
+          ],
+          "text": "Policies &",
+          "confidence": 1,
+          "start_char": 703,
+          "end_char": 713
+        },
+        {
+          "box": [
+            0.611372724979142,
+            0.32593151028097456,
+            0.0669328113709029,
+            0.071911376953125
+          ],
+          "text": "Investor",
+          "confidence": 1,
+          "start_char": 714,
+          "end_char": 722
+        },
+        {
+          "box": [
+            0.32335032919648843,
+            0.30301716152572544,
+            0.08780477101058026,
+            0.09170728217230895
+          ],
+          "text": "Procedures",
+          "confidence": 1,
+          "start_char": 723,
+          "end_char": 733
+        },
+        {
+          "box": [
+            0.5970525199408273,
+            0.3091072860821201,
+            0.07076315355550555,
+            0.07926312255859369
+          ],
+          "text": "Relations",
+          "confidence": 1,
+          "start_char": 734,
+          "end_char": 743
+        },
+        {
+          "box": [
+            0.8110773778834045,
+            0.32995839734503574,
+            0.0838701471192258,
+            0.049220764160156305
+          ],
+          "text": "Service D",
+          "confidence": 1,
+          "start_char": 744,
+          "end_char": 753
+        },
+        {
+          "box": [
+            0.11131716293097041,
+            0.2942713031836134,
+            0.09530372686203031,
+            0.05732048204210072
+          ],
+          "text": "Newletters",
+          "confidence": 1,
+          "start_char": 754,
+          "end_char": 764
+        },
+        {
+          "box": [
+            0.5439992626828054,
+            0.2744799426093295,
+            0.04235504643039145,
+            0.06921596950954856
+          ],
+          "text": "Affairs",
+          "confidence": 1,
+          "start_char": 765,
+          "end_char": 772
+        },
+        {
+          "box": [
+            0.5645842439410719,
+            0.2818654103465018,
+            0.03477403131455026,
+            0.06234375678168402
+          ],
+          "text": "Public",
+          "confidence": 1,
+          "start_char": 773,
+          "end_char": 779
+        },
+        {
+          "box": [
+            0.492194412378471,
+            0.24974592613936586,
+            0.01668746475565913,
+            0.08928582763671866
+          ],
+          "text": "Resources",
+          "confidence": 1,
+          "start_char": 780,
+          "end_char": 789
+        },
+        {
+          "box": [
+            0.5101744157258001,
+            0.263313609367809,
+            0.01744186607746967,
+            0.06508875868055553
+          ],
+          "text": "Human",
+          "confidence": 1,
+          "start_char": 790,
+          "end_char": 795
+        },
+        {
+          "box": [
+            0.7413908788660251,
+            0.2526070136363596,
+            0.12511180458268567,
+            0.09515010579427086
+          ],
+          "text": "Annual Reports",
+          "confidence": 1,
+          "start_char": 796,
+          "end_char": 810
+        },
+        {
+          "box": [
+            0.17388208047187406,
+            0.22794983144321979,
+            0.057281101353297476,
+            0.04923317464192711
+          ],
+          "text": "Other",
+          "confidence": 1,
+          "start_char": 811,
+          "end_char": 816
+        },
+        {
+          "box": [
+            0.6930352557253557,
+            0.1729847503809674,
+            0.12398337319259245,
+            0.1288031955295138
+          ],
+          "text": "Earnings Releases",
+          "confidence": 1,
+          "start_char": 817,
+          "end_char": 834
+        },
+        {
+          "box": [
+            0.2228490767943099,
+            0.1502729274607637,
+            0.10256923722138997,
+            0.12461705186631944
+          ],
+          "text": "Service Centers",
+          "confidence": 1,
+          "start_char": 835,
+          "end_char": 850
+        },
+        {
+          "box": [
+            0.6380820009865377,
+            0.10891089857869851,
+            0.11677505999127402,
+            0.16573156738281247
+          ],
+          "text": "Executive Speeches",
+          "confidence": 1,
+          "start_char": 851,
+          "end_char": 869
+        },
+        {
+          "box": [
+            0.30138479926430684,
+            0.11830858183524373,
+            0.07040257478883755,
+            0.10726381429036458
+          ],
+          "text": "Call Centers",
+          "confidence": 1,
+          "start_char": 870,
+          "end_char": 882
+        },
+        {
+          "box": [
+            0.5985428761782031,
+            0.08606446863127304,
+            0.06647611288500088,
+            0.1411145426432292
+          ],
+          "text": "Communication",
+          "confidence": 1,
+          "start_char": 883,
+          "end_char": 896
+        },
+        {
+          "box": [
+            0.46617134774502833,
+            0.050668907300310595,
+            0.02965264212190588,
+            0.1604063991970487
+          ],
+          "text": "Community Affairs",
+          "confidence": 1,
+          "start_char": 897,
+          "end_char": 914
+        },
+        {
+          "box": [
+            0.5441158763152618,
+            0.09224370997802867,
+            0.02548115915028837,
+            0.08945667182074657
+          ],
+          "text": "Recruiting",
+          "confidence": 1,
+          "start_char": 915,
+          "end_char": 925
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 925
+    },
+    {
+      "text": "Mapa circular de ecossistema de marca, com segmentos de funções e canais.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 927,
+      "end_char": 1000
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2292,
+      2250
+    ],
+    "ocr_rows": 90,
+    "low_confidence_rows": 4,
+    "ocr_mean_confidence": 0.9777777777777777,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

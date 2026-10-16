@@ -1,0 +1,1088 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/df8c6f339b4f6196d44704e75bf378bd.jpg",
+  "source_sha256": "eae3d3b8fd94a4421388db890faf0a5f1d20ecf04301c0ad64d73e73910475b1",
+  "text": "15 ChatGPT Prompts\nFor Better Research\nResearch\nPlan\n\"Draft a plan for\nTopic\n\\[topic]: objectives,\nBrainstorm\nQuiz Builder\ntimeline, budget, 2025\n\"Give 10 research\n\"Create 10 Q\\&A\nimpact/partners.\"\ntopics on \\[field], why\non topic with\nthey matter in 2025,\nLiterature\nbrief explanations.\"\none challenge, one key\nquestion.\"\nReview\n\"Summarize top 5\nstudies (2023-\n2025) on \\[topic]:\nmethods, findings,\nInterdisciplinary\ngaps, linksiại\nLinker\n\"Connect \\[topic 1] + [topic2]\nin 4 ways and suggest hybrid\nQuIz\nQuestion\n2025 projects.\"\nBuilder\n\"Turn this idea into 5\nresearch questions tied\nto 2025 trends, each\nwith a hypothesis.\nHypothesis\nGenerator\n\"Give 3 testable hypotheses\nfor \\[question], with variables,\nTimeline\nresults, validation.\"\n-0-0-0-0-\n\"List key events in \\[topic],\n2010-2025: breakthroughs,\npeople, implications.\"\nSummary\nMaker\n\"Condense this\nData Helper\nabstract \\[paste] into 5\n\"Given this dataset \\[paste],\nlimits, 2025 uses.\"\nbullets: innovations,\nsuggest 3 tests, insights,\nvisuals for a 2025 paper.\"\nEthics Review\n\"List ethical issues in\nGap Finder\n\\[topic]: privacy, bias,\n\"From these sources\n2025 regulationsiỊại\n\\links], list 4 gaps and\nfor each.\"\npropose an experiment\nTrend\nForecast\nCredibility\n\"Predict 5 trends in\nCheck\nMethodology\n\\[field] for 2026-2030\nusing 2025 data and\n\"Evaluate this article\n\"Draft step-by-step\nresearch angles.\"\n\\[link]: score bias,\nmethod for \\[topic]:\nevidence, relevance\ntools, ethics, outcomes\n(1-10). Suggest\nfor 2025ạỊạ\nbetter sources.\"\nFollow Muhammad Ayan For More\nL Like And Repost To Help Others\n\nMapa radial de quinze prompts de pesquisa, com tópicos, numeração e ícones.",
+  "segments": [
+    {
+      "text": "15 ChatGPT Prompts\nFor Better Research\nResearch\nPlan\n\"Draft a plan for\nTopic\n\\[topic]: objectives,\nBrainstorm\nQuiz Builder\ntimeline, budget, 2025\n\"Give 10 research\n\"Create 10 Q\\&A\nimpact/partners.\"\ntopics on \\[field], why\non topic with\nthey matter in 2025,\nLiterature\nbrief explanations.\"\none challenge, one key\nquestion.\"\nReview\n\"Summarize top 5\nstudies (2023-\n2025) on \\[topic]:\nmethods, findings,\nInterdisciplinary\ngaps, linksiại\nLinker\n\"Connect \\[topic 1] + [topic2]\nin 4 ways and suggest hybrid\nQuIz\nQuestion\n2025 projects.\"\nBuilder\n\"Turn this idea into 5\nresearch questions tied\nto 2025 trends, each\nwith a hypothesis.\nHypothesis\nGenerator\n\"Give 3 testable hypotheses\nfor \\[question], with variables,\nTimeline\nresults, validation.\"\n-0-0-0-0-\n\"List key events in \\[topic],\n2010-2025: breakthroughs,\npeople, implications.\"\nSummary\nMaker\n\"Condense this\nData Helper\nabstract \\[paste] into 5\n\"Given this dataset \\[paste],\nlimits, 2025 uses.\"\nbullets: innovations,\nsuggest 3 tests, insights,\nvisuals for a 2025 paper.\"\nEthics Review\n\"List ethical issues in\nGap Finder\n\\[topic]: privacy, bias,\n\"From these sources\n2025 regulationsiỊại\n\\links], list 4 gaps and\nfor each.\"\npropose an experiment\nTrend\nForecast\nCredibility\n\"Predict 5 trends in\nCheck\nMethodology\n\\[field] for 2026-2030\nusing 2025 data and\n\"Evaluate this article\n\"Draft step-by-step\nresearch angles.\"\n\\[link]: score bias,\nmethod for \\[topic]:\nevidence, relevance\ntools, ethics, outcomes\n(1-10). Suggest\nfor 2025ạỊạ\nbetter sources.\"\nFollow Muhammad Ayan For More\nL Like And Repost To Help Others",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.12851777324567357,
+            0.9064301485883453,
+            0.7356470619759908,
+            0.05791167542338371
+          ],
+          "text": "15 ChatGPT Prompts",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "box": [
+            0.14507656681611564,
+            0.8604850828404755,
+            0.7098564334032011,
+            0.04947400465607643
+          ],
+          "text": "For Better Research",
+          "confidence": 1,
+          "start_char": 19,
+          "end_char": 38
+        },
+        {
+          "box": [
+            0.3502722329168943,
+            0.8066860463216694,
+            0.08892921819919491,
+            0.014534884132444859
+          ],
+          "text": "Research",
+          "confidence": 1,
+          "start_char": 39,
+          "end_char": 47
+        },
+        {
+          "box": [
+            0.3501029151995871,
+            0.7932181366715845,
+            0.04571068461348371,
+            0.013854424469172955
+          ],
+          "text": "Plan",
+          "confidence": 1,
+          "start_char": 48,
+          "end_char": 52
+        },
+        {
+          "box": [
+            0.35208711546791155,
+            0.7747093023596101,
+            0.0961887452660537,
+            0.011627906933426857
+          ],
+          "text": "\"Draft a plan for",
+          "confidence": 1,
+          "start_char": 53,
+          "end_char": 70
+        },
+        {
+          "box": [
+            0.5136116155009098,
+            0.7805232561068913,
+            0.052631578212831154,
+            0.014534883201122284
+          ],
+          "text": "Topic",
+          "confidence": 1,
+          "start_char": 71,
+          "end_char": 76
+        },
+        {
+          "box": [
+            0.352087113429111,
+            0.7601744187587809,
+            0.11615245167802019,
+            0.013263081200420856
+          ],
+          "text": "\\[topic]: objectives,",
+          "confidence": 1,
+          "start_char": 77,
+          "end_char": 98
+        },
+        {
+          "box": [
+            0.5136116132514421,
+            0.7674418606240662,
+            0.10163339754430267,
+            0.01308139506727457
+          ],
+          "text": "Brainstorm",
+          "confidence": 1,
+          "start_char": 99,
+          "end_char": 109
+        },
+        {
+          "box": [
+            0.17967332135981479,
+            0.744140625132204,
+            0.11433756758527058,
+            0.01318359375
+          ],
+          "text": "Quiz Builder",
+          "confidence": 1,
+          "start_char": 110,
+          "end_char": 122
+        },
+        {
+          "box": [
+            0.35027223052536377,
+            0.7470703126486398,
+            0.13430127399723701,
+            0.01318359375
+          ],
+          "text": "timeline, budget, 2025",
+          "confidence": 1,
+          "start_char": 123,
+          "end_char": 145
+        },
+        {
+          "box": [
+            0.5154264963872954,
+            0.7499999999590605,
+            0.10707804051841185,
+            0.01025390625
+          ],
+          "text": "\"Give 10 research",
+          "confidence": 1,
+          "start_char": 146,
+          "end_char": 163
+        },
+        {
+          "box": [
+            0.18148820130562937,
+            0.7250976564243052,
+            0.10163339754430262,
+            0.011820948217064142
+          ],
+          "text": "\"Create 10 Q\\&A",
+          "confidence": 1,
+          "start_char": 164,
+          "end_char": 179
+        },
+        {
+          "box": [
+            0.35208711857153446,
+            0.735465116550665,
+            0.10889291530702172,
+            0.01308139506727457
+          ],
+          "text": "impact/partners.\"",
+          "confidence": 1,
+          "start_char": 180,
+          "end_char": 197
+        },
+        {
+          "box": [
+            0.5136116145032916,
+            0.7338867187292033,
+            0.13248638990448747,
+            0.013206304516643286
+          ],
+          "text": "topics on \\[field], why",
+          "confidence": 1,
+          "start_char": 198,
+          "end_char": 221
+        },
+        {
+          "box": [
+            0.1814882018344335,
+            0.7122093022405253,
+            0.0925589863846942,
+            0.010174418799579144
+          ],
+          "text": "on topic with",
+          "confidence": 1,
+          "start_char": 222,
+          "end_char": 235
+        },
+        {
+          "box": [
+            0.5172413812674971,
+            0.7207031250733673,
+            0.11978221055937976,
+            0.013308502733707428
+          ],
+          "text": "they matter in 2025,",
+          "confidence": 1,
+          "start_char": 236,
+          "end_char": 256
+        },
+        {
+          "box": [
+            0.7058215649097053,
+            0.7200052896795661,
+            0.09292031264886613,
+            0.014402258209884167
+          ],
+          "text": "Literature",
+          "confidence": 1,
+          "start_char": 257,
+          "end_char": 267
+        },
+        {
+          "box": [
+            0.17950662554440625,
+            0.698334437034245,
+            0.11838468225990853,
+            0.014011420775204897
+          ],
+          "text": "brief explanations.\"",
+          "confidence": 1,
+          "start_char": 268,
+          "end_char": 288
+        },
+        {
+          "box": [
+            0.5172413774692488,
+            0.7093023256179616,
+            0.13430127399723701,
+            0.011627906933426857
+          ],
+          "text": "one challenge, one key",
+          "confidence": 1,
+          "start_char": 289,
+          "end_char": 311
+        },
+        {
+          "box": [
+            0.5168355999017182,
+            0.6964890138767045,
+            0.06245248375869372,
+            0.012290183454751968
+          ],
+          "text": "question.\"",
+          "confidence": 1,
+          "start_char": 312,
+          "end_char": 322
+        },
+        {
+          "box": [
+            0.7059492207598407,
+            0.7062555626096756,
+            0.07086017887766771,
+            0.013360967859625816
+          ],
+          "text": "Review",
+          "confidence": 1,
+          "start_char": 323,
+          "end_char": 329
+        },
+        {
+          "box": [
+            0.7059891103199919,
+            0.6889534884037758,
+            0.10707804051841174,
+            0.011730105150491
+          ],
+          "text": "\"Summarize top 5",
+          "confidence": 1,
+          "start_char": 330,
+          "end_char": 346
+        },
+        {
+          "box": [
+            0.7059891113376757,
+            0.6772460938633615,
+            0.08892921819919486,
+            0.01025390625
+          ],
+          "text": "studies (2023-",
+          "confidence": 1,
+          "start_char": 347,
+          "end_char": 361
+        },
+        {
+          "box": [
+            0.7038499365211587,
+            0.6604302537386726,
+            0.1077186956638243,
+            0.014641104266047478
+          ],
+          "text": "2025) on \\[topic]:",
+          "confidence": 1,
+          "start_char": 362,
+          "end_char": 380
+        },
+        {
+          "box": [
+            0.7039293297685695,
+            0.6466598810466347,
+            0.11310664851491048,
+            0.015758786350488663
+          ],
+          "text": "methods, findings,",
+          "confidence": 1,
+          "start_char": 381,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.06669651503594906,
+            0.6305696404834292,
+            0.14793742110089558,
+            0.018605517223477364
+          ],
+          "text": "Interdisciplinary",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 417
+        },
+        {
+          "box": [
+            0.7037997992324837,
+            0.6334004681016326,
+            0.07535928400551406,
+            0.015356235206127167
+          ],
+          "text": "gaps, linksiại",
+          "confidence": 0.5,
+          "start_char": 418,
+          "end_char": 432
+        },
+        {
+          "box": [
+            0.06884915110871119,
+            0.6188357744057195,
+            0.06012383902945169,
+            0.013781939633190632
+          ],
+          "text": "Linker",
+          "confidence": 1,
+          "start_char": 433,
+          "end_char": 439
+        },
+        {
+          "box": [
+            0.06697511053445661,
+            0.6006994796180427,
+            0.17997099713581366,
+            0.014273065142333508
+          ],
+          "text": "\"Connect \\[topic 1] + [topic2]",
+          "confidence": 1,
+          "start_char": 440,
+          "end_char": 470
+        },
+        {
+          "box": [
+            0.06896551336819005,
+            0.5901162789777155,
+            0.17059891863567073,
+            0.010174418799579144
+          ],
+          "text": "in 4 ways and suggest hybrid",
+          "confidence": 1,
+          "start_char": 471,
+          "end_char": 499
+        },
+        {
+          "box": [
+            0.37023593519103465,
+            0.5930232561253205,
+            0.023593465293326066,
+            0.008720929734408855
+          ],
+          "text": "QuIz",
+          "confidence": 0.3,
+          "start_char": 500,
+          "end_char": 504
+        },
+        {
+          "box": [
+            0.8021196822844173,
+            0.5957081119418829,
+            0.0854158075844369,
+            0.014979125000536442
+          ],
+          "text": "Question",
+          "confidence": 1,
+          "start_char": 505,
+          "end_char": 513
+        },
+        {
+          "box": [
+            0.06896551685664924,
+            0.5770348837587387,
+            0.09074410229194453,
+            0.011832303833216429
+          ],
+          "text": "2025 projects.\"",
+          "confidence": 1,
+          "start_char": 514,
+          "end_char": 529
+        },
+        {
+          "box": [
+            0.8021462791649431,
+            0.5827441231898376,
+            0.0672137934987137,
+            0.013290823437273502
+          ],
+          "text": "Builder",
+          "confidence": 1,
+          "start_char": 530,
+          "end_char": 537
+        },
+        {
+          "box": [
+            0.8039927421780793,
+            0.5668604650266416,
+            0.11978221055937976,
+            0.010287972632795572
+          ],
+          "text": "\"Turn this idea into 5",
+          "confidence": 1,
+          "start_char": 538,
+          "end_char": 560
+        },
+        {
+          "box": [
+            0.8021778581632006,
+            0.5537109373800229,
+            0.1397459169713462,
+            0.01025390625
+          ],
+          "text": "research questions tied",
+          "confidence": 1,
+          "start_char": 561,
+          "end_char": 584
+        },
+        {
+          "box": [
+            0.802177858099242,
+            0.5405273438129177,
+            0.12341197874487908,
+            0.010344749316573143
+          ],
+          "text": "to 2025 trends, each",
+          "confidence": 1,
+          "start_char": 585,
+          "end_char": 605
+        },
+        {
+          "box": [
+            0.8003629749720962,
+            0.5261627907359444,
+            0.1088929246111614,
+            0.011627906933426857
+          ],
+          "text": "with a hypothesis.",
+          "confidence": 1,
+          "start_char": 606,
+          "end_char": 624
+        },
+        {
+          "box": [
+            0.045334633827595415,
+            0.5041982221335526,
+            0.10715287371379573,
+            0.01631285808980465
+          ],
+          "text": "Hypothesis",
+          "confidence": 1,
+          "start_char": 625,
+          "end_char": 635
+        },
+        {
+          "box": [
+            0.04718693499864739,
+            0.49273255829666796,
+            0.09437386117330411,
+            0.01308139506727457
+          ],
+          "text": "Generator",
+          "confidence": 1,
+          "start_char": 636,
+          "end_char": 645
+        },
+        {
+          "box": [
+            0.04699488288833485,
+            0.47461898447870166,
+            0.16731727414014863,
+            0.0139479860663414
+          ],
+          "text": "\"Give 3 testable hypotheses",
+          "confidence": 1,
+          "start_char": 646,
+          "end_char": 673
+        },
+        {
+          "box": [
+            0.04701309448886448,
+            0.4621209042132608,
+            0.17999913285418254,
+            0.013276130892336369
+          ],
+          "text": "for \\[question], with variables,",
+          "confidence": 1,
+          "start_char": 674,
+          "end_char": 706
+        },
+        {
+          "box": [
+            0.7694748179272664,
+            0.46497723929166135,
+            0.07992513703136905,
+            0.013359474949538708
+          ],
+          "text": "Timeline",
+          "confidence": 1,
+          "start_char": 707,
+          "end_char": 715
+        },
+        {
+          "box": [
+            0.04700899006946749,
+            0.4490747788661932,
+            0.11477815581531059,
+            0.013788142241537571
+          ],
+          "text": "results, validation.\"",
+          "confidence": 1,
+          "start_char": 716,
+          "end_char": 737
+        },
+        {
+          "box": [
+            0.6696914710950587,
+            0.4520348837668138,
+            0.04718693058665202,
+            0.011627906933426857
+          ],
+          "text": "-0-0-0-0-",
+          "confidence": 1,
+          "start_char": 738,
+          "end_char": 747
+        },
+        {
+          "box": [
+            0.7731397456259819,
+            0.4491279070055806,
+            0.15607985519781342,
+            0.011809593066573143
+          ],
+          "text": "\"List key events in \\[topic],",
+          "confidence": 1,
+          "start_char": 748,
+          "end_char": 777
+        },
+        {
+          "box": [
+            0.7728477846603458,
+            0.4344928358469601,
+            0.16398082826195692,
+            0.01528552221134305
+          ],
+          "text": "2010-2025: breakthroughs,",
+          "confidence": 1,
+          "start_char": 778,
+          "end_char": 803
+        },
+        {
+          "box": [
+            0.7710036696435487,
+            0.42038490371501713,
+            0.12952318889338787,
+            0.015839512459933758
+          ],
+          "text": "people, implications.\"",
+          "confidence": 1,
+          "start_char": 804,
+          "end_char": 826
+        },
+        {
+          "box": [
+            0.06153073925395496,
+            0.38407777111524033,
+            0.09109352856147579,
+            0.0137857710942626
+          ],
+          "text": "Summary",
+          "confidence": 1,
+          "start_char": 827,
+          "end_char": 834
+        },
+        {
+          "box": [
+            0.06170599014350086,
+            0.3706395350517552,
+            0.06352086881311927,
+            0.01308139506727457
+          ],
+          "text": "Maker",
+          "confidence": 1,
+          "start_char": 835,
+          "end_char": 840
+        },
+        {
+          "box": [
+            0.06291713955180611,
+            0.35320555607195714,
+            0.09354502049888053,
+            0.014712218195199966
+          ],
+          "text": "\"Condense this",
+          "confidence": 1,
+          "start_char": 841,
+          "end_char": 855
+        },
+        {
+          "box": [
+            0.7692096317081757,
+            0.3642384211840203,
+            0.11137019831959794,
+            0.01633095182478428
+          ],
+          "text": "Data Helper",
+          "confidence": 1,
+          "start_char": 856,
+          "end_char": 867
+        },
+        {
+          "box": [
+            0.06335954911950883,
+            0.34037719478417017,
+            0.1346716159727515,
+            0.012907235883176327
+          ],
+          "text": "abstract \\[paste] into 5",
+          "confidence": 1,
+          "start_char": 868,
+          "end_char": 892
+        },
+        {
+          "box": [
+            0.7731397441013914,
+            0.34716796856233945,
+            0.16696915045017158,
+            0.013297147583216429
+          ],
+          "text": "\"Given this dataset \\[paste],",
+          "confidence": 1,
+          "start_char": 893,
+          "end_char": 922
+        },
+        {
+          "box": [
+            0.061544512158841325,
+            0.3148634816882093,
+            0.11110539320038587,
+            0.013728214427828789
+          ],
+          "text": "limits, 2025 uses.\"",
+          "confidence": 1,
+          "start_char": 923,
+          "end_char": 942
+        },
+        {
+          "box": [
+            0.06352087284666046,
+            0.32848837200363423,
+            0.11978221055937975,
+            0.010378815699368715
+          ],
+          "text": "bullets: innovations,",
+          "confidence": 1,
+          "start_char": 943,
+          "end_char": 964
+        },
+        {
+          "box": [
+            0.7729466997766392,
+            0.3347666524142414,
+            0.1437987257794635,
+            0.012090262025594711
+          ],
+          "text": "suggest 3 tests, insights,",
+          "confidence": 1,
+          "start_char": 965,
+          "end_char": 991
+        },
+        {
+          "box": [
+            0.772971184831175,
+            0.3212451232400142,
+            0.147398739326291,
+            0.013150951825082302
+          ],
+          "text": "visuals for a 2025 paper.\"",
+          "confidence": 1,
+          "start_char": 992,
+          "end_char": 1018
+        },
+        {
+          "box": [
+            0.11433756821482073,
+            0.26598837224548444,
+            0.1306715058117378,
+            0.013308502733707428
+          ],
+          "text": "Ethics Review",
+          "confidence": 1,
+          "start_char": 1019,
+          "end_char": 1032
+        },
+        {
+          "box": [
+            0.11615244973259682,
+            0.2485351563879008,
+            0.12341197874487901,
+            0.01025390625
+          ],
+          "text": "\"List ethical issues in",
+          "confidence": 1,
+          "start_char": 1033,
+          "end_char": 1056
+        },
+        {
+          "box": [
+            0.7095349820265799,
+            0.24965077631900057,
+            0.1018011790950123,
+            0.0166868194937706
+          ],
+          "text": "Gap Finder",
+          "confidence": 1,
+          "start_char": 1057,
+          "end_char": 1067
+        },
+        {
+          "box": [
+            0.11615245311065567,
+            0.23388671859554577,
+            0.12704173762623855,
+            0.011752816382795572
+          ],
+          "text": "\\[topic]: privacy, bias,",
+          "confidence": 1,
+          "start_char": 1068,
+          "end_char": 1092
+        },
+        {
+          "box": [
+            0.7110671427498976,
+            0.23315087870743856,
+            0.12411864676126616,
+            0.014122235588729382
+          ],
+          "text": "\"From these sources",
+          "confidence": 1,
+          "start_char": 1093,
+          "end_char": 1112
+        },
+        {
+          "box": [
+            0.1159214742578815,
+            0.22016458105195436,
+            0.10940225182510004,
+            0.013979138806462288
+          ],
+          "text": "2025 regulationsiỊại",
+          "confidence": 1,
+          "start_char": 1113,
+          "end_char": 1133
+        },
+        {
+          "box": [
+            0.7096188765145175,
+            0.21923828105320253,
+            0.136116148785847,
+            0.013319858349859715
+          ],
+          "text": "\\links], list 4 gaps and",
+          "confidence": 1,
+          "start_char": 1134,
+          "end_char": 1158
+        },
+        {
+          "box": [
+            0.709618875041548,
+            0.19622093037049593,
+            0.06170598937243954,
+            0.011786882299929857
+          ],
+          "text": "for each.\"",
+          "confidence": 1,
+          "start_char": 1159,
+          "end_char": 1169
+        },
+        {
+          "box": [
+            0.7112296020723329,
+            0.20647862688586627,
+            0.14013807715439208,
+            0.013600203208625317
+          ],
+          "text": "propose an experiment",
+          "confidence": 1,
+          "start_char": 1170,
+          "end_char": 1191
+        },
+        {
+          "box": [
+            0.24132386519277216,
+            0.19315939461635367,
+            0.05637223313494427,
+            0.013390513136982918
+          ],
+          "text": "Trend",
+          "confidence": 1,
+          "start_char": 1192,
+          "end_char": 1197
+        },
+        {
+          "box": [
+            0.24128572732832262,
+            0.17841843307272165,
+            0.08548662139148247,
+            0.015256157144904137
+          ],
+          "text": "Forecast",
+          "confidence": 1,
+          "start_char": 1198,
+          "end_char": 1206
+        },
+        {
+          "box": [
+            0.41003183321276243,
+            0.1738610854333138,
+            0.09282199580494949,
+            0.01564992219209671
+          ],
+          "text": "Credibility",
+          "confidence": 1,
+          "start_char": 1207,
+          "end_char": 1218
+        },
+        {
+          "box": [
+            0.2429496198137287,
+            0.16069193431079598,
+            0.11478129131038017,
+            0.012407718226313591
+          ],
+          "text": "\"Predict 5 trends in",
+          "confidence": 1,
+          "start_char": 1219,
+          "end_char": 1239
+        },
+        {
+          "box": [
+            0.40974591369755275,
+            0.1611374458164273,
+            0.06082099821509385,
+            0.015003278851509094
+          ],
+          "text": "Check",
+          "confidence": 1,
+          "start_char": 1240,
+          "end_char": 1245
+        },
+        {
+          "box": [
+            0.5693479309642208,
+            0.1650133978345104,
+            0.12634402019221602,
+            0.018834887072443962
+          ],
+          "text": "Methodology",
+          "confidence": 1,
+          "start_char": 1246,
+          "end_char": 1257
+        },
+        {
+          "box": [
+            0.24319419255692598,
+            0.14825581386308995,
+            0.1306715058117378,
+            0.010174418799579144
+          ],
+          "text": "\\[field] for 2026-2030",
+          "confidence": 1,
+          "start_char": 1258,
+          "end_char": 1280
+        },
+        {
+          "box": [
+            0.24319419306428874,
+            0.13372093026407095,
+            0.12159709465212937,
+            0.011786882299929857
+          ],
+          "text": "using 2025 data and",
+          "confidence": 1,
+          "start_char": 1281,
+          "end_char": 1300
+        },
+        {
+          "box": [
+            0.4117516058934975,
+            0.14270042689594087,
+            0.12199887531559644,
+            0.012916578445583582
+          ],
+          "text": "\"Evaluate this article",
+          "confidence": 1,
+          "start_char": 1301,
+          "end_char": 1323
+        },
+        {
+          "box": [
+            0.5716878390975644,
+            0.15116279086468198,
+            0.11433756758527058,
+            0.011627906933426857
+          ],
+          "text": "\"Draft step-by-step",
+          "confidence": 1,
+          "start_char": 1324,
+          "end_char": 1343
+        },
+        {
+          "box": [
+            0.24319419420096203,
+            0.12207031265617818,
+            0.10526315642566217,
+            0.01171875
+          ],
+          "text": "research angles.\"",
+          "confidence": 1,
+          "start_char": 1344,
+          "end_char": 1361
+        },
+        {
+          "box": [
+            0.4098854999440957,
+            0.12773932819924294,
+            0.1094774478819312,
+            0.01461817231029272
+          ],
+          "text": "\\[link]: score bias,",
+          "confidence": 1,
+          "start_char": 1362,
+          "end_char": 1382
+        },
+        {
+          "box": [
+            0.5698729599801683,
+            0.13517441875732472,
+            0.11978221055937976,
+            0.013263081200420856
+          ],
+          "text": "method for \\[topic]:",
+          "confidence": 1,
+          "start_char": 1383,
+          "end_char": 1403
+        },
+        {
+          "box": [
+            0.4119782194583336,
+            0.11621093750532063,
+            0.11796733577076984,
+            0.01171875
+          ],
+          "text": "evidence, relevance",
+          "confidence": 1,
+          "start_char": 1404,
+          "end_char": 1423
+        },
+        {
+          "box": [
+            0.5698729578126157,
+            0.12499999992070454,
+            0.1397459169713462,
+            0.01025390625
+          ],
+          "text": "tools, ethics, outcomes",
+          "confidence": 1,
+          "start_char": 1424,
+          "end_char": 1447
+        },
+        {
+          "box": [
+            0.4079653919784957,
+            0.10086542548869093,
+            0.098789745423852,
+            0.015366972889751196
+          ],
+          "text": "(1-10). Suggest",
+          "confidence": 1,
+          "start_char": 1448,
+          "end_char": 1463
+        },
+        {
+          "box": [
+            0.5679182616687966,
+            0.11001535655216654,
+            0.06380050007889915,
+            0.01398091483861208
+          ],
+          "text": "for 2025ạỊạ",
+          "confidence": 1,
+          "start_char": 1464,
+          "end_char": 1475
+        },
+        {
+          "box": [
+            0.41197822342867907,
+            0.09156976757979818,
+            0.0961887452660537,
+            0.011627906933426857
+          ],
+          "text": "better sources.\"",
+          "confidence": 1,
+          "start_char": 1476,
+          "end_char": 1492
+        },
+        {
+          "box": [
+            0.10526315647612511,
+            0.011627906548498101,
+            0.3629764091677782,
+            0.017668968066573143
+          ],
+          "text": "Follow Muhammad Ayan For More",
+          "confidence": 1,
+          "start_char": 1493,
+          "end_char": 1522
+        },
+        {
+          "box": [
+            0.5263157963570207,
+            0.008720930628679069,
+            0.3811252128787157,
+            0.02204078808426857
+          ],
+          "text": "L Like And Repost To Help Others",
+          "confidence": 1,
+          "start_char": 1523,
+          "end_char": 1555
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1555
+    },
+    {
+      "text": "Mapa radial de quinze prompts de pesquisa, com tópicos, numeração e ícones.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1557,
+      "end_char": 1632
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1639,
+      2048
+    ],
+    "ocr_rows": 87,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9862068965517241,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

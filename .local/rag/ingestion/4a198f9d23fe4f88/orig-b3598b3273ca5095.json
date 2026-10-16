@@ -1,0 +1,272 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/381adf91836272ac7a68cb820ba21f10.jpg",
+  "source_sha256": "b3598b3273ca50955944d6cd8fc6a7346c6b3cce0baf2759228b0a65b88786d9",
+  "text": "< Notas\nMétodo AIDA para criar\nconteúdos:\nA de ATENÇÃO: Capture a atenção do público com títulos\nimpactantes, imagens chamativas ou perguntas\nintrigantes que façam as pessoas pararem para prestar\natenção.\nI de INTERESSE: Mantenha o interesse apresentando\ninformações relevantes e conectando-se com o público-\nalvo. Mostre como seu conteúdo resolve um problema\nque eles enfrentam.\nD de DESEJO: Crie o desejo ao destacar os benefícios do\nseu produto ou serviço. Use provas sociais, depoimentos\nou demonstre o valor do que você está oferecendo.\nA de AÇÃO: Leve o público a agir com uma chamada\nclara e direta. Incentive-os a comprar, se inscrever, seguir\nou entrar em contato, facilitando o próximo passo.\nAgiclik\n@agiclik\n\nCartão no estilo aplicativo de notas explica AIDA em quatro itens.",
+  "segments": [
+    {
+      "text": "< Notas\nMétodo AIDA para criar\nconteúdos:\nA de ATENÇÃO: Capture a atenção do público com títulos\nimpactantes, imagens chamativas ou perguntas\nintrigantes que façam as pessoas pararem para prestar\natenção.\nI de INTERESSE: Mantenha o interesse apresentando\ninformações relevantes e conectando-se com o público-\nalvo. Mostre como seu conteúdo resolve um problema\nque eles enfrentam.\nD de DESEJO: Crie o desejo ao destacar os benefícios do\nseu produto ou serviço. Use provas sociais, depoimentos\nou demonstre o valor do que você está oferecendo.\nA de AÇÃO: Leve o público a agir com uma chamada\nclara e direta. Incentive-os a comprar, se inscrever, seguir\nou entrar em contato, facilitando o próximo passo.\nAgiclik\n@agiclik",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.06647901449429666,
+            0.8960840290660272,
+            0.18370863596598308,
+            0.03949860731760668
+          ],
+          "confidence": 1,
+          "text": "< Notas",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "box": [
+            0.08314404475084002,
+            0.7624522458204944,
+            0.735784912109375,
+            0.05779338200887052
+          ],
+          "confidence": 1,
+          "text": "Método AIDA para criar",
+          "start_char": 8,
+          "end_char": 30
+        },
+        {
+          "box": [
+            0.07916092209695232,
+            0.714135260866024,
+            0.3605929692586263,
+            0.0460263442993164
+          ],
+          "confidence": 1,
+          "text": "conteúdos:",
+          "start_char": 31,
+          "end_char": 41
+        },
+        {
+          "box": [
+            0.16041666138020846,
+            0.6516666669791666,
+            0.7270833333333333,
+            0.025000000000000022
+          ],
+          "confidence": 1,
+          "text": "A de ATENÇÃO: Capture a atenção do público com títulos",
+          "start_char": 42,
+          "end_char": 96
+        },
+        {
+          "box": [
+            0.15833332997395846,
+            0.6250000002708334,
+            0.6145833333333334,
+            0.021666666666666612
+          ],
+          "confidence": 1,
+          "text": "impactantes, imagens chamativas ou perguntas",
+          "start_char": 97,
+          "end_char": 141
+        },
+        {
+          "box": [
+            0.15833332697916677,
+            0.5966666669,
+            0.7145833333333333,
+            0.023333333333333317
+          ],
+          "confidence": 1,
+          "text": "intrigantes que façam as pessoas pararem para prestar",
+          "start_char": 142,
+          "end_char": 195
+        },
+        {
+          "box": [
+            0.1604166670625,
+            0.5700000002166666,
+            0.11458333333333329,
+            0.021666666666666612
+          ],
+          "confidence": 1,
+          "text": "atenção.",
+          "start_char": 196,
+          "end_char": 204
+        },
+        {
+          "box": [
+            0.15208333322952214,
+            0.520000000003413,
+            0.6499999999999999,
+            0.020000000000000018
+          ],
+          "confidence": 1,
+          "text": "I de INTERESSE: Mantenha o interesse apresentando",
+          "start_char": 205,
+          "end_char": 254
+        },
+        {
+          "box": [
+            0.1541666667545573,
+            0.49166666667795145,
+            0.7270833333333333,
+            0.021666666666666612
+          ],
+          "confidence": 1,
+          "text": "informações relevantes e conectando-se com o público-",
+          "start_char": 255,
+          "end_char": 308
+        },
+        {
+          "box": [
+            0.15617002873933247,
+            0.4615435534751735,
+            0.6834926605224608,
+            0.025362957318623813
+          ],
+          "confidence": 1,
+          "text": "alvo. Mostre como seu conteúdo resolve um problema",
+          "start_char": 309,
+          "end_char": 359
+        },
+        {
+          "box": [
+            0.15604003482022352,
+            0.43654881201282936,
+            0.2524039109547933,
+            0.022550640106201114
+          ],
+          "confidence": 1,
+          "text": "que eles enfrentam.",
+          "start_char": 360,
+          "end_char": 379
+        },
+        {
+          "box": [
+            0.16249999989363698,
+            0.38500000000326295,
+            0.7104166666666667,
+            0.021666666666666723
+          ],
+          "confidence": 1,
+          "text": "D de DESEJO: Crie o desejo ao destacar os benefícios do",
+          "start_char": 380,
+          "end_char": 435
+        },
+        {
+          "box": [
+            0.16041666663103069,
+            0.3583333333404606,
+            0.7125,
+            0.021666666666666612
+          ],
+          "confidence": 1,
+          "text": "seu produto ou serviço. Use provas sociais, depoimentos",
+          "start_char": 436,
+          "end_char": 491
+        },
+        {
+          "box": [
+            0.16041666656545506,
+            0.33000000000384166,
+            0.6541666666666667,
+            0.021666666666666723
+          ],
+          "confidence": 1,
+          "text": "ou demonstre o valor do que você está oferecendo.",
+          "start_char": 492,
+          "end_char": 541
+        },
+        {
+          "box": [
+            0.16041666091145845,
+            0.27833333364583335,
+            0.6770833333333334,
+            0.025000000000000022
+          ],
+          "confidence": 1,
+          "text": "A de AÇÃO: Leve o público a agir com uma chamada",
+          "start_char": 542,
+          "end_char": 590
+        },
+        {
+          "box": [
+            0.16041666657956485,
+            0.2500000000039817,
+            0.73125,
+            0.023333333333333317
+          ],
+          "confidence": 1,
+          "text": "clara e direta. Incentive-os a comprar, se inscrever, seguir",
+          "start_char": 591,
+          "end_char": 651
+        },
+        {
+          "box": [
+            0.16041666662800685,
+            0.22333333334536087,
+            0.6375,
+            0.023333333333333317
+          ],
+          "confidence": 1,
+          "text": "ou entrar em contato, facilitando o próximo passo.",
+          "start_char": 652,
+          "end_char": 702
+        },
+        {
+          "box": [
+            0.49166666654331137,
+            0.06833333336622804,
+            0.1020833333333333,
+            0.025000000000000022
+          ],
+          "confidence": 0.5,
+          "text": "Agiclik",
+          "start_char": 703,
+          "end_char": 710
+        },
+        {
+          "box": [
+            0.4915108129809473,
+            0.048286848099368895,
+            0.08367370764414467,
+            0.01600275516510008
+          ],
+          "confidence": 1,
+          "text": "@agiclik",
+          "start_char": 711,
+          "end_char": 719
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 719
+    },
+    {
+      "text": "Cartão no estilo aplicativo de notas explica AIDA em quatro itens.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 721,
+      "end_char": 787
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      960,
+      1200
+    ],
+    "ocr_rows": 19,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9736842105263158,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

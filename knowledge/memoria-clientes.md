@@ -2,9 +2,16 @@
 
 ## Leitura
 
-1. `clients/current/{cliente}.md`: estado atual consolidado com fonte e data.
-2. `clients/{cliente}.md`: compatibilidade e histórico original. Não tratar resumo antigo conflitante como vigente.
-3. `campaigns/{cliente}/{campanha}/`: briefing, contexto, versões, revisão e feedback daquela campanha.
+1. `python3 scripts/client_brief.py {cliente}`: lê ficha e aprendizados completos, lista campanhas/versões e feedback literal. Não interpreta score como aprovação.
+2. `clients/{cliente}/CLIENTE.md`: estado atual consolidado com fonte, data, voz, restrições e pendências. `APRENDIZADOS.md`: decisões e cronologia escopadas.
+3. `clients/{cliente}/campanhas/{campanha}/vN/`: briefing, contexto, versões, revisão, final e feedback daquela campanha.
+4. `fontes/`, `referencias/` e `assets/` dentro do cliente: materiais locais. `historico/legado/`: originais preservados; não tratar resumo antigo conflitante como vigente.
+
+Clientes ainda não migrados usam `clients/current/{cliente}.md`, `clients/{cliente}.md` e `campaigns/{cliente}/`. Para consolidá-los, gerar plano com `scripts/migrate_clients.py plan --client {cliente} --output .local/plano.json`, inspecionar o manifesto, aplicar e verificar. Não misturar layouts nem criar duas fichas vigentes. Migração é manutenção, não confirmação comercial.
+
+O plano também preserva fichas somente legadas e materiais de cliente sem ficha. Nesse último caso, `CLIENTE.md` declara consolidação pendente, sem preencher fatos ou aprovações. Arquivos na raiz com o prefixo exato do cliente são incluídos. Pastas com apelido e registros em outros locais precisam de atribuição explícita em `--materials .local/materiais.json`: objeto `{ "cliente": [{"path": "tmp/apelido", "area": "fontes"}] }`. Áreas aceitas: `fontes`, `assets`, `historico/legado`. Para acrescentar materiais a clientes já migrados sem reescrever suas fichas, usar `plan --materials-only --materials .local/materiais.json --output .local/complemento.json`. Todas as atribuições e hashes ficam no manifesto, com backup e verificação.
+
+O mapa privado `.local/client-path-map.json` resolve caminhos antigos por correspondência exata com `scripts/client_paths.py`. Os arquivos históricos, inclusive delivery/review assinados, mantêm seus bytes. Para leitura direta de uma referência antiga, resolver primeiro pelo mapa. Não reescrever hashes ou fontes históricas para adequar caminhos.
 
 Se não houver estado atual, usar ficha existente com atenção a correções posteriores. Não aplicar Express quando a única base é contraditória. A migração preserva o arquivo original e torna conflitos explícitos; não resolve por adivinhação.
 
@@ -18,7 +25,7 @@ Campanhas: decisões e versão aprovada ficam em sua pasta. Registro de feedback
 
 ## Exemplos
 
-`examples/approved/` e `examples/rejected/` são histórico. `examples/curated/` contém seleção anotada, com compatibilidade e limite de uso. Nenhum texto aprovado é automaticamente um exemplo de excelência.
+Manter `final.md` na versão da campanha como copy canônica; aprovação é registrada em `feedback.md`, sem duplicar o texto. `referencias/curadas/` contém seleção anotada, com compatibilidade e limite de uso. `examples/approved/`, `examples/rejected/` e `examples/curated/` permanecem como layout legado para clientes não migrados. Os índices antigos são resolvidos pelo mapa local. Nenhum texto aprovado é automaticamente um exemplo de excelência.
 
 ## Permissões e confidencialidade
 

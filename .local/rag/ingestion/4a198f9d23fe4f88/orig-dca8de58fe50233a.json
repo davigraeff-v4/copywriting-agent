@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/862dceec4f8536e5205f98b7d064289e.jpg",
+  "source_sha256": "dca8de58fe50233a9d8158166d364c7b2d5fa2a7526228ff9285e97e458b8718",
+  "text": "The Anatomy of a Top\nPerforming Saas Landing Page\nwww.anatomyof.com/high-converting-saas Q\nURL with primary key word\nCompany logo\nSEO optimised headline and subheadline\nPrimary CTA\nSocial proof\nImage or video\nKey benefits\nFeatures\nCustomer testimonials\nFAQ section\n10\nFinal CTA\nContact information\nLegal pages\n\nWireframe de página SaaS com identificação de headline, CTA, prova, benefícios, FAQ e rodapé.",
+  "segments": [
+    {
+      "text": "The Anatomy of a Top\nPerforming Saas Landing Page\nwww.anatomyof.com/high-converting-saas Q\nURL with primary key word\nCompany logo\nSEO optimised headline and subheadline\nPrimary CTA\nSocial proof\nImage or video\nKey benefits\nFeatures\nCustomer testimonials\nFAQ section\n10\nFinal CTA\nContact information\nLegal pages",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "The Anatomy of a Top",
+          "box": [
+            0.25771325018812,
+            0.9243749998705537,
+            0.4827586174011231,
+            0.03937500000000005
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "text": "Performing Saas Landing Page",
+          "box": [
+            0.15104167432014926,
+            0.8791666674792016,
+            0.6979166507720947,
+            0.0416666650772094
+          ],
+          "confidence": 1,
+          "start_char": 21,
+          "end_char": 49
+        },
+        {
+          "text": "www.anatomyof.com/high-converting-saas Q",
+          "box": [
+            0.21770620723872688,
+            0.8257725855360892,
+            0.2633412599563598,
+            0.014417878389358485
+          ],
+          "confidence": 1,
+          "start_char": 50,
+          "end_char": 90
+        },
+        {
+          "text": "URL with primary key word",
+          "box": [
+            0.613430131063389,
+            0.8268750000015119,
+            0.21234118938446045,
+            0.016249999999999987
+          ],
+          "confidence": 1,
+          "start_char": 91,
+          "end_char": 116
+        },
+        {
+          "text": "Company logo",
+          "box": [
+            0.615056904967944,
+            0.7901500426718663,
+            0.11831398010253913,
+            0.015970828533172554
+          ],
+          "confidence": 1,
+          "start_char": 117,
+          "end_char": 129
+        },
+        {
+          "text": "SEO optimised headline and subheadline",
+          "box": [
+            0.6134301215157028,
+            0.7556249997271208,
+            0.32667877674102774,
+            0.015000000000000013
+          ],
+          "confidence": 1,
+          "start_char": 130,
+          "end_char": 168
+        },
+        {
+          "text": "Primary CTA",
+          "box": [
+            0.6115253939286889,
+            0.7117158405945294,
+            0.10732806921005256,
+            0.01628828346729283
+          ],
+          "confidence": 1,
+          "start_char": 169,
+          "end_char": 180
+        },
+        {
+          "text": "Social proof",
+          "box": [
+            0.6152450079488789,
+            0.6756249997087582,
+            0.09800363183021543,
+            0.014999999999999902
+          ],
+          "confidence": 1,
+          "start_char": 181,
+          "end_char": 193
+        },
+        {
+          "text": "Image or video",
+          "box": [
+            0.6115904454335477,
+            0.6093362058223051,
+            0.12177520990371704,
+            0.01672749400138862
+          ],
+          "confidence": 1,
+          "start_char": 194,
+          "end_char": 208
+        },
+        {
+          "text": "Key benefits",
+          "box": [
+            0.6133872494088434,
+            0.49403499074505,
+            0.10353403091430657,
+            0.019197460412979095
+          ],
+          "confidence": 1,
+          "start_char": 209,
+          "end_char": 221
+        },
+        {
+          "text": "Features",
+          "box": [
+            0.6131726365779007,
+            0.4617169568348194,
+            0.0748335659503937,
+            0.014552805423736603
+          ],
+          "confidence": 1,
+          "start_char": 222,
+          "end_char": 230
+        },
+        {
+          "text": "Customer testimonials",
+          "box": [
+            0.6134301285956514,
+            0.3648255811688912,
+            0.18330308198928835,
+            0.015988372564315845
+          ],
+          "confidence": 1,
+          "start_char": 231,
+          "end_char": 252
+        },
+        {
+          "text": "FAQ section",
+          "box": [
+            0.6115474167163432,
+            0.2525920962854148,
+            0.1035839319229126,
+            0.015164645314216685
+          ],
+          "confidence": 1,
+          "start_char": 253,
+          "end_char": 264
+        },
+        {
+          "text": "10",
+          "box": [
+            0.44101633408308133,
+            0.1598837213510632,
+            0.023593465983867634,
+            0.018895348310470572
+          ],
+          "confidence": 1,
+          "start_char": 265,
+          "end_char": 267
+        },
+        {
+          "text": "Final CTA",
+          "box": [
+            0.6152450095386088,
+            0.16124999983537291,
+            0.07803992629051204,
+            0.013168604969978404
+          ],
+          "confidence": 1,
+          "start_char": 268,
+          "end_char": 277
+        },
+        {
+          "text": "Contact information",
+          "box": [
+            0.6134301242228323,
+            0.10174418591639056,
+            0.16333938837051387,
+            0.013255814313888559
+          ],
+          "confidence": 1,
+          "start_char": 278,
+          "end_char": 297
+        },
+        {
+          "text": "Legal pages",
+          "box": [
+            0.6114487610997081,
+            0.0632609698111557,
+            0.10015147924423218,
+            0.017373409271240203
+          ],
+          "confidence": 1,
+          "start_char": 298,
+          "end_char": 309
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 309
+    },
+    {
+      "text": "Wireframe de página SaaS com identificação de headline, CTA, prova, benefícios, FAQ e rodapé.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 311,
+      "end_char": 404
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1280,
+      1600
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9ab83690c3f0131a0809248dcc001283.webp",
+  "source_sha256": "d72a9e7abee38e9d28f0c825fe463278c46e2be652adff575aaf2ddae868ce4c",
+  "text": "You don't need to\nYou need to\nBuild a Landing Page\nSend 600 people\nto The page\nFind 20 Clients\nGet a 10% Demo Rate\nConvert 33% of Demos\nInto Clients\nFind 20 Clients\nOverwhelming\nStep by Step\nand Stressful\nand Peaceful\n9 Pierre Herubel © @pherubel • Pierre Herubel E pierreherubel.substack\n\nComparação entre uma meta ampla e passos de aquisição, apresentados em cartões de cores diferentes. Os números são exemplos da peça.",
+  "segments": [
+    {
+      "text": "You don't need to\nYou need to\nBuild a Landing Page\nSend 600 people\nto The page\nFind 20 Clients\nGet a 10% Demo Rate\nConvert 33% of Demos\nInto Clients\nFind 20 Clients\nOverwhelming\nStep by Step\nand Stressful\nand Peaceful\n9 Pierre Herubel © @pherubel • Pierre Herubel E pierreherubel.substack",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "You don't need to",
+          "confidence": 1,
+          "box": [
+            0.08527591551097426,
+            0.880607768773857,
+            0.3713166442098497,
+            0.03599567199021236
+          ],
+          "start_char": 0,
+          "end_char": 17
+        },
+        {
+          "text": "You need to",
+          "confidence": 1,
+          "box": [
+            0.6212894044744226,
+            0.8753448649996481,
+            0.2573753174514878,
+            0.040128965056344335
+          ],
+          "start_char": 18,
+          "end_char": 29
+        },
+        {
+          "text": "Build a Landing Page",
+          "confidence": 1,
+          "box": [
+            0.5514349025454663,
+            0.7512394375927649,
+            0.37126500898272685,
+            0.05331036857004923
+          ],
+          "start_char": 30,
+          "end_char": 50
+        },
+        {
+          "text": "Send 600 people",
+          "confidence": 1,
+          "box": [
+            0.6040888273443198,
+            0.6496881728427375,
+            0.26057234494494985,
+            0.04229032323601545
+          ],
+          "start_char": 51,
+          "end_char": 66
+        },
+        {
+          "text": "to The page",
+          "confidence": 1,
+          "box": [
+            0.6505620819836159,
+            0.620169587514561,
+            0.19691928697202443,
+            0.03130369936482302
+          ],
+          "start_char": 67,
+          "end_char": 78
+        },
+        {
+          "text": "Find 20 Clients",
+          "confidence": 1,
+          "box": [
+            0.1454545420253767,
+            0.5334302322718407,
+            0.23636364299704424,
+            0.024709302923652587
+          ],
+          "start_char": 79,
+          "end_char": 94
+        },
+        {
+          "text": "Get a 10% Demo Rate",
+          "confidence": 1,
+          "box": [
+            0.5763636317552959,
+            0.5275280903091897,
+            0.32909091783139943,
+            0.03061144432325047
+          ],
+          "start_char": 95,
+          "end_char": 114
+        },
+        {
+          "text": "Convert 33% of Demos",
+          "confidence": 1,
+          "box": [
+            0.5690909145492574,
+            0.4213483148626159,
+            0.349090898087256,
+            0.02923308061749741
+          ],
+          "start_char": 115,
+          "end_char": 135
+        },
+        {
+          "text": "Into Clients",
+          "confidence": 1,
+          "box": [
+            0.6544578245695811,
+            0.38625403571510164,
+            0.17290253243533538,
+            0.026910533262102798
+          ],
+          "start_char": 136,
+          "end_char": 148
+        },
+        {
+          "text": "Find 20 Clients",
+          "confidence": 1,
+          "box": [
+            0.6199999989375221,
+            0.2819767441118677,
+            0.24909091096387126,
+            0.029259211293767073
+          ],
+          "start_char": 149,
+          "end_char": 164
+        },
+        {
+          "text": "Overwhelming",
+          "confidence": 1,
+          "box": [
+            0.1375396377968879,
+            0.18072572254500482,
+            0.24503035619121397,
+            0.036613991555203174
+          ],
+          "start_char": 165,
+          "end_char": 177
+        },
+        {
+          "text": "Step by Step",
+          "confidence": 1,
+          "box": [
+            0.6342644627574694,
+            0.17763209049867268,
+            0.21692561969140078,
+            0.03717767951193818
+          ],
+          "start_char": 178,
+          "end_char": 190
+        },
+        {
+          "text": "and Stressful",
+          "confidence": 1,
+          "box": [
+            0.15786453397741726,
+            0.14240335035743723,
+            0.21518002280706092,
+            0.03350725281104605
+          ],
+          "start_char": 191,
+          "end_char": 204
+        },
+        {
+          "text": "and Peaceful",
+          "confidence": 1,
+          "box": [
+            0.636025762176924,
+            0.14228672027440625,
+            0.21703938458706928,
+            0.033740512976485726
+          ],
+          "start_char": 205,
+          "end_char": 217
+        },
+        {
+          "text": "9 Pierre Herubel © @pherubel • Pierre Herubel E pierreherubel.substack",
+          "confidence": 1,
+          "box": [
+            0.09636362066491305,
+            0.0421348315134531,
+            0.8181818493978552,
+            0.026404494382022414
+          ],
+          "start_char": 218,
+          "end_char": 288
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 288
+    },
+    {
+      "text": "Comparação entre uma meta ampla e passos de aquisição, apresentados em cartões de cores diferentes. Os números são exemplos da peça.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 290,
+      "end_char": 422
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      593
+    ],
+    "ocr_rows": 15,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

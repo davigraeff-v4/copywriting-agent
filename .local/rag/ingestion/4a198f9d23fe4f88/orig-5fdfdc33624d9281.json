@@ -1,0 +1,392 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9bf8f27760eaef4c5b8894fe05edd57d.jpg",
+  "source_sha256": "5fdfdc33624d92815abddf91efc4011c8d983c8d4a921eca71a73a18e1ae9122",
+  "text": "Product\ntha point ng and tog\n....\n......\nME MORE\nOur Product\nFIFASHI\nLOGIN\nFind The Best\nFashion Style\nFor You\nOf The Day\nNew Collection\n08\n09\nWATER\nWhat People Say About Us\nBest Fashion\nSince 2014\nAsiza Zahis\nAdlan Zable\n2014\n8900。\n31054\nBest Seller\nProduct\nSEE MORE\nOur Product\nON SALE\n\nWireframe de loja de moda em telas sobrepostas, com hero, coleção, produtos e depoimentos.",
+  "segments": [
+    {
+      "text": "Product\ntha point ng and tog\n....\n......\nME MORE\nOur Product\nFIFASHI\nLOGIN\nFind The Best\nFashion Style\nFor You\nOf The Day\nNew Collection\n08\n09\nWATER\nWhat People Say About Us\nBest Fashion\nSince 2014\nAsiza Zahis\nAdlan Zable\n2014\n8900。\n31054\nBest Seller\nProduct\nSEE MORE\nOur Product\nON SALE",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.515070768584252,
+            0.979557477259419,
+            0.08810663786903905,
+            0.012115066081622524
+          ],
+          "text": "Product",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "box": [
+            0.51678832091351,
+            0.9620758483095582,
+            0.06423357699779753,
+            0.005044175241283786
+          ],
+          "text": "tha point ng and tog",
+          "confidence": 0.5,
+          "start_char": 8,
+          "end_char": 28
+        },
+        {
+          "box": [
+            0.5151998548835525,
+            0.9448135750756895,
+            0.12291189062961727,
+            0.006752273676320812
+          ],
+          "text": "....",
+          "confidence": 0.5,
+          "start_char": 29,
+          "end_char": 33
+        },
+        {
+          "box": [
+            0.5226277393122437,
+            0.9515020346681126,
+            0.11094890080445197,
+            0.0049319965238183855
+          ],
+          "text": "......",
+          "confidence": 0.5,
+          "start_char": 34,
+          "end_char": 40
+        },
+        {
+          "box": [
+            0.5313868617320558,
+            0.9218230207091171,
+            0.04379561945056232,
+            0.005988023952095825
+          ],
+          "text": "ME MORE",
+          "confidence": 1,
+          "start_char": 41,
+          "end_char": 48
+        },
+        {
+          "box": [
+            0.6466934128926061,
+            0.8470368823812829,
+            0.134350400162645,
+            0.013294444588606
+          ],
+          "text": "Our Product",
+          "confidence": 1,
+          "start_char": 49,
+          "end_char": 60
+        },
+        {
+          "box": [
+            0.09051094945252923,
+            0.8051861392239708,
+            0.035036495109540086,
+            0.006575995576595788
+          ],
+          "text": "FIFASHI",
+          "confidence": 1,
+          "start_char": 61,
+          "end_char": 68
+        },
+        {
+          "box": [
+            0.4759124088026146,
+            0.8051861392254653,
+            0.030656934066303487,
+            0.00657599557659585
+          ],
+          "text": "LOGIN",
+          "confidence": 1,
+          "start_char": 69,
+          "end_char": 74
+        },
+        {
+          "box": [
+            0.09343065967934168,
+            0.7640861688652818,
+            0.15912408129825095,
+            0.012360937025891292
+          ],
+          "text": "Find The Best",
+          "confidence": 1,
+          "start_char": 75,
+          "end_char": 88
+        },
+        {
+          "box": [
+            0.0932769262998695,
+            0.7429752440831385,
+            0.15505198665826314,
+            0.015095868748343172
+          ],
+          "text": "Fashion Style",
+          "confidence": 1,
+          "start_char": 89,
+          "end_char": 102
+        },
+        {
+          "text": "For You",
+          "confidence": 1,
+          "box": [
+            0.09332554818423942,
+            0.727650536129866,
+            0.0907211664438811,
+            0.012043308910336848
+          ],
+          "start_char": 103,
+          "end_char": 110
+        },
+        {
+          "text": "Of The Day",
+          "confidence": 1,
+          "box": [
+            0.5704560330725201,
+            0.5976511456926992,
+            0.11756277422532968,
+            0.013073904071739372
+          ],
+          "start_char": 111,
+          "end_char": 121
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.22335766200451698,
+            0.5890002940774907,
+            0.17372263013330194,
+            0.012463445276398696
+          ],
+          "text": "New Collection",
+          "start_char": 122,
+          "end_char": 136
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5824817515858903,
+            0.5577643163121652,
+            0.024817518590471765,
+            0.009863993047636833
+          ],
+          "text": "08",
+          "start_char": 137,
+          "end_char": 139
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.639416058870527,
+            0.5569423169281422,
+            0.02773722520111299,
+            0.010685992415397094
+          ],
+          "text": "09",
+          "start_char": 140,
+          "end_char": 142
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.43941605824518354,
+            0.4911823639429446,
+            0.03211678849889876,
+            0.004931996523818448
+          ],
+          "text": "WATER",
+          "start_char": 143,
+          "end_char": 148
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5766423369793815,
+            0.4664005324496926,
+            0.27445255216413644,
+            0.013306719893546258
+          ],
+          "text": "What People Say About Us",
+          "start_char": 149,
+          "end_char": 173
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.31250000169251374,
+            0.4241516964023508,
+            0.14825581038815472,
+            0.012308715901530261
+          ],
+          "text": "Best Fashion",
+          "start_char": 174,
+          "end_char": 186
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.31249999919328625,
+            0.40685296056782205,
+            0.12645348984017157,
+            0.011643379906852951
+          ],
+          "text": "Since 2014",
+          "start_char": 187,
+          "end_char": 197
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5843023258368178,
+            0.36027944112461546,
+            0.05232558013699573,
+            0.006683207795529513
+          ],
+          "text": "Asiza Zahis",
+          "start_char": 198,
+          "end_char": 209
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.7904866181153961,
+            0.3604276822330573,
+            0.0484867817403013,
+            0.006654776816199905
+          ],
+          "text": "Adlan Zable",
+          "start_char": 210,
+          "end_char": 221
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2701750181795913,
+            0.324206130182919,
+            0.033777870466804916,
+            0.007870606240318798
+          ],
+          "text": "2014",
+          "start_char": 222,
+          "end_char": 226
+        },
+        {
+          "confidence": 0.3,
+          "box": [
+            0.343023254728566,
+            0.3243512974312227,
+            0.04215116478309,
+            0.007467935185232589
+          ],
+          "text": "8900。",
+          "start_char": 227,
+          "end_char": 232
+        },
+        {
+          "confidence": 0.3,
+          "box": [
+            0.424287656555855,
+            0.3250537440107465,
+            0.03950608255733551,
+            0.007809956233975725
+          ],
+          "text": "31054",
+          "start_char": 233,
+          "end_char": 238
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09447674482869219,
+            0.2533595127252518,
+            0.12354651015982841,
+            0.011444212989020324
+          ],
+          "text": "Best Seller",
+          "start_char": 239,
+          "end_char": 250
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09290277824187938,
+            0.235050765043573,
+            0.09617118745267249,
+            0.012098832679286613
+          ],
+          "text": "Product",
+          "start_char": 251,
+          "end_char": 258
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.11046511605130348,
+            0.17163063765460718,
+            0.04941860496575105,
+            0.007355598632447042
+          ],
+          "text": "SEE MORE",
+          "start_char": 259,
+          "end_char": 267
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.23691860255806446,
+            0.09071905141081389,
+            0.14680232956618,
+            0.013076619791016915
+          ],
+          "text": "Our Product",
+          "start_char": 268,
+          "end_char": 279
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.24709302314238896,
+            0.07751164346484206,
+            0.029069767494291854,
+            0.0066690977937922565
+          ],
+          "text": "ON SALE",
+          "start_char": 280,
+          "end_char": 287
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 287
+    },
+    {
+      "text": "Wireframe de loja de moda em telas sobrepostas, com hero, coleção, produtos e depoimentos.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 289,
+      "end_char": 379
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      564,
+      1002
+    ],
+    "ocr_rows": 29,
+    "low_confidence_rows": 7,
+    "ocr_mean_confidence": 0.8655172413793104,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

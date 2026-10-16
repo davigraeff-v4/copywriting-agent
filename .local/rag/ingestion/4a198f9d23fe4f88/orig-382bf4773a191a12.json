@@ -1,0 +1,176 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/15cf0d6c43d043d2c69ddf1bb332ac25.webp",
+  "source_sha256": "382bf4773a191a1207142dac1e648c87fa94f14aad41bf594439d1134c17f8c7",
+  "text": "FREE\nCanva\n- FONTS\nGracie\nDREAM AVENUE\nRETRO\nNECTARINE\nsuimming poof\nMOLENILO\nfree font\n@TYNACREATES\n\nAmostra de três fontes com nomes e variações de estilo tipográfico sobre textura clara.",
+  "segments": [
+    {
+      "text": "FREE\nCanva\n- FONTS\nGracie\nDREAM AVENUE\nRETRO\nNECTARINE\nsuimming poof\nMOLENILO\nfree font\n@TYNACREATES",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "FREE",
+          "box": [
+            0.1839284614305529,
+            0.8909655618199465,
+            0.17901807696507452,
+            0.018279035933377753
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 4
+        },
+        {
+          "text": "Canva",
+          "box": [
+            0.43923611053240735,
+            0.8912908224646915,
+            0.12500000000000006,
+            0.022525324691064823
+          ],
+          "confidence": 1,
+          "start_char": 5,
+          "end_char": 10
+        },
+        {
+          "text": "- FONTS",
+          "box": [
+            0.5781249999343832,
+            0.8902100672999093,
+            0.2847222222222222,
+            0.019817677368212452
+          ],
+          "confidence": 1,
+          "start_char": 11,
+          "end_char": 18
+        },
+        {
+          "text": "Gracie",
+          "box": [
+            0.252581930732655,
+            0.6464756702706203,
+            0.4934801834042062,
+            0.06929114088859058
+          ],
+          "confidence": 1,
+          "start_char": 19,
+          "end_char": 25
+        },
+        {
+          "text": "DREAM AVENUE",
+          "box": [
+            0.25347222213541665,
+            0.6218787155360284,
+            0.4930555555555556,
+            0.015854141894569976
+          ],
+          "confidence": 1,
+          "start_char": 26,
+          "end_char": 38
+        },
+        {
+          "text": "RETRO",
+          "box": [
+            0.3003472211111112,
+            0.4691858179702286,
+            0.3923611111111111,
+            0.06267916225413692
+          ],
+          "confidence": 1,
+          "start_char": 39,
+          "end_char": 44
+        },
+        {
+          "text": "NECTARINE",
+          "box": [
+            0.31597222205843817,
+            0.4447017670854502,
+            0.3645833333333333,
+            0.016649153229739463
+          ],
+          "confidence": 1,
+          "start_char": 45,
+          "end_char": 54
+        },
+        {
+          "text": "suimming poof",
+          "box": [
+            0.2392846744073289,
+            0.2899921632465947,
+            0.5185082029189741,
+            0.06350968634614479
+          ],
+          "confidence": 1,
+          "start_char": 55,
+          "end_char": 68
+        },
+        {
+          "text": "MOLENILO",
+          "box": [
+            0.35901162434143696,
+            0.2689506542066167,
+            0.279069774429171,
+            0.01471462500736773
+          ],
+          "confidence": 1,
+          "start_char": 69,
+          "end_char": 77
+        },
+        {
+          "text": "free font",
+          "box": [
+            0.02325581108989948,
+            0.14452776629098954,
+            0.2906976799086344,
+            0.030489419218192627
+          ],
+          "confidence": 1,
+          "start_char": 78,
+          "end_char": 87
+        },
+        {
+          "text": "@TYNACREATES",
+          "box": [
+            0.3208333417310552,
+            0.03984384147846844,
+            0.36249998283117973,
+            0.016406287221009893
+          ],
+          "confidence": 1,
+          "start_char": 88,
+          "end_char": 100
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 100
+    },
+    {
+      "text": "Amostra de três fontes com nomes e variações de estilo tipográfico sobre textura clara.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 102,
+      "end_char": 189
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      841
+    ],
+    "ocr_rows": 11,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

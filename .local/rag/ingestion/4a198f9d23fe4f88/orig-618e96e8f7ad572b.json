@@ -1,0 +1,608 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f6d93961a6cb7cc41aa8ba8a8a7a8d2.png",
+  "source_sha256": "618e96e8f7ad572bbee09aabeacdccde4ccc829ef9afb3e2a61f1bc55f3a7e43",
+  "text": "TIKSLY\nCONTENT MARKETING SALES FUNNEL\nWebsite Visitors\nNO RISK OFFER\nLOW RISK OFFER\n(no registration required)\n(registration with email)\nBlog Articles\nE-Books\nYoutube Videos\nTemplates\nPodcasts\nReports\n75%\nInterviews\nWhitepapers\nKNOW\nare looking for\nGuides\nINFORMATION\nAudio Files\nResources\nSocial Media\nEndorsements\nAbout Us\nNewsletters\nLIKE\nTestimonials\nWebinars\n23%\nGuarantees\nTrials\n1re COMPARING\nFAQS\nDemos\nContact Us\n2%\nTRUST\nEnquire\nare ready to\ntake ACTION\nBuy now\n$\nCustomers\nTiksly.com\nf @ Tiksly\nTIksIy\n\nFunil de conteúdo relaciona informação, comparação e ação a formatos; percentuais são declarações da peça.",
+  "segments": [
+    {
+      "text": "TIKSLY\nCONTENT MARKETING SALES FUNNEL\nWebsite Visitors\nNO RISK OFFER\nLOW RISK OFFER\n(no registration required)\n(registration with email)\nBlog Articles\nE-Books\nYoutube Videos\nTemplates\nPodcasts\nReports\n75%\nInterviews\nWhitepapers\nKNOW\nare looking for\nGuides\nINFORMATION\nAudio Files\nResources\nSocial Media\nEndorsements\nAbout Us\nNewsletters\nLIKE\nTestimonials\nWebinars\n23%\nGuarantees\nTrials\n1re COMPARING\nFAQS\nDemos\nContact Us\n2%\nTRUST\nEnquire\nare ready to\ntake ACTION\nBuy now\n$\nCustomers\nTiksly.com\nf @ Tiksly\nTIksIy",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.46504749644564974,
+            0.9406644247433199,
+            0.13385849501429475,
+            0.021716662302818955
+          ],
+          "text": "TIKSLY",
+          "confidence": 0.5,
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "box": [
+            0.07500000553344996,
+            0.8638644914524312,
+            0.8499999885164334,
+            0.027917189460476798
+          ],
+          "text": "CONTENT MARKETING SALES FUNNEL",
+          "confidence": 1,
+          "start_char": 7,
+          "end_char": 37
+        },
+        {
+          "box": [
+            0.39680232085294126,
+            0.7556461732672467,
+            0.3052325674866239,
+            0.016624843161857
+          ],
+          "text": "Website Visitors",
+          "confidence": 1,
+          "start_char": 38,
+          "end_char": 54
+        },
+        {
+          "box": [
+            0.23750000168956883,
+            0.6778283141352603,
+            0.24166666283881114,
+            0.022297156799392943
+          ],
+          "text": "NO RISK OFFER",
+          "confidence": 1,
+          "start_char": 55,
+          "end_char": 68
+        },
+        {
+          "box": [
+            0.5208333283543048,
+            0.6778283141327256,
+            0.2708333429029721,
+            0.022297156799393
+          ],
+          "text": "LOW RISK OFFER",
+          "confidence": 1,
+          "start_char": 69,
+          "end_char": 83
+        },
+        {
+          "box": [
+            0.2325581374588416,
+            0.6596612297245851,
+            0.2558139574942674,
+            0.016624843161856938
+          ],
+          "text": "(no registration required)",
+          "confidence": 1,
+          "start_char": 84,
+          "end_char": 110
+        },
+        {
+          "box": [
+            0.526045591930846,
+            0.6588049496442514,
+            0.26330844882739,
+            0.01935107854558354
+          ],
+          "text": "(registration with email)",
+          "confidence": 1,
+          "start_char": 111,
+          "end_char": 136
+        },
+        {
+          "box": [
+            0.3457900797148994,
+            0.6242297657708442,
+            0.13400123574659717,
+            0.016625446238212636
+          ],
+          "text": "Blog Articles",
+          "confidence": 1,
+          "start_char": 137,
+          "end_char": 150
+        },
+        {
+          "box": [
+            0.597241035664072,
+            0.6262549419042682,
+            0.09040165037225134,
+            0.013544639051334458
+          ],
+          "text": "E-Books",
+          "confidence": 1,
+          "start_char": 151,
+          "end_char": 158
+        },
+        {
+          "box": [
+            0.3444767429045204,
+            0.5984943539399642,
+            0.17151163124522278,
+            0.013801756587202006
+          ],
+          "text": "Youtube Videos",
+          "confidence": 1,
+          "start_char": 159,
+          "end_char": 173
+        },
+        {
+          "box": [
+            0.5987538452619929,
+            0.5992952591799814,
+            0.11644579796777621,
+            0.016078125727520667
+          ],
+          "text": "Templates",
+          "confidence": 1,
+          "start_char": 174,
+          "end_char": 183
+        },
+        {
+          "box": [
+            0.34593023331168693,
+            0.5704916164610606,
+            0.10174418437738858,
+            0.01163453828435918
+          ],
+          "text": "Podcasts",
+          "confidence": 1,
+          "start_char": 184,
+          "end_char": 192
+        },
+        {
+          "box": [
+            0.5983463682033096,
+            0.5734896198084883,
+            0.08513708105652495,
+            0.016642888785904284
+          ],
+          "text": "Reports",
+          "confidence": 1,
+          "start_char": 193,
+          "end_char": 200
+        },
+        {
+          "box": [
+            0.04360465140756844,
+            0.5501311736974169,
+            0.0828488368754777,
+            0.02423862232318339
+          ],
+          "text": "75%",
+          "confidence": 1,
+          "start_char": 201,
+          "end_char": 204
+        },
+        {
+          "box": [
+            0.3415697674431911,
+            0.5443139048456548,
+            0.11482558156226119,
+            0.01260408284224407
+          ],
+          "text": "Interviews",
+          "confidence": 1,
+          "start_char": 205,
+          "end_char": 215
+        },
+        {
+          "box": [
+            0.5984859156086031,
+            0.5475760913128845,
+            0.14011879003171301,
+            0.01704090482168545
+          ],
+          "text": "Whitepapers",
+          "confidence": 1,
+          "start_char": 216,
+          "end_char": 227
+        },
+        {
+          "box": [
+            0.8764214171838329,
+            0.5481118904744743,
+            0.10326181664740486,
+            0.01858173978224005
+          ],
+          "text": "KNOW",
+          "confidence": 1,
+          "start_char": 228,
+          "end_char": 232
+        },
+        {
+          "box": [
+            0.023255814897962652,
+            0.5307402762097082,
+            0.1220930212528663,
+            0.01163453828435918
+          ],
+          "text": "are looking for",
+          "confidence": 1,
+          "start_char": 233,
+          "end_char": 248
+        },
+        {
+          "box": [
+            0.5986545554910019,
+            0.526091799648745,
+            0.07887273090466618,
+            0.012663075436313332
+          ],
+          "text": "Guides",
+          "confidence": 1,
+          "start_char": 249,
+          "end_char": 255
+        },
+        {
+          "box": [
+            0.017441856888128528,
+            0.5171666476621832,
+            0.13517442561496795,
+            0.010664993726474288
+          ],
+          "text": "INFORMATION",
+          "confidence": 1,
+          "start_char": 256,
+          "end_char": 267
+        },
+        {
+          "box": [
+            0.3459302318834013,
+            0.5152275580602393,
+            0.11627907093582801,
+            0.011748602279605601
+          ],
+          "text": "Audio Files",
+          "confidence": 1,
+          "start_char": 268,
+          "end_char": 279
+        },
+        {
+          "box": [
+            0.5988372091592967,
+            0.5035930193834836,
+            0.11191860281512733,
+            0.010664993726474288
+          ],
+          "text": "Resources",
+          "confidence": 1,
+          "start_char": 280,
+          "end_char": 289
+        },
+        {
+          "box": [
+            0.3895348868405297,
+            0.42973651169301585,
+            0.1366279006340766,
+            0.012630774953882805
+          ],
+          "text": "Social Media",
+          "confidence": 1,
+          "start_char": 290,
+          "end_char": 302
+        },
+        {
+          "box": [
+            0.579754595912112,
+            0.43002622370739463,
+            0.15441626102881734,
+            0.012690176778336254
+          ],
+          "text": "Endorsements",
+          "confidence": 1,
+          "start_char": 303,
+          "end_char": 315
+        },
+        {
+          "box": [
+            0.3895014544412576,
+            0.40158647247661045,
+            0.09745057932296569,
+            0.011867001484448551
+          ],
+          "text": "About Us",
+          "confidence": 1,
+          "start_char": 316,
+          "end_char": 324
+        },
+        {
+          "box": [
+            0.5799418603657946,
+            0.4036480493709449,
+            0.125,
+            0.01064779049479678
+          ],
+          "text": "Newsletters",
+          "confidence": 1,
+          "start_char": 325,
+          "end_char": 336
+        },
+        {
+          "box": [
+            0.8124999994860495,
+            0.38719237339920415,
+            0.06395348937356693,
+            0.017423657282083824
+          ],
+          "text": "LIKE",
+          "confidence": 1,
+          "start_char": 337,
+          "end_char": 341
+        },
+        {
+          "box": [
+            0.38953488733589964,
+            0.37267265964144614,
+            0.13517441126050972,
+            0.011615771122529156
+          ],
+          "text": "Testimonials",
+          "confidence": 1,
+          "start_char": 342,
+          "end_char": 354
+        },
+        {
+          "box": [
+            0.5813128185817287,
+            0.3723696576059619,
+            0.10190924629218612,
+            0.01318975613736445
+          ],
+          "text": "Webinars",
+          "confidence": 1,
+          "start_char": 355,
+          "end_char": 363
+        },
+        {
+          "box": [
+            0.10465116253439244,
+            0.3542810224710234,
+            0.08430232624904457,
+            0.02613548412825562
+          ],
+          "text": "23%",
+          "confidence": 1,
+          "start_char": 364,
+          "end_char": 367
+        },
+        {
+          "box": [
+            0.38930437021391123,
+            0.3446770651434133,
+            0.12689356835294424,
+            0.012674310126597746
+          ],
+          "text": "Guarantees",
+          "confidence": 1,
+          "start_char": 368,
+          "end_char": 378
+        },
+        {
+          "box": [
+            0.5798388435219145,
+            0.34630421823755086,
+            0.058345568595017716,
+            0.012081683504686172
+          ],
+          "text": "Trials",
+          "confidence": 1,
+          "start_char": 379,
+          "end_char": 385
+        },
+        {
+          "box": [
+            0.06395348938008379,
+            0.33395342252613325,
+            0.16715116312452227,
+            0.012658873645394772
+          ],
+          "text": "1re COMPARING",
+          "confidence": 1,
+          "start_char": 386,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.39244186128623476,
+            0.31943370828253725,
+            0.049418602815127444,
+            0.011615771122529156
+          ],
+          "text": "FAQS",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 404
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5813953478506456,
+            0.31943370819394207,
+            0.07412790781130574,
+            0.01064779049479678
+          ],
+          "text": "Demos",
+          "start_char": 405,
+          "end_char": 410
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.49396354062155795,
+            0.23164672514132828,
+            0.1269292965993944,
+            0.01434789966310434
+          ],
+          "text": "Contact Us",
+          "start_char": 411,
+          "end_char": 421
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19622093075751987,
+            0.21489176752720623,
+            0.061046510626433154,
+            0.023231542245058374
+          ],
+          "text": "2%",
+          "start_char": 422,
+          "end_char": 424
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7208623152002148,
+            0.21181022441277206,
+            0.10188002061529866,
+            0.017778857289772534
+          ],
+          "text": "TRUST",
+          "start_char": 425,
+          "end_char": 430
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4939609856199177,
+            0.19789977194390174,
+            0.08620593554549699,
+            0.017528314961393895
+          ],
+          "text": "Enquire",
+          "start_char": 431,
+          "end_char": 438
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.15983685684244422,
+            0.1885707530701697,
+            0.1367216352460974,
+            0.015858753113405608
+          ],
+          "text": "are ready to",
+          "start_char": 439,
+          "end_char": 451
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.15678100822255386,
+            0.17115145428204323,
+            0.1413471440829316,
+            0.013720207262218653
+          ],
+          "text": "take ACTION",
+          "start_char": 452,
+          "end_char": 463
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.49393397641785036,
+            0.1680435115164732,
+            0.09630660795425311,
+            0.015620409918848546
+          ],
+          "text": "Buy now",
+          "start_char": 464,
+          "end_char": 471
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.43313953517300263,
+            0.06872664651454223,
+            0.027616278360390156,
+            0.023231542245058374
+          ],
+          "text": "$",
+          "start_char": 472,
+          "end_char": 473
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.48401162827933925,
+            0.0725985702026923,
+            0.16279069500382176,
+            0.015487694830038954
+          ],
+          "text": "Customers",
+          "start_char": 474,
+          "end_char": 483
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.17835150772019542,
+            0.03651994755481569,
+            0.15754554727003467,
+            0.02125956632262342
+          ],
+          "text": "Tiksly.com",
+          "start_char": 484,
+          "end_char": 494
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.7509448624833921,
+            0.03663114478934859,
+            0.18849731904655154,
+            0.027873667450142647
+          ],
+          "text": "f @ Tiksly",
+          "start_char": 495,
+          "end_char": 505
+        },
+        {
+          "confidence": 0.3,
+          "box": [
+            0.8435911032459165,
+            0.03825425260839822,
+            0.09471065058308958,
+            0.021391896112650223
+          ],
+          "text": "TIksIy",
+          "start_char": 506,
+          "end_char": 512
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 512
+    },
+    {
+      "text": "Funil de conteúdo relaciona informação, comparação e ação a formatos; percentuais são declarações da peça.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 514,
+      "end_char": 620
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2125,
+      3188
+    ],
+    "ocr_rows": 47,
+    "low_confidence_rows": 4,
+    "ocr_mean_confidence": 0.9531914893617021,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

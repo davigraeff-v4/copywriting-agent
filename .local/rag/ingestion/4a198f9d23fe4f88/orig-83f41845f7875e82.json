@@ -1,0 +1,440 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/aea2856bf49005b29a846b1c3b68a353.jpg",
+  "source_sha256": "83f41845f7875e8278894fe52ccfcb005d8ca1bb9fdedc17c4de6dc28941fff0",
+  "text": "Caio Inteligência Artificial © 2025\nGerador de Conteúdo Viral e Engajante\nAtue como especialista em marketing digital e conteúdo viral.\nContexto: [Plataforma] | [Nicho] | [Audiência] | [Objetivo] | [Recursos]\nCrie estratégia completa para conteúdo viral:\n#HF ANÁLISE DE TENDÊNCIAS\n- **Emergentes**: 5 trends do nicho + hashtags em alta + formatos\nperformantes\n- **Timing**: Horários de pico + sazonalidade + eventos relevantes\n- **Algoritmo**: Sinais que cada plataforma valoriza + timing de publicação\n#HA FORMULAS DE ENGAJAMENTO\n- **Ganchos**: 10 aberturas que param o scroll (primeiros 3 segundos)\n- **Estruturas virais**: Antes/depois + listas + storytelling + polêmicas\nconstrutivas + tutoriais\n- **Elementos-chave**: Gatilhos emocionais + timing + CTAs irresistiveis +\nvisuais marcantes\n#H# ESTRATÉGIA DE CONTEÚDO\n- **Mix 80/20**: 80% valor (educação/entretenimento/inspiração) + 20% venda\n- **Pilares**: Educacional (40%) + Entretenimento (30%) + Inspiracional\n(20%) + Comercial (10%)\n- **Storytelling**: Narrativas pessoais + vulnerabilidade + superação +\nhumor estratégico\n#HA OTIMIZAÇÃO POR PLATAFORMA\n- **Instagram**: Stories + Reels + carrossel + timing especifico\n- **TikTok**: Trends + sounds + efeitos + duetos/stitches\n- **YouTube**: Titulos + thumbnails + primeiros 15s + retention hooks\n- **LinkedIn**: Posts profissionais + artigos + polls + networking\n### CRONOGRAMA VIRAL (30 DIAS)\n- **Semana 1-2**: Conteúdo educacional + estabelecimento autoridade\n- **Semana 3**: Storytelling pessoal + vulnerabilidade estratégica\n- **Semana 4**: Trend-jacking + colaborações + call-to-action forte\nInclua templates de posts, scripts de abertura e métricas de\nacompanhamento.\n\nPrompt de geração de conteúdo em fundo escuro, com estratégia, otimização e cronograma.",
+  "segments": [
+    {
+      "text": "Caio Inteligência Artificial © 2025\nGerador de Conteúdo Viral e Engajante\nAtue como especialista em marketing digital e conteúdo viral.\nContexto: [Plataforma] | [Nicho] | [Audiência] | [Objetivo] | [Recursos]\nCrie estratégia completa para conteúdo viral:\n#HF ANÁLISE DE TENDÊNCIAS\n- **Emergentes**: 5 trends do nicho + hashtags em alta + formatos\nperformantes\n- **Timing**: Horários de pico + sazonalidade + eventos relevantes\n- **Algoritmo**: Sinais que cada plataforma valoriza + timing de publicação\n#HA FORMULAS DE ENGAJAMENTO\n- **Ganchos**: 10 aberturas que param o scroll (primeiros 3 segundos)\n- **Estruturas virais**: Antes/depois + listas + storytelling + polêmicas\nconstrutivas + tutoriais\n- **Elementos-chave**: Gatilhos emocionais + timing + CTAs irresistiveis +\nvisuais marcantes\n#H# ESTRATÉGIA DE CONTEÚDO\n- **Mix 80/20**: 80% valor (educação/entretenimento/inspiração) + 20% venda\n- **Pilares**: Educacional (40%) + Entretenimento (30%) + Inspiracional\n(20%) + Comercial (10%)\n- **Storytelling**: Narrativas pessoais + vulnerabilidade + superação +\nhumor estratégico\n#HA OTIMIZAÇÃO POR PLATAFORMA\n- **Instagram**: Stories + Reels + carrossel + timing especifico\n- **TikTok**: Trends + sounds + efeitos + duetos/stitches\n- **YouTube**: Titulos + thumbnails + primeiros 15s + retention hooks\n- **LinkedIn**: Posts profissionais + artigos + polls + networking\n### CRONOGRAMA VIRAL (30 DIAS)\n- **Semana 1-2**: Conteúdo educacional + estabelecimento autoridade\n- **Semana 3**: Storytelling pessoal + vulnerabilidade estratégica\n- **Semana 4**: Trend-jacking + colaborações + call-to-action forte\nInclua templates de posts, scripts de abertura e métricas de\nacompanhamento.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Caio Inteligência Artificial © 2025",
+          "confidence": 1,
+          "box": [
+            0.04444444435251327,
+            0.9466666666724868,
+            0.26481481481481484,
+            0.016296296296296253
+          ],
+          "start_char": 0,
+          "end_char": 35
+        },
+        {
+          "text": "Gerador de Conteúdo Viral e Engajante",
+          "confidence": 1,
+          "box": [
+            0.10153790711071979,
+            0.8623188521088484,
+            0.6506510416666668,
+            0.03666489212601276
+          ],
+          "start_char": 36,
+          "end_char": 73
+        },
+        {
+          "text": "Atue como especialista em marketing digital e conteúdo viral.",
+          "confidence": 1,
+          "box": [
+            0.09814814805528074,
+            0.8088888888913067,
+            0.6518518518518519,
+            0.016296296296296364
+          ],
+          "start_char": 74,
+          "end_char": 135
+        },
+        {
+          "text": "Contexto: [Plataforma] | [Nicho] | [Audiência] | [Objetivo] | [Recursos]",
+          "confidence": 1,
+          "box": [
+            0.09814814805578086,
+            0.7688888888910517,
+            0.7666666666666666,
+            0.01777777777777778
+          ],
+          "start_char": 136,
+          "end_char": 208
+        },
+        {
+          "text": "Crie estratégia completa para conteúdo viral:",
+          "confidence": 1,
+          "box": [
+            0.09806140452905909,
+            0.7303221929024474,
+            0.4816584269205728,
+            0.01986284467909072
+          ],
+          "start_char": 209,
+          "end_char": 254
+        },
+        {
+          "text": "#HF ANÁLISE DE TENDÊNCIAS",
+          "confidence": 1,
+          "box": [
+            0.09629629762962962,
+            0.6962962964592593,
+            0.2592592592592593,
+            0.016296296296296364
+          ],
+          "start_char": 255,
+          "end_char": 280
+        },
+        {
+          "text": "- **Emergentes**: 5 trends do nicho + hashtags em alta + formatos",
+          "confidence": 1,
+          "box": [
+            0.09814814805856892,
+            0.6740740740764848,
+            0.6944444444444444,
+            0.016296296296296253
+          ],
+          "start_char": 281,
+          "end_char": 346
+        },
+        {
+          "text": "performantes",
+          "confidence": 1,
+          "box": [
+            0.09814814753703703,
+            0.6562962964444444,
+            0.13148148148148148,
+            0.014814814814814836
+          ],
+          "start_char": 347,
+          "end_char": 359
+        },
+        {
+          "text": "- **Timing**: Horários de pico + sazonalidade + eventos relevantes",
+          "confidence": 1,
+          "box": [
+            0.09814814805851639,
+            0.6355555555579242,
+            0.7055555555555556,
+            0.016296296296296253
+          ],
+          "start_char": 360,
+          "end_char": 426
+        },
+        {
+          "text": "- **Algoritmo**: Sinais que cada plataforma valoriza + timing de publicação",
+          "confidence": 1,
+          "box": [
+            0.09814814806094697,
+            0.6162962962983591,
+            0.8,
+            0.016296296296296253
+          ],
+          "start_char": 427,
+          "end_char": 502
+        },
+        {
+          "text": "#HA FORMULAS DE ENGAJAMENTO",
+          "confidence": 1,
+          "box": [
+            0.09629629472222223,
+            0.5807407408641976,
+            0.2814814814814815,
+            0.014814814814814836
+          ],
+          "start_char": 503,
+          "end_char": 530
+        },
+        {
+          "text": "- **Ganchos**: 10 aberturas que param o scroll (primeiros 3 segundos)",
+          "confidence": 1,
+          "box": [
+            0.0981481480615453,
+            0.5585185185207148,
+            0.7351851851851853,
+            0.016296296296296364
+          ],
+          "start_char": 531,
+          "end_char": 600
+        },
+        {
+          "text": "- **Estruturas virais**: Antes/depois + listas + storytelling + polêmicas",
+          "confidence": 1,
+          "box": [
+            0.0981481480570253,
+            0.5392592592614148,
+            0.7777777777777778,
+            0.016296296296296364
+          ],
+          "start_char": 601,
+          "end_char": 674
+        },
+        {
+          "text": "construtivas + tutoriais",
+          "confidence": 1,
+          "box": [
+            0.09999999995047375,
+            0.5214814814900948,
+            0.25555555555555554,
+            0.014814814814814836
+          ],
+          "start_char": 675,
+          "end_char": 699
+        },
+        {
+          "text": "- **Elementos-chave**: Gatilhos emocionais + timing + CTAs irresistiveis +",
+          "confidence": 1,
+          "box": [
+            0.09814814805700604,
+            0.5007407407428681,
+            0.7907407407407407,
+            0.016296296296296364
+          ],
+          "start_char": 700,
+          "end_char": 774
+        },
+        {
+          "text": "visuais marcantes",
+          "confidence": 1,
+          "box": [
+            0.09999999971193413,
+            0.48592592594787376,
+            0.18148148148148147,
+            0.011851851851851891
+          ],
+          "start_char": 775,
+          "end_char": 792
+        },
+        {
+          "text": "#H# ESTRATÉGIA DE CONTEÚDO",
+          "confidence": 1,
+          "box": [
+            0.09629629625175808,
+            0.44592592593624003,
+            0.2703703703703704,
+            0.016296296296296253
+          ],
+          "start_char": 793,
+          "end_char": 819
+        },
+        {
+          "text": "- **Mix 80/20**: 80% valor (educação/entretenimento/inspiração) + 20% venda",
+          "confidence": 1,
+          "box": [
+            0.09814814805378944,
+            0.4237037037059239,
+            0.7999999999999999,
+            0.016296296296296253
+          ],
+          "start_char": 820,
+          "end_char": 895
+        },
+        {
+          "text": "- **Pilares**: Educacional (40%) + Entretenimento (30%) + Inspiracional",
+          "confidence": 1,
+          "box": [
+            0.09814814806063245,
+            0.4044444444465718,
+            0.762962962962963,
+            0.016296296296296364
+          ],
+          "start_char": 896,
+          "end_char": 967
+        },
+        {
+          "text": "(20%) + Comercial (10%)",
+          "confidence": 1,
+          "box": [
+            0.09999999990668963,
+            0.3866666666724088,
+            0.24444444444444446,
+            0.014814814814814836
+          ],
+          "start_char": 968,
+          "end_char": 991
+        },
+        {
+          "text": "- **Storytelling**: Narrativas pessoais + vulnerabilidade + superação +",
+          "confidence": 1,
+          "box": [
+            0.09814815288888876,
+            0.36592592610370367,
+            0.762962962962963,
+            0.01777777777777778
+          ],
+          "start_char": 992,
+          "end_char": 1063
+        },
+        {
+          "text": "humor estratégico",
+          "confidence": 1,
+          "box": [
+            0.09814814828483247,
+            0.3466666667054674,
+            0.1833333333333333,
+            0.016296296296296253
+          ],
+          "start_char": 1064,
+          "end_char": 1081
+        },
+        {
+          "text": "#HA OTIMIZAÇÃO POR PLATAFORMA",
+          "confidence": 1,
+          "box": [
+            0.09612173973305363,
+            0.30719097415561847,
+            0.3040089925130208,
+            0.021682044135199696
+          ],
+          "start_char": 1082,
+          "end_char": 1111
+        },
+        {
+          "text": "- **Instagram**: Stories + Reels + carrossel + timing especifico",
+          "confidence": 1,
+          "box": [
+            0.09814814805918115,
+            0.28888888889134323,
+            0.6833333333333333,
+            0.016296296296296253
+          ],
+          "start_char": 1112,
+          "end_char": 1176
+        },
+        {
+          "text": "- **TikTok**: Trends + sounds + efeitos + duetos/stitches",
+          "confidence": 1,
+          "box": [
+            0.09814814805937383,
+            0.2711111111136566,
+            0.6092592592592594,
+            0.014814814814814836
+          ],
+          "start_char": 1177,
+          "end_char": 1234
+        },
+        {
+          "text": "- **YouTube**: Titulos + thumbnails + primeiros 15s + retention hooks",
+          "confidence": 1,
+          "box": [
+            0.09814814806010927,
+            0.2518518518538758,
+            0.737037037037037,
+            0.014814814814814836
+          ],
+          "start_char": 1235,
+          "end_char": 1304
+        },
+        {
+          "text": "- **LinkedIn**: Posts profissionais + artigos + polls + networking",
+          "confidence": 1,
+          "box": [
+            0.09814814806021253,
+            0.23111111111352178,
+            0.7055555555555555,
+            0.016296296296296253
+          ],
+          "start_char": 1305,
+          "end_char": 1371
+        },
+        {
+          "text": "### CRONOGRAMA VIRAL (30 DIAS)",
+          "confidence": 1,
+          "box": [
+            0.09629629620657927,
+            0.19407407407867494,
+            0.3111111111111111,
+            0.014814814814814836
+          ],
+          "start_char": 1372,
+          "end_char": 1402
+        },
+        {
+          "text": "- **Semana 1-2**: Conteúdo educacional + estabelecimento autoridade",
+          "confidence": 1,
+          "box": [
+            0.09814814806023717,
+            0.17481481481689554,
+            0.7148148148148148,
+            0.014814814814814836
+          ],
+          "start_char": 1403,
+          "end_char": 1470
+        },
+        {
+          "text": "- **Semana 3**: Storytelling pessoal + vulnerabilidade estratégica",
+          "confidence": 1,
+          "box": [
+            0.09814814805878555,
+            0.1540740740764428,
+            0.7037037037037037,
+            0.016296296296296253
+          ],
+          "start_char": 1471,
+          "end_char": 1537
+        },
+        {
+          "text": "- **Semana 4**: Trend-jacking + colaborações + call-to-action forte",
+          "confidence": 1,
+          "box": [
+            0.0981481480558287,
+            0.13481481481721835,
+            0.7148148148148148,
+            0.016296296296296364
+          ],
+          "start_char": 1538,
+          "end_char": 1605
+        },
+        {
+          "text": "Inclua templates de posts, scripts de abertura e métricas de",
+          "confidence": 1,
+          "box": [
+            0.09814814805418172,
+            0.09481481481745235,
+            0.6407407407407408,
+            0.01777777777777778
+          ],
+          "start_char": 1606,
+          "end_char": 1666
+        },
+        {
+          "text": "acompanhamento.",
+          "confidence": 1,
+          "box": [
+            0.09798842137205989,
+            0.0769275399578877,
+            0.16334761160391348,
+            0.017776648909957338
+          ],
+          "start_char": 1667,
+          "end_char": 1682
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1682
+    },
+    {
+      "text": "Prompt de geração de conteúdo em fundo escuro, com estratégia, otimização e cronograma.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1684,
+      "end_char": 1771
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 33,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5275e5374b5132a918a0fe79b849d119.jpg",
+  "source_sha256": "55e6336de8e8a32eb9ef9e541129573b659999fe592919c8a59824f6b867b863",
+  "text": "*Enewsletter Content Strategy *\n- Keep header short in\nheight so see headline!\n- LOGO-\nL include image\nKiller Headline\nwith teaser to\narticle that\nlinks to your\nwebsite\nMORE +\n& establish your\nGot a question? EMAIL›\ncompany as authoritu\nand drive engagement\nFree tool or resource\n& give away somethina\nof value that drives\nthem to your website\nto download or\nDOWNLOAD +\nWatch\n& small feature of\nOur products/ services.\nLEARN MORE +\nyour products or\nservices, link to\nCool team tidbit.\nSite tor more into\neveryone loves\ngossip! Builds\nrelationships +\nREAD ALL GOSSIP+\nbrand personality\nContact Info / Unsubscribe\nC footer with clear\ncontact info + unsubscribe\n\nEsboço manuscrito de newsletter com blocos, CTAs, imagens e observações laterais.",
+  "segments": [
+    {
+      "text": "*Enewsletter Content Strategy *\n- Keep header short in\nheight so see headline!\n- LOGO-\nL include image\nKiller Headline\nwith teaser to\narticle that\nlinks to your\nwebsite\nMORE +\n& establish your\nGot a question? EMAIL›\ncompany as authoritu\nand drive engagement\nFree tool or resource\n& give away somethina\nof value that drives\nthem to your website\nto download or\nDOWNLOAD +\nWatch\n& small feature of\nOur products/ services.\nLEARN MORE +\nyour products or\nservices, link to\nCool team tidbit.\nSite tor more into\neveryone loves\ngossip! Builds\nrelationships +\nREAD ALL GOSSIP+\nbrand personality\nContact Info / Unsubscribe\nC footer with clear\ncontact info + unsubscribe",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "*Enewsletter Content Strategy *",
+          "box": [
+            0.11359685610510789,
+            0.8818877896799265,
+            0.5876054067460317,
+            0.045788203629318125
+          ],
+          "start_char": 0,
+          "end_char": 31
+        },
+        {
+          "confidence": 1,
+          "text": "- Keep header short in",
+          "box": [
+            0.46588755642935464,
+            0.8321761063962558,
+            0.2172958616226438,
+            0.043231068959808994
+          ],
+          "start_char": 32,
+          "end_char": 54
+        },
+        {
+          "confidence": 1,
+          "text": "height so see headline!",
+          "box": [
+            0.4685615008431665,
+            0.8120888980138901,
+            0.2784342124979332,
+            0.055470037171834526
+          ],
+          "start_char": 55,
+          "end_char": 78
+        },
+        {
+          "confidence": 1,
+          "text": "- LOGO-",
+          "box": [
+            0.14946619459212038,
+            0.7761452028300714,
+            0.1263345143151662,
+            0.02181991339760192
+          ],
+          "start_char": 79,
+          "end_char": 86
+        },
+        {
+          "confidence": 1,
+          "text": "L include image",
+          "box": [
+            0.6379428065349878,
+            0.7291240471286873,
+            0.18668829700934197,
+            0.028262623858637315
+          ],
+          "start_char": 87,
+          "end_char": 102
+        },
+        {
+          "confidence": 1,
+          "text": "Killer Headline",
+          "box": [
+            0.16859544553951422,
+            0.7143165641783833,
+            0.20551373517071758,
+            0.033576175686400145
+          ],
+          "start_char": 103,
+          "end_char": 118
+        },
+        {
+          "confidence": 1,
+          "text": "with teaser to",
+          "box": [
+            0.6775436824554462,
+            0.715299145647746,
+            0.15190116438285384,
+            0.020677372001839167
+          ],
+          "start_char": 119,
+          "end_char": 133
+        },
+        {
+          "confidence": 1,
+          "text": "article that",
+          "box": [
+            0.674182305468694,
+            0.696533898514829,
+            0.13212430439298117,
+            0.01969871092378428
+          ],
+          "start_char": 134,
+          "end_char": 146
+        },
+        {
+          "confidence": 1,
+          "text": "links to your",
+          "box": [
+            0.6671273400078671,
+            0.6736778064334357,
+            0.14467826722160226,
+            0.02291720760414695
+          ],
+          "start_char": 147,
+          "end_char": 160
+        },
+        {
+          "confidence": 1,
+          "text": "website",
+          "box": [
+            0.6814502547433015,
+            0.6597376387111122,
+            0.09261550499648641,
+            0.019187513465188988
+          ],
+          "start_char": 161,
+          "end_char": 168
+        },
+        {
+          "confidence": 1,
+          "text": "MORE +",
+          "box": [
+            0.1854455818393843,
+            0.6028869286761392,
+            0.099056070317667,
+            0.02776664067880807
+          ],
+          "start_char": 169,
+          "end_char": 175
+        },
+        {
+          "confidence": 1,
+          "text": "& establish your",
+          "box": [
+            0.6242071557904305,
+            0.5507957513283572,
+            0.176906234499008,
+            0.023503685986676404
+          ],
+          "start_char": 176,
+          "end_char": 192
+        },
+        {
+          "confidence": 1,
+          "text": "Got a question? EMAIL›",
+          "box": [
+            0.15658363625113125,
+            0.526162790676586,
+            0.3309608419105489,
+            0.03347420094851894
+          ],
+          "start_char": 193,
+          "end_char": 215
+        },
+        {
+          "confidence": 1,
+          "text": "company as authoritu",
+          "box": [
+            0.6507341468749112,
+            0.5360521336249564,
+            0.2108496126043733,
+            0.024508541374239412
+          ],
+          "start_char": 216,
+          "end_char": 236
+        },
+        {
+          "confidence": 1,
+          "text": "and drive engagement",
+          "box": [
+            0.6558146623086069,
+            0.5157533336951088,
+            0.215362306625124,
+            0.02991391959227463
+          ],
+          "start_char": 237,
+          "end_char": 257
+        },
+        {
+          "confidence": 1,
+          "text": "Free tool or resource",
+          "box": [
+            0.16147269998704522,
+            0.4832747311190353,
+            0.2765113467261905,
+            0.03261406089894814
+          ],
+          "start_char": 258,
+          "end_char": 279
+        },
+        {
+          "confidence": 1,
+          "text": "& give away somethina",
+          "box": [
+            0.6261841438107926,
+            0.47378130944351554,
+            0.24411448322275953,
+            0.021958588523502076
+          ],
+          "start_char": 280,
+          "end_char": 301
+        },
+        {
+          "confidence": 1,
+          "text": "of value that drives",
+          "box": [
+            0.6420792375565628,
+            0.4543284615527734,
+            0.20192661184482474,
+            0.02438660129557002
+          ],
+          "start_char": 302,
+          "end_char": 322
+        },
+        {
+          "confidence": 1,
+          "text": "them to your website",
+          "box": [
+            0.6296220002569208,
+            0.43174119912675724,
+            0.23356318398127485,
+            0.02397170598484266
+          ],
+          "start_char": 323,
+          "end_char": 343
+        },
+        {
+          "confidence": 1,
+          "text": "to download or",
+          "box": [
+            0.6387900374581098,
+            0.4170267932720738,
+            0.1690391419425843,
+            0.019019718714180733
+          ],
+          "start_char": 344,
+          "end_char": 358
+        },
+        {
+          "confidence": 1,
+          "text": "DOWNLOAD +",
+          "box": [
+            0.181303492786344,
+            0.40167932668805617,
+            0.18544598937665346,
+            0.02289487662352463
+          ],
+          "start_char": 359,
+          "end_char": 369
+        },
+        {
+          "confidence": 1,
+          "text": "Watch",
+          "box": [
+            0.6405693968897809,
+            0.3982558138014395,
+            0.0747330922929067,
+            0.017441860848495194
+          ],
+          "start_char": 370,
+          "end_char": 375
+        },
+        {
+          "confidence": 1,
+          "text": "& small feature of",
+          "box": [
+            0.623472198718003,
+            0.3549403542647368,
+            0.22643648985201725,
+            0.0332341832958013
+          ],
+          "start_char": 376,
+          "end_char": 394
+        },
+        {
+          "confidence": 1,
+          "text": "Our products/ services.",
+          "box": [
+            0.15600267489352398,
+            0.3437853590108991,
+            0.28558795262896824,
+            0.03483977849460829
+          ],
+          "start_char": 395,
+          "end_char": 418
+        },
+        {
+          "confidence": 1,
+          "text": "LEARN MORE +",
+          "box": [
+            0.46548441089583725,
+            0.34576029975853795,
+            0.1456978126808448,
+            0.023270478409327833
+          ],
+          "start_char": 419,
+          "end_char": 431
+        },
+        {
+          "confidence": 1,
+          "text": "your products or",
+          "box": [
+            0.6397464434314383,
+            0.33519798760860675,
+            0.1903097970145089,
+            0.026241963550564407
+          ],
+          "start_char": 432,
+          "end_char": 448
+        },
+        {
+          "confidence": 1,
+          "text": "services, link to",
+          "box": [
+            0.6491216692681413,
+            0.31682396704431726,
+            0.1875191663308119,
+            0.0262916081922262
+          ],
+          "start_char": 449,
+          "end_char": 466
+        },
+        {
+          "confidence": 1,
+          "text": "Cool team tidbit.",
+          "box": [
+            0.33368747183973446,
+            0.30150846691085265,
+            0.26514516356130124,
+            0.035218432532782784
+          ],
+          "start_char": 467,
+          "end_char": 484
+        },
+        {
+          "confidence": 1,
+          "text": "Site tor more into",
+          "box": [
+            0.6651092274548679,
+            0.3033993466951471,
+            0.18406793503534236,
+            0.021411158035001376
+          ],
+          "start_char": 485,
+          "end_char": 503
+        },
+        {
+          "confidence": 1,
+          "text": "everyone loves",
+          "box": [
+            0.6320389608144362,
+            0.2650387909209383,
+            0.19816931669043492,
+            0.03530716793024036
+          ],
+          "start_char": 504,
+          "end_char": 518
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.64557547742062,
+            0.24327385639206187,
+            0.18510380497685186,
+            0.04126904684609145
+          ],
+          "text": "gossip! Builds",
+          "start_char": 519,
+          "end_char": 533
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6440434281993249,
+            0.2292166366822895,
+            0.187002111364294,
+            0.025578355418265475
+          ],
+          "text": "relationships +",
+          "start_char": 534,
+          "end_char": 549
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.34848809588869983,
+            0.21930160459861403,
+            0.2639322270791998,
+            0.02508093059938743
+          ],
+          "text": "READ ALL GOSSIP+",
+          "start_char": 550,
+          "end_char": 566
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6387900363227088,
+            0.20784883693811973,
+            0.21352313006365742,
+            0.02637761115203563
+          ],
+          "text": "brand personality",
+          "start_char": 567,
+          "end_char": 584
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1331544940836832,
+            0.1647649619484216,
+            0.34571875516699735,
+            0.02923169544058413
+          ],
+          "text": "Contact Info / Unsubscribe",
+          "start_char": 585,
+          "end_char": 611
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.29666366842236214,
+            0.10449073636273998,
+            0.24351057426008593,
+            0.04627159204375897
+          ],
+          "text": "C footer with clear",
+          "start_char": 612,
+          "end_char": 631
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3450079192737346,
+            0.09581067871890392,
+            0.3189464104869379,
+            0.025772000760380886
+          ],
+          "text": "contact info + unsubscribe",
+          "start_char": 632,
+          "end_char": 658
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 658
+    },
+    {
+      "text": "Esboço manuscrito de newsletter com blocos, CTAs, imagens e observações laterais.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 660,
+      "end_char": 741
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      630,
+      771
+    ],
+    "ocr_rows": 37,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

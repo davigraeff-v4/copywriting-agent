@@ -8,11 +8,64 @@ import sys
 import unicodedata
 from pathlib import Path
 
+from client_paths import resolve_reference
+
 ROOT = Path(__file__).resolve().parents[1]
+GATE_VERSION = '2026-10-09-objective-v1'
+WORD_BUDGET_EXCLUSIONS = {'cta', 'form_label', 'form_option'}
+
+
+def validator_digest():
+    return digest({name: hashlib.sha256((ROOT / 'scripts' / name).read_bytes()).hexdigest()
+                   for name in ('copycheck.py', 'client_paths.py')})
+
+
+def word_count(doc):
+    return sum(len(re.findall(r'\w+', f['text'], flags=re.UNICODE))
+               for f in doc['fields'] if f['role'] not in WORD_BUDGET_EXCLUSIONS)
+
+
+def constraint_fields(constraint, fields):
+    """Machine selectors define scope; free-text scope never guesses a target."""
+    selector = constraint.get('applies_to')
+    if selector is None:
+        if constraint.get('required_terms') or constraint.get('forbidden_terms'):
+            scope = normalize(constraint['scope'])
+            if scope not in {'global', 'cliente', 'client', 'campanha', 'campaign', 'entrega', 'delivery'}:
+                raise ValueError('constraint ' + constraint['id'] + ': scoped terms need applies_to')
+        return fields
+    allowed = {'field_ids', 'sections', 'roles', 'piece_ids'}
+    if not isinstance(selector, dict) or not selector or set(selector) - allowed:
+        raise ValueError('constraint ' + constraint['id'] + ': invalid applies_to')
+    keys = {'field_ids': 'id', 'sections': 'section', 'roles': 'role', 'piece_ids': 'piece_id'}
+    for key, values in selector.items():
+        if not isinstance(values, list) or not values or not all(isinstance(v, str) and v for v in values):
+            raise ValueError('constraint ' + constraint['id'] + ': invalid selector ' + key)
+        if not set(values) <= {f.get(keys[key]) for f in fields}:
+            raise ValueError('constraint ' + constraint['id'] + ': unknown selector target ' + key)
+    selected = [f for f in fields if all(f.get(keys[key]) in values for key, values in selector.items())]
+    if not selected:
+        raise ValueError('constraint ' + constraint['id'] + ': selector has no fields')
+    return selected
+
+
+def constraint_groups(constraint, fields):
+    selected = constraint_fields(constraint, fields)
+    selector = constraint.get('applies_to', {})
+    if 'roles' in selector or 'field_ids' in selector:
+        return [[normalize(f['text'])] for f in selected]
+    key = 'piece_id' if 'piece_ids' in selector else 'section' if 'sections' in selector else None
+    if key:
+        return [[normalize(f['text']) for f in selected if f.get(key) == value]
+                for value in dict.fromkeys(f[key] for f in selected)]
+    return [[normalize(f['text']) for f in selected]]
 
 
 def load(path):
-    return json.loads(Path(path).read_text(encoding="utf-8"))
+    path = Path(path)
+    if not path.is_file():
+        path = resolve_reference(str(path), ROOT)
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def digest(value):
@@ -131,6 +184,11 @@ def validate(doc):
         require(all(isinstance(c.get(k), str) and c[k].strip() for k in ("rule", "scope", "source")), f"constraint {c['id']}: rule/scope/source required")
         for key in ("forbidden_terms", "required_terms"):
             require(isinstance(c.get(key, []), list) and all(isinstance(v, str) and v for v in c.get(key, [])), f"constraint {c['id']}: invalid {key}")
+        if all(isinstance(c.get(k), str) and c[k].strip() for k in ('rule', 'scope', 'source')):
+            try:
+                constraint_fields(c, list(fields.values()))
+            except ValueError as exc:
+                errors.append(str(exc))
     sections = {f.get("section") for f in fields.values()}
     if doc.get("route") == "lp":
         insight_keys = {
@@ -189,21 +247,22 @@ def validate(doc):
             if type(budget) is int and budget > 300:
                 require(isinstance(requirements.get("prose_word_budget_reason"), str) and bool(requirements["prose_word_budget_reason"].strip()), "lp prose_word_budget above 300 needs a reason")
             if type(budget) is int and budget > 0:
-                prose_roles = {"headline", "subheadline", "body", "support", "item", "seal", "title", "primary_text"}
-                actual_words = sum(len(re.findall(r"\w+", f["text"], flags=re.UNICODE)) for f in fields.values() if f.get("role") in prose_roles)
+                actual_words = word_count(doc)
                 require(actual_words <= budget, f"lp prose exceeds word budget: {actual_words}/{budget}")
     return errors
 
 
 def review_template(doc):
     rubric = load(ROOT / "quality/rubric.json")
-    return dict(delivery_sha256=digest(doc), rubric_version=rubric["version"],
+    return dict(delivery_sha256=digest(doc), gate_version=GATE_VERSION, validator_sha256=validator_digest(), rubric_version=rubric["version"],
                 rubric_sha256=digest(rubric), policy_sha256=digest(load(ROOT / "quality/editorial-policy.json")), reviewer="",
                 general={k: dict(score=None, field_id="", quote="", reason="") for k in rubric["general"]},
                 humanization={k: dict(score=None, field_id="", quote="", reason="") for k in rubric["humanization"]},
                 claim_checks={c["id"]: dict(status="pending", reason="") for c in doc["claims"]},
                 constraint_checks={c["id"]: dict(status="pending", reason="") for c in doc["constraints"]},
                 claim_inventory=dict(status="pending", reason=""),
+                field_checks={f['id']: dict(status='pending', claim_ids=[], reason='') for f in doc['fields']},
+                source_checks={s['id']: dict(status='pending', path='', sha256='', reason='') for s in doc['sources']},
                 readings=[], warning_resolutions=[], limitations=[], critical_issues=[])
 
 
@@ -221,6 +280,46 @@ def check_review(doc, review, warnings):
     if review.get("policy_sha256") != digest(load(ROOT / "quality/editorial-policy.json")):
         errors.append("editorial policy changed: renew review")
     fields = {f["id"]: f for f in doc["fields"]}
+    if review.get('gate_version') != GATE_VERSION or review.get('validator_sha256') != validator_digest():
+        errors.append('objective validator changed or legacy review: renew validation')
+    field_checks = review.get('field_checks', {})
+    claims = {c['id']: c for c in doc['claims']}
+    if not isinstance(field_checks, dict) or set(field_checks) != set(fields):
+        errors.append('field_checks: inventory must cover every public field')
+    else:
+        for field_id, item in field_checks.items():
+            if not isinstance(item, dict) or not isinstance(item.get('reason'), str) or not item['reason'].strip():
+                errors.append('field_checks.' + field_id + ': missing factual decision/reason')
+                continue
+            linked = {c['id'] for c in doc['claims'] if c['field_id'] == field_id}
+            refs = item.get('claim_ids')
+            if not isinstance(refs, list) or not all(isinstance(x, str) for x in refs) or len(set(refs)) != len(refs):
+                errors.append('field_checks.' + field_id + ': invalid claim_ids')
+            elif item.get('status') == 'mapped':
+                if not refs or set(refs) != linked or any(x not in claims for x in refs):
+                    errors.append('field_checks.' + field_id + ': claims do not cover mapped field')
+            elif item.get('status') == 'no_factual_claim':
+                if refs or linked:
+                    errors.append('field_checks.' + field_id + ': factual claims cannot be waived')
+            else:
+                errors.append('field_checks.' + field_id + ': unresolved factual decision')
+    sources = {s['id']: s for s in doc['sources']}
+    source_checks = review.get('source_checks', {})
+    if not isinstance(source_checks, dict) or set(source_checks) != set(sources):
+        errors.append('source_checks: each source needs a preserved file or snapshot')
+    else:
+        for source_id, item in source_checks.items():
+            try:
+                if not isinstance(item, dict) or item.get('status') != 'pass' or not isinstance(item.get('reason'), str) or not item['reason'].strip():
+                    raise ValueError('unresolved source check')
+                path = resolve_reference(item.get('path'), ROOT)
+                raw = path.read_bytes()
+                if item.get('sha256') != hashlib.sha256(raw).hexdigest():
+                    raise ValueError('source changed: renew source check')
+                if normalize(sources[source_id]['excerpt']) not in normalize(raw.decode('utf-8')):
+                    raise ValueError('source excerpt not present in preserved text')
+            except (OSError, ValueError, TypeError, UnicodeError) as exc:
+                errors.append('source_checks.' + source_id + ': ' + str(exc))
     for group in ("general", "humanization"):
         entries = review.get(group, {})
         if not isinstance(entries, dict) or set(entries) != set(rubric[group]):
@@ -297,13 +396,16 @@ def _check(doc, review=None):
     for field in doc["fields"]:
         if re.search(r"\d", field["text"]) and field["id"] not in mapped and field["role"] not in ("form_label",):
             issues.append(dict(field_id=field["id"], rule="unmapped_number", quote=field["text"], level="warning"))
-    alltext = normalize("\n".join(f["text"] for f in doc["fields"]))
     for c in doc["constraints"]:
+        selected = constraint_fields(c, doc['fields'])
+        texts = [normalize(f['text']) for f in selected]
         for term in c.get("forbidden_terms", []):
-            if re.search(r"(?<!\w)" + re.escape(normalize(term)) + r"(?!\w)", alltext):
+            if any(re.search(r"(?<!\w)" + re.escape(normalize(term)) + r"(?!\w)", text) for text in texts):
                 errors.append(f"constraint {c['id']}: forbidden {term}")
         for term in c.get("required_terms", []):
-            if normalize(term) not in alltext:
+            groups = constraint_groups(c, doc['fields'])
+            pattern = r'(?<!\w)' + re.escape(normalize(term)) + r'(?!\w)'
+            if any(not any(re.search(pattern, text) for text in group) for group in groups):
                 errors.append(f"constraint {c['id']}: missing {term}")
     errors += [f"{i['field_id']}: {i['rule']} ({i['quote']})" for i in issues if i["level"] == "error"]
     scores = {}
@@ -312,6 +414,7 @@ def _check(doc, review=None):
         errors += review_errors
     return dict(status="blocked" if errors else "ready_for_human_approval" if review is not None else "needs_editorial_review",
                 sha256=digest(doc), errors=errors, issues=issues, scores=scores,
+                word_count=word_count(doc), gate_version=GATE_VERSION,
                 limitation="Checks verify structure and review evidence, not factual truth, grammar completeness or human preference.")
 
 

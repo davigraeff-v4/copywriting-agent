@@ -14,7 +14,9 @@ Saída das skills 01/02/03/05/06/07/09, consumida por 08/10/11/13. Usar `quality
 - Claims pretendidos: trecho publicável → fato → fonte → alcance. Anotar por que a evidência sustenta a formulação, incluindo relações causais.
 - HARD CONSTRAINTS ativas, preferências aplicáveis e requisitos de formato.
 - Hipóteses, pendências e exclusões de fonte.
-- Referências curadas: aspecto aproveitável e aspecto incompatível. Não copiar resultados de outra marca.
+- Referências pesquisadas proativamente na produção nova: identidade/localizador, trecho lido, match, escolha orientada e limite de transferência. Depois da escrita, campo/trecho da aplicação observada. Não copiar resultados de outra marca; não confundir referência entregue ao modelo com melhoria comprovada.
+- Seleção de skills: capacidade, motivo, decisão/artefato e retornos necessários. Registrar no contexto/plano existente conforme `quality/AUTONOMIA-E-REPERTORIO.md`, sem executar as 14 por ritual.
+- Contribuição por campo/seção e compressão por proposição conforme `quality/REDUNDANCIA.md`; repetição funcional pode ser mantida.
 - Em LP, narrative_thesis e title_ladder internas antes dos campos publicáveis; não apresentar a tese interna como copy automaticamente.
 
 ## Pesquisa no Drive

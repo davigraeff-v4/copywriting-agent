@@ -1,0 +1,18 @@
+{
+  "main_cases": 250,
+  "main_executions": 948,
+  "followup_cases": 16,
+  "followup_executions": 48,
+  "total_executions": 996,
+  "generated_files": {
+    "testes-automatizados.txt": "f4a53ed98e8b48203ddd86f529048bf2e4870620ff35c8290db176259ceff5e0",
+    "robustez.json": "f44772d5f4ad4d038708bafb8c572aed4de8f4d9a391a02547d017831e3b5716",
+    "formatacao-completa.json": "5b57b97f6bb9f6630b7926d1a967fb6a549c06909aa06ee9bca51783bc8ea193",
+    "painel.html": "4d855c72ebab4a80ad7b8c533e0b3a8db7bbdb8ce0617942a0898d404c139e74",
+    "verificacoes-operacionais.json": "3aa3a46321ad90bee809a745436e91feaea848691d4e47642b7f9c67ab146623",
+    "notas-por-exemplo.csv": "87f11c6a92d1466bf1416fc21daef287787b49f9a7d3f8d9b9fa081dd5fddd3f",
+    "resultados-completos.json": "f92c66492a335f856f4dbd825ecb8c92cfff994f9187c0a18cd3c02753629143",
+    "cobertura.json": "ba4f1ae5157ea95d9f7d687a45e1fcdad3b1efb6dcc82855f8b8df086bf44539",
+    "preservacao.json": "eb9e5b2cb3bfa5806ad922e6b9617908f1e84d8d7378a06042ed2ae26285a797"
+  }
+}

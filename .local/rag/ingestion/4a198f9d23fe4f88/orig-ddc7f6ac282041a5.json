@@ -1,0 +1,212 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e820cc4c4939b267c3eb235a380a6cf8.jpg",
+  "source_sha256": "ddc7f6ac282041a5c53125c8ac43bf7cbe5ff64b3bbc59c93c6366db64b6eb67",
+  "text": "ELAYNE OLIVEIRA\nMARKETING\n< Notas\nTítulos que despertam\ncuriosidade no seu post:\n• Talvez você não saiba, mas...\nVou te contar um segredo...\nPor que você deve....\nVocê precisa ler isso....\n• x motivos para vac...\n• O principal segredo para....\n• Duvido que alguém já te contou....\n• X dicas para você nunca mais....\n• como conseguiu.... seus resultados)\n\nCartão no estilo aplicativo de notas com sugestões de títulos de curiosidade.",
+  "segments": [
+    {
+      "text": "ELAYNE OLIVEIRA\nMARKETING\n< Notas\nTítulos que despertam\ncuriosidade no seu post:\n• Talvez você não saiba, mas...\nVou te contar um segredo...\nPor que você deve....\nVocê precisa ler isso....\n• x motivos para vac...\n• O principal segredo para....\n• Duvido que alguém já te contou....\n• X dicas para você nunca mais....\n• como conseguiu.... seus resultados)",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "ELAYNE OLIVEIRA",
+          "box": [
+            0.4259259258333334,
+            0.8000000000048917,
+            0.2,
+            0.010370370370370363
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "text": "MARKETING",
+          "box": [
+            0.5462962962037037,
+            0.7911111111195286,
+            0.08148148148148138,
+            0.007407407407407418
+          ],
+          "confidence": 1,
+          "start_char": 16,
+          "end_char": 25
+        },
+        {
+          "text": "< Notas",
+          "box": [
+            0.10713842102163311,
+            0.6673642760943623,
+            0.15238982306586368,
+            0.03564181857638893
+          ],
+          "confidence": 1,
+          "start_char": 26,
+          "end_char": 33
+        },
+        {
+          "text": "Títulos que despertam",
+          "box": [
+            0.145916391920431,
+            0.5791531761493249,
+            0.600717219599971,
+            0.04879276982060177
+          ],
+          "confidence": 1,
+          "start_char": 34,
+          "end_char": 55
+        },
+        {
+          "text": "curiosidade no seu post:",
+          "box": [
+            0.14786474264742222,
+            0.5280758411473512,
+            0.6506313747829862,
+            0.04644655863444003
+          ],
+          "confidence": 1,
+          "start_char": 56,
+          "end_char": 80
+        },
+        {
+          "text": "• Talvez você não saiba, mas...",
+          "box": [
+            0.1562499996491609,
+            0.47083333335937505,
+            0.5260416666666667,
+            0.03749999999999998
+          ],
+          "confidence": 1,
+          "start_char": 81,
+          "end_char": 112
+        },
+        {
+          "text": "Vou te contar um segredo...",
+          "box": [
+            0.21286367969445785,
+            0.43273737151375,
+            0.4446226049352574,
+            0.0282415291115089
+          ],
+          "confidence": 1,
+          "start_char": 113,
+          "end_char": 140
+        },
+        {
+          "text": "Por que você deve....",
+          "box": [
+            0.2091147422723628,
+            0.38752494380438685,
+            0.33361686423972803,
+            0.028363287183973518
+          ],
+          "confidence": 1,
+          "start_char": 141,
+          "end_char": 162
+        },
+        {
+          "text": "Você precisa ler isso....",
+          "box": [
+            0.19999999980654765,
+            0.3437037037261905,
+            0.3722222222222222,
+            0.0251851851851852
+          ],
+          "confidence": 1,
+          "start_char": 163,
+          "end_char": 188
+        },
+        {
+          "text": "• x motivos para vac...",
+          "box": [
+            0.13670237419703837,
+            0.27547551202766507,
+            0.4432619165491175,
+            0.06534527248806421
+          ],
+          "confidence": 1,
+          "start_char": 189,
+          "end_char": 212
+        },
+        {
+          "text": "• O principal segredo para....",
+          "box": [
+            0.1574074054320988,
+            0.2503703705,
+            0.4888888888888889,
+            0.03111111111111109
+          ],
+          "confidence": 1,
+          "start_char": 213,
+          "end_char": 243
+        },
+        {
+          "text": "• Duvido que alguém já te contou....",
+          "box": [
+            0.15185184988888897,
+            0.1985185186666668,
+            0.6111111111111112,
+            0.0444444444444444
+          ],
+          "confidence": 1,
+          "start_char": 244,
+          "end_char": 280
+        },
+        {
+          "text": "• X dicas para você nunca mais....",
+          "box": [
+            0.1571158633884427,
+            0.15667889474147667,
+            0.5783984148943866,
+            0.034680879380967866
+          ],
+          "confidence": 1,
+          "start_char": 281,
+          "end_char": 315
+        },
+        {
+          "text": "• como conseguiu.... seus resultados)",
+          "box": [
+            0.14971864317562925,
+            0.1102528705357424,
+            0.669048563639323,
+            0.04255403306749139
+          ],
+          "confidence": 1,
+          "start_char": 316,
+          "end_char": 353
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 353
+    },
+    {
+      "text": "Cartão no estilo aplicativo de notas com sugestões de títulos de curiosidade.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 355,
+      "end_char": 432
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 14,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

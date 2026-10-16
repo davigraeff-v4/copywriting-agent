@@ -1,0 +1,25 @@
+{
+  "labeling": "Consultas sintéticas reservadas para validação após congelar parâmetros em desenvolvimento; alvos definidos pelo mesmo agente, não avaliação humana cega.",
+  "queries": [
+    {"id":"val01","route":"lp","use":"positive","query":"Uma fechadura responde à dúvida de ter trancado a porta explicando um sensor configurável e a instalação necessária.","expected":["rep-02-l07"]},
+    {"id":"val02","route":"lp","use":"positive","query":"Café entregue de modo recorrente com escolha de frequência, alteração e cancelamento, sem confundir frete com compra gratuita.","expected":["rep-02-l11"]},
+    {"id":"val03","route":"lp","use":"positive","query":"Página de cadeira apresenta mecanismos de suporte e três tamanhos para adequação, além de especificações e showroom.","expected":["rep-02-l10"]},
+    {"id":"val04","route":"lp","use":"positive","query":"Oferta de cursos para desenvolver aplicativos organiza caminhos por ferramenta e ponto de partida, sem garantir emprego.","expected":["rep-02-l02"]},
+    {"id":"val05","route":"ads","use":"positive","query":"A tipografia é construída com as formas de um recipiente, mas a redação inclui um contraste incompatível com a política atual.","expected":["rep-02-a15"]},
+    {"id":"val06","route":"ads","use":"positive","query":"Imagem de uma coruja feita de formas de papel de confeitaria mostra a matéria do produto antes da alegação ambiental.","expected":["rep-02-a14"]},
+    {"id":"val07","route":"ads","use":"positive","query":"A hamburgueria anuncia algo grande usando escalas diferentes de um ingrediente, deixando a oferta pouco clara para quem não conhece a marca.","expected":["rep-02-a09"]},
+    {"id":"val08","route":"ads","use":"guidance","query":"Como variar campanhas por episódios de compra e alternativas sem apenas trocar palavras da mesma chamada?","expected":["rep-01-m19","rep-01-m05","matriz-de-variacoes-e-testes"]},
+    {"id":"val09","route":"direct","use":"positive","query":"A assinatura de uma revista demonstra valor por benefícios concretos entregues em meses anteriores, com cuidado sobre disponibilidade atual.","expected":["rep-02-d06"]},
+    {"id":"val10","route":"direct","use":"positive","query":"Produto cosmético usa linguagem de prazer e provas de imprensa e consumidores, mas depoimento não valida proteção clínica.","expected":["rep-02-d07"]},
+    {"id":"val11","route":"direct","use":"positive","query":"Celular apresentado por assistência em tarefas, tela ao ar livre e uso em jogos, acompanhado de notas sobre mercado e configuração.","expected":["rep-02-d05"]},
+    {"id":"val12","route":"direct","use":"guidance","query":"Uma sequência de mensagens deve manter o propósito de cada contato e acompanhar a decisão que está sendo tomada.","expected":["rep-01-m15","rotas-direct"]},
+    {"id":"val13","route":"social","use":"positive","query":"Conteúdo social mostra uma tarefa doméstica que a pessoa pode imaginar executar, organizando ideias de ambientes.","expected":["rep-01-e25"]},
+    {"id":"val14","route":"social","use":"structure","query":"Os slides repetem a mesma ideia. Como cada tela pode entregar informação nova e continuar uma pauta?","expected":["rep-01-r09"]},
+    {"id":"val15","route":"lp","use":"guidance","query":"O texto está factual e formatado, mas a página é intercambiável com qualquer empresa. Isso pode ser aprovado só pela nota geral?","expected":["narrativa-lp","calibracao-editorial"]},
+    {"id":"val16","route":"ads","use":"guidance","query":"Preciso reduzir somente o campo indicado sem pesquisar tudo outra vez nem modificar o restante da entrega já revisada.","expected":["ajustes-incrementais"]},
+    {"id":"valn01","route":"ads","query":"Qual sequência de aminoácidos forma a proteína hemoglobina e como deduzir sua estrutura terciária?","expected":[],"type":"no_coverage"},
+    {"id":"valn02","route":"lp","query":"Calcular a trajetória orbital de um satélite geoestacionário usando a equação de Kepler.","expected":[],"type":"no_coverage"},
+    {"id":"valn03","route":"direct","query":"Qual é a abertura de xadrez com defesa siciliana variante Najdorf e peão em d6?","expected":[],"type":"no_coverage"},
+    {"id":"valn04","route":"social","query":"Como diagnosticar uma fratura do fêmur e escolher uma dosagem de anestesia para cirurgia?","expected":[],"type":"no_coverage"}
+  ]
+}

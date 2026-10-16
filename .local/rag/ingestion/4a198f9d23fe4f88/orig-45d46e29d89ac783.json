@@ -1,0 +1,272 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1f8d9461f78b062c1061cf1aa7ef46c4.jpg",
+  "source_sha256": "45d46e29d89ac783942d392f6b86b22d55a6c3e72e50cef4710fdf924cfb074e",
+  "text": "CONVERSATIONAL\n1. POV: You're finally doing the thing you said you'd\ndo 6 months ago.\n2. Tell me why I thought this was gonna flop... and then\nit did this.\n3. I don't know who needs to hear this, but [truth\nbomb].\n4. If you're stuck in your [work, niche, specific] flop\nera-watch this.\n5. I was the drama.... until I figured this out.\n6. If [insert trend] was a person, I would fight it.\n7. Hot take - You don't need more motivation, you\nneed [thing they're avoiding].\n8. This one's for the girlies who are always [relatable\nstruggle.\n9. I'm not saying this changed my life... but this\nchanged my life.\n10. Normalize being obsessed with [insert niche but\nspecific joy/goal].\n\nLista numerada de aberturas conversacionais para conteúdo, em composição tipográfica simples.",
+  "segments": [
+    {
+      "text": "CONVERSATIONAL\n1. POV: You're finally doing the thing you said you'd\ndo 6 months ago.\n2. Tell me why I thought this was gonna flop... and then\nit did this.\n3. I don't know who needs to hear this, but [truth\nbomb].\n4. If you're stuck in your [work, niche, specific] flop\nera-watch this.\n5. I was the drama.... until I figured this out.\n6. If [insert trend] was a person, I would fight it.\n7. Hot take - You don't need more motivation, you\nneed [thing they're avoiding].\n8. This one's for the girlies who are always [relatable\nstruggle.\n9. I'm not saying this changed my life... but this\nchanged my life.\n10. Normalize being obsessed with [insert niche but\nspecific joy/goal].",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "CONVERSATIONAL",
+          "confidence": 1,
+          "box": [
+            0.20160165323210744,
+            0.8472770548714837,
+            0.6023326732494213,
+            0.04736301280834054
+          ],
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "text": "1. POV: You're finally doing the thing you said you'd",
+          "confidence": 1,
+          "box": [
+            0.13333333327819386,
+            0.7525925925981412,
+            0.7314814814814815,
+            0.029629629629629672
+          ],
+          "start_char": 15,
+          "end_char": 68
+        },
+        {
+          "text": "do 6 months ago.",
+          "confidence": 1,
+          "box": [
+            0.1584888774069303,
+            0.7129880454496189,
+            0.25170488710756656,
+            0.033127978289568816
+          ],
+          "start_char": 69,
+          "end_char": 85
+        },
+        {
+          "text": "2. Tell me why I thought this was gonna flop... and then",
+          "confidence": 1,
+          "box": [
+            0.12777777772312726,
+            0.675555555561125,
+            0.7722222222222223,
+            0.029629629629629672
+          ],
+          "start_char": 86,
+          "end_char": 142
+        },
+        {
+          "text": "it did this.",
+          "confidence": 1,
+          "box": [
+            0.15533810247642635,
+            0.638368359292612,
+            0.14334760595251014,
+            0.02826664394802514
+          ],
+          "start_char": 143,
+          "end_char": 155
+        },
+        {
+          "text": "3. I don't know who needs to hear this, but [truth",
+          "confidence": 1,
+          "box": [
+            0.12940779568040897,
+            0.593199467815237,
+            0.6800337614836517,
+            0.03757436822961879
+          ],
+          "start_char": 156,
+          "end_char": 206
+        },
+        {
+          "text": "bomb].",
+          "confidence": 1,
+          "box": [
+            0.15744571857393896,
+            0.559274584991657,
+            0.10826309345386648,
+            0.03558620594165951
+          ],
+          "start_char": 207,
+          "end_char": 213
+        },
+        {
+          "text": "4. If you're stuck in your [work, niche, specific] flop",
+          "confidence": 1,
+          "box": [
+            0.12777777768600704,
+            0.5155555555608153,
+            0.7203703703703703,
+            0.03555555555555556
+          ],
+          "start_char": 214,
+          "end_char": 269
+        },
+        {
+          "text": "era-watch this.",
+          "confidence": 1,
+          "box": [
+            0.15909123314494825,
+            0.48581831365072936,
+            0.22267060456452545,
+            0.0278777073047779
+          ],
+          "start_char": 270,
+          "end_char": 285
+        },
+        {
+          "text": "5. I was the drama.... until I figured this out.",
+          "confidence": 1,
+          "box": [
+            0.12766020852488996,
+            0.4426233134092684,
+            0.603906758626302,
+            0.03204123037832751
+          ],
+          "start_char": 286,
+          "end_char": 334
+        },
+        {
+          "text": "6. If [insert trend] was a person, I would fight it.",
+          "confidence": 1,
+          "box": [
+            0.12770242389638958,
+            0.40161990268541614,
+            0.6668081212926793,
+            0.03430577030888304
+          ],
+          "start_char": 335,
+          "end_char": 387
+        },
+        {
+          "text": "7. Hot take - You don't need more motivation, you",
+          "confidence": 1,
+          "box": [
+            0.13302901483714955,
+            0.36228296456954934,
+            0.7117065994827835,
+            0.03898713005913634
+          ],
+          "start_char": 388,
+          "end_char": 437
+        },
+        {
+          "text": "need [thing they're avoiding].",
+          "confidence": 1,
+          "box": [
+            0.15910932149176485,
+            0.3272188714862585,
+            0.41148981165002896,
+            0.03546041418004919
+          ],
+          "start_char": 438,
+          "end_char": 468
+        },
+        {
+          "text": "8. This one's for the girlies who are always [relatable",
+          "confidence": 1,
+          "box": [
+            0.13148148139236784,
+            0.2903703703746521,
+            0.7314814814814815,
+            0.029629629629629672
+          ],
+          "start_char": 469,
+          "end_char": 524
+        },
+        {
+          "text": "struggle.",
+          "confidence": 1,
+          "box": [
+            0.1590373271332339,
+            0.25129862069352615,
+            0.1335178233959057,
+            0.027346013387044343
+          ],
+          "start_char": 525,
+          "end_char": 534
+        },
+        {
+          "text": "9. I'm not saying this changed my life... but this",
+          "confidence": 1,
+          "box": [
+            0.1333333333221697,
+            0.2133333333438403,
+            0.6574074074074074,
+            0.029629629629629672
+          ],
+          "start_char": 535,
+          "end_char": 585
+        },
+        {
+          "text": "changed my life.",
+          "confidence": 1,
+          "box": [
+            0.15913388992344832,
+            0.17416920841235473,
+            0.23358407197175204,
+            0.030920842488606826
+          ],
+          "start_char": 586,
+          "end_char": 602
+        },
+        {
+          "text": "10. Normalize being obsessed with [insert niche but",
+          "confidence": 1,
+          "box": [
+            0.11481481475707653,
+            0.1362962963019293,
+            0.7333333333333333,
+            0.02962962962962956
+          ],
+          "start_char": 603,
+          "end_char": 654
+        },
+        {
+          "text": "specific joy/goal].",
+          "confidence": 1,
+          "box": [
+            0.15925925919621747,
+            0.0977777777927501,
+            0.2518518518518519,
+            0.028148148148148144
+          ],
+          "start_char": 655,
+          "end_char": 674
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 674
+    },
+    {
+      "text": "Lista numerada de aberturas conversacionais para conteúdo, em composição tipográfica simples.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 676,
+      "end_char": 769
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 19,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

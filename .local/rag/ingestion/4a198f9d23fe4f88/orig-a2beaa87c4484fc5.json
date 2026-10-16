@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/001a313630bc3d239e80723b03f6f8a3.webp",
+  "source_sha256": "a2beaa87c4484fc5eec5e50a65d1e8f0a42071159b1ad5d8bab0113898d47933",
+  "text": "3 prompts para você\nfazer conteudo com\nStorytelling\nStorytelling de Experiência Pessoal:\nCrie um roteiro de carrossel com storyteling para o\nInstagram no nicho de [nicho]. O objetivo é inspirar\ne gerar identificação com o público.\nA história que quero contar é:\n\"[ponte aqui a história central com o máximo de\ndetalhes relevantesiỊại\nMeu público-alvo são [perfil do público].\nO conteúdo deve ter:\nUm início chamativo que desperte curiosidade\nV Um meio com conflito e emoção\n• Um fim com transformação ou aprendizado\nCTA final para [objetivo].\nEscreva com [tom de voz]\n\nCartão de storytelling com hierarquia de título, instruções e checklist de componentes.",
+  "segments": [
+    {
+      "text": "3 prompts para você\nfazer conteudo com\nStorytelling\nStorytelling de Experiência Pessoal:\nCrie um roteiro de carrossel com storyteling para o\nInstagram no nicho de [nicho]. O objetivo é inspirar\ne gerar identificação com o público.\nA história que quero contar é:\n\"[ponte aqui a história central com o máximo de\ndetalhes relevantesiỊại\nMeu público-alvo são [perfil do público].\nO conteúdo deve ter:\nUm início chamativo que desperte curiosidade\nV Um meio com conflito e emoção\n• Um fim com transformação ou aprendizado\nCTA final para [objetivo].\nEscreva com [tom de voz]",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.16532304508493328,
+            0.8348536013539113,
+            0.5421177344986154,
+            0.05476503050729131
+          ],
+          "text": "3 prompts para você",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "box": [
+            0.16339790242285396,
+            0.787709861263529,
+            0.5277397059187103,
+            0.04670582460553463
+          ],
+          "text": "fazer conteudo com",
+          "confidence": 1,
+          "start_char": 20,
+          "end_char": 38
+        },
+        {
+          "box": [
+            0.168885244297281,
+            0.7263715978992633,
+            0.33854325478254654,
+            0.05630912352144047
+          ],
+          "text": "Storytelling",
+          "confidence": 1,
+          "start_char": 39,
+          "end_char": 51
+        },
+        {
+          "box": [
+            0.161458332921007,
+            0.6623595513050957,
+            0.6041666666666667,
+            0.0418071146761434
+          ],
+          "text": "Storytelling de Experiência Pessoal:",
+          "confidence": 1,
+          "start_char": 52,
+          "end_char": 88
+        },
+        {
+          "text": "Crie um roteiro de carrossel com storyteling para o",
+          "box": [
+            0.21244816573922923,
+            0.5892104794604038,
+            0.584183876692159,
+            0.0316198413291674
+          ],
+          "confidence": 1,
+          "start_char": 89,
+          "end_char": 140
+        },
+        {
+          "text": "Instagram no nicho de [nicho]. O objetivo é inspirar",
+          "box": [
+            0.207272731227031,
+            0.5639534878610003,
+            0.5872727191565577,
+            0.027619546183039634
+          ],
+          "confidence": 1,
+          "start_char": 141,
+          "end_char": 193
+        },
+        {
+          "text": "e gerar identificação com o público.",
+          "box": [
+            0.20909090862140797,
+            0.5376404489072468,
+            0.41818181506021446,
+            0.032126992472102156
+          ],
+          "confidence": 1,
+          "start_char": 194,
+          "end_char": 230
+        },
+        {
+          "text": "A história que quero contar é:",
+          "box": [
+            0.20896471629402175,
+            0.4889857317581826,
+            0.3420969430572038,
+            0.02855675086546483
+          ],
+          "confidence": 1,
+          "start_char": 231,
+          "end_char": 261
+        },
+        {
+          "text": "\"[ponte aqui a história central com o máximo de",
+          "box": [
+            0.2072727374789369,
+            0.43876404478136377,
+            0.5545454280118232,
+            0.029259211293766962
+          ],
+          "confidence": 1,
+          "start_char": 262,
+          "end_char": 309
+        },
+        {
+          "text": "detalhes relevantesiỊại",
+          "box": [
+            0.2103783459343997,
+            0.4112004781718605,
+            0.24678082472832052,
+            0.03236263575178855
+          ],
+          "confidence": 1,
+          "start_char": 310,
+          "end_char": 333
+        },
+        {
+          "text": "Meu público-alvo são [perfil do público].",
+          "box": [
+            0.21078049867146154,
+            0.3618494257898698,
+            0.46574459800237344,
+            0.030363870470711322
+          ],
+          "confidence": 1,
+          "start_char": 334,
+          "end_char": 375
+        },
+        {
+          "text": "O conteúdo deve ter:",
+          "box": [
+            0.20877958930598664,
+            0.31379455126845024,
+            0.2535229775473036,
+            0.028068255306629597
+          ],
+          "confidence": 1,
+          "start_char": 376,
+          "end_char": 396
+        },
+        {
+          "text": "Um início chamativo que desperte curiosidade",
+          "box": [
+            0.23818182386429762,
+            0.26292134856834515,
+            0.5472727157227936,
+            0.026404494382022525
+          ],
+          "confidence": 1,
+          "start_char": 397,
+          "end_char": 441
+        },
+        {
+          "text": "V Um meio com conflito e emoção",
+          "box": [
+            0.21272727232782154,
+            0.23539325843419756,
+            0.4163636369879571,
+            0.02921348314606742
+          ],
+          "confidence": 1,
+          "start_char": 442,
+          "end_char": 473
+        },
+        {
+          "text": "• Um fim com transformação ou aprendizado",
+          "box": [
+            0.21079262191879372,
+            0.20996537963154005,
+            0.54748801272965,
+            0.03018241625153606
+          ],
+          "confidence": 1,
+          "start_char": 474,
+          "end_char": 515
+        },
+        {
+          "text": "CTA final para [objetivo].",
+          "box": [
+            0.23981568199405748,
+            0.18593073233238988,
+            0.28042145419221387,
+            0.02931154872594255
+          ],
+          "confidence": 1,
+          "start_char": 516,
+          "end_char": 542
+        },
+        {
+          "text": "Escreva com [tom de voz]",
+          "box": [
+            0.21257034283632203,
+            0.13879897092145776,
+            0.30213840232452094,
+            0.025519570339931463
+          ],
+          "confidence": 1,
+          "start_char": 543,
+          "end_char": 567
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 567
+    },
+    {
+      "text": "Cartão de storytelling com hierarquia de título, instruções e checklist de componentes.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 569,
+      "end_char": 656
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      593
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

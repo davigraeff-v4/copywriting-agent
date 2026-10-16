@@ -1,0 +1,4905 @@
+[
+  {
+    "id": "rep-01-m01",
+    "path": "knowledge/repertorio/metodos/m01-pesquisa-que-termina-em-uma-decisao-de-mensagem.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "pesquisa",
+      "voz do cliente",
+      "entrevista",
+      "argumento",
+      "briefing"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Pesquisa que termina em uma decisão de mensagem. pesquisa voz do cliente entrevista argumento briefing",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m01"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "99c3fec46744b0e6ae5c345c64784933322098115ed8488d8583aa3d01816e5d",
+    "word_count": 404,
+    "body_word_count": 262,
+    "quoted_words": 0,
+    "source_locator": "7 copywriting research techniques; fontes de VOC",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m02",
+    "path": "knowledge/repertorio/metodos/m02-avaliacoes-publicas-como-mapa-de-expectativas.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "review mining",
+      "avaliações",
+      "expectativa",
+      "objeção",
+      "linguagem"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Avaliações públicas como mapa de expectativas. review mining avaliações expectativa objeção linguagem",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m02"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "60d4efbb6ca426258673e4d632dd2d8181ea87eb30d6a0e7546792ad81862bee",
+    "word_count": 401,
+    "body_word_count": 249,
+    "quoted_words": 0,
+    "source_locator": "Questions to Ask Yourself Before Review Mining",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m03",
+    "path": "knowledge/repertorio/metodos/m03-da-pesquisa-dispersa-ao-argumento-sustentado.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "direct"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "síntese",
+      "dados para insight",
+      "hierarquia",
+      "pesquisa",
+      "tese"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Da pesquisa dispersa ao argumento sustentado. síntese dados para insight hierarquia pesquisa tese",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "39136a6b69367add16d3df57a92d4f12158543f2a4ac92d4ff0b3d5d9f5dee0d",
+    "word_count": 387,
+    "body_word_count": 248,
+    "quoted_words": 0,
+    "source_locator": "Organizing Your Copywriting Research; How to Answer the Big Questions",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m04",
+    "path": "knowledge/repertorio/metodos/m04-posicionamento-antes-da-frase-de-efeito.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "posicionamento",
+      "categoria",
+      "atributo",
+      "valor",
+      "alternativas"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Posicionamento antes da frase de efeito. posicionamento categoria atributo valor alternativas",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m04"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "294551028615157b26b133ff441683cbdc1cfae4a2839bc92d433fd365770efc",
+    "word_count": 372,
+    "body_word_count": 240,
+    "quoted_words": 0,
+    "source_locator": "Cinco componentes do posicionamento",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m05",
+    "path": "knowledge/repertorio/metodos/m05-a-alternativa-atual-tambem-compete.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "direct"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "status quo",
+      "concorrência",
+      "alternativa",
+      "mudança",
+      "comparação"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "A alternativa atual também compete. status quo concorrência alternativa mudança comparação",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "fa5758de7438307b8ab4d9711c181a7b342cdeb05df0c228e085af1bf3d4fa6c",
+    "word_count": 373,
+    "body_word_count": 242,
+    "quoted_words": 0,
+    "source_locator": "Positioning Against Competitors vs. Competitive Alternatives",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m06",
+    "path": "knowledge/repertorio/metodos/m06-proposta-de-valor-com-utilidade-e-prova.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "proposta de valor",
+      "diferenciação",
+      "headline",
+      "benefício",
+      "prova"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Proposta de valor com utilidade e prova. proposta de valor diferenciação headline benefício prova",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "590ceddec5726ed89ce8f0a80eabee69eb723609d8f791a871328ebab656e487",
+    "word_count": 386,
+    "body_word_count": 235,
+    "quoted_words": 0,
+    "source_locator": "What is a unique value proposition; What makes a great value proposition",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m07",
+    "path": "knowledge/repertorio/metodos/m07-entrada-de-lp-compativel-com-a-consciencia.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "consciência",
+      "problema",
+      "origem do tráfego",
+      "entrada",
+      "expectativa"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Entrada de LP compatível com a consciência. consciência problema origem do tráfego entrada expectativa",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "e9a56a486e23ab12b94116be646f97bd48e706cc4a41b8b0b558df05115549c1",
+    "word_count": 383,
+    "body_word_count": 236,
+    "quoted_words": 0,
+    "source_locator": "What Problem-Aware really means; Pitfall 1",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m08",
+    "path": "knowledge/repertorio/metodos/m08-respostas-de-pesquisa-viram-hierarquia-de-lp.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "survey",
+      "pesquisa qualitativa",
+      "hierarquia",
+      "objeções",
+      "escada de títulos"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Respostas de pesquisa viram hierarquia de LP. survey pesquisa qualitativa hierarquia objeções escada de títulos",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m08"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "196e0e9a39eff22506255e40f6aad93176c19fb2ca856f11beeaae67a9e8142c",
+    "word_count": 381,
+    "body_word_count": 236,
+    "quoted_words": 0,
+    "source_locator": "Transcript: data, theming e apresentação de achados",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m09",
+    "path": "knowledge/repertorio/metodos/m09-headline-que-faz-sentido-fora-do-contexto.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "headline",
+      "título",
+      "microcopy",
+      "assunto",
+      "clareza"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Headline que faz sentido fora do contexto. headline título microcopy assunto clareza",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m09"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "70641f4870534971990618316684be1e6e3be0e2a5f733c69d647e8ef8deaa63",
+    "word_count": 377,
+    "body_word_count": 232,
+    "quoted_words": 0,
+    "source_locator": "Page Headings e microcontent fora de contexto",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m10",
+    "path": "knowledge/repertorio/metodos/m10-compressao-que-preserva-o-argumento.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads",
+      "direct"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "compressão",
+      "leitura",
+      "densidade",
+      "escaneabilidade",
+      "dobras"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Compressão que preserva o argumento. compressão leitura densidade escaneabilidade dobras",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m10"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "6e6097162bfeefcdc022f12da2072ceddec0ad6f745850d9ae0bb63f62e8dac3",
+    "word_count": 364,
+    "body_word_count": 227,
+    "quoted_words": 0,
+    "source_locator": "Scannable text e comparação de versões",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m11",
+    "path": "knowledge/repertorio/metodos/m11-precisao-tecnica-em-linguagem-compreensivel.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "técnico",
+      "linguagem simples",
+      "especificação",
+      "causalidade"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Precisão técnica em linguagem compreensível. B2B técnico linguagem simples especificação causalidade",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m11"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "55a4682c0ece771742029b860872830b871e13d0d3b9f74d79381018f86d3ac5",
+    "word_count": 379,
+    "body_word_count": 235,
+    "quoted_words": 0,
+    "source_locator": "The Myth of Plain Language; Even Experts Prefer Plain Language",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m12",
+    "path": "knowledge/repertorio/metodos/m12-voz-consistente-com-tom-adequado-ao-momento.md",
+    "client": "*",
+    "routes": [
+      "social",
+      "ads",
+      "lp",
+      "direct"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "voz",
+      "tom",
+      "marca",
+      "humor",
+      "situação"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Voz consistente com tom adequado ao momento. voz tom marca humor situação",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m12"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "8cda6a30477b01a41bddeebb5d3fcb6d1e6c77b67d8dbba978247efc110e2985",
+    "word_count": 377,
+    "body_word_count": 234,
+    "quoted_words": 0,
+    "source_locator": "Voice; Tone; Style tips",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m13",
+    "path": "knowledge/repertorio/metodos/m13-pauta-social-com-valor-antes-do-pedido-de-interacao.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "pauta",
+      "orgânico",
+      "utilidade",
+      "calendário",
+      "engajamento"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Pauta social com valor antes do pedido de interação. pauta orgânico utilidade calendário engajamento",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m13"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "1a944965039b1ba99af53a4966494a1c18af6f3834b8b6f81a428b6a7b6fee9d",
+    "word_count": 378,
+    "body_word_count": 238,
+    "quoted_words": 0,
+    "source_locator": "Write short, but smart; Engagement",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m14",
+    "path": "knowledge/repertorio/metodos/m14-assunto-preheader-e-corpo-cumprem-a-mesma-promessa.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "email",
+      "assunto",
+      "preheader",
+      "newsletter",
+      "CTA"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Assunto, preheader e corpo cumprem a mesma promessa. email assunto preheader newsletter CTA",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m14"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "b9b1e28e17f3cb67edf0683a769ec745685208857453bae53dc3a51da227550a",
+    "word_count": 378,
+    "body_word_count": 237,
+    "quoted_words": 0,
+    "source_locator": "Consider all elements; Use a hierarchy",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m15",
+    "path": "knowledge/repertorio/metodos/m15-sequencia-de-e-mails-organizada-por-decisao.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "sequência",
+      "lifecycle",
+      "nutrição",
+      "follow-up",
+      "email"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Sequência de e-mails organizada por decisão. sequência lifecycle nutrição follow-up email",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m15"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "bd6007ebe2c10faa68de5a47b93123c2ae442b4a148f08a2c686df7dc97c4d06",
+    "word_count": 381,
+    "body_word_count": 242,
+    "quoted_words": 0,
+    "source_locator": "Researching like a pro; tabela de conteúdo de usos de email",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m16",
+    "path": "knowledge/repertorio/metodos/m16-problema-de-copy-ou-problema-da-experiencia.md",
+    "client": "*",
+    "routes": [
+      "lp",
+      "ads"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "conversão",
+      "diagnóstico",
+      "ResearchXL",
+      "hipótese",
+      "teste"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Problema de copy ou problema da experiência. conversão diagnóstico ResearchXL hipótese teste",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m16"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "69f3dc92b33abe92aefd54894d7003c75b473143ab7c4f1fd255ac549705594c",
+    "word_count": 377,
+    "body_word_count": 236,
+    "quoted_words": 0,
+    "source_locator": "ResearchXL framework; diagnóstico técnico",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m17",
+    "path": "knowledge/repertorio/metodos/m17-validacao-de-mensagem-com-o-publico.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "teste de mensagem",
+      "clareza",
+      "relevância",
+      "validação",
+      "voz"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Validação de mensagem com o público. teste de mensagem clareza relevância validação voz",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m17"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "b167450fb9350ebaf8c2f417a5b207234aff7d28375d278e4aa2351022a77ef1",
+    "word_count": 378,
+    "body_word_count": 240,
+    "quoted_words": 0,
+    "source_locator": "Template for interviewing people; critérios de reação",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m18",
+    "path": "knowledge/repertorio/metodos/m18-hopkins-especificidade-e-teste-com-contexto-historico.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "livro",
+      "Claude Hopkins",
+      "especificidade",
+      "teste",
+      "Scientific Advertising"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Hopkins: especificidade e teste com contexto histórico. livro Claude Hopkins especificidade teste Scientific Advertising",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m18"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "f2a2f034af60eba32a9e54d148d0b709179ed20927be19019697825942c9a041",
+    "word_count": 399,
+    "body_word_count": 237,
+    "quoted_words": 0,
+    "source_locator": "Capítulos 5 Headlines, 7 Being Specific e 15 Test Campaigns",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m19",
+    "path": "knowledge/repertorio/metodos/m19-situacoes-de-compra-para-variar-angulos.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social",
+      "lp"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "Category Entry Points",
+      "situação de compra",
+      "B2B",
+      "ângulos",
+      "memória"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Situações de compra para variar ângulos. Category Entry Points situação de compra B2B ângulos memória",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m19"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "186cc919c28828a942bbcf378e59de6ceb2548e726cc4ae397a2e92befda1a04",
+    "word_count": 387,
+    "body_word_count": 235,
+    "quoted_words": 0,
+    "source_locator": "Research Preview: Definition; The W’s; The 3C’s",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-m20",
+    "path": "knowledge/repertorio/metodos/m20-video-mensagem-imagem-e-acao-em-conjunto.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "vídeo",
+      "YouTube",
+      "ABCD",
+      "roteiro",
+      "demonstração"
+    ],
+    "status": "active",
+    "use": "guidance",
+    "summary": "Vídeo: mensagem, imagem e ação em conjunto. vídeo YouTube ABCD roteiro demonstração",
+    "kind": "metodo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m20"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "authorial_method_adaptation",
+    "sha256": "a1c15b2f34af68a0f8dd8f22532d328a98788afe39802f4d872f7bf6940ea393",
+    "word_count": 379,
+    "body_word_count": 233,
+    "quoted_words": 0,
+    "source_locator": "Core ABCDs; ABCDs by marketing objectives",
+    "skills": [
+      "07",
+      "08",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e01",
+    "path": "knowledge/repertorio/exemplos/lp/e01-basecamp-mostrar-a-tarefa-dentro-do-produto.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "demonstração",
+      "software",
+      "mecanismo",
+      "tarefas",
+      "projeto"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Basecamp: mostrar a tarefa dentro do produto. demonstração software mecanismo tarefas projeto",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e01"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "e484e78cf5c90339017a5a4a06e8a2534a29a17bcf87a5db70f0a0a88062035f",
+    "word_count": 364,
+    "body_word_count": 227,
+    "quoted_words": 10,
+    "source_locator": "Abertura e projeto demonstrativo Website Redesign Project",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e02",
+    "path": "knowledge/repertorio/exemplos/lp/e02-hey-uma-funcao-explicada-por-uma-escolha-cotidiana.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "mecanismo",
+      "email",
+      "controle",
+      "analogia",
+      "feature"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "HEY: uma função explicada por uma escolha cotidiana. mecanismo email controle analogia feature",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e02"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "4f1a1b486b8174eb5dde7e2b1c0656d4e859c596a254e2703d5ed7bf35ea4080",
+    "word_count": 353,
+    "body_word_count": 210,
+    "quoted_words": 7,
+    "source_locator": "Seção The Screener",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e03",
+    "path": "knowledge/repertorio/exemplos/lp/e03-shopify-expansao-comercial-por-contextos-de-venda.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "ecommerce",
+      "canais",
+      "contexto",
+      "venda",
+      "arquitetura"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Shopify: expansão comercial por contextos de venda. ecommerce canais contexto venda arquitetura",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "28cfa116bbf62ca584b7956e1ab0ac8e2645025e3320cd201a9497de566fe4f8",
+    "word_count": 351,
+    "body_word_count": 212,
+    "quoted_words": 8,
+    "source_locator": "Bloco de canais de venda",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e04",
+    "path": "knowledge/repertorio/exemplos/lp/e04-notion-casos-de-uso-tornam-ia-mais-concreta.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "IA",
+      "casos de uso",
+      "tarefas",
+      "demonstração",
+      "conhecimento"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Notion: casos de uso tornam IA mais concreta. IA casos de uso tarefas demonstração conhecimento",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e04"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "6ef88e5f9b2a4e2e0aaa0b852883f6b2bd775d9dce58509f187fb4f7440147da",
+    "word_count": 362,
+    "body_word_count": 215,
+    "quoted_words": 4,
+    "source_locator": "Lista Veja o que o Notion pode fazer",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e05",
+    "path": "knowledge/repertorio/exemplos/lp/e05-conta-azul-colaboracao-descrita-por-dados-e-destinatario.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "ERP",
+      "contador",
+      "financeiro",
+      "colaboração",
+      "especificidade"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Conta Azul: colaboração descrita por dados e destinatário. ERP contador financeiro colaboração especificidade",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "bbfbb10130b34b0dac83b8e9984d9911de0a5134c9a30507998d0949981cd465",
+    "word_count": 353,
+    "body_word_count": 214,
+    "quoted_words": 8,
+    "source_locator": "Recurso Conexão com Contador",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e06",
+    "path": "knowledge/repertorio/exemplos/lp/e06-rd-station-crm-contexto-de-trabalho-e-acao-reconhecivel.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "CRM",
+      "WhatsApp",
+      "mecanismo",
+      "adoção",
+      "rotina"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "RD Station CRM: contexto de trabalho e ação reconhecível. CRM WhatsApp mecanismo adoção rotina",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "f23ef4f1506235af5cab7ea73a672d608579d8c0c9051367ae1f9f49b64715d8",
+    "word_count": 355,
+    "body_word_count": 211,
+    "quoted_words": 12,
+    "source_locator": "Bloco de CRM para WhatsApp",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e07",
+    "path": "knowledge/repertorio/exemplos/lp/e07-nuvemshop-caminhos-diferentes-por-ponto-de-partida.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "segmentação",
+      "migração",
+      "ecommerce",
+      "origem",
+      "jornada"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Nuvemshop: caminhos diferentes por ponto de partida. segmentação migração ecommerce origem jornada",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "434ce2275dd409852f40b06c67353a14f5f579471dce0ea9af69dcb38c20e687",
+    "word_count": 350,
+    "body_word_count": 208,
+    "quoted_words": 5,
+    "source_locator": "Navegação Soluções para cada necessidade",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e08",
+    "path": "knowledge/repertorio/exemplos/lp/e08-airbnb-comecar-decidir-e-entender-condicoes.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "serviço",
+      "onboarding",
+      "fricção",
+      "FAQ",
+      "condições"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Airbnb: começar, decidir e entender condições. serviço onboarding fricção FAQ condições",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e08"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "55db65aa37d2785c29c34802a95206b1721814c10f217a616f303dbb24c6a2be",
+    "word_count": 346,
+    "body_word_count": 200,
+    "quoted_words": 7,
+    "source_locator": "Bloco Vale a pena e dúvidas de anfitriões",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e09",
+    "path": "knowledge/repertorio/exemplos/lp/e09-quintoandar-entregavel-tangivel-perto-do-cadastro.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "imóvel",
+      "serviço",
+      "formulário",
+      "entregável",
+      "fotografia"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "QuintoAndar: entregável tangível perto do cadastro. imóvel serviço formulário entregável fotografia",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e09"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "f0ce06a095f181362ae571f81eabd759e3f75334dfcfc1314c4aef4298eb6356",
+    "word_count": 347,
+    "body_word_count": 204,
+    "quoted_words": 7,
+    "source_locator": "Lista Benefícios de anunciar no QuintoAndar",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e10",
+    "path": "knowledge/repertorio/exemplos/lp/e10-sumup-escolhas-por-modalidade-de-recebimento.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "pagamento",
+      "celular",
+      "modalidade",
+      "produto",
+      "decisão"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "SumUp: escolhas por modalidade de recebimento. pagamento celular modalidade produto decisão",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e10"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "40bdcd3f8ed01f94291d58ccb108222249fb1aace53e42b734de805fedd26ecf",
+    "word_count": 338,
+    "body_word_count": 201,
+    "quoted_words": 8,
+    "source_locator": "Seção Tap to Pay",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e11",
+    "path": "knowledge/repertorio/exemplos/lp/e11-wise-utilidade-descrita-por-operacoes.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "conta internacional",
+      "operações",
+      "verbo e objeto",
+      "clareza",
+      "escopo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Wise: utilidade descrita por operações. conta internacional operações verbo e objeto clareza escopo",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e11"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "2766923c3089a3271d0f0da6718934eab7e7d29726b96c0510f0e995fce2af25",
+    "word_count": 344,
+    "body_word_count": 206,
+    "quoted_words": 12,
+    "source_locator": "Descrição da conta na navegação",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e12",
+    "path": "knowledge/repertorio/exemplos/lp/e12-slack-recurso-apresentado-por-uma-situacao-de-ausencia.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "colaboração",
+      "resumo",
+      "situação",
+      "IA",
+      "rotina"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Slack: recurso apresentado por uma situação de ausência. colaboração resumo situação IA rotina",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e12"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "df742a9470b2d3e080ed6e6842e6d59c1db1fa9b9d3637c65175bf9b311fe3ba",
+    "word_count": 346,
+    "body_word_count": 201,
+    "quoted_words": 11,
+    "source_locator": "Lista de usos da IA",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e13",
+    "path": "knowledge/repertorio/exemplos/lp/e13-dropbox-replay-nome-do-produto-com-tarefa-identificada.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "vídeo",
+      "revisão",
+      "aprovação",
+      "categoria",
+      "microcopy"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Dropbox Replay: nome do produto com tarefa identificada. vídeo revisão aprovação categoria microcopy",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e13"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "bb46e57c70629dde018d2d38320fe2f6fd367be5b99d87a8b4bd7fc4f23b2892",
+    "word_count": 356,
+    "body_word_count": 209,
+    "quoted_words": 6,
+    "source_locator": "Descrição do Replay na navegação de produtos",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e14",
+    "path": "knowledge/repertorio/exemplos/lp/e14-apple-acessibilidade-acao-especifica-com-opcoes-e-limites.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "acessibilidade",
+      "leitura",
+      "recurso",
+      "condição",
+      "explicação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Apple acessibilidade: ação específica com opções e limites. acessibilidade leitura recurso condição explicação",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e14"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "b2d42ddc55540087b7d5a6533c6bf8ba822d95f4fb966b215bbd9cfd574ba771",
+    "word_count": 328,
+    "body_word_count": 193,
+    "quoted_words": 7,
+    "source_locator": "Bloco Leitor de Acessibilidade",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e15",
+    "path": "knowledge/repertorio/exemplos/lp/e15-netflix-acao-de-cadastro-explicada-ao-lado-do-campo.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "cadastro",
+      "formulário",
+      "próximo passo",
+      "FAQ",
+      "fricção"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Netflix: ação de cadastro explicada ao lado do campo. cadastro formulário próximo passo FAQ fricção",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e15"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "a6a0fba8707903b9ee404866f6909cc34cb57364dccc7d00fc45402b9e83d722",
+    "word_count": 347,
+    "body_word_count": 200,
+    "quoted_words": 9,
+    "source_locator": "Apoio do formulário de e-mail",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e16",
+    "path": "knowledge/repertorio/exemplos/lp/e16-hotmart-portfolio-distinguido-por-objeto-de-venda.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "portfólio",
+      "produto digital",
+      "escopo",
+      "categoria",
+      "oferta"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Hotmart: portfólio distinguido por objeto de venda. portfólio produto digital escopo categoria oferta",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e16"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "cbc1d86cd4e1cf29b8ddef30255e4045cbab6f519548f3d681e074bdd573dfbb",
+    "word_count": 351,
+    "body_word_count": 211,
+    "quoted_words": 10,
+    "source_locator": "Bloco de tipos de produto",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e17",
+    "path": "knowledge/repertorio/exemplos/lp/e17-ikea-planejamento-preparativos-tornam-o-servico-concreto.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "serviço",
+      "planejamento",
+      "preparação",
+      "entregável",
+      "orçamento"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "IKEA planejamento: preparativos tornam o serviço concreto. serviço planejamento preparação entregável orçamento",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e17"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_page",
+    "sha256": "e1562fc6504738bb5b95eead73b78c25248a2d244af8c9731c7b357d63de4ffd",
+    "word_count": 332,
+    "body_word_count": 194,
+    "quoted_words": 3,
+    "source_locator": "Etapas How IKEA planning services work",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e18",
+    "path": "knowledge/repertorio/exemplos/ads/e18-patagonia-provocacao-sustentada-por-acoes-concretas.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "campanha",
+      "sustentabilidade",
+      "coerência",
+      "posição",
+      "prova"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Patagonia: provocação sustentada por ações concretas. campanha sustentabilidade coerência posição prova",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e18"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "f76485da7138ddd1b2d93464ea9b127f42db623f3ed4d771a2465823564cab0a",
+    "word_count": 355,
+    "body_word_count": 211,
+    "quoted_words": 4,
+    "source_locator": "Artigo da marca sobre o anúncio de 25/11/2011",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e19",
+    "path": "knowledge/repertorio/exemplos/ads/e19-dove-sketches-insight-transformado-em-construcao-visual.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "insight",
+      "filme",
+      "demonstração narrativa",
+      "marca",
+      "emoção"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Dove Sketches: insight transformado em construção visual. insight filme demonstração narrativa marca emoção",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e19"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "3b3f40f75cbe2db7ab0098a339c783afda978157fe1a83cc622b5ae5181e786a",
+    "word_count": 346,
+    "body_word_count": 198,
+    "quoted_words": 3,
+    "source_locator": "Página do trabalho da Ogilvy, equipe São Paulo",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e20",
+    "path": "knowledge/repertorio/exemplos/ads/e20-mercedes-benz-traducao-de-um-assunto-tecnico-para-outro-publico.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "técnico",
+      "mobilidade",
+      "participação",
+      "insight"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Mercedes-Benz: tradução de um assunto técnico para outro público. B2B técnico mobilidade participação insight",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e20"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "0fd61da8bd6d2ac8b7a7df3176d76c655144107350375c36411c095d924ba706",
+    "word_count": 342,
+    "body_word_count": 200,
+    "quoted_words": 3,
+    "source_locator": "Ficha Effie 2019, prêmio indicado como Shortlist",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e21",
+    "path": "knowledge/repertorio/exemplos/ads/e21-ades-eixo-criativo-ligado-ao-objeto-da-oferta.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "campanha",
+      "produto",
+      "eixo criativo",
+      "repertório",
+      "alimentos"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "AdeS: eixo criativo ligado ao objeto da oferta. campanha produto eixo criativo repertório alimentos",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e21"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "9ddc59d28001e258e8c200c739dd0b11e06dab08c476eb88f01288d4e4e6fe73",
+    "word_count": 331,
+    "body_word_count": 189,
+    "quoted_words": 4,
+    "source_locator": "Ficha Effie 2019, título do case",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e22",
+    "path": "knowledge/repertorio/exemplos/ads/e22-spotify-wrapped-dado-pessoal-convertido-em-historia.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social",
+      "direct"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "personalização",
+      "campanha",
+      "identidade",
+      "dados",
+      "compartilhamento"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Spotify Wrapped: dado pessoal convertido em história. personalização campanha identidade dados compartilhamento",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e22"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "3db397b0f3e261d40b543d586d4f87cd7776dda463b8ba5bd9a446a9926ccc56",
+    "word_count": 347,
+    "body_word_count": 195,
+    "quoted_words": 2,
+    "source_locator": "Descrição pública da experiência Wrapped 2025",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e23",
+    "path": "knowledge/repertorio/exemplos/ads/e23-shot-on-iphone-resultado-visivel-sustenta-uma-capacidade.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "demonstração",
+      "câmera",
+      "asset",
+      "prova visual",
+      "campanha"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Shot on iPhone: resultado visível sustenta uma capacidade. demonstração câmera asset prova visual campanha",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e23"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_campaign",
+    "sha256": "1eb724cd7385eaae0c56688fb600a82200785c42e48b9a71926f3a4ae871332f",
+    "word_count": 335,
+    "body_word_count": 190,
+    "quoted_words": 5,
+    "source_locator": "Apple Newsroom, campanha anunciada em 30/01/2017",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e24",
+    "path": "knowledge/repertorio/exemplos/social/e24-lego-ideas-participacao-com-objetivo-e-condicao-definidos.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "comunidade",
+      "participação",
+      "UGC",
+      "regra",
+      "pertencimento"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "LEGO Ideas: participação com objetivo e condição definidos. comunidade participação UGC regra pertencimento",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e24"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "public_program",
+    "sha256": "1d7f0c6151fef3b56e6881473c7c0ae9cfdbb25062cabd946a31b194817d9f77",
+    "word_count": 340,
+    "body_word_count": 201,
+    "quoted_words": 4,
+    "source_locator": "Explicação do programa na página oficial",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e25",
+    "path": "knowledge/repertorio/exemplos/social/e25-ikea-ideias-pauta-editorial-por-uma-tarefa-domestica.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "pauta",
+      "casa",
+      "organização",
+      "tutorial",
+      "produto em uso"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "IKEA ideias: pauta editorial por uma tarefa doméstica. pauta casa organização tutorial produto em uso",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e25"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "editorial_page",
+    "sha256": "58b2317d78d8419adfd5b7bf71b708f362f83d4c8c2f53935f5da35ea5007690",
+    "word_count": 343,
+    "body_word_count": 199,
+    "quoted_words": 11,
+    "source_locator": "Seção Small spaces na página de ideias",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e26",
+    "path": "knowledge/repertorio/exemplos/social/e26-nubank-explica-pix-pergunta-que-organiza-conteudo.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "educação",
+      "pergunta",
+      "produto",
+      "clareza",
+      "conteúdo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Nubank explica Pix: pergunta que organiza conteúdo. educação pergunta produto clareza conteúdo",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e26"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "editorial_page",
+    "sha256": "b19e27e2916a3f0c1a334a4b8d1a91720cb8690a057b48f1792fb66bb306de2f",
+    "word_count": 349,
+    "body_word_count": 205,
+    "quoted_words": 4,
+    "source_locator": "Subtítulo do guia Pix: tudo sobre o meio de pagamentos instantâneos",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e27",
+    "path": "knowledge/repertorio/exemplos/social/e27-duolingo-objetivo-de-habito-com-acoes-executaveis.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "hábito",
+      "tutorial",
+      "pauta",
+      "rotina",
+      "educação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Duolingo: objetivo de hábito com ações executáveis. hábito tutorial pauta rotina educação",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e27"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "editorial_page",
+    "sha256": "9a338cfb6da329042f1348cce42cbfcfff82062f9e1339e0cbb64353b89bec77",
+    "word_count": 342,
+    "body_word_count": 199,
+    "quoted_words": 9,
+    "source_locator": "Dica 10 do artigo de manutenção de sequência",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e28",
+    "path": "knowledge/repertorio/exemplos/direct/e28-boas-vindas-freckle-contexto-da-conta-e-primeiro-uso.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "email",
+      "onboarding",
+      "boas-vindas",
+      "conta",
+      "próximo passo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Boas-vindas Freckle: contexto da conta e primeiro uso. email onboarding boas-vindas conta próximo passo",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e28"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_email",
+    "sha256": "f6de44b63c08aa63fdb8bc18e23d31f8fc2ba2dc91eccec71d4e095a08c30785",
+    "word_count": 335,
+    "body_word_count": 198,
+    "quoted_words": 1,
+    "source_locator": "Exemplo de boas-vindas descrito no guia da Postmark",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e29",
+    "path": "knowledge/repertorio/exemplos/direct/e29-friend-streak-lembrete-ligado-a-um-compromisso-aceito.md",
+    "client": "*",
+    "routes": [
+      "direct",
+      "social"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "notificação",
+      "lembrete",
+      "consentimento",
+      "contexto",
+      "ação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Friend Streak: lembrete ligado a um compromisso aceito. notificação lembrete consentimento contexto ação",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e29"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_notification",
+    "sha256": "836272d98105dc8fe3ff44ba7acb8e45f33aed0bbc220f9d58b35a6f651930c1",
+    "word_count": 345,
+    "body_word_count": 202,
+    "quoted_words": 5,
+    "source_locator": "Artigo oficial de lançamento e descrição dos lembretes",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-e30",
+    "path": "knowledge/repertorio/exemplos/direct/e30-verve-wine-suporte-dentro-de-uma-mensagem-transacional.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "email",
+      "transacional",
+      "suporte",
+      "acesso",
+      "clareza"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Verve Wine: suporte dentro de uma mensagem transacional. email transacional suporte acesso clareza",
+    "kind": "exemplo",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "e30"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "documented_email",
+    "sha256": "a40eb4a77e31b3f7537bffde31221bce4cdc2bebeb90e2b128c52d9967603902",
+    "word_count": 348,
+    "body_word_count": 210,
+    "quoted_words": 2,
+    "source_locator": "Exemplo de recuperação de senha no guia da Postmark",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r01",
+    "path": "knowledge/repertorio/revisoes/r01-compatibilidade-organiza-um-anuncio-tecnico.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "compatibilidade",
+      "especificidade",
+      "headline",
+      "equipamento"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Compatibilidade organiza um anúncio técnico. B2B compatibilidade especificidade headline equipamento",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m11"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "0e92297713ba87475c21dcbf42500cab16893b19acff8239411f150a9bdabe37",
+    "word_count": 408,
+    "body_word_count": 271,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r02",
+    "path": "knowledge/repertorio/revisoes/r02-retirar-causalidade-inventada-de-uma-caracteristica.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "claim",
+      "característica",
+      "benefício",
+      "prova",
+      "causalidade"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Retirar causalidade inventada de uma característica. claim característica benefício prova causalidade",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "6cdc931161796efd0c274d38f2af91f37fa73d10008b425edf7d6340285dbc91",
+    "word_count": 403,
+    "body_word_count": 262,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r03",
+    "path": "knowledge/repertorio/revisoes/r03-arte-e-texto-de-plataforma-cumprem-funcoes-diferentes.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "Meta",
+      "arte",
+      "legenda",
+      "redundância",
+      "estático"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Arte e texto de plataforma cumprem funções diferentes. Meta arte legenda redundância estático",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m09"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "8c1a309ab114e0e1faa02b54a2edff0b3d38a54847447c605a78d58440e2e743",
+    "word_count": 417,
+    "body_word_count": 280,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r04",
+    "path": "knowledge/repertorio/revisoes/r04-intencao-de-busca-pede-objeto-e-acao-pertinentes.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "Google",
+      "busca",
+      "intenção",
+      "headline",
+      "serviço local"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Intenção de busca pede objeto e ação pertinentes. Google busca intenção headline serviço local",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "7c36820467e5e35cf10e208665297202bc6a83b4c174aadb644f4bf2bd1b9869",
+    "word_count": 379,
+    "body_word_count": 241,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r05",
+    "path": "knowledge/repertorio/revisoes/r05-lp-com-tese-e-progressao-entre-titulos.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "tese",
+      "escada de títulos",
+      "narrativa",
+      "dobras",
+      "progressão"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "LP com tese e progressão entre títulos. tese escada de títulos narrativa dobras progressão",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "77c91da67915965066713b18ca2f8279d6359a6d1e91682319d4f83711195904",
+    "word_count": 435,
+    "body_word_count": 299,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r06",
+    "path": "knowledge/repertorio/revisoes/r06-lp-de-desejo-sem-inventar-sofrimento.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "desejo",
+      "produto",
+      "ambiente",
+      "comparação",
+      "escolha"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "LP de desejo sem inventar sofrimento. desejo produto ambiente comparação escolha",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "7dad12a1311a989cab5b75fa2e1be846dc5be15bb1c0fddae13b70297aa69a82",
+    "word_count": 404,
+    "body_word_count": 267,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r07",
+    "path": "knowledge/repertorio/revisoes/r07-formulario-explica-o-contato-sem-inventar-prazo.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "formulário",
+      "CTA",
+      "microcopy",
+      "próximo passo",
+      "expectativa"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Formulário explica o contato sem inventar prazo. formulário CTA microcopy próximo passo expectativa",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m14"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "3e387a2b322109b27256d75388a3132b55319c099115399c35cc129ad433c458",
+    "word_count": 387,
+    "body_word_count": 252,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r08",
+    "path": "knowledge/repertorio/revisoes/r08-prova-mostra-o-recurso-sem-ampliar-o-resultado.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "prova",
+      "depoimento",
+      "demonstração",
+      "claim",
+      "resultado"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Prova mostra o recurso sem ampliar o resultado. prova depoimento demonstração claim resultado",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m16"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "0a21cff25707b788d085e0066af32360ea9a4c7e84e12425ca3ca15b6e40c2fa",
+    "word_count": 389,
+    "body_word_count": 256,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r09",
+    "path": "knowledge/repertorio/revisoes/r09-carrossel-desenvolve-uma-pauta-com-informacao-nova.md",
+    "client": "*",
+    "routes": [
+      "social"
+    ],
+    "primary_route": "social",
+    "tags": [
+      "carrossel",
+      "pauta",
+      "orgânico",
+      "conteúdo",
+      "redundância"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Carrossel desenvolve uma pauta com informação nova. carrossel pauta orgânico conteúdo redundância",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m13"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "67a04ef9e0002571440e8e123a7c68b4c71a94343ad8e481d2f7e4aa381f54c1",
+    "word_count": 424,
+    "body_word_count": 294,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-01-r10",
+    "path": "knowledge/repertorio/revisoes/r10-follow-up-mantem-a-funcao-de-avaliar-e-esclarecer.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "follow-up",
+      "email",
+      "WhatsApp",
+      "avaliação",
+      "alvo do ajuste"
+    ],
+    "status": "active",
+    "use": "structure",
+    "summary": "Follow-up mantém a função de avaliar e esclarecer. follow-up email WhatsApp avaliação alvo do ajuste",
+    "kind": "revisao",
+    "batch": "lote-01",
+    "language": "pt-BR",
+    "created_at": "2026-10-09",
+    "source_ids": [
+      "m15"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": true,
+    "evidence_kind": "synthetic_revision",
+    "sha256": "91f943af4f8861b650b4222a12e5cd789e7831c9f1a0ba24441e0b7198fd4c85",
+    "word_count": 405,
+    "body_word_count": 263,
+    "quoted_words": 0,
+    "source_locator": "Procedimento adaptado; ver fonte de apoio",
+    "skills": [
+      "11",
+      "13"
+    ]
+  },
+  {
+    "id": "rep-02-a01",
+    "path": "knowledge/repertorio/lote-02/artes/a01-amarok-visao-embaixo-como-uma-cena-reconhecivel.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "mecanismo",
+      "metáfora",
+      "câmera",
+      "produto técnico",
+      "visual e texto"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Amarok: visão embaixo como uma cena reconhecível. mecanismo metáfora câmera produto técnico visual e texto",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a01"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "871d065fb192f5bcafcee55543ba218e66fef69d6f55f5673ab31f3fdb967e13",
+    "word_count": 499,
+    "body_word_count": 311,
+    "quoted_words": 5,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: olhos na sola de um pé descalço que se aproxima dos dentes de um rastelo, em um jardim.",
+      "Texto: identifica Amarok, tração e câmera de terreno no rodapé.",
+      "Assinatura: logotipo Volkswagen ao lado da descrição. Sem botão, oferta ou preço na arte."
+    ],
+    "source_specific_word_count": 184,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a02",
+    "path": "knowledge/repertorio/lote-02/artes/a02-mcdonald-s-desejo-mostrado-antes-da-refeicao.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "desejo",
+      "situação",
+      "humor",
+      "alimentação",
+      "marca"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "McDonald’s: desejo mostrado antes da refeição. desejo situação humor alimentação marca",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a02"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "91db39b41ea33e086d21edeb28dab9bf01fca06f92e516bc381ed9eeea8cc3af",
+    "word_count": 480,
+    "body_word_count": 295,
+    "quoted_words": 1,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: uma pessoa come uma batata no elevador, carregando sacola e embalagem de McDonald’s em posição atrapalhada.",
+      "Headline: uma palavra identifica a atitude observada.",
+      "Marca: embalagens e sinal gráfico tornam o produto reconhecível. Não há preço, promoção ou CTA na arte."
+    ],
+    "source_specific_word_count": 167,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a03",
+    "path": "knowledge/repertorio/lote-02/artes/a03-humphree-metafora-acompanhada-de-mecanismo-e-destino.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "náutica",
+      "metáfora",
+      "mecanismo",
+      "CTA"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Humphree: metáfora acompanhada de mecanismo e destino. B2B náutica metáfora mecanismo CTA",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "7f2c8d8b8005f111fc7b0f8047c89ae91f871532ab7812dc6dbe3a7abbc2efb8",
+    "word_count": 474,
+    "body_word_count": 289,
+    "quoted_words": 3,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: uma faixa de mar calmo atravessa uma superfície cercada por ondas.",
+      "Título central nomeia o efeito; apoio inferior apresenta experiência da empresa e integração de um giroscópio com outros componentes de estabilização.",
+      "Fechamento: convite para conhecer estabilização integrada no site Humphree, junto do logotipo."
+    ],
+    "source_specific_word_count": 169,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a04",
+    "path": "knowledge/repertorio/lote-02/artes/a04-printmakers-voz-construida-com-uma-palavra-do-oficio.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "voz",
+      "jogo de sentido",
+      "evento",
+      "ofício",
+      "informação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Printmakers: voz construída com uma palavra do ofício. voz jogo de sentido evento ofício informação",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a04"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "58d94232865391a1126c3dc228fbd4fdb35b729ba0eebb99bc9d99ecfce44c1e",
+    "word_count": 479,
+    "body_word_count": 290,
+    "quoted_words": 6,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "cartaz de evento",
+    "component_count": 3,
+    "components": [
+      "Título grande explora pressão como experiência humana e processo de impressão artística.",
+      "Imagem e textura lembram uma impressão em papel, com figura discreta por trás do texto.",
+      "Rodapé informa entidade, aniversário, data e museu do evento. Não há formulário ou preço na arte."
+    ],
+    "source_specific_word_count": 160,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a05",
+    "path": "knowledge/repertorio/lote-02/artes/a05-mazda-referencia-cultural-ancorada-num-atributo.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "recurso",
+      "analogia",
+      "cultura",
+      "atributo",
+      "automóvel"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Mazda: referência cultural ancorada num atributo. recurso analogia cultura atributo automóvel",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "a27b02ceedc742a08048f9c59af2aeabb8da4a41ddee90711ff843f4a1177ead",
+    "word_count": 460,
+    "body_word_count": 283,
+    "quoted_words": 3,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: uma aranha em primeiro plano; nos olhos, aparece um motivo semelhante a lentes e visão do entorno.",
+      "Abertura alude a poder e responsabilidade.",
+      "Rodapé identifica modelo, câmera e visualização panorâmica na tela central; assinatura Mazda aparece no alto e no fechamento."
+    ],
+    "source_specific_word_count": 154,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a06",
+    "path": "knowledge/repertorio/lote-02/artes/a06-gaudium-tipografia-demonstra-o-movimento.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "tipografia",
+      "atividade",
+      "educação",
+      "desejo",
+      "visual"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Gaudium: tipografia demonstra o movimento. tipografia atividade educação desejo visual",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "02251d9a6510cd65cd20eb1c87c717d3e20399da2aee0696cf29e37b0c488f05",
+    "word_count": 459,
+    "body_word_count": 273,
+    "quoted_words": 4,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Figura de um praticante em parada de mãos formada por letras coloridas que nomeiam o movimento.",
+      "Marca à esquerda e chamada de aprendizado à direita.",
+      "Sem corpo longo, oferta, matrícula ou prazo; a ação implícita é conhecer a escola."
+    ],
+    "source_specific_word_count": 159,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a07",
+    "path": "knowledge/repertorio/lote-02/artes/a07-monchis-imagem-desenvolve-o-significado-da-chamada.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "atenção",
+      "metáfora",
+      "produto em cena",
+      "interpretação",
+      "limite factual"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Monchis: imagem desenvolve o significado da chamada. atenção metáfora produto em cena interpretação limite factual",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "054fad449a22c5695687070c2fd58405ab93319823791ed8d2dd9f794568f14f",
+    "word_count": 445,
+    "body_word_count": 268,
+    "quoted_words": 4,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: hambúrguer com camadas e texturas visualmente alteradas.",
+      "Headline em vermelho convida a prestar atenção à refeição.",
+      "Apoio no rodapé associa tela e percepção da comida; assinatura Monchis fecha a arte. Não aparece oferta comercial."
+    ],
+    "source_specific_word_count": 142,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a08",
+    "path": "knowledge/repertorio/lote-02/artes/a08-fasac-materia-prima-e-resultado-na-mesma-imagem.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "matéria-prima",
+      "transformação material",
+      "tecido",
+      "portfólio"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "FASAC: matéria-prima e resultado na mesma imagem. B2B matéria-prima transformação material tecido portfólio",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a08"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "00c4b1b574e669866d8baf0af0b459da4c9913b78913fbbd06aa68e5c5d75100",
+    "word_count": 453,
+    "body_word_count": 270,
+    "quoted_words": 3,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: capulhos de algodão representados com padrões e texturas de tecidos.",
+      "Headline curta liga origem e beleza.",
+      "Data do World Cotton Day na lateral e marca no rodapé. Sem produto em oferta, preço ou CTA de orçamento."
+    ],
+    "source_specific_word_count": 157,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a09",
+    "path": "knowledge/repertorio/lote-02/artes/a09-six-burgers-teaser-com-um-indicio-do-produto.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "teaser",
+      "curiosidade",
+      "produto",
+      "campanha",
+      "continuidade"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Six Burgers: teaser com um indício do produto. teaser curiosidade produto campanha continuidade",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a09"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "59ef1e6ed0a2490dc8ce2c11ec7903ab6fb1ad309372f6ccb47388e04f8f68b1",
+    "word_count": 461,
+    "body_word_count": 270,
+    "quoted_words": 4,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: fatias de picles em escalas diferentes sobre uma superfície metálica.",
+      "Chamada de algo grande no canto inferior esquerdo.",
+      "Marca no canto oposto. Não aparecem data, preço, endereço, especificação do lançamento ou ação direta."
+    ],
+    "source_specific_word_count": 155,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a10",
+    "path": "knowledge/repertorio/lote-02/artes/a10-sitrak-utilidade-pequena-traduz-um-territorio-industrial.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "brinde",
+      "situação",
+      "mecanismo",
+      "próximo passo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Sitrak: utilidade pequena traduz um território industrial. B2B brinde situação mecanismo próximo passo",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a10"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "52793fdbcf24c8dfe84cdd220142c168ad99617f1fa7e65ed3795150c4a5d425",
+    "word_count": 456,
+    "body_word_count": 276,
+    "quoted_words": 4,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Cena: motorista em uma parada para refeição, caminhão ao fundo e boné invertido segurando pequenos objetos.",
+      "Chamada próxima ao boné liga o gesto a cargas pequenas.",
+      "Quadro superior apresenta edição do boné e reserva por perfil da marca; produto, identidade e ação aparecem juntos."
+    ],
+    "source_specific_word_count": 158,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a11",
+    "path": "knowledge/repertorio/lote-02/artes/a11-panutti-linguagem-familiar-ganha-uma-virada-visual.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "voz do público",
+      "humor",
+      "varejo brasileiro",
+      "desejo",
+      "situação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Panutti: linguagem familiar ganha uma virada visual. voz do público humor varejo brasileiro desejo situação",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a11"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "9909f2ab00c74b85ffe2017c1e20640a3f1a4c1867ba440d41114f458d16aa75",
+    "word_count": 452,
+    "body_word_count": 270,
+    "quoted_words": 7,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: adulto com corpo e atitude infantil tenta alcançar um donut em primeiro plano, com família ao fundo.",
+      "Headline retoma a resposta de pedir ao pai e a transforma em desejo compartilhado.",
+      "Fechamento vincula Dia das Crianças à Panutti; marca aparece no alto. Sem preço ou condição promocional."
+    ],
+    "source_specific_word_count": 160,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a12",
+    "path": "knowledge/repertorio/lote-02/artes/a12-alimiau-pertencimento-com-uma-acao-coerente.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "pertencimento",
+      "pets",
+      "ação",
+      "personificação",
+      "produto"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Alimiau: pertencimento com uma ação coerente. pertencimento pets ação personificação produto",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a12"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "15f0f8c89aec746a4a65338482bb75023bee0abb1a7f32040af850e41114676c",
+    "word_count": 442,
+    "body_word_count": 265,
+    "quoted_words": 6,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Cena: portaria noturna, vigilante e gato em primeiro plano.",
+      "Texto atribui ao gato cargo de vigilante e tempo de serviço, como recurso humorístico.",
+      "Fechamento convida a alimentar esses animais; embalagem e marcas identificam a categoria. Não há desconto ou compra por formulário."
+    ],
+    "source_specific_word_count": 152,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a13",
+    "path": "knowledge/repertorio/lote-02/artes/a13-gatorade-o-formato-da-marca-organiza-a-cena-esportiva.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "marca",
+      "forma",
+      "esporte",
+      "eixo criativo",
+      "visual"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Gatorade: o formato da marca organiza a cena esportiva. marca forma esporte eixo criativo visual",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a13"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "c988e85e11d3d106494faea6d0225484148400a00718bd1cd36390ad8902c71c",
+    "word_count": 450,
+    "body_word_count": 270,
+    "quoted_words": 4,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: uma instalação de basquete e arquibancadas compõem o formato de uma garrafa, apresentada como desenho de projeto.",
+      "Headline no alto liga a ideia de fórmula ao esforço esportivo.",
+      "Letra da marca no rodapé. Não há preço, CTA comercial ou explicação nutricional na arte."
+    ],
+    "source_specific_word_count": 157,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a14",
+    "path": "knowledge/repertorio/lote-02/artes/a14-novacart-mostrar-o-material-antes-de-declarar-um-valor.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "material",
+      "identidade",
+      "embalagem",
+      "prova e claim"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Novacart: mostrar o material antes de declarar um valor. B2B material identidade embalagem prova e claim",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a14"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "c6f2364447fa05c5251ea4129fe0800576632556e7f1470de60c8b4ad5012bdf",
+    "word_count": 449,
+    "body_word_count": 268,
+    "quoted_words": 5,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: coruja e galho montados visualmente com formas de papel para assar.",
+      "Headline liga a história à natureza.",
+      "Bloco inferior apresenta o material/produto, referência ao centenário e afirmação de sustentabilidade, junto da marca. Não há preço ou CTA."
+    ],
+    "source_specific_word_count": 148,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a15",
+    "path": "knowledge/repertorio/lote-02/artes/a15-brute-tipografia-reconhecivel-com-ressalva-de-contraste.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "identidade",
+      "silhueta",
+      "tipografia",
+      "contraste incompatível",
+      "B2B"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "BRUTE: tipografia reconhecível com ressalva de contraste. identidade silhueta tipografia contraste incompatível B2B",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a15"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "2fbc3dfc832d5cfedf799c5a5e39e206b8396eb0da41b77a723d7fbfb3d9985d",
+    "word_count": 456,
+    "body_word_count": 273,
+    "quoted_words": 6,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Marca BRUTE no alto sobre fundo escuro.",
+      "Frase em amarelo com jogo de palavras ocupa a silhueta de um recipiente.",
+      "Fechamento nomeia o novo BRUTE e afirma durabilidade. Não há fotografia, preço ou CTA."
+    ],
+    "source_specific_word_count": 144,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a16",
+    "path": "knowledge/repertorio/lote-02/artes/a16-agua-a-humor-oportuno-depende-de-uma-referencia-temporal.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "humor",
+      "timing",
+      "referência cultural",
+      "produto brasileiro",
+      "limite temporal"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Água A: humor oportuno depende de uma referência temporal. humor timing referência cultural produto brasileiro limite temporal",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a16"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "1e01dc2a28b17f2842d7634c693f1f166200e8788215cff0ec37b85fa43805c7",
+    "word_count": 453,
+    "body_word_count": 264,
+    "quoted_words": 2,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Título curto acima de uma garrafa plástica vazia e dobrada.",
+      "Fotografia em fundo neutro mantém embalagem e rótulo reconhecíveis.",
+      "Não há corpo, oferta, prazo ou CTA na arte; a leitura depende de associação cultural."
+    ],
+    "source_specific_word_count": 147,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a17",
+    "path": "knowledge/repertorio/lote-02/artes/a17-pindamonhangaba-impacto-visual-seguido-de-orientacao.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "serviço público",
+      "orientação",
+      "metáfora",
+      "CTA",
+      "informação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Pindamonhangaba: impacto visual seguido de orientação. serviço público orientação metáfora CTA informação",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a17"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "21cf05d8354c1d050f2d918da3ee6cbcc2ffec163dd201cc4640b278493a1be4",
+    "word_count": 474,
+    "body_word_count": 290,
+    "quoted_words": 6,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "anúncio institucional impresso",
+    "component_count": 3,
+    "components": [
+      "Imagem: resíduos compõem a forma de uma arma sobre terreno de descarte.",
+      "Headline e apoio associam descarte a risco; corpo orienta destinação de materiais.",
+      "Quadro de denúncia, QR e assinatura pública apresentam um próximo passo. A variante arquivada está em inglês."
+    ],
+    "source_specific_word_count": 161,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a18",
+    "path": "knowledge/repertorio/lote-02/artes/a18-dra-linguagem-do-setor-organiza-uma-homenagem.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "pauta de data",
+      "setor",
+      "cultura",
+      "identidade",
+      "relevância"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "DRA: linguagem do setor organiza uma homenagem. pauta de data setor cultura identidade relevância",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a18"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "4210c1202e87324d87551fae83e9b986b59fdee0ffaa498a29594e513c95a00c",
+    "word_count": 464,
+    "body_word_count": 283,
+    "quoted_words": 7,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Imagem: uma planta arquitetônica compõe Ganesha; ambientes e dimensões aparecem como elementos do desenho.",
+      "Título usa o sentido de planos; tabela inferior conecta símbolos a ideias de vida.",
+      "Saudação ao festival e marca DRA fecham a arte. Sem oferta imobiliária ou CTA de compra."
+    ],
+    "source_specific_word_count": 159,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a19",
+    "path": "knowledge/repertorio/lote-02/artes/a19-levex-uma-historia-conhecida-recebe-um-mecanismo-concreto.md",
+    "client": "*",
+    "routes": [
+      "ads",
+      "social"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "B2B",
+      "mecanismo",
+      "história",
+      "equipamento",
+      "metáfora"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Levex: uma história conhecida recebe um mecanismo concreto. B2B mecanismo história equipamento metáfora",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a19"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "9a413a264cd6eec915cf7e98e688d3244680c55d855ccb28354995e9ddf5487a",
+    "word_count": 457,
+    "body_word_count": 273,
+    "quoted_words": 7,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "arte estática de campanha",
+    "component_count": 3,
+    "components": [
+      "Cena: personagem semelhante a Rapunzel sai de uma torre com ajuda de uma plataforma elevatória.",
+      "Headline explora a ambiguidade de histórias e desculpas.",
+      "Marcas e categoria de elevação no rodapé. Sem modelo, preço ou CTA de locação."
+    ],
+    "source_specific_word_count": 151,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-a20",
+    "path": "knowledge/repertorio/lote-02/artes/a20-micam-a-tese-visual-e-os-dados-do-evento-convivem.md",
+    "client": "*",
+    "routes": [
+      "ads"
+    ],
+    "primary_route": "ads",
+    "tags": [
+      "evento",
+      "B2B",
+      "desejo",
+      "hierarquia",
+      "moda"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "MICAM: a tese visual e os dados do evento convivem. evento B2B desejo hierarquia moda",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-a20"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_static_creative",
+    "sha256": "e30cdaf5b29f1dd432ffdbb0733b6097a40d4b1007e3d1642f5a3e207e999d93",
+    "word_count": 445,
+    "body_word_count": 264,
+    "quoted_words": 2,
+    "source_locator": "Uma arte estática integral: asset indicado; sem outras variantes, filme ou legenda de plataforma.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "single_static_creative",
+    "format": "anúncio de evento",
+    "component_count": 3,
+    "components": [
+      "Imagem: pessoa veste uma composição formada por calçados, que passam a estruturar a roupa.",
+      "Título grande expressa prioridade dos sapatos.",
+      "Cabeçalho informa edição/temporada; bloco principal inclui data, local e identidade da feira; apoio contém uma afirmação de liderança."
+    ],
+    "source_specific_word_count": 143,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l01",
+    "path": "knowledge/repertorio/lote-02/paginas/l01-insider-beneficios-de-uso-ligados-a-condicoes-concretas.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "vestuário",
+      "rotina",
+      "mecanismo",
+      "garantia",
+      "compra"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Insider: benefícios de uso ligados a condições concretas. vestuário rotina mecanismo garantia compra",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l01"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "ee99b542113163af0e643b6afaa3df16f481d8390b4ffda581994b9fbfcd2348",
+    "word_count": 502,
+    "body_word_count": 311,
+    "quoted_words": 8,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de produto",
+    "component_count": 6,
+    "components": [
+      "Entrada: camiseta, preço, cor, tamanhos, disponibilidade e compra.",
+      "Descrição: tecnologia associada a uso e conservação.",
+      "Benefícios: odor, cor e aparência relacionados à rotina.",
+      "Desenvolvimento: material, conforto e ocasiões de uso.",
+      "Garantia: prazo e condições específicas de lavagem e aquisição.",
+      "Encerramento: cuidados, pesquisa da marca e missão."
+    ],
+    "source_specific_word_count": 160,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l02",
+    "path": "knowledge/repertorio/lote-02/paginas/l02-alura-mobile-caminhos-por-ponto-de-partida.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "educação",
+      "segmentação",
+      "carreira",
+      "prova",
+      "progressão"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Alura Mobile: caminhos por ponto de partida. educação segmentação carreira prova progressão",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l02"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "e30bcc4838b4a7853c0cc4a019cea6eb04e28e94182d44eec159dd1271e7176d",
+    "word_count": 497,
+    "body_word_count": 305,
+    "quoted_words": 5,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página de escola e assinatura",
+    "component_count": 7,
+    "components": [
+      "Entrada: desenvolvimento mobile e caminhos de estudo.",
+      "Contexto: mercado e possibilidades profissionais.",
+      "Escolha: Android, iOS e Flutter, com diferentes pontos de partida.",
+      "Experiência: cursos, formações e materiais complementares.",
+      "Confiança: professores e relatos apresentados.",
+      "Oferta: planos e recursos de assinatura.",
+      "Fechamento: dúvidas sobre projetos, ferramentas e atuação."
+    ],
+    "source_specific_word_count": 165,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l03",
+    "path": "knowledge/repertorio/lote-02/paginas/l03-hostinger-facilidade-explicada-como-sequencia-de-acoes.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "serviço digital",
+      "passos",
+      "objeção",
+      "preço",
+      "mecanismo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Hostinger: facilidade explicada como sequência de ações. serviço digital passos objeção preço mecanismo",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "722c94d8deb2597a2749e4a12715b2897585c26bc15ac63eb171f8aeddd280a7",
+    "word_count": 499,
+    "body_word_count": 304,
+    "quoted_words": 7,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de criador de sites",
+    "component_count": 7,
+    "components": [
+      "Entrada: criação de site, oferta e contratação.",
+      "Planos: recursos, duração e renovação.",
+      "Possibilidades: loja, agendamento, portfólio e outros usos.",
+      "Processo: escolher modelo ou IA, editar e publicar.",
+      "Continuação: divulgação, integrações e suporte.",
+      "Confiança: exemplos e relatos de uso.",
+      "Fechamento: perguntas, teste e escolha de plano."
+    ],
+    "source_specific_word_count": 165,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l04",
+    "path": "knowledge/repertorio/lote-02/paginas/l04-omie-uma-categoria-tecnica-explicada-pelo-trabalho-cotidiano.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "B2B",
+      "ERP",
+      "tarefas",
+      "integração",
+      "categoria"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Omie: uma categoria técnica explicada pelo trabalho cotidiano. B2B ERP tarefas integração categoria",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l04"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "496a041c746eb1850e3646facf1cda50148edec1deb7b4a297d7a43a5b68be89",
+    "word_count": 489,
+    "body_word_count": 306,
+    "quoted_words": 10,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de ERP",
+    "component_count": 7,
+    "components": [
+      "Entrada: sistema ERP e centralização da gestão.",
+      "Definição: o que a categoria faz.",
+      "Rotina: vendas, estoque, documentos e caixa.",
+      "Mecanismo: módulos integrados na nuvem.",
+      "Detalhamento: áreas e funcionalidades.",
+      "Dúvidas: ERP versus CRM, acesso, contratação e integração.",
+      "Fechamento: conhecer solução e planos."
+    ],
+    "source_specific_word_count": 153,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l05",
+    "path": "knowledge/repertorio/lote-02/paginas/l05-pipedrive-proxima-acao-como-beneficio-operacional.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "B2B",
+      "CRM",
+      "próxima ação",
+      "demonstração",
+      "trial"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Pipedrive: próxima ação como benefício operacional. B2B CRM próxima ação demonstração trial",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "d052a36836eb7fc0fd2863d48934607e4c5f4c768319e6a7e03a8c8530855a07",
+    "word_count": 483,
+    "body_word_count": 300,
+    "quoted_words": 7,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de funcionalidade",
+    "component_count": 7,
+    "components": [
+      "Entrada: acompanhamento de negociações e teste.",
+      "Definição: pipeline e gestão.",
+      "Recursos: etapas, atividades, visibilidade e automação.",
+      "Avaliação: critérios para escolher ferramenta.",
+      "Sustentação: integrações, caso e relatos.",
+      "Expansão: complemento de captação apresentado separadamente.",
+      "Fechamento: dúvidas e convite ao teste."
+    ],
+    "source_specific_word_count": 147,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l06",
+    "path": "knowledge/repertorio/lote-02/paginas/l06-docusign-distinguir-quem-assina-de-quem-organiza-assinaturas.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "serviço digital",
+      "segmentação",
+      "segurança",
+      "mecanismo",
+      "escopo"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Docusign: distinguir quem assina de quem organiza assinaturas. serviço digital segmentação segurança mecanismo escopo",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "51898795d5dd5837058ee638e40cb34a9ab70d932cb8ff967afa38fc439107df",
+    "word_count": 489,
+    "body_word_count": 300,
+    "quoted_words": 4,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de assinatura eletrônica",
+    "component_count": 7,
+    "components": [
+      "Entrada acessível: definição de assinatura eletrônica e conta.",
+      "Valor: eficiência, experiência e integração.",
+      "Detalhes: camadas de autenticação e certificados.",
+      "Escolha: planos, demonstração e caminho para quem apenas assina.",
+      "Desenvolvimento: recursos e casos apresentados.",
+      "Extensão: outros produtos da família.",
+      "Fechamento: FAQ sobre tipos, formatos e processo."
+    ],
+    "source_specific_word_count": 154,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l07",
+    "path": "knowledge/repertorio/lote-02/paginas/l07-intelbras-fr101-uma-duvida-cotidiana-ligada-a-funcao.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "produto técnico",
+      "pergunta",
+      "mecanismo",
+      "instalação",
+      "limites"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Intelbras FR101: uma dúvida cotidiana ligada à função. produto técnico pergunta mecanismo instalação limites",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "a79c9c9ef76c08de057d977e3077e610ccde9d33f7e287d943bd54edf9bdfcb1",
+    "word_count": 465,
+    "body_word_count": 293,
+    "quoted_words": 7,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de produto",
+    "component_count": 7,
+    "components": [
+      "Entrada: identificação da fechadura e características.",
+      "Uso: senhas e acesso sem chave.",
+      "Dúvida: fechamento automático explicado por sensor configurável.",
+      "Proteção: alertas e tentativas de acesso.",
+      "Operação: alimentação e ambientes indicados.",
+      "Avaliação: especificações, dúvidas e materiais de suporte.",
+      "Fechamento: instalação qualificada e assistência."
+    ],
+    "source_specific_word_count": 150,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l08",
+    "path": "knowledge/repertorio/lote-02/paginas/l08-ifood-oportunidade-de-venda-acompanhada-de-operacao-e-entrada.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "marketplace",
+      "planos",
+      "operação",
+      "cadastro",
+      "condições"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "iFood: oportunidade de venda acompanhada de operação e entrada. marketplace planos operação cadastro condições",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l08"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "cf04ffa131bc4e506a4c1543397e30f1e367dbfa42428188fc8f238ea7432f86",
+    "word_count": 487,
+    "body_word_count": 299,
+    "quoted_words": 6,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página de adesão de parceiros",
+    "component_count": 7,
+    "components": [
+      "Entrada: restaurante parceiro e cadastro.",
+      "Valor: alcance, gestão e suporte apresentados.",
+      "Escolha: entrega própria versus entrega pela plataforma.",
+      "Condições: taxas, mensalidade e disponibilidade.",
+      "Entrada: documentos, contrato e configuração da loja.",
+      "Sustentação: relatos de parceiros.",
+      "Fechamento: temas de dúvidas e novo acesso ao cadastro."
+    ],
+    "source_specific_word_count": 153,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l09",
+    "path": "knowledge/repertorio/lote-02/paginas/l09-leroy-merlin-instala-o-que-acontece-depois-da-compra.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "serviço",
+      "pós-compra",
+      "escopo",
+      "agendamento",
+      "garantia"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Leroy Merlin Instala: o que acontece depois da compra. serviço pós-compra escopo agendamento garantia",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l09"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "461c84c1290acc8bfc217a5fe981defb847343dc7b535bed7b96cacee7801ef8",
+    "word_count": 460,
+    "body_word_count": 289,
+    "quoted_words": 6,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de serviço",
+    "component_count": 7,
+    "components": [
+      "Entrada: instalações e reformas associadas à compra.",
+      "Funcionamento: contratação, agendamento e eventual visita técnica.",
+      "Escopo: categorias de instalação e ambientes.",
+      "Condições: regiões, garantia e disponibilidade.",
+      "Apoio: profissionais e acompanhamento apresentados.",
+      "Oferta complementar: programa de relacionamento.",
+      "Fechamento: escolha do serviço e canais de atendimento."
+    ],
+    "source_specific_word_count": 146,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l10",
+    "path": "knowledge/repertorio/lote-02/paginas/l10-aeron-criterios-de-escolha-antes-de-uma-promessa-universal.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "produto",
+      "design",
+      "adequação",
+      "material",
+      "especificação"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Aeron: critérios de escolha antes de uma promessa universal. produto design adequação material especificação",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l10"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "3344058b14553846cfb411daa3fd64aa2ce5212c449377ad3f1474bc2417b505",
+    "word_count": 496,
+    "body_word_count": 297,
+    "quoted_words": 4,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de produto",
+    "component_count": 7,
+    "components": [
+      "Entrada: produto, designers e navegação de avaliação.",
+      "História: evolução do projeto.",
+      "Mecanismos: materiais, suporte e ajustes apresentados.",
+      "Escolha: tamanhos, cores e configurações.",
+      "Sustentação: pesquisa e sustentabilidade declaradas.",
+      "Detalhes: especificações e produtos relacionados.",
+      "Fechamento: compra, distribuidor e showroom."
+    ],
+    "source_specific_word_count": 158,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l11",
+    "path": "knowledge/repertorio/lote-02/paginas/l11-nespresso-prime-recorrencia-explicada-por-controle-da-escolha.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "assinatura",
+      "recorrência",
+      "controle",
+      "condições",
+      "passos"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Nespresso Prime: recorrência explicada por controle da escolha. assinatura recorrência controle condições passos",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l11"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "496bcf350f84dbecab40dd8d53bae83056d7573c91c681c1708035a009768d40",
+    "word_count": 479,
+    "body_word_count": 292,
+    "quoted_words": 8,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de programa recorrente",
+    "component_count": 6,
+    "components": [
+      "Entrada: programa e benefícios comerciais.",
+      "Condições: quantidade mínima, frete e desconto apresentados.",
+      "Controle: frequência, alteração e cancelamento.",
+      "Processo: escolher cafés, intervalo e entrega.",
+      "Reforço: benefícios do programa.",
+      "Fechamento: adesão e termos."
+    ],
+    "source_specific_word_count": 137,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-l12",
+    "path": "knowledge/repertorio/lote-02/paginas/l12-smart-fit-plano-escolhido-por-uso-e-compromisso.md",
+    "client": "*",
+    "routes": [
+      "lp"
+    ],
+    "primary_route": "lp",
+    "tags": [
+      "comparação",
+      "planos",
+      "compromisso",
+      "disponibilidade",
+      "oferta"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Smart Fit: plano escolhido por uso e compromisso. comparação planos compromisso disponibilidade oferta",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-l12"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_commercial_page",
+    "sha256": "2585b6ec02d7697a3b9615c83725c3476765bc8fd341587a3cae3336df0b78bd",
+    "word_count": 483,
+    "body_word_count": 293,
+    "quoted_words": 6,
+    "source_locator": "Texto comercial acessível da página inteira, da entrada ao fechamento; vídeos, documentos vinculados e transações excluídos.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "commercial_page_text",
+    "format": "página comercial de comparação de planos",
+    "component_count": 6,
+    "components": [
+      "Entrada: comparação dos planos.",
+      "Escolha: acesso, unidade e modelo de compromisso.",
+      "Condições: valor inicial, mensalidade e fidelidade.",
+      "Detalhes: benefícios com ressalvas por unidade.",
+      "Complementos: serviços adicionais e seus valores.",
+      "Fechamento: disponibilidade local, contratos e academia próxima."
+    ],
+    "source_specific_word_count": 146,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d01",
+    "path": "knowledge/repertorio/lote-02/emails/d01-figma-boas-vindas-que-levam-a-primeira-acao.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "onboarding",
+      "boas-vindas",
+      "primeira ação",
+      "hierarquia",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Figma: boas-vindas que levam à primeira ação. onboarding boas-vindas primeira ação hierarquia e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d01"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "629430596af4e485e4dfbdc021e571fb4034bdbdcafb1e86b625251dea39b531",
+    "word_count": 493,
+    "body_word_count": 308,
+    "quoted_words": 7,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto e apoio apresentam chegada e começo.",
+      "Abertura explica o acompanhamento futuro.",
+      "Ação principal: criar um arquivo ou partir de um modelo.",
+      "Ajuda: cartões de curso, exemplos, edição e ferramenta de IA.",
+      "Fechamento: acesso ao produto e rodapé de identificação e saída.",
+      "Visual: colagem de interfaces e cartões coloridos abaixo do botão principal."
+    ],
+    "source_specific_word_count": 165,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d02",
+    "path": "knowledge/repertorio/lote-02/emails/d02-headspace-apoio-com-utilidade-e-limite-explicitos.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "acolhimento",
+      "contexto",
+      "limite",
+      "recurso",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Headspace: apoio com utilidade e limite explícitos. acolhimento contexto limite recurso e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d02"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "a269cafbecb60edfa4a7b67be3ccaf22f01395be3308f23d3abd61fef3316b54",
+    "word_count": 491,
+    "body_word_count": 306,
+    "quoted_words": 4,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto e apoio anunciam uma mensagem de suporte.",
+      "Abertura reconhece contexto externo difícil.",
+      "Limite: aplicativo não é apresentado como solução de todos os problemas.",
+      "Utilidade: recursos de meditação, sono e movimento.",
+      "Ação: acessar o conteúdo oferecido.",
+      "Fechamento: ajuda, canais e rodapé; visual calmo e botão destacado."
+    ],
+    "source_specific_word_count": 162,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d03",
+    "path": "knowledge/repertorio/lote-02/emails/d03-alltrails-novidade-vinculada-a-uma-atividade-sazonal.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "sazonalidade",
+      "novidade",
+      "mecanismo",
+      "trial",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "AllTrails: novidade vinculada a uma atividade sazonal. sazonalidade novidade mecanismo trial e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d03"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "4ad8291c4dea91037885dfb1988d0f7a8e58da4a8d71394389be8422df82ccce",
+    "word_count": 491,
+    "body_word_count": 303,
+    "quoted_words": 5,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto anuncia novidade para observar folhagens.",
+      "Hero: atividade e paisagem definem o interesse.",
+      "Mapa: localização e previsão sazonal.",
+      "Oferta: teste de uma modalidade paga.",
+      "Explicação: camadas de informações e contribuições de usuários.",
+      "Fechamento: repetição do teste, acesso ao aplicativo e rodapé."
+    ],
+    "source_specific_word_count": 164,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d04",
+    "path": "knowledge/repertorio/lote-02/emails/d04-athletic-brewing-participacao-com-regras-e-acao-concreta.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "comunidade",
+      "participação",
+      "votação",
+      "regra",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Athletic Brewing: participação com regras e ação concreta. comunidade participação votação regra e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d04"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "cd213d1ffacda1b39ceb6df369bde6a54e044c95cb3716e0cfe1e052a9329b7b",
+    "word_count": 490,
+    "body_word_count": 304,
+    "quoted_words": 4,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto e abertura convidam a uma votação.",
+      "Hero: produto e linguagem de futebol.",
+      "Pedido: votar em uma indicação declarada pela marca.",
+      "Regras: frequência, prazo e condição de participação.",
+      "Apoio: cenas de consumo e descrição do produto.",
+      "Fechamento: compra secundária, navegação e rodapé."
+    ],
+    "source_specific_word_count": 156,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d05",
+    "path": "knowledge/repertorio/lote-02/emails/d05-motorola-recursos-apresentados-por-situacoes-de-uso.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "tecnologia",
+      "situação",
+      "recurso",
+      "oferta",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Motorola: recursos apresentados por situações de uso. tecnologia situação recurso oferta e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d05"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "3516f918fdd9d54af167033623cc85dc468c8d666035e9553b5ba6a1317a2a7d",
+    "word_count": 476,
+    "body_word_count": 294,
+    "quoted_words": 6,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto e apoio associam produto ao verão.",
+      "Hero: smartphone, linguagem premium e compra.",
+      "Oferta: troca e acessórios com condições.",
+      "Blocos: assistência, visualização externa e desempenho em jogo.",
+      "Ações: aprofundamento de cada recurso.",
+      "Fechamento: notas técnicas, diferenças por mercado e rodapé."
+    ],
+    "source_specific_word_count": 149,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d06",
+    "path": "knowledge/repertorio/lote-02/emails/d06-new-york-magazine-valor-de-assinatura-mostrado-por-entregas.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "assinatura",
+      "entregável",
+      "histórico",
+      "prova",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "New York Magazine: valor de assinatura mostrado por entregas. assinatura entregável histórico prova e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d06"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "b9c7ba904bf4c7e50731d069956295bdcf68475394fe912b729223748b988c83",
+    "word_count": 483,
+    "body_word_count": 297,
+    "quoted_words": 6,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto cria interesse por benefícios passados.",
+      "Hero: acesso a vantagens de assinante.",
+      "Pedido: assinatura.",
+      "Histórico: benefícios de cinco meses, com exemplos e ilustrações.",
+      "Atualidade da peça: condição de um benefício ainda disponível naquele período.",
+      "Fechamento: novo convite, termos e rodapé."
+    ],
+    "source_specific_word_count": 157,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d07",
+    "path": "knowledge/repertorio/lote-02/emails/d07-vacation-voz-sensorial-acompanhada-de-dois-tipos-de-prova.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "beleza",
+      "voz",
+      "sensorial",
+      "depoimento",
+      "prova",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Vacation: voz sensorial acompanhada de dois tipos de prova. beleza voz sensorial depoimento prova e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d07"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "9be1da9acc6bbcb575b43b155be6508f628c5b1aeb457cb6b080028362fff81d",
+    "word_count": 478,
+    "body_word_count": 292,
+    "quoted_words": 4,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 6,
+    "components": [
+      "Assunto e apoio anunciam recepção do produto.",
+      "Hero: embalagem, posicionamento e compra.",
+      "Abertura: linguagem sensorial elaborada.",
+      "Imprensa: publicações e resenhas atribuídas.",
+      "Consumidores: avaliações selecionadas e nova compra.",
+      "Fechamento: produtos complementares e rodapé."
+    ],
+    "source_specific_word_count": 149,
+    "independent_delivery_verified": false
+  },
+  {
+    "id": "rep-02-d08",
+    "path": "knowledge/repertorio/lote-02/emails/d08-team17-lancamento-futuro-com-acoes-disponiveis-agora.md",
+    "client": "*",
+    "routes": [
+      "direct"
+    ],
+    "primary_route": "direct",
+    "tags": [
+      "lançamento",
+      "disponibilidade",
+      "narrativa",
+      "ação",
+      "e-mail"
+    ],
+    "status": "active",
+    "use": "positive",
+    "summary": "Team17: lançamento futuro com ações disponíveis agora. lançamento disponibilidade narrativa ação e-mail",
+    "kind": "exemplo",
+    "batch": "lote-02",
+    "language": "pt-BR",
+    "created_at": "2026-10-13",
+    "source_ids": [
+      "b02-d08"
+    ],
+    "authority": "referencia_de_mercado",
+    "editorial_review": "agent_curated_human_review_pending",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "evidence_kind": "observed_archived_email",
+    "sha256": "99fb6020d6de85eb7762a764d672db54c20697c79500992b3f365f8ccf61c6ae",
+    "word_count": 486,
+    "body_word_count": 302,
+    "quoted_words": 6,
+    "source_locator": "Corpo, imagem e rodapé integrais do e-mail em arquivo público; envio real e destinatários não verificados.",
+    "skills": [
+      "07",
+      "08",
+      "10",
+      "11",
+      "13"
+    ],
+    "complete_piece": true,
+    "completeness_scope": "archived_email",
+    "format": "e-mail completo em arquivo público",
+    "component_count": 7,
+    "components": [
+      "Assunto e apoio anunciam um jogo.",
+      "Hero: nome, arte e universo narrativo.",
+      "Descrição: gênero e proposta de interação.",
+      "Disponibilidade: lançamento futuro e lista de interesse.",
+      "Ação adicional: teste com janela de participação.",
+      "Desenvolvimento: trailer e recursos apresentados.",
+      "Fechamento: comunidade, interesse e rodapé."
+    ],
+    "source_specific_word_count": 162,
+    "independent_delivery_verified": false
+  }
+]

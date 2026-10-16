@@ -23,3 +23,5 @@ Barreira principal não vira fato porque pode ser inferida: se a campanha depend
 Sem lacunas: seguir para o pacote/direção sem aguardar confirmação extra. Havendo lacuna essencial: explicar qual decisão ela impede. Saída: modo/rota, hipóteses, pendências e HARD CONSTRAINTS ativas.
 
 Em ajuste incremental, diagnosticar somente se a instrução muda estratégia/fato ou se o alvo permanece ambíguo. Corte explícito de formato e edição de campo identificado não exigem novo checkpoint.
+
+Selecionar as próximas capacidades conforme demanda e dependências de `quality/AUTONOMIA-E-REPERTORIO.md`; ler o SKILL.md escolhido e registrar a decisão produzida. Briefing completo não dispensa repertório proativo na produção nova. Não carregar as 14 skills por padrão.

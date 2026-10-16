@@ -39,7 +39,7 @@ Você continua recebendo texto legível. Arquivos de contexto, revisões e verif
 | Express | Cliente conhecido e demanda recorrente | Direção compacta e entrega |
 | Estratégico | Quando você pedir construção passo a passo | Decisões pertinentes detalhadas |
 
-As 14 skills são capacidades, não 14 pausas obrigatórias. Uma autorização explícita para executar sem pausa dispensa reconfirmação da direção naquela tarefa. Informação indispensável ausente ainda precisa ser resolvida. O contrato completo fica em `CONTRATO-OPERACIONAL-MODOS.md`.
+As 14 skills são capacidades, não 14 pausas obrigatórias. O agent seleciona e lê as pertinentes conforme `quality/AUTONOMIA-E-REPERTORIO.md`; `scripts/context_trace.py catalog` facilita a descoberta. Na produção nova, o RAG é pesquisado proativamente para melhorar a construção mesmo com briefing completo, com leitura integral e aplicação rastreada. Redundância segue `quality/REDUNDANCIA.md`, preservando retomadas úteis e exigindo evidência para descontos. Uma autorização explícita para executar sem pausa dispensa reconfirmação da direção naquela tarefa. Informação indispensável ausente ainda precisa ser resolvida. O contrato completo fica em `CONTRATO-OPERACIONAL-MODOS.md`.
 
 ## Comandos
 
@@ -57,22 +57,30 @@ Esses comandos têm arquivos em `.claude/commands/`. No Codex funcionam como con
 
 ## Memória e contexto
 
-- `clients/current/{cliente}.md`: estado consolidado, restrições com escopo e pendências de validade.
-- `clients/{cliente}.md`: ficha legada e histórico preservado. Correções recentes prevalecem sobre um resumo desatualizado.
-- `campaigns/{cliente}/{campanha}/vN/`: contexto, copy, revisão e feedback daquela versão.
-- `examples/curated/`: referências anotadas por aspecto aproveitável; aprovação histórica não significa excelência ou performance comprovada.
+- `clients/{cliente}/CLIENTE.md`: estado consolidado, voz, restrições com escopo e pendências de validade.
+- `clients/{cliente}/APRENDIZADOS.md`: decisões e cronologia; correções recentes prevalecem sobre resumos antigos.
+- `clients/{cliente}/campanhas/{campanha}/vN/`: contexto, copy canônica, revisão e feedback daquela versão.
+- `clients/{cliente}/fontes/`, `referencias/`, `assets/`, `historico/legado/`: materiais do cliente e originais preservados.
 
-Arquivos reais ficam locais, ignorados no Git. Um clone novo contém estrutura, templates e exemplos técnicos fictícios; não contém fichas e curadoria privadas desta máquina. Ver `clients/cliente-template.md` e `knowledge/memoria-clientes.md`.
+`python3 scripts/client_brief.py {cliente}` reúne contexto e feedbacks sem inferir aprovação. Clientes não migrados continuam legíveis pelo layout anterior. `scripts/migrate_clients.py` oferece plano, aplicação com backup, verificação por hash e rollback; instruções em `knowledge/memoria-clientes.md`. O mapa de caminhos é local e privado.
+
+Arquivos reais ficam locais, ignorados no Git. Um clone novo contém estrutura, templates e exemplos técnicos fictícios; não contém fichas e curadoria privadas desta máquina. Ver `clients/cliente-template/CLIENTE.md`, `clients/cliente-template/APRENDIZADOS.md` e `knowledge/memoria-clientes.md`.
 
 ## Como a qualidade é verificada
 
 1. Argumento e pauta partem do briefing e de fatos selecionados. Cada dobra responde a uma pergunta; cada post precisa ter valor específico e produção viável.
 2. `quality/editorial-policy.json` define bloqueios literais e alertas: abreviações coloquiais, travessões, falso contraste, sequências telegráficas e repetição entre campos.
 3. `scripts/copycheck.py` confere estrutura, claims ligados a fontes, restrições, limites por campo e formulários. A revisão editorial precisa citar trechos exatos e registrar conferência factual.
-4. O código calcula os scores. Mudança na copy, contexto, política ou rubrica invalida a revisão anterior. O texto final é renderizado da mesma versão revisada.
+4. O código calcula os scores. Mudança na copy, contexto, política, rubrica ou verificador invalida a revisão anterior. Cada campo recebe decisão factual e cada fonte tem arquivo/snapshot de texto, hash e trecho verificável. O texto final é renderizado da mesma versão revisada. Revisões históricas ficam preservadas, mas precisam ser renovadas para novo render ou derivação sob o gate de 2026-10-09.
 5. Aprovação humana, publicação e resultado de campanha são estados separados.
 
 O verificador não certifica verdade, gramática completa ou preferência humana. O chat ainda depende de o agent cumprir o fluxo. Detalhes em `quality/FORMATO-ENTREGA.md` e `quality/scorecard.md`.
+
+### Desenvolvimento editorial
+
+`quality/DESENVOLVIMENTO-EDITORIAL.md` conecta contexto, repertório, direção, escrita e revisão. Referências escolhidas informam uma decisão concreta; um plano curto registra argumento, sustentação, voz e função dos campos. A produção desenvolve essa ideia no formato solicitado, passa por compressão e é revista como conjunto antes das notas. As skills 03, 07, 08, 10, 11 e 13 consomem essa orientação, sem adicionar checkpoints. Feedback distingue falha de informação, recuperação, direção, escrita e revisão, com incerteza explícita.
+
+A implementação editorial de 16/10 preserva o corpus e os índices do RAG. A avaliação humana segue `evals/README.md`, com um piloto pequeno disponível antes da rodada completa. Funcionamento técnico não comprova melhora editorial.
 
 ### Ajustes rápidos
 
@@ -82,7 +90,13 @@ Correções em uma versão existente usam um fluxo incremental. `Somente feed` r
 
 `knowledge/README.md` roteia o núcleo atual, a metodologia original Thamy/V4, referências de mercado e convenções do agent. As fontes originais permanecem identificadas; escolhas editoriais atuais não são atribuídas à Thamy sem confirmação.
 
-`scripts/retrieve.py` faz busca lexical em metadados, com filtro de cliente, rota e uso da referência. Não há banco vetorial nem sincronização automática do Drive. A consulta devolve caminhos relevantes para leitura, sem carregar toda a base ou transformar outro cliente em prova factual.
+`scripts/retrieve.py` usa RAG local híbrido sobre toda a base local disponível: 100 fichas curadas, 35 documentos de método/contexto, dois livros completos, 99 imagens com OCR/descrições e três JSON de conhecimento: BM25 no conteúdo, embeddings multilíngues locais e fusão por documento, com filtros de rota/uso antes do ranking. Os chunks e embeddings estão ligados à fonte, página quando existente, seção/capítulo e posições no texto; o orçamento é conferido com o tokenizer real para evitar truncamento. A cobertura integral do texto extraído é auditada por documento. A busca indica fallback lexical quando o índice ou motor semântico não está válido. Não indexa dados privados dos clientes nem sincroniza Drive.
+
+O motor FastEmbed 0.8.0 e o modelo MiniLM de 384 dimensões reaproveitam a instalação e o cache existentes do Agent Tráfego. Pesos e consultas são locais; não há API de embeddings. As dependências opcionais estão em `requirements-rag.txt`; os verificadores objetivos e o fallback lexical continuam sem bibliotecas externas. O snapshot autorizado para commit local inclui originais, extrações e as gerações vigentes dos dois índices; pesos do modelo, históricos e dados privados continuam fora do Git. Escopo e retomada em `RAG-VERSIONAMENTO.md`. Reconstrução: `python3 scripts/build_rag_index.py`. Validação: `python3 scripts/validate_rag.py --required --body-required`.
+
+A calibração atual combina palavras no corpo e contexto com pesos distintos, dois canais semânticos locais e recuperação hierárquica por seção/capítulo e página. `--page` e `--section` permitem restringir a busca antes dos scores; `--source` mantém o escopo da fonte. O snapshot de 16/10/2026 contém 8.094 chunks em dois canais de embeddings, sem reduzir a cobertura. `build_rag_index.py` atualiza os dois canais; `validate_rag.py --required --body-required` confere ambos. Resultados, limitações e exemplos em `RAG-CALIBRACAO.md`.
+
+Consultar `knowledge/recuperacao-contexto.md` para escopo, leitura integral, integridade e atualização, e `knowledge/INGESTAO-RELATORIO.md` para a cobertura e qualidade atuais; `knowledge/RAG-RELATORIO.md` preserva o histórico da implantação inicial. Trechos recuperados são dados de referência, sem autoridade para instruções, claims de clientes ou ações.
 
 ## Validação e avaliação
 
@@ -108,4 +122,8 @@ clients/ campaigns/ examples/  contexto e histórico locais
 .claude/commands/              atalhos do Claude Code
 ```
 
-Não há interface própria, automação de publicação, múltiplos agents ou RAG vetorial. O projeto continua sem licença definida; considere todos os direitos reservados até sua inclusão.
+O projeto mantém um agent com 14 skills e recuperação local híbrida. Não há interface própria ou automação de publicação. O projeto continua sem licença definida; considere todos os direitos reservados até sua inclusão.
+
+### Recuperação após bloqueio
+
+`quality/CICLO-REVISAO.md` define diagnóstico, correção, nova revisão e encaminhamento ao esgotar a versão inicial + duas reescritas. `scripts/review_cycle.py` preserva snapshots e impede reinício silencioso; o agent executa escrita e julgamento. Não altera os scores mínimos nem representa aprovação humana.

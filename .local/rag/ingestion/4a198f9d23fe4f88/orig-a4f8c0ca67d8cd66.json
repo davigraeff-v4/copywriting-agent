@@ -1,0 +1,296 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ae44c001886352f4d6a35bef9c309d4d.png",
+  "source_sha256": "a4f8c0ca67d8cd663236f40b84cdf2eee8ce85e241cac25f9cc6c0a6f10c7d42",
+  "text": "3 prompts para você\nfazer conteúdo com\nStorytelling\nStorytelling de Erro ou Fracasso:\nCrie um roteiro de carrossel com storyteling para o\nnicho de [nicho]. O objetivo é mostrar como um erro,\nfracasso ou dificuldade pode ser transformado em\naprendizado.\nA história gira em tomo de: \"[conte aqui a história\ncentral com o máximo de detalhes relevantesiỊạ\nMeu público-alvo são [perfil do público].\nEstruture assim:\n1. Começo com gancho forte (frase impactante,\ncuriosa ou provocadora)\n2. Breve contexto da situação\n3. O que deu errado\n4. Como lidei com isso\n5. O que aprendi\n6. Conclusão inspiradora\n7. CTA final para [objetivo].\nUse um tom [tom de voz].\n\nCartão de storytelling sobre erro ou fracasso com roteiro em sete pontos.",
+  "segments": [
+    {
+      "text": "3 prompts para você\nfazer conteúdo com\nStorytelling\nStorytelling de Erro ou Fracasso:\nCrie um roteiro de carrossel com storyteling para o\nnicho de [nicho]. O objetivo é mostrar como um erro,\nfracasso ou dificuldade pode ser transformado em\naprendizado.\nA história gira em tomo de: \"[conte aqui a história\ncentral com o máximo de detalhes relevantesiỊạ\nMeu público-alvo são [perfil do público].\nEstruture assim:\n1. Começo com gancho forte (frase impactante,\ncuriosa ou provocadora)\n2. Breve contexto da situação\n3. O que deu errado\n4. Como lidei com isso\n5. O que aprendi\n6. Conclusão inspiradora\n7. CTA final para [objetivo].\nUse um tom [tom de voz].",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.1666666665747331,
+            0.8711111111208647,
+            0.538888888888889,
+            0.05481481481481476
+          ],
+          "text": "3 prompts para você",
+          "start_char": 0,
+          "end_char": 19
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.16481481467743553,
+            0.8266666666787439,
+            0.524074074074074,
+            0.04444444444444451
+          ],
+          "text": "fazer conteúdo com",
+          "start_char": 20,
+          "end_char": 38
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1677457886411967,
+            0.7598351403547122,
+            0.3385824980559172,
+            0.06255194204824943
+          ],
+          "text": "Storytelling",
+          "start_char": 39,
+          "end_char": 51
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.16851851845251195,
+            0.7066666666828016,
+            0.5407407407407407,
+            0.03259259259259262
+          ],
+          "text": "Storytelling de Erro ou Fracasso:",
+          "start_char": 52,
+          "end_char": 85
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19804258924210166,
+            0.6276144675335276,
+            0.5853788587782118,
+            0.027254254376446907
+          ],
+          "text": "Crie um roteiro de carrossel com storyteling para o",
+          "start_char": 86,
+          "end_char": 137
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19793401041461292,
+            0.5999091527346054,
+            0.607919763635706,
+            0.03303360691776969
+          ],
+          "text": "nicho de [nicho]. O objetivo é mostrar como um erro,",
+          "start_char": 138,
+          "end_char": 190
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19629629617588784,
+            0.5792592592641366,
+            0.5888888888888889,
+            0.02370370370370356
+          ],
+          "text": "fracasso ou dificuldade pode ser transformado em",
+          "start_char": 191,
+          "end_char": 239
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19618852646766796,
+            0.553138247247738,
+            0.1577742258707682,
+            0.025036833021375826
+          ],
+          "text": "aprendizado.",
+          "start_char": 240,
+          "end_char": 252
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1961618026165795,
+            0.5016120208134183,
+            0.5595124986436633,
+            0.029970044736508994
+          ],
+          "text": "A história gira em tomo de: \"[conte aqui a história",
+          "start_char": 253,
+          "end_char": 304
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19629629859427603,
+            0.4785185186397306,
+            0.5462962962962963,
+            0.026666666666666616
+          ],
+          "text": "central com o máximo de detalhes relevantesiỊạ",
+          "start_char": 305,
+          "end_char": 351
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19792143155622224,
+            0.4250423370137796,
+            0.4653390955041956,
+            0.031339005364312
+          ],
+          "text": "Meu público-alvo são [perfil do público].",
+          "start_char": 352,
+          "end_char": 393
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1981481470138889,
+            0.38074074087037035,
+            0.18518518518518517,
+            0.020740740740740726
+          ],
+          "text": "Estruture assim:",
+          "start_char": 394,
+          "end_char": 410
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19617404558760773,
+            0.32269234823974957,
+            0.5595386646412037,
+            0.030056765521014106
+          ],
+          "text": "1. Começo com gancho forte (frase impactante,",
+          "start_char": 411,
+          "end_char": 456
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1962962962152778,
+            0.30222222223093687,
+            0.287037037037037,
+            0.02370370370370367
+          ],
+          "text": "curiosa ou provocadora)",
+          "start_char": 457,
+          "end_char": 480
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.196186199935239,
+            0.27258424608276455,
+            0.34471876356336806,
+            0.029778856348108285
+          ],
+          "text": "2. Breve contexto da situação",
+          "start_char": 481,
+          "end_char": 510
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19602728632212252,
+            0.24886028108860514,
+            0.2523393984194155,
+            0.02709098533347809
+          ],
+          "text": "3. O que deu errado",
+          "start_char": 511,
+          "end_char": 530
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19629629613900046,
+            0.22666666668094604,
+            0.2685185185185185,
+            0.023703703703703782
+          ],
+          "text": "4. Como lidei com isso",
+          "start_char": 531,
+          "end_char": 553
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1978295209207411,
+            0.2000572014817915,
+            0.20062182391131364,
+            0.02705875255443424
+          ],
+          "text": "5. O que aprendi",
+          "start_char": 554,
+          "end_char": 570
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1981481480244253,
+            0.17629629630651333,
+            0.29074074074074074,
+            0.02370370370370367
+          ],
+          "text": "6. Conclusão inspiradora",
+          "start_char": 571,
+          "end_char": 595
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19444444433977456,
+            0.1496296296392915,
+            0.29999999999999993,
+            0.026666666666666616
+          ],
+          "text": "7. CTA final para [objetivo].",
+          "start_char": 596,
+          "end_char": 625
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1981481480549582,
+            0.10074074074838701,
+            0.2962962962962963,
+            0.023703703703703782
+          ],
+          "text": "Use um tom [tom de voz].",
+          "start_char": 626,
+          "end_char": 650
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 650
+    },
+    {
+      "text": "Cartão de storytelling sobre erro ou fracasso com roteiro em sete pontos.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 652,
+      "end_char": 725
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 21,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c92a542ae0920245e2ec2965febf0031.jpg",
+  "source_sha256": "3c75c0851c57ca1b53890bb8b46ef850265110b120ac121a307b1897e4461091",
+  "text": "9 Brand Touchpoints of\na B2B Customer Journey\nBrand\nAction Taken by\nWhat should be covered in\nTouchpoint\nthe Audience\nBrand the Touchpoint\nIcons\nLevel of interest\nInformation type based on level of interest\nLinkedin Post\nin\n1.Reads a 'Snack' Linkedin\n• Company point of view on the industry\nPost from CEO (+follow)\n• Core benefit of using the product\n2. Views an ungated Case\n• Strong promise solving a current limitation\n• Detailed explanation on how the solution\nStudy on a Landing Page\nhelped the client to solve their problem\n3. Get Retargeted By\n• Target landing page viewers\na Linkedin Video Ad\n• Hook with an headline and promise\n4.Watches 120s of the\n• Dynamic visualisation of solution\nproduct video\n• Voiceover narrating how they help\nWebinar\n5.Joins a 30-min Webinar with\n• 20-min on the ICP problem or trend by CEO\na team member\n• 10-min on showing the product by AE\nDownload Featur\n6. Downloads a PDF Guide\n• Clear headlines and features explanation\nwith every features, benefits,\n• Lot of photos and infographics\nand pricing plan\n• All the info needed to make a decision\nSlack\n7.Sends the PDF in team\n• You can't control this step so I will just tell you\nSlack, ask for feedback\nto enjoy your day\nOrder Page\n8.Selects a pricing, abandon\n• Clear pricing and options\ncart. Come back to it 3 days\n• Possibility to ask for a demo/receive video\nBUY NON\nlater.\n• Clients logos, partners, guarantees\n9. Buys the entry package\n• Redirect to a smooth onboarding\n\nTabela de nove pontos de contato de uma jornada B2B, associando ação e informação necessária.",
+  "segments": [
+    {
+      "text": "9 Brand Touchpoints of\na B2B Customer Journey\nBrand\nAction Taken by\nWhat should be covered in\nTouchpoint\nthe Audience\nBrand the Touchpoint\nIcons\nLevel of interest\nInformation type based on level of interest\nLinkedin Post\nin\n1.Reads a 'Snack' Linkedin\n• Company point of view on the industry\nPost from CEO (+follow)\n• Core benefit of using the product\n2. Views an ungated Case\n• Strong promise solving a current limitation\n• Detailed explanation on how the solution\nStudy on a Landing Page\nhelped the client to solve their problem\n3. Get Retargeted By\n• Target landing page viewers\na Linkedin Video Ad\n• Hook with an headline and promise\n4.Watches 120s of the\n• Dynamic visualisation of solution\nproduct video\n• Voiceover narrating how they help\nWebinar\n5.Joins a 30-min Webinar with\n• 20-min on the ICP problem or trend by CEO\na team member\n• 10-min on showing the product by AE\nDownload Featur\n6. Downloads a PDF Guide\n• Clear headlines and features explanation\nwith every features, benefits,\n• Lot of photos and infographics\nand pricing plan\n• All the info needed to make a decision\nSlack\n7.Sends the PDF in team\n• You can't control this step so I will just tell you\nSlack, ask for feedback\nto enjoy your day\nOrder Page\n8.Selects a pricing, abandon\n• Clear pricing and options\ncart. Come back to it 3 days\n• Possibility to ask for a demo/receive video\nBUY NON\nlater.\n• Clients logos, partners, guarantees\n9. Buys the entry package\n• Redirect to a smooth onboarding",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.03888888883365119,
+            0.9274074074169448,
+            0.6166666666666667,
+            0.04444444444444451
+          ],
+          "text": "9 Brand Touchpoints of",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "box": [
+            0.03667836690774903,
+            0.8752464628745801,
+            0.6528333875868055,
+            0.04733048050491895
+          ],
+          "text": "a B2B Customer Journey",
+          "confidence": 1,
+          "start_char": 23,
+          "end_char": 45
+        },
+        {
+          "box": [
+            0.037037036947873796,
+            0.826666666691358,
+            0.05185185185185185,
+            0.013333333333333308
+          ],
+          "text": "Brand",
+          "confidence": 1,
+          "start_char": 46,
+          "end_char": 51
+        },
+        {
+          "box": [
+            0.21816021000496233,
+            0.8233755766165998,
+            0.14529572946053965,
+            0.020947933903446958
+          ],
+          "text": "Action Taken by",
+          "confidence": 1,
+          "start_char": 52,
+          "end_char": 67
+        },
+        {
+          "box": [
+            0.5296296294088318,
+            0.8251851852165242,
+            0.2333333333333334,
+            0.016296296296296364
+          ],
+          "text": "What should be covered in",
+          "confidence": 1,
+          "start_char": 68,
+          "end_char": 93
+        },
+        {
+          "box": [
+            0.03697450407691002,
+            0.80124930632233,
+            0.10197691740813078,
+            0.018242128160264826
+          ],
+          "text": "Touchpoint",
+          "confidence": 1,
+          "start_char": 94,
+          "end_char": 104
+        },
+        {
+          "box": [
+            0.21666666656525568,
+            0.8044444444797179,
+            0.1203703703703704,
+            0.014814814814814725
+          ],
+          "text": "the Audience",
+          "confidence": 1,
+          "start_char": 105,
+          "end_char": 117
+        },
+        {
+          "box": [
+            0.5296296295542329,
+            0.80148148149418,
+            0.19074074074074066,
+            0.01777777777777767
+          ],
+          "text": "Brand the Touchpoint",
+          "confidence": 1,
+          "start_char": 118,
+          "end_char": 138
+        },
+        {
+          "box": [
+            0.03499212266772531,
+            0.7843420995909036,
+            0.04871024025811089,
+            0.012049837465639479
+          ],
+          "text": "Icons",
+          "confidence": 1,
+          "start_char": 139,
+          "end_char": 144
+        },
+        {
+          "box": [
+            0.2574074072222222,
+            0.779259259425926,
+            0.11481481481481481,
+            0.013333333333333308
+          ],
+          "text": "Level of interest",
+          "confidence": 1,
+          "start_char": 145,
+          "end_char": 162
+        },
+        {
+          "box": [
+            0.5258439524650476,
+            0.7800471472292377,
+            0.3742520650227864,
+            0.01887436548868815
+          ],
+          "text": "Information type based on level of interest",
+          "confidence": 1,
+          "start_char": 163,
+          "end_char": 206
+        },
+        {
+          "box": [
+            0.07739264434489533,
+            0.7477809873066663,
+            0.056303356311939376,
+            0.010673342104311367
+          ],
+          "text": "Linkedin Post",
+          "confidence": 1,
+          "start_char": 207,
+          "end_char": 220
+        },
+        {
+          "box": [
+            0.09444444435185186,
+            0.7200000000814815,
+            0.022222222222222227,
+            0.016296296296296253
+          ],
+          "text": "in",
+          "confidence": 1,
+          "start_char": 221,
+          "end_char": 223
+        },
+        {
+          "box": [
+            0.2146834132050202,
+            0.7272609992691959,
+            0.24658073142722797,
+            0.021902998465078705
+          ],
+          "text": "1.Reads a 'Snack' Linkedin",
+          "confidence": 1,
+          "start_char": 224,
+          "end_char": 250
+        },
+        {
+          "box": [
+            0.5314814813812219,
+            0.7288888888940788,
+            0.3555555555555556,
+            0.016296296296296364
+          ],
+          "text": "• Company point of view on the industry",
+          "confidence": 1,
+          "start_char": 251,
+          "end_char": 290
+        },
+        {
+          "box": [
+            0.216510694568195,
+            0.7078920357923693,
+            0.22992769877115882,
+            0.017962260776095973
+          ],
+          "text": "Post from CEO (+follow)",
+          "confidence": 1,
+          "start_char": 291,
+          "end_char": 314
+        },
+        {
+          "box": [
+            0.5314814813856055,
+            0.7066666666729708,
+            0.3111111111111111,
+            0.01777777777777778
+          ],
+          "text": "• Core benefit of using the product",
+          "confidence": 1,
+          "start_char": 315,
+          "end_char": 350
+        },
+        {
+          "box": [
+            0.2148148147174494,
+            0.6370370370462008,
+            0.23333333333333334,
+            0.01777777777777778
+          ],
+          "text": "2. Views an ungated Case",
+          "confidence": 1,
+          "start_char": 351,
+          "end_char": 375
+        },
+        {
+          "box": [
+            0.5313330406186553,
+            0.6459416597018028,
+            0.387353006998698,
+            0.022205717298719674
+          ],
+          "text": "• Strong promise solving a current limitation",
+          "confidence": 1,
+          "start_char": 376,
+          "end_char": 421
+        },
+        {
+          "box": [
+            0.5314814813783498,
+            0.6281481481547726,
+            0.3759259259259259,
+            0.016296296296296253
+          ],
+          "text": "• Detailed explanation on how the solution",
+          "confidence": 1,
+          "start_char": 422,
+          "end_char": 464
+        },
+        {
+          "box": [
+            0.21666666655804848,
+            0.6148148148233619,
+            0.2296296296296296,
+            0.01777777777777767
+          ],
+          "text": "Study on a Landing Page",
+          "confidence": 1,
+          "start_char": 465,
+          "end_char": 488
+        },
+        {
+          "box": [
+            0.5314814834722222,
+            0.6059259261481482,
+            0.34444444444444444,
+            0.01777777777777767
+          ],
+          "text": "helped the client to solve their problem",
+          "confidence": 1,
+          "start_char": 489,
+          "end_char": 529
+        },
+        {
+          "box": [
+            0.21646454029180662,
+            0.5495321404928147,
+            0.19118323149504485,
+            0.020756303292733702
+          ],
+          "text": "3. Get Retargeted By",
+          "confidence": 1,
+          "start_char": 530,
+          "end_char": 550
+        },
+        {
+          "box": [
+            0.5314814812781085,
+            0.5511111111256614,
+            0.26481481481481484,
+            0.016296296296296364
+          ],
+          "text": "• Target landing page viewers",
+          "confidence": 1,
+          "start_char": 551,
+          "end_char": 580
+        },
+        {
+          "box": [
+            0.21464296864805485,
+            0.5302603951943583,
+            0.1891984162507234,
+            0.01760342703925233
+          ],
+          "text": "a Linkedin Video Ad",
+          "confidence": 1,
+          "start_char": 581,
+          "end_char": 600
+        },
+        {
+          "box": [
+            0.5314814813864839,
+            0.5303703703756614,
+            0.3296296296296297,
+            0.016296296296296364
+          ],
+          "text": "• Hook with an headline and promise",
+          "confidence": 1,
+          "start_char": 601,
+          "end_char": 636
+        },
+        {
+          "box": [
+            0.2166666665565844,
+            0.4785185185283951,
+            0.20555555555555555,
+            0.01777777777777778
+          ],
+          "text": "4.Watches 120s of the",
+          "confidence": 1,
+          "start_char": 637,
+          "end_char": 658
+        },
+        {
+          "box": [
+            0.531326073691703,
+            0.47819735731610635,
+            0.29840311121057583,
+            0.018713179694281656
+          ],
+          "text": "• Dynamic visualisation of solution",
+          "confidence": 1,
+          "start_char": 659,
+          "end_char": 694
+        },
+        {
+          "box": [
+            0.21652694219995103,
+            0.4568252463058806,
+            0.13169702600549768,
+            0.016977738274468357
+          ],
+          "text": "product video",
+          "confidence": 1,
+          "start_char": 695,
+          "end_char": 708
+        },
+        {
+          "box": [
+            0.5314814813918952,
+            0.45629629630206825,
+            0.312962962962963,
+            0.01777777777777778
+          ],
+          "text": "• Voiceover narrating how they help",
+          "confidence": 1,
+          "start_char": 709,
+          "end_char": 744
+        },
+        {
+          "box": [
+            0.0888888887962963,
+            0.42370370372113286,
+            0.03148148148148147,
+            0.00592592592592589
+          ],
+          "text": "Webinar",
+          "confidence": 1,
+          "start_char": 745,
+          "end_char": 752
+        },
+        {
+          "box": [
+            0.2166666665734442,
+            0.4059259259314689,
+            0.2777777777777778,
+            0.016296296296296364
+          ],
+          "text": "5.Joins a 30-min Webinar with",
+          "confidence": 1,
+          "start_char": 753,
+          "end_char": 782
+        },
+        {
+          "box": [
+            0.5314814813954029,
+            0.40444444444891126,
+            0.39814814814814814,
+            0.01777777777777778
+          ],
+          "text": "• 20-min on the ICP problem or trend by CEO",
+          "confidence": 1,
+          "start_char": 783,
+          "end_char": 826
+        },
+        {
+          "box": [
+            0.21833715628936504,
+            0.3865654918893583,
+            0.14660412823712385,
+            0.013778611642343064
+          ],
+          "text": "a team member",
+          "confidence": 1,
+          "start_char": 827,
+          "end_char": 840
+        },
+        {
+          "box": [
+            0.5314814813959695,
+            0.3837037037089325,
+            0.3462962962962963,
+            0.01777777777777778
+          ],
+          "text": "• 10-min on showing the product by AE",
+          "confidence": 1,
+          "start_char": 841,
+          "end_char": 878
+        },
+        {
+          "box": [
+            0.06666666663580248,
+            0.36444444451851854,
+            0.06666666666666668,
+            0.008888888888888946
+          ],
+          "text": "Download Featur",
+          "confidence": 1,
+          "start_char": 879,
+          "end_char": 894
+        },
+        {
+          "box": [
+            0.21666666657034053,
+            0.3318518518584229,
+            0.24629629629629632,
+            0.016296296296296253
+          ],
+          "text": "6. Downloads a PDF Guide",
+          "confidence": 1,
+          "start_char": 895,
+          "end_char": 919
+        },
+        {
+          "box": [
+            0.5314814813878427,
+            0.33037037037497385,
+            0.3685185185185186,
+            0.016296296296296253
+          ],
+          "text": "• Clear headlines and features explanation",
+          "confidence": 1,
+          "start_char": 920,
+          "end_char": 962
+        },
+        {
+          "box": [
+            0.21666666662217415,
+            0.30814814816065417,
+            0.27222222222222225,
+            0.01925925925925931
+          ],
+          "text": "with every features, benefits,",
+          "confidence": 1,
+          "start_char": 963,
+          "end_char": 993
+        },
+        {
+          "box": [
+            0.5314814813895798,
+            0.30814814815478164,
+            0.2833333333333333,
+            0.01777777777777778
+          ],
+          "text": "• Lot of photos and infographics",
+          "confidence": 1,
+          "start_char": 994,
+          "end_char": 1026
+        },
+        {
+          "box": [
+            0.21666666657744102,
+            0.2874074074235691,
+            0.15,
+            0.01777777777777778
+          ],
+          "text": "and pricing plan",
+          "confidence": 1,
+          "start_char": 1027,
+          "end_char": 1043
+        },
+        {
+          "box": [
+            0.5314814810396825,
+            0.29037037039365077,
+            0.35,
+            0.016296296296296253
+          ],
+          "text": "• All the info needed to make a decision",
+          "confidence": 1,
+          "start_char": 1044,
+          "end_char": 1084
+        },
+        {
+          "box": [
+            0.09259259233796298,
+            0.24888888898148143,
+            0.024074074074074067,
+            0.007407407407407418
+          ],
+          "text": "Slack",
+          "confidence": 1,
+          "start_char": 1085,
+          "end_char": 1090
+        },
+        {
+          "box": [
+            0.2166666665382997,
+            0.23259259260185194,
+            0.22962962962962963,
+            0.016296296296296253
+          ],
+          "text": "7.Sends the PDF in team",
+          "confidence": 1,
+          "start_char": 1091,
+          "end_char": 1114
+        },
+        {
+          "box": [
+            0.5294758411836603,
+            0.2301244365947398,
+            0.4188510188349971,
+            0.022907856128833837
+          ],
+          "text": "• You can't control this step so I will just tell you",
+          "confidence": 1,
+          "start_char": 1115,
+          "end_char": 1168
+        },
+        {
+          "box": [
+            0.21648232217960675,
+            0.20986595965156485,
+            0.21518899423104745,
+            0.019880926344129857
+          ],
+          "text": "Slack, ask for feedback",
+          "confidence": 1,
+          "start_char": 1169,
+          "end_char": 1192
+        },
+        {
+          "box": [
+            0.5296296302777778,
+            0.21037037049735452,
+            0.15370370370370368,
+            0.01777777777777778
+          ],
+          "text": "to enjoy your day",
+          "confidence": 1,
+          "start_char": 1193,
+          "end_char": 1210
+        },
+        {
+          "box": [
+            0.08103472937526714,
+            0.1815823604184783,
+            0.04726185622038666,
+            0.011090935601128504
+          ],
+          "text": "Order Page",
+          "confidence": 1,
+          "start_char": 1211,
+          "end_char": 1221
+        },
+        {
+          "box": [
+            0.21666666656532516,
+            0.1481481481551472,
+            0.26111111111111107,
+            0.01777777777777778
+          ],
+          "text": "8.Selects a pricing, abandon",
+          "confidence": 1,
+          "start_char": 1222,
+          "end_char": 1250
+        },
+        {
+          "box": [
+            0.5314814813834423,
+            0.14814814815686284,
+            0.23703703703703705,
+            0.01777777777777778
+          ],
+          "text": "• Clear pricing and options",
+          "confidence": 1,
+          "start_char": 1251,
+          "end_char": 1278
+        },
+        {
+          "box": [
+            0.21653493314575023,
+            0.12725939390904384,
+            0.25957370334201385,
+            0.019595319253427057
+          ],
+          "text": "cart. Come back to it 3 days",
+          "confidence": 1,
+          "start_char": 1279,
+          "end_char": 1307
+        },
+        {
+          "box": [
+            0.5314814813878824,
+            0.12888888889331707,
+            0.38148148148148153,
+            0.016296296296296364
+          ],
+          "text": "• Possibility to ask for a demo/receive video",
+          "confidence": 1,
+          "start_char": 1308,
+          "end_char": 1353
+        },
+        {
+          "box": [
+            0.09074074081018518,
+            0.10518518527777776,
+            0.027777777777777776,
+            0.007407407407407418
+          ],
+          "text": "BUY NON",
+          "confidence": 1,
+          "start_char": 1354,
+          "end_char": 1361
+        },
+        {
+          "box": [
+            0.2140020307963608,
+            0.10629721952333482,
+            0.05542163142451531,
+            0.017031495836046018
+          ],
+          "text": "later.",
+          "confidence": 1,
+          "start_char": 1362,
+          "end_char": 1368
+        },
+        {
+          "box": [
+            0.5313186140414864,
+            0.10503494147960535,
+            0.32065053869176785,
+            0.020067628931116133
+          ],
+          "text": "• Clients logos, partners, guarantees",
+          "confidence": 1,
+          "start_char": 1369,
+          "end_char": 1406
+        },
+        {
+          "box": [
+            0.21666666655878355,
+            0.03851851852667354,
+            0.2388888888888889,
+            0.01777777777777767
+          ],
+          "text": "9. Buys the entry package",
+          "confidence": 1,
+          "start_char": 1407,
+          "end_char": 1432
+        },
+        {
+          "box": [
+            0.5313372797339682,
+            0.03989002459887292,
+            0.3058933964482061,
+            0.020235291233769215
+          ],
+          "text": "• Redirect to a smooth onboarding",
+          "confidence": 1,
+          "start_char": 1433,
+          "end_char": 1466
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1466
+    },
+    {
+      "text": "Tabela de nove pontos de contato de uma jornada B2B, associando ação e informação necessária.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1468,
+      "end_char": 1561
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 57,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

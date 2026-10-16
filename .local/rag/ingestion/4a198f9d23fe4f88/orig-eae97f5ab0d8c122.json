@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05f7bca924c320d79f5316408fa84379.png",
+  "source_sha256": "eae97f5ab0d8c122278050ea59d8baa2ecc90cc74b9dd81d9f906cd4645fa493",
+  "text": "Abhimanyu Choithramani\n@mrdigitalguruji\nMeta Ads\nFunnel Strcuture\nTop Of The Funnel (TOFU)\nCold Audience\nCreatives To Use: Educational\nUGC Problem/Solution\nMiddle Of The Funnel (MOFU)\nWarm Audience\nCreatives To Use: Testimonials Us vs Them | Product Benefits\n↓\nBottom Of The Funnel (BOFU)\nHot Audience\nCreatives To Use:\nOffers | Reviews | Scarcity/Urgency\nSALE\n\nDiagrama de funil de Meta Ads com etapas coloridas e setas até venda.",
+  "segments": [
+    {
+      "text": "Abhimanyu Choithramani\n@mrdigitalguruji\nMeta Ads\nFunnel Strcuture\nTop Of The Funnel (TOFU)\nCold Audience\nCreatives To Use: Educational\nUGC Problem/Solution\nMiddle Of The Funnel (MOFU)\nWarm Audience\nCreatives To Use: Testimonials Us vs Them | Product Benefits\n↓\nBottom Of The Funnel (BOFU)\nHot Audience\nCreatives To Use:\nOffers | Reviews | Scarcity/Urgency\nSALE",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Abhimanyu Choithramani",
+          "box": [
+            0.7851851850909537,
+            0.970370370377745,
+            0.21296296296296302,
+            0.01666666666666672
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "text": "@mrdigitalguruji",
+          "box": [
+            0.7870370369458061,
+            0.9500000000122549,
+            0.12777777777777777,
+            0.016666666666666607
+          ],
+          "confidence": 1,
+          "start_char": 23,
+          "end_char": 39
+        },
+        {
+          "text": "Meta Ads",
+          "box": [
+            0.37944044949813466,
+            0.9045270356813726,
+            0.24667465775101277,
+            0.04835333647551365
+          ],
+          "confidence": 1,
+          "start_char": 40,
+          "end_char": 48
+        },
+        {
+          "text": "Funnel Strcuture",
+          "box": [
+            0.2777777775885315,
+            0.8314814815001624,
+            0.4462962962962963,
+            0.042592592592592626
+          ],
+          "confidence": 1,
+          "start_char": 49,
+          "end_char": 65
+        },
+        {
+          "text": "Top Of The Funnel (TOFU)",
+          "box": [
+            0.29606370190720877,
+            0.7382789497833171,
+            0.43384348551432295,
+            0.039312920746979896
+          ],
+          "confidence": 1,
+          "start_char": 66,
+          "end_char": 90
+        },
+        {
+          "text": "Cold Audience",
+          "box": [
+            0.38499662670677015,
+            0.7015123292334873,
+            0.21892629552770537,
+            0.02960919274224172
+          ],
+          "confidence": 1,
+          "start_char": 91,
+          "end_char": 104
+        },
+        {
+          "text": "Creatives To Use: Educational",
+          "box": [
+            0.1166666665608466,
+            0.6277777777843916,
+            0.42592592592592593,
+            0.025925925925925908
+          ],
+          "confidence": 1,
+          "start_char": 105,
+          "end_char": 134
+        },
+        {
+          "text": "UGC Problem/Solution",
+          "box": [
+            0.5592592591332087,
+            0.627777777788671,
+            0.32592592592592595,
+            0.025925925925925908
+          ],
+          "confidence": 1,
+          "start_char": 135,
+          "end_char": 155
+        },
+        {
+          "text": "Middle Of The Funnel (MOFU)",
+          "box": [
+            0.29259259252903796,
+            0.5092592592685734,
+            0.44814814814814813,
+            0.031481481481481444
+          ],
+          "confidence": 1,
+          "start_char": 156,
+          "end_char": 183
+        },
+        {
+          "text": "Warm Audience",
+          "box": [
+            0.3925925924596391,
+            0.4759259259413581,
+            0.21481481481481474,
+            0.024074074074074026
+          ],
+          "confidence": 1,
+          "start_char": 184,
+          "end_char": 197
+        },
+        {
+          "text": "Creatives To Use: Testimonials Us vs Them | Product Benefits",
+          "box": [
+            0.16289554287884142,
+            0.4060355022962848,
+            0.6519965842918113,
+            0.02621813615163171
+          ],
+          "confidence": 1,
+          "start_char": 198,
+          "end_char": 258
+        },
+        {
+          "text": "↓",
+          "box": [
+            0.4962962961851852,
+            0.3425925928333333,
+            0.014814814814814836,
+            0.024074074074074026
+          ],
+          "confidence": 0.3,
+          "start_char": 259,
+          "end_char": 260
+        },
+        {
+          "text": "Bottom Of The Funnel (BOFU)",
+          "box": [
+            0.2998496097771381,
+            0.28263592139851346,
+            0.41142572473596645,
+            0.03118924741391782
+          ],
+          "confidence": 1,
+          "start_char": 261,
+          "end_char": 288
+        },
+        {
+          "text": "Hot Audience",
+          "box": [
+            0.4033909801999436,
+            0.24902780474893138,
+            0.17103942588523585,
+            0.026739634407891177
+          ],
+          "confidence": 1,
+          "start_char": 289,
+          "end_char": 301
+        },
+        {
+          "text": "Creatives To Use:",
+          "box": [
+            0.18148148136507938,
+            0.1907407407539683,
+            0.16666666666666666,
+            0.01851851851851849
+          ],
+          "confidence": 1,
+          "start_char": 302,
+          "end_char": 319
+        },
+        {
+          "text": "Offers | Reviews | Scarcity/Urgency",
+          "box": [
+            0.37592592594290114,
+            0.18703703705709873,
+            0.3722222222222223,
+            0.024074074074074137
+          ],
+          "confidence": 1,
+          "start_char": 320,
+          "end_char": 355
+        },
+        {
+          "text": "SALE",
+          "box": [
+            0.43320531468894524,
+            0.07179987187823611,
+            0.11507085164388015,
+            0.03602988631637016
+          ],
+          "confidence": 1,
+          "start_char": 356,
+          "end_char": 360
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 360
+    },
+    {
+      "text": "Diagrama de funil de Meta Ads com etapas coloridas e setas até venda.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 362,
+      "end_char": 431
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1080
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9588235294117647,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

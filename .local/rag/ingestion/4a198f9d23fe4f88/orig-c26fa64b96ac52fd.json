@@ -1,0 +1,140 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e254195eab60cf80af0fe71a75b65f6.webp",
+  "source_sha256": "c26fa64b96ac52fdddcd95200b8ebb1e0ec1e97af01b29c641dfd0d62c0577b1",
+  "text": "Shoots\nDesign\nAds\n→ Growth\nSeo\nSeo\nContent\nMarketin\n\nCartaz tipográfico destaca crescimento entre palavras desfocadas de atividades de marketing.",
+  "segments": [
+    {
+      "text": "Shoots\nDesign\nAds\n→ Growth\nSeo\nSeo\nContent\nMarketin",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.0034844813144344917,
+            0.7508592564374603,
+            0.6298041363808676,
+            0.2121446397569445
+          ],
+          "text": "Shoots",
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09651130159518423,
+            0.6567302852552445,
+            0.6043581848573751,
+            0.1541922295126532
+          ],
+          "text": "Design",
+          "start_char": 7,
+          "end_char": 13
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.15828686934054342,
+            0.5593145706377499,
+            0.3249241095219651,
+            0.0907406518467805
+          ],
+          "text": "Ads",
+          "start_char": 14,
+          "end_char": 17
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.042234440887132664,
+            0.44212126635384846,
+            0.7504579782821289,
+            0.085465038657047
+          ],
+          "text": "→ Growth",
+          "start_char": 18,
+          "end_char": 26
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.14427860315888252,
+            0.33059839143195163,
+            0.3034825921896976,
+            0.08122446490823632
+          ],
+          "text": "Seo",
+          "start_char": 27,
+          "end_char": 30
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.13466666565926305,
+            0.3096362317909183,
+            0.32926666216843575,
+            0.10364606850028824
+          ],
+          "text": "Seo",
+          "start_char": 31,
+          "end_char": 34
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07162944500757479,
+            0.11999457909499614,
+            0.7101522840025054,
+            0.19582331545302498
+          ],
+          "text": "Content",
+          "start_char": 35,
+          "end_char": 42
+        },
+        {
+          "confidence": 1,
+          "box": [
+            -0.015958107594659012,
+            -0.05818139955933354,
+            0.8441835127131682,
+            0.27822227293946206
+          ],
+          "text": "Marketin",
+          "start_char": 43,
+          "end_char": 51
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 51
+    },
+    {
+      "text": "Cartaz tipográfico destaca crescimento entre palavras desfocadas de atividades de marketing.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 53,
+      "end_char": 145
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      843
+    ],
+    "ocr_rows": 8,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

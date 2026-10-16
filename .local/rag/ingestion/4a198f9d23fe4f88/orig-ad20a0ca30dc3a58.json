@@ -1,0 +1,476 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/51c11d802092ce1d5cb55dfc235a1264.jpg",
+  "source_sha256": "ad20a0ca30dc3a589bcc85fddc080c41a6e774dba993bbfe0dfd90ca837c8eaf",
+  "text": "Content Creation\nPromoting\nProcess\nWe can't just release content\ninto the wild without helping it\nfly. We need to promote it on\ndifferent platforms.\nReviewing\nMaintaining\nNext up: reviewing what the\nwriter wrote.\nYou need to update it when you\ndiscover that it's not\nAssigning\nperforming as you had hoped,\nand just to keep it fresh and\nThe first step in the content\nrelevant.\ncreation process is assigning\ncontent to writers.\nApproving &\nPublishing\nLet the writer know their\ncontent is being approved\nand publish it.\nReporting &\nAnalyzing\nSubmitting /\nLet your analysis inform\nReceiving\ncontent edits for previous\ncontent as well as topics and\nconcepts for new content.\nThe next part of the process is\nwhen a writer submits content\nand a manager receives it.\n\nFluxo de criação de conteúdo em sete etapas, com caminho colorido e pequenos ícones.",
+  "segments": [
+    {
+      "text": "Content Creation\nPromoting\nProcess\nWe can't just release content\ninto the wild without helping it\nfly. We need to promote it on\ndifferent platforms.\nReviewing\nMaintaining\nNext up: reviewing what the\nwriter wrote.\nYou need to update it when you\ndiscover that it's not\nAssigning\nperforming as you had hoped,\nand just to keep it fresh and\nThe first step in the content\nrelevant.\ncreation process is assigning\ncontent to writers.\nApproving &\nPublishing\nLet the writer know their\ncontent is being approved\nand publish it.\nReporting &\nAnalyzing\nSubmitting /\nLet your analysis inform\nReceiving\ncontent edits for previous\ncontent as well as topics and\nconcepts for new content.\nThe next part of the process is\nwhen a writer submits content\nand a manager receives it.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.10454545441558442,
+            0.8620000000126984,
+            0.3499999999999999,
+            0.03200000000000003
+          ],
+          "text": "Content Creation",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5882312169154277,
+            0.8364888149513162,
+            0.08944665735418145,
+            0.019022369384765647
+          ],
+          "text": "Promoting",
+          "start_char": 17,
+          "end_char": 26
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10630564072537119,
+            0.8014409439240167,
+            0.16687209389426494,
+            0.031369819641113406
+          ],
+          "text": "Process",
+          "start_char": 27,
+          "end_char": 34
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.590684562211735,
+            0.8101705910357108,
+            0.1458331194790926,
+            0.013998852252960159
+          ],
+          "text": "We can't just release content",
+          "start_char": 35,
+          "end_char": 64
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5886363634280303,
+            0.7960000000166667,
+            0.15454545454545454,
+            0.01200000000000001
+          ],
+          "text": "into the wild without helping it",
+          "start_char": 65,
+          "end_char": 97
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5886363633712121,
+            0.7800000000222223,
+            0.1477272727272727,
+            0.01200000000000001
+          ],
+          "text": "fly. We need to promote it on",
+          "start_char": 98,
+          "end_char": 127
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5909090907563921,
+            0.76400000001875,
+            0.09772727272727266,
+            0.01200000000000001
+          ],
+          "text": "different platforms.",
+          "start_char": 128,
+          "end_char": 148
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.30872865222442636,
+            0.664557165396435,
+            0.08498327948830342,
+            0.018726140975952155
+          ],
+          "text": "Reviewing",
+          "start_char": 149,
+          "end_char": 158
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7429016517952273,
+            0.664450975711202,
+            0.09612877585671165,
+            0.01870637702941902
+          ],
+          "text": "Maintaining",
+          "start_char": 159,
+          "end_char": 170
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.309090908971395,
+            0.6400000000103447,
+            0.1431818181818182,
+            0.01200000000000001
+          ],
+          "text": "Next up: reviewing what the",
+          "start_char": 171,
+          "end_char": 198
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.309090911371987,
+            0.6240000002,
+            0.06590908657420769,
+            0.0119999999999999
+          ],
+          "text": "writer wrote.",
+          "start_char": 199,
+          "end_char": 212
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7431818180413223,
+            0.6360000000109092,
+            0.15909090909090906,
+            0.01200000000000001
+          ],
+          "text": "You need to update it when you",
+          "start_char": 213,
+          "end_char": 243
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7431818180681817,
+            0.6220000000113637,
+            0.1045454545454545,
+            0.010000000000000009
+          ],
+          "text": "discover that it's not",
+          "start_char": 244,
+          "end_char": 266
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10193486405227328,
+            0.5896735205045027,
+            0.08243944861672142,
+            0.017454877853393613
+          ],
+          "text": "Assigning",
+          "start_char": 267,
+          "end_char": 276
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7431818180756334,
+            0.604000000009836,
+            0.15227272727272723,
+            0.01200000000000001
+          ],
+          "text": "performing as you had hoped,",
+          "start_char": 277,
+          "end_char": 305
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7431818180785125,
+            0.5900000000109091,
+            0.14090909090909098,
+            0.01200000000000001
+          ],
+          "text": "and just to keep it fresh and",
+          "start_char": 306,
+          "end_char": 335
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10454545332386367,
+            0.5660000001500001,
+            0.13863636363636364,
+            0.01200000000000001
+          ],
+          "text": "The first step in the content",
+          "start_char": 336,
+          "end_char": 365
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7431818180681817,
+            0.5760000000210526,
+            0.04772727272727273,
+            0.008000000000000007
+          ],
+          "text": "relevant.",
+          "start_char": 366,
+          "end_char": 375
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10227272715734262,
+            0.5500000000076923,
+            0.15,
+            0.010000000000000009
+          ],
+          "text": "creation process is assigning",
+          "start_char": 376,
+          "end_char": 405
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10202721061038712,
+            0.5336773719575588,
+            0.09826144305142488,
+            0.014049634933471666
+          ],
+          "text": "content to writers.",
+          "start_char": 406,
+          "end_char": 425
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40440760947618487,
+            0.3953868875698543,
+            0.10027568990534003,
+            0.019226224899291933
+          ],
+          "text": "Approving &",
+          "start_char": 426,
+          "end_char": 437
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40204575525381414,
+            0.3744907184859321,
+            0.08926325711337002,
+            0.017888805389404294
+          ],
+          "text": "Publishing",
+          "start_char": 438,
+          "end_char": 448
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4022727272964015,
+            0.354000000025,
+            0.125,
+            0.01200000000000001
+          ],
+          "text": "Let the writer know their",
+          "start_char": 449,
+          "end_char": 474
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40437398719536066,
+            0.3360768686733061,
+            0.13219831640070134,
+            0.014111031532287543
+          ],
+          "text": "content is being approved",
+          "start_char": 475,
+          "end_char": 500
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4044400863998823,
+            0.32148399070455336,
+            0.07293800874189899,
+            0.013032018661498945
+          ],
+          "text": "and publish it.",
+          "start_char": 501,
+          "end_char": 516
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7178747349346881,
+            0.23876541616736158,
+            0.09834143898703829,
+            0.02246916770935059
+          ],
+          "text": "Reporting &",
+          "start_char": 517,
+          "end_char": 528
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7178320643336035,
+            0.2176679048532919,
+            0.08028489026156338,
+            0.017542785644531267
+          ],
+          "text": "Analyzing",
+          "start_char": 529,
+          "end_char": 538
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.22259653798074605,
+            0.18351945045331108,
+            0.10253419876098632,
+            0.022961099624633774
+          ],
+          "text": "Submitting /",
+          "start_char": 539,
+          "end_char": 551
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7181818180488395,
+            0.19200000001276585,
+            0.125,
+            0.01200000000000001
+          ],
+          "text": "Let your analysis inform",
+          "start_char": 552,
+          "end_char": 576
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2199998330741455,
+            0.1611580560246657,
+            0.0829387838190252,
+            0.018471496582031288
+          ],
+          "text": "Receiving",
+          "start_char": 577,
+          "end_char": 586
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7181818181060606,
+            0.17600000001428562,
+            0.13181818181818183,
+            0.01200000000000001
+          ],
+          "text": "content edits for previous",
+          "start_char": 587,
+          "end_char": 613
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.718030979036694,
+            0.15836823039134018,
+            0.1503673206676137,
+            0.015797834396362287
+          ],
+          "text": "content as well as topics and",
+          "start_char": 614,
+          "end_char": 643
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7181818219485196,
+            0.14600000019999992,
+            0.13409090042114258,
+            0.01200000000000001
+          ],
+          "text": "concepts for new content.",
+          "start_char": 644,
+          "end_char": 669
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.22272727261194028,
+            0.13400000000895518,
+            0.1545454545454545,
+            0.01200000000000001
+          ],
+          "text": "The next part of the process is",
+          "start_char": 670,
+          "end_char": 701
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2227272726170799,
+            0.12000000000757571,
+            0.1545454545454545,
+            0.010000000000000009
+          ],
+          "text": "when a writer submits content",
+          "start_char": 702,
+          "end_char": 731
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.22045454534489634,
+            0.10200000001052623,
+            0.13409090909090904,
+            0.01200000000000001
+          ],
+          "text": "and a manager receives it.",
+          "start_char": 732,
+          "end_char": 758
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 758
+    },
+    {
+      "text": "Fluxo de criação de conteúdo em sete etapas, com caminho colorido e pequenos ícones.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 760,
+      "end_char": 844
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      880,
+      1000
+    ],
+    "ocr_rows": 36,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -11,7 +11,7 @@ Guia operacional revisado a partir das preferências do gestor e dos erros regis
 5. **Ritmo:** evitar trincas telegráficas, pares mecânicos e repetição da mesma abertura. Frase curta não é defeito isolado; revisar recorrência e função.
 6. **Substância:** adjetivo não substitui informação. Detalhe pode ser situação, processo, critério ou evidência; não exigir número. Não inventar prova para parecer específico.
 7. **Entrada:** entregar assunto/valor sem aquecimento genérico. Uma abertura contextual é válida quando já traz informação relevante.
-8. **Redundância:** ler headline, apoio, bullets, legenda e conjunto. Cada campo/seção acrescenta algo; CTA/formulário podem se repetir quando necessário.
+8. **Redundância:** comparar proposições no conjunto e a função de cada campo, conforme `quality/REDUNDANCIA.md`. Preservar retomada útil, inclusive oferta em fala/tela, CTA e informações em peças independentes. Apoio/legenda/dobra que apenas reformula a mesma ideia exige corte ou desenvolvimento sustentado; desconto precisa de dois trechos e prejuízo material. Falta de dados não autoriza preencher seções com paráfrases.
 9. **Causalidade:** verificar o salto de recurso técnico para benefício comercial. Durabilidade não demonstra margem, recurso não demonstra indicação e exclusividade do distribuidor não demonstra exclusividade da oficina.
 10. **Voz:** comparar com amostras reais daquela marca ou pessoa. Descrições “humana e consultiva” não bastam; observar vocabulário, ritmo e maneira de explicar.
 11. **Objetivo:** verificar se a copy responde à barreira do briefing. Não trocar desconhecimento de marca por medo ou prejuízo sem fonte.

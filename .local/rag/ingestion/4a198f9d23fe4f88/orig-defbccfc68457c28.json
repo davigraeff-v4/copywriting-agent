@@ -1,0 +1,344 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9f03ad0c6c3b2f4c266224845e2b6d47.png",
+  "source_sha256": "defbccfc68457c28791473ff7b1fc0f1541c9898743a976a325afe6be1630031",
+  "text": "Google Ads\nGOOGLE ADS CAMPAIGN\nTYPES & WHEN TO USE THEM\nCampaign Type\nUse Case\nSEARCH\nCapture high-intent traffic\n(e.g, \"Facebook Ads agency\nADS\nSingapore\")\nDISPLAY\nBrand awareness across\nADS\nblogs, forums, local news\nYOUTUBE\nProduct demos,\nADS\nbrand storyteiling\nSHOPPING\nFor ecommerce retailers\nADS\nPERFORMA-\nOmnichannel targeting\nNCE MAX\nwith Al optimization\n\nTabela de tipos de campanhas Google Ads e usos, com ícones por modalidade.",
+  "segments": [
+    {
+      "text": "Google Ads\nGOOGLE ADS CAMPAIGN\nTYPES & WHEN TO USE THEM\nCampaign Type\nUse Case\nSEARCH\nCapture high-intent traffic\n(e.g, \"Facebook Ads agency\nADS\nSingapore\")\nDISPLAY\nBrand awareness across\nADS\nblogs, forums, local news\nYOUTUBE\nProduct demos,\nADS\nbrand storyteiling\nSHOPPING\nFor ecommerce retailers\nADS\nPERFORMA-\nOmnichannel targeting\nNCE MAX\nwith Al optimization",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Google Ads",
+          "confidence": 1,
+          "box": [
+            0.19997404937668284,
+            0.8579599495371095,
+            0.29935428500175476,
+            0.043152208129564884
+          ],
+          "start_char": 0,
+          "end_char": 10
+        },
+        {
+          "text": "GOOGLE ADS CAMPAIGN",
+          "confidence": 1,
+          "box": [
+            0.08749999370388739,
+            0.7832031245225848,
+            0.737500011920929,
+            0.04179687549670541
+          ],
+          "start_char": 11,
+          "end_char": 30
+        },
+        {
+          "text": "TYPES & WHEN TO USE THEM",
+          "confidence": 1,
+          "box": [
+            0.08061002721685084,
+            0.7180232563963009,
+            0.8867102265357971,
+            0.07122092942396796
+          ],
+          "start_char": 31,
+          "end_char": 55
+        },
+        {
+          "text": "Campaign Type",
+          "confidence": 1,
+          "box": [
+            0.12200435566063356,
+            0.6464843745228401,
+            0.2832244038581848,
+            0.02669270833333348
+          ],
+          "start_char": 56,
+          "end_char": 69
+        },
+        {
+          "text": "Use Case",
+          "confidence": 1,
+          "box": [
+            0.6077765562975036,
+            0.6509300840246153,
+            0.17006780207157135,
+            0.022267738978067886
+          ],
+          "start_char": 70,
+          "end_char": 78
+        },
+        {
+          "text": "SEARCH",
+          "confidence": 1,
+          "box": [
+            0.2155089327112964,
+            0.5663042989294849,
+            0.1506814807653427,
+            0.02291465799013781
+          ],
+          "start_char": 79,
+          "end_char": 85
+        },
+        {
+          "text": "Capture high-intent traffic",
+          "confidence": 1,
+          "box": [
+            0.47930282936087676,
+            0.5755208336328588,
+            0.40522876381874084,
+            0.024769863734642517
+          ],
+          "start_char": 86,
+          "end_char": 113
+        },
+        {
+          "text": "(e.g, \"Facebook Ads agency",
+          "confidence": 1,
+          "box": [
+            0.47693598486255007,
+            0.5462212825283432,
+            0.42296892404556274,
+            0.03082205851872777
+          ],
+          "start_char": 114,
+          "end_char": 140
+        },
+        {
+          "text": "ADS",
+          "confidence": 1,
+          "box": [
+            0.21568627431630627,
+            0.5348837203890053,
+            0.08061002194881439,
+            0.023255815108617073
+          ],
+          "start_char": 141,
+          "end_char": 144
+        },
+        {
+          "text": "Singapore\")",
+          "confidence": 1,
+          "box": [
+            0.4790711176863034,
+            0.5199431210292873,
+            0.1836547702550888,
+            0.02556578814983368
+          ],
+          "start_char": 145,
+          "end_char": 156
+        },
+        {
+          "text": "DISPLAY",
+          "confidence": 1,
+          "box": [
+            0.21768287076323994,
+            0.44705054064489724,
+            0.1528695523738861,
+            0.021596593161424038
+          ],
+          "start_char": 157,
+          "end_char": 164
+        },
+        {
+          "text": "Brand awareness across",
+          "confidence": 1,
+          "box": [
+            0.4814814797697978,
+            0.44912790734661756,
+            0.3681917190551758,
+            0.020348836978276497
+          ],
+          "start_char": 165,
+          "end_char": 187
+        },
+        {
+          "text": "ADS",
+          "confidence": 1,
+          "box": [
+            0.21350762638892995,
+            0.41569767527660206,
+            0.08278866857290268,
+            0.023255812625090355
+          ],
+          "start_char": 188,
+          "end_char": 191
+        },
+        {
+          "text": "blogs, forums, local news",
+          "confidence": 1,
+          "box": [
+            0.4789123021230772,
+            0.4145796061781156,
+            0.3886362612247467,
+            0.03209704905748367
+          ],
+          "start_char": 192,
+          "end_char": 217
+        },
+        {
+          "text": "YOUTUBE",
+          "confidence": 1,
+          "box": [
+            0.21564253970151653,
+            0.33560947778185835,
+            0.1743794083595276,
+            0.023548486332098606
+          ],
+          "start_char": 218,
+          "end_char": 225
+        },
+        {
+          "text": "Product demos,",
+          "confidence": 1,
+          "box": [
+            0.4784028814626442,
+            0.330949774095355,
+            0.24844253063201904,
+            0.03098100920518243
+          ],
+          "start_char": 226,
+          "end_char": 240
+        },
+        {
+          "text": "ADS",
+          "confidence": 1,
+          "box": [
+            0.2156862763025787,
+            0.30668604736962546,
+            0.07843136787414551,
+            0.023255812625090244
+          ],
+          "start_char": 241,
+          "end_char": 244
+        },
+        {
+          "text": "brand storyteiling",
+          "confidence": 1,
+          "box": [
+            0.47930283120832584,
+            0.30664062540525283,
+            0.2701525092124939,
+            0.026208211978276608
+          ],
+          "start_char": 245,
+          "end_char": 263
+        },
+        {
+          "text": "SHOPPING",
+          "confidence": 1,
+          "box": [
+            0.2156862726004255,
+            0.2296511629186183,
+            0.1895424872636795,
+            0.020348836978276608
+          ],
+          "start_char": 264,
+          "end_char": 272
+        },
+        {
+          "text": "For ecommerce retailers",
+          "confidence": 1,
+          "box": [
+            0.47912323069367846,
+            0.21831209421281417,
+            0.3685548007488251,
+            0.02303891132275271
+          ],
+          "start_char": 273,
+          "end_char": 296
+        },
+        {
+          "text": "ADS",
+          "confidence": 1,
+          "box": [
+            0.21327711660515314,
+            0.1972799213409292,
+            0.08324968814849854,
+            0.022591320176919227
+          ],
+          "start_char": 297,
+          "end_char": 300
+        },
+        {
+          "text": "PERFORMA-",
+          "confidence": 1,
+          "box": [
+            0.21568627297913834,
+            0.12936046524451006,
+            0.20261438190937042,
+            0.020348836978276497
+          ],
+          "start_char": 301,
+          "end_char": 310
+        },
+        {
+          "text": "Omnichannel targeting",
+          "confidence": 1,
+          "box": [
+            0.47875030197891966,
+            0.12226911507379945,
+            0.35195469856262207,
+            0.030169909199078804
+          ],
+          "start_char": 311,
+          "end_char": 332
+        },
+        {
+          "text": "NCE MAX",
+          "confidence": 1,
+          "box": [
+            0.2178649232812358,
+            0.10156250004406397,
+            0.15468409657478333,
+            0.02083333333333337
+          ],
+          "start_char": 333,
+          "end_char": 340
+        },
+        {
+          "text": "with Al optimization",
+          "confidence": 1,
+          "box": [
+            0.4793028362952856,
+            0.09738372126353179,
+            0.3050108850002289,
+            0.02501211191217101
+          ],
+          "start_char": 341,
+          "end_char": 361
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 361
+    },
+    {
+      "text": "Tabela de tipos de campanhas Google Ads e usos, com ícones por modalidade.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 363,
+      "end_char": 437
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1024,
+      1536
+    ],
+    "ocr_rows": 25,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7475cd4516008a00dbcf7f26718062b0.jpg",
+  "source_sha256": "7c195b0c6b1e9dcbc1ea2eecce71b269f84173adaa3fb45a6ab2ef39c5cd6aed",
+  "text": "5 PERSUASIVE COPYWRITING LESSONS\nFROM A $200M+ MARKETER - CHASE DIMOND\nBad copywriting\nGood copywriting\n• Focused on the product\n• Focused on them\nGood copywriting\n• Feature-oriented\n• Benefit-oriented\nis all bout the\n• Feels like a pitch\n• Feels like a conversation\nprospect.\nAsk a question right before your CTA.\nThis does three things:\nExample:\n\"Want to be more productive?\n2\n• Catches people's ttention\n• Prompts them to seek an answer\nHere's the morning routine to doi\n• Introduce the solution (your CTA)\nUse testimonials to write your copy.\n• Grab results from your testimonials\nCopy written by a copywriter is good.\n3\n• Turn them into promises\n• Incorpor1te them in your copy\nCopy written by customers is better.\nKeep readers in suspense with phrases like:\n• \"Here's why...\"\nSuspense sparks curiosity.\n4\n• \"Now..\"\nCuriosity keeps readers\n• \"Truth is...\"\nengaged.\n• \"Bear with me..\"\n5 copywriting tools to 2x the results of your copy.\n5\nThesaurus\nReadable\nHemmingway App\nLose the Very\nHeadline Analyzer\nExpand\nAssess\nSimplity\nRemove very\nCheck headline\nvocabulary\nreadability\nsentences\nfrom your copy\neffectiveness\nBookmark this and follow Chase Dimond for more great tips.\n\nGrade de cinco lições de copy com comparação, exemplos e ferramentas.",
+  "segments": [
+    {
+      "text": "5 PERSUASIVE COPYWRITING LESSONS\nFROM A $200M+ MARKETER - CHASE DIMOND\nBad copywriting\nGood copywriting\n• Focused on the product\n• Focused on them\nGood copywriting\n• Feature-oriented\n• Benefit-oriented\nis all bout the\n• Feels like a pitch\n• Feels like a conversation\nprospect.\nAsk a question right before your CTA.\nThis does three things:\nExample:\n\"Want to be more productive?\n2\n• Catches people's ttention\n• Prompts them to seek an answer\nHere's the morning routine to doi\n• Introduce the solution (your CTA)\nUse testimonials to write your copy.\n• Grab results from your testimonials\nCopy written by a copywriter is good.\n3\n• Turn them into promises\n• Incorpor1te them in your copy\nCopy written by customers is better.\nKeep readers in suspense with phrases like:\n• \"Here's why...\"\nSuspense sparks curiosity.\n4\n• \"Now..\"\nCuriosity keeps readers\n• \"Truth is...\"\nengaged.\n• \"Bear with me..\"\n5 copywriting tools to 2x the results of your copy.\n5\nThesaurus\nReadable\nHemmingway App\nLose the Very\nHeadline Analyzer\nExpand\nAssess\nSimplity\nRemove very\nCheck headline\nvocabulary\nreadability\nsentences\nfrom your copy\neffectiveness\nBookmark this and follow Chase Dimond for more great tips.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "5 PERSUASIVE COPYWRITING LESSONS",
+          "box": [
+            0.022058823437499927,
+            0.9279411764752019,
+            0.9558823529411765,
+            0.04705882352941171
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 32
+        },
+        {
+          "text": "FROM A $200M+ MARKETER - CHASE DIMOND",
+          "box": [
+            0.2095588205116422,
+            0.8985294119362744,
+            0.5790441176470588,
+            0.020588235294117685
+          ],
+          "confidence": 1,
+          "start_char": 33,
+          "end_char": 70
+        },
+        {
+          "text": "Bad copywriting",
+          "box": [
+            0.23713235281391404,
+            0.839705882365196,
+            0.20220588235294118,
+            0.019117647058823573
+          ],
+          "confidence": 1,
+          "start_char": 71,
+          "end_char": 86
+        },
+        {
+          "text": "Good copywriting",
+          "box": [
+            0.5183823528640892,
+            0.8397058823683586,
+            0.1875,
+            0.019117647058823573
+          ],
+          "confidence": 1,
+          "start_char": 87,
+          "end_char": 103
+        },
+        {
+          "text": "• Focused on the product",
+          "box": [
+            0.22242647049057904,
+            0.80882352942019,
+            0.2316176470588235,
+            0.016176470588235237
+          ],
+          "confidence": 1,
+          "start_char": 104,
+          "end_char": 128
+        },
+        {
+          "text": "• Focused on them",
+          "box": [
+            0.5110294116548892,
+            0.8117647058909473,
+            0.17279411764705876,
+            0.013235294117647123
+          ],
+          "confidence": 1,
+          "start_char": 129,
+          "end_char": 146
+        },
+        {
+          "text": "Good copywriting",
+          "box": [
+            0.7790095755156037,
+            0.8159622647253357,
+            0.1644400989308078,
+            0.019150872791514617
+          ],
+          "confidence": 1,
+          "start_char": 147,
+          "end_char": 163
+        },
+        {
+          "text": "• Feature-oriented",
+          "box": [
+            0.22242647051011027,
+            0.7926470588318015,
+            0.16911764705882354,
+            0.013235294117647012
+          ],
+          "confidence": 1,
+          "start_char": 164,
+          "end_char": 182
+        },
+        {
+          "text": "• Benefit-oriented",
+          "box": [
+            0.5110294116321119,
+            0.792647058834378,
+            0.1654411764705882,
+            0.013235294117647012
+          ],
+          "confidence": 1,
+          "start_char": 183,
+          "end_char": 201
+        },
+        {
+          "text": "is all bout the",
+          "box": [
+            0.7904411750735294,
+            0.7985294119117647,
+            0.13970588235294124,
+            0.014705882352941124
+          ],
+          "confidence": 1,
+          "start_char": 202,
+          "end_char": 217
+        },
+        {
+          "text": "• Feels like a pitch",
+          "box": [
+            0.22058823520220586,
+            0.7705882353033088,
+            0.16544117647058823,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 218,
+          "end_char": 238
+        },
+        {
+          "text": "• Feels like a conversation",
+          "box": [
+            0.5110294116639255,
+            0.7735294117705108,
+            0.23345588235294112,
+            0.013235294117647123
+          ],
+          "confidence": 1,
+          "start_char": 239,
+          "end_char": 266
+        },
+        {
+          "text": "prospect.",
+          "box": [
+            0.8143382358149509,
+            0.7750000001348039,
+            0.09558823529411764,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 267,
+          "end_char": 276
+        },
+        {
+          "text": "Ask a question right before your CTA.",
+          "box": [
+            0.20772058814506367,
+            0.6735294117696378,
+            0.34375,
+            0.016176470588235237
+          ],
+          "confidence": 1,
+          "start_char": 277,
+          "end_char": 314
+        },
+        {
+          "text": "This does three things:",
+          "box": [
+            0.20922133420034955,
+            0.6436394917489336,
+            0.21021697100471048,
+            0.020884555928847415
+          ],
+          "confidence": 1,
+          "start_char": 315,
+          "end_char": 338
+        },
+        {
+          "text": "Example:",
+          "box": [
+            0.6120760825373781,
+            0.6556928606825219,
+            0.09202430528752947,
+            0.018026043387020296
+          ],
+          "confidence": 1,
+          "start_char": 339,
+          "end_char": 347
+        },
+        {
+          "text": "\"Want to be more productive?",
+          "box": [
+            0.6121323528486561,
+            0.6294117647112387,
+            0.27941176470588236,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 348,
+          "end_char": 376
+        },
+        {
+          "text": "2",
+          "box": [
+            0.07536764697347689,
+            0.5985294119222688,
+            0.042279411764705885,
+            0.044117647058823595
+          ],
+          "confidence": 1,
+          "start_char": 377,
+          "end_char": 378
+        },
+        {
+          "text": "• Catches people's ttention",
+          "box": [
+            0.2205882351949113,
+            0.6161764705946545,
+            0.25735294117647056,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 379,
+          "end_char": 406
+        },
+        {
+          "text": "• Prompts them to seek an answer",
+          "box": [
+            0.22242647032217497,
+            0.5985294117776059,
+            0.3069852941176471,
+            0.014705882352941124
+          ],
+          "confidence": 1,
+          "start_char": 407,
+          "end_char": 439
+        },
+        {
+          "text": "Here's the morning routine to doi",
+          "box": [
+            0.6137679005241813,
+            0.6027165445393138,
+            0.31299739725449505,
+            0.022391703549553332
+          ],
+          "confidence": 1,
+          "start_char": 440,
+          "end_char": 473
+        },
+        {
+          "text": "• Introduce the solution (your CTA)",
+          "box": [
+            0.22058823541126013,
+            0.5779411764878892,
+            0.31066176470588236,
+            0.01764705882352946
+          ],
+          "confidence": 1,
+          "start_char": 474,
+          "end_char": 509
+        },
+        {
+          "text": "Use testimonials to write your copy.",
+          "box": [
+            0.20920714127965306,
+            0.5010380845021443,
+            0.33160406000473924,
+            0.023535243202658318
+          ],
+          "confidence": 1,
+          "start_char": 510,
+          "end_char": 546
+        },
+        {
+          "text": "• Grab results from your testimonials",
+          "box": [
+            0.21679636570095565,
+            0.47574433869636457,
+            0.32740954791798316,
+            0.01843526573742138
+          ],
+          "confidence": 1,
+          "start_char": 547,
+          "end_char": 584
+        },
+        {
+          "text": "Copy written by a copywriter is good.",
+          "box": [
+            0.5919117622702207,
+            0.4750000002205882,
+            0.34558823529411764,
+            0.01764705882352946
+          ],
+          "confidence": 1,
+          "start_char": 585,
+          "end_char": 622
+        },
+        {
+          "text": "3",
+          "box": [
+            0.07352941167279413,
+            0.4308823531433824,
+            0.04779411764705882,
+            0.04852941176470582
+          ],
+          "confidence": 0.5,
+          "start_char": 623,
+          "end_char": 624
+        },
+        {
+          "text": "• Turn them into promises",
+          "box": [
+            0.2165801309386802,
+            0.4561384143549232,
+            0.23409468987408807,
+            0.020528977758744182
+          ],
+          "confidence": 1,
+          "start_char": 625,
+          "end_char": 650
+        },
+        {
+          "text": "• Incorpor1te them in your copy",
+          "box": [
+            0.2167237141389735,
+            0.4363584929026082,
+            0.28711708854226503,
+            0.019617384321549358
+          ],
+          "confidence": 1,
+          "start_char": 651,
+          "end_char": 682
+        },
+        {
+          "text": "Copy written by customers is better.",
+          "box": [
+            0.5919117645971501,
+            0.4470588235351788,
+            0.3400735294117647,
+            0.01764705882352946
+          ],
+          "confidence": 1,
+          "start_char": 683,
+          "end_char": 719
+        },
+        {
+          "text": "Keep readers in suspense with phrases like:",
+          "box": [
+            0.20772058813989205,
+            0.32794117648175725,
+            0.40441176470588236,
+            0.01764705882352946
+          ],
+          "confidence": 1,
+          "start_char": 720,
+          "end_char": 763
+        },
+        {
+          "text": "• \"Here's why...\"",
+          "box": [
+            0.21691176624540437,
+            0.30147058845588237,
+            0.14154411764705882,
+            0.01764705882352935
+          ],
+          "confidence": 1,
+          "start_char": 764,
+          "end_char": 781
+        },
+        {
+          "text": "Suspense sparks curiosity.",
+          "box": [
+            0.6726352210853925,
+            0.310874358819616,
+            0.2521436354693245,
+            0.020459897377911762
+          ],
+          "confidence": 1,
+          "start_char": 782,
+          "end_char": 808
+        },
+        {
+          "text": "4",
+          "box": [
+            0.07720588226102942,
+            0.27352941193627456,
+            0.04044117647058823,
+            0.04117647058823526
+          ],
+          "confidence": 1,
+          "start_char": 809,
+          "end_char": 810
+        },
+        {
+          "text": "• \"Now..\"",
+          "box": [
+            0.2169117653492647,
+            0.2838235295735294,
+            0.08639705882352938,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 811,
+          "end_char": 820
+        },
+        {
+          "text": "Curiosity keeps readers",
+          "box": [
+            0.6727941175424067,
+            0.28529411765506696,
+            0.21875,
+            0.016176470588235348
+          ],
+          "confidence": 1,
+          "start_char": 821,
+          "end_char": 844
+        },
+        {
+          "text": "• \"Truth is...\"",
+          "box": [
+            0.21685903987273736,
+            0.26447254853856916,
+            0.1103995687821332,
+            0.01664313849280863
+          ],
+          "confidence": 1,
+          "start_char": 845,
+          "end_char": 860
+        },
+        {
+          "text": "engaged.",
+          "box": [
+            0.6708871424556293,
+            0.2626850164121889,
+            0.09574235186857338,
+            0.016997546308180844
+          ],
+          "confidence": 1,
+          "start_char": 861,
+          "end_char": 869
+        },
+        {
+          "text": "• \"Bear with me..\"",
+          "box": [
+            0.2169117646161081,
+            0.24411764706822847,
+            0.16176470588235295,
+            0.016176470588235237
+          ],
+          "confidence": 1,
+          "start_char": 870,
+          "end_char": 888
+        },
+        {
+          "text": "5 copywriting tools to 2x the results of your copy.",
+          "box": [
+            0.20762193367962106,
+            0.1688060849686932,
+            0.45240146973553824,
+            0.020955611677730857
+          ],
+          "confidence": 1,
+          "start_char": 889,
+          "end_char": 940
+        },
+        {
+          "text": "5",
+          "box": [
+            0.07720588226938503,
+            0.09558823551470585,
+            0.040441176470588244,
+            0.04852941176470593
+          ],
+          "confidence": 0.5,
+          "start_char": 941,
+          "end_char": 942
+        },
+        {
+          "text": "Thesaurus",
+          "box": [
+            0.21507352931755516,
+            0.09558823530514693,
+            0.07536764705882351,
+            0.008823529411764675
+          ],
+          "confidence": 1,
+          "start_char": 943,
+          "end_char": 952
+        },
+        {
+          "text": "Readable",
+          "box": [
+            0.36390982018814105,
+            0.09532475419028463,
+            0.06813624325920553,
+            0.010821080207824796
+          ],
+          "confidence": 1,
+          "start_char": 953,
+          "end_char": 961
+        },
+        {
+          "text": "Hemmingway App",
+          "box": [
+            0.4756847014166123,
+            0.09015380443054577,
+            0.13319953750161567,
+            0.01701834903043853
+          ],
+          "confidence": 1,
+          "start_char": 962,
+          "end_char": 976
+        },
+        {
+          "text": "Lose the Very",
+          "box": [
+            0.6540961431858846,
+            0.09380133169795635,
+            0.09641717461978694,
+            0.014564373913933282
+          ],
+          "confidence": 1,
+          "start_char": 977,
+          "end_char": 990
+        },
+        {
+          "text": "Headline Analyzer",
+          "box": [
+            0.8067392861945673,
+            0.0936664133065308,
+            0.1291385818930233,
+            0.014364467648898871
+          ],
+          "confidence": 1,
+          "start_char": 991,
+          "end_char": 1008
+        },
+        {
+          "text": "Expand",
+          "box": [
+            0.2242647067775876,
+            0.07352941231139976,
+            0.05514705531737382,
+            0.011764705181121826
+          ],
+          "confidence": 1,
+          "start_char": 1009,
+          "end_char": 1015
+        },
+        {
+          "text": "Assess",
+          "box": [
+            0.3694852935202205,
+            0.07352941189338236,
+            0.0514705882352941,
+            0.010294117647058787
+          ],
+          "confidence": 1,
+          "start_char": 1016,
+          "end_char": 1022
+        },
+        {
+          "text": "Simplity",
+          "box": [
+            0.5110294116596639,
+            0.07058823531775216,
+            0.0625,
+            0.013235294117647012
+          ],
+          "confidence": 1,
+          "start_char": 1023,
+          "end_char": 1031
+        },
+        {
+          "text": "Remove very",
+          "box": [
+            0.6543040023749747,
+            0.07307783879069263,
+            0.11038121055154237,
+            0.014459656967836354
+          ],
+          "confidence": 1,
+          "start_char": 1032,
+          "end_char": 1043
+        },
+        {
+          "text": "Check headline",
+          "box": [
+            0.8159858688849633,
+            0.07435817283580726,
+            0.11799477128421565,
+            0.012863978217629857
+          ],
+          "confidence": 1,
+          "start_char": 1044,
+          "end_char": 1058
+        },
+        {
+          "text": "vocabulary",
+          "box": [
+            0.2092988882450473,
+            0.05544498868703063,
+            0.08699594525729906,
+            0.012496369025286502
+          ],
+          "confidence": 1,
+          "start_char": 1059,
+          "end_char": 1069
+        },
+        {
+          "text": "readability",
+          "box": [
+            0.3508480442509345,
+            0.05382338985394508,
+            0.0853169174755321,
+            0.015344542615553958
+          ],
+          "confidence": 1,
+          "start_char": 1070,
+          "end_char": 1081
+        },
+        {
+          "text": "sentences",
+          "box": [
+            0.5036764710784314,
+            0.057352941348039255,
+            0.07720588235294124,
+            0.010294117647058787
+          ],
+          "confidence": 1,
+          "start_char": 1082,
+          "end_char": 1091
+        },
+        {
+          "text": "from your copy",
+          "box": [
+            0.6488970586845408,
+            0.05441176472381648,
+            0.11764705882352944,
+            0.014705882352941124
+          ],
+          "confidence": 1,
+          "start_char": 1092,
+          "end_char": 1106
+        },
+        {
+          "text": "effectiveness",
+          "box": [
+            0.8235294109742647,
+            0.05735294130882351,
+            0.10110294117647056,
+            0.013235294117647012
+          ],
+          "confidence": 1,
+          "start_char": 1107,
+          "end_char": 1120
+        },
+        {
+          "text": "Bookmark this and follow Chase Dimond for more great tips.",
+          "box": [
+            0.35294117637398303,
+            0.0029411764737171664,
+            0.45772058823529416,
+            0.014705882352941124
+          ],
+          "confidence": 1,
+          "start_char": 1121,
+          "end_char": 1179
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1179
+    },
+    {
+      "text": "Grade de cinco lições de copy com comparação, exemplos e ferramentas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1181,
+      "end_char": 1250
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1088,
+      1360
+    ],
+    "ocr_rows": 56,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9821428571428571,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

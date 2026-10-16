@@ -1,0 +1,224 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00410ac50afbf09ce87a09eafe38ea23.jpg",
+  "source_sha256": "f67238bdc1b82af8de658f4b05373e59159992097dcfce09bbab431a61bec06c",
+  "text": "Prompt para a introdução do e-book\nOlá ChatGPT, estou trabalhando na abertura\ndo meu ebook e gostaria de começar com um\nstorytelling envolvente. Quero incluir\nelementos de revelação e antecipação para\ncativar o leitor desde o início. Além disso,\né importante que haja uma promessa ou um\ninsight que ofereça ao leitor uma vitória\nimediata ou um benefício palpável. O tema do\nmeu ebook é [inserir o tema ou nicho do\nebook aqui]. Pode me ajudar a escrever um\nparágrafo de abertura que siga esses\ncritérios e que efetivamente prepare o\nleitor para o que está por vir no restante\ndo livro?\n\nCartão de prompt para introdução de e-book, com cabeçalho escuro e corpo em parágrafo.",
+  "segments": [
+    {
+      "text": "Prompt para a introdução do e-book\nOlá ChatGPT, estou trabalhando na abertura\ndo meu ebook e gostaria de começar com um\nstorytelling envolvente. Quero incluir\nelementos de revelação e antecipação para\ncativar o leitor desde o início. Além disso,\né importante que haja uma promessa ou um\ninsight que ofereça ao leitor uma vitória\nimediata ou um benefício palpável. O tema do\nmeu ebook é [inserir o tema ou nicho do\nebook aqui]. Pode me ajudar a escrever um\nparágrafo de abertura que siga esses\ncritérios e que efetivamente prepare o\nleitor para o que está por vir no restante\ndo livro?",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.06883363058242559,
+            0.7935835351218128,
+            0.8298279586111663,
+            0.03781181386250276
+          ],
+          "text": "Prompt para a introdução do e-book",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 34
+        },
+        {
+          "box": [
+            0.08020747820407527,
+            0.7224770334514916,
+            0.8338274135711088,
+            0.032010521784821666
+          ],
+          "text": "Olá ChatGPT, estou trabalhando na abertura",
+          "confidence": 1,
+          "start_char": 35,
+          "end_char": 77
+        },
+        {
+          "box": [
+            0.07825515728361586,
+            0.6967729035425754,
+            0.8186417111925259,
+            0.03196725545148871
+          ],
+          "text": "do meu ebook e gostaria de começar com um",
+          "confidence": 1,
+          "start_char": 78,
+          "end_char": 119
+        },
+        {
+          "box": [
+            0.08030593503242311,
+            0.6700581390024327,
+            0.75525811067812,
+            0.02616279177169245
+          ],
+          "text": "storytelling envolvente. Quero incluir",
+          "confidence": 1,
+          "start_char": 120,
+          "end_char": 158
+        },
+        {
+          "box": [
+            0.07828082433755476,
+            0.6387288748737059,
+            0.8167435955849421,
+            0.033070698200068804
+          ],
+          "text": "elementos de revelação e antecipação para",
+          "confidence": 1,
+          "start_char": 159,
+          "end_char": 200
+        },
+        {
+          "box": [
+            0.08008994086808671,
+            0.6074416648867176,
+            0.8725368232484075,
+            0.03753841760372123
+          ],
+          "text": "cativar o leitor desde o início. Além disso,",
+          "confidence": 1,
+          "start_char": 201,
+          "end_char": 245
+        },
+        {
+          "box": [
+            0.08014390569065523,
+            0.5800595684155281,
+            0.8109844718009803,
+            0.0304642000729467
+          ],
+          "text": "é importante que haja uma promessa ou um",
+          "confidence": 1,
+          "start_char": 246,
+          "end_char": 286
+        },
+        {
+          "box": [
+            0.08030592306313052,
+            0.5520581114908986,
+            0.814531557119576,
+            0.02788374903127011
+          ],
+          "text": "insight que ofereça ao leitor uma vitória",
+          "confidence": 1,
+          "start_char": 287,
+          "end_char": 328
+        },
+        {
+          "box": [
+            0.08030595155690427,
+            0.5247093022856887,
+            0.875716968706459,
+            0.027616279177169245
+          ],
+          "text": "imediata ou um benefício palpável. O tema do",
+          "confidence": 1,
+          "start_char": 329,
+          "end_char": 373
+        },
+        {
+          "box": [
+            0.0803059391875438,
+            0.4985465119386543,
+            0.7762906019854697,
+            0.024709302057076887
+          ],
+          "text": "meu ebook é [inserir o tema ou nicho do",
+          "confidence": 1,
+          "start_char": 374,
+          "end_char": 413
+        },
+        {
+          "box": [
+            0.08030593907589419,
+            0.4665697669140637,
+            0.8164435708598726,
+            0.02616631089919408
+          ],
+          "text": "ebook aqui]. Pode me ajudar a escrever um",
+          "confidence": 1,
+          "start_char": 414,
+          "end_char": 455
+        },
+        {
+          "box": [
+            0.0803059375868753,
+            0.4374999994681209,
+            0.7151051418037171,
+            0.026180387409201034
+          ],
+          "text": "parágrafo de abertura que siga esses",
+          "confidence": 1,
+          "start_char": 456,
+          "end_char": 492
+        },
+        {
+          "box": [
+            0.08018493653458289,
+            0.4059825136903247,
+            0.7612806186554537,
+            0.030693522954391206
+          ],
+          "text": "critérios e que efetivamente prepare o",
+          "confidence": 1,
+          "start_char": 493,
+          "end_char": 531
+        },
+        {
+          "box": [
+            0.08020908108180372,
+            0.37741364346422956,
+            0.8357561439465565,
+            0.02971317577592969
+          ],
+          "text": "leitor para o que está por vir no restante",
+          "confidence": 1,
+          "start_char": 532,
+          "end_char": 574
+        },
+        {
+          "box": [
+            0.0800859186114145,
+            0.3479844350892558,
+            0.18017233101425656,
+            0.029321827553663637
+          ],
+          "text": "do livro?",
+          "confidence": 1,
+          "start_char": 575,
+          "end_char": 584
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 584
+    },
+    {
+      "text": "Cartão de prompt para introdução de e-book, com cabeçalho escuro e corpo em parágrafo.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 586,
+      "end_char": 672
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1256,
+      1651
+    ],
+    "ocr_rows": 15,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

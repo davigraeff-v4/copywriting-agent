@@ -1,0 +1,43 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/032f1c005dc55a4e0fd756cb54455463.webp",
+  "source_sha256": "a5ad0ae2dddb265dd3ff839c2a613724bc464a81fe8fac3be3c2318b6a73bda9",
+  "text": "Fotografia de anel com pedra sobre tecido claro; reflexos e transparência da luz participam da composição. Não há texto visível.",
+  "segments": [
+    {
+      "text": "",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 0
+    },
+    {
+      "text": "Fotografia de anel com pedra sobre tecido claro; reflexos e transparência da luz participam da composição. Não há texto visível.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 0,
+      "end_char": 128
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      841
+    ],
+    "ocr_rows": 0,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": null,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": true
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

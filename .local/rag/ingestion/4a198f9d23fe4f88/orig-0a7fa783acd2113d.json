@@ -1,0 +1,428 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f43269cc25ecd3e3b73e7873ffac9fb6.jpg",
+  "source_sha256": "0a7fa783acd2113d4bf3c6d54a8d14b3a204b997deb248fb8536420c5f845e09",
+  "text": "7 EMAIL MARKETING METRIC\n+ TIPS ON HOW TO INCREASE OR DECREASE THEM ON COMMAND\nFrom a $200M+ email marketer - Chase Dimond\nOPEN RATE\n• This metric shows the percentage of recipients who opened your email.\n• It measures the effectiveness of your subject line and preview text.\nTo boost it, craft intriguing, compelling subject lines and preview texts.\nCONVERSION RATE\nThis metric shows the percentage of recipients who bought after clicking through your\nemail. It directly correlates with revenue.\nTo boost it, optimize your emails and landing pages for conversions.\nCLICK-THROUGH RATE\nThis metric shows the percentage of recipients who clicked a link in your email. It reveals\nhow enticing your CTAs are.\nTo boost it, make your CTAs clear, concise, and compelling.\nBOUNCE RATE\nThis metric shows the percentage of undeliverable emails. It reflects the health of your\nemail list.\nTo reduce it, keep your list clean and up-to-date by removing unengaged subscribers.\nUNSUBSCRIBE RATE\nThis metric shows the percentage of recipients who unsubscribe. It reflects how relevant and\nengaging your emails are.\nTo reduce it, ensure your content is valuable to subscribers.\nREVENUE PER SUBSCRIBER\nThis metric shows the revenue generated per email subscriber. It helps you understand\neach subscriber's value.\nTo boost it, send more targeted offers and promotions.\nABANDONED CHECKOUT RATE\nThis metric shows how many customers started but didn't complete their\npurchases. It helps you understand why they abandon.\nTo reduce it, offer incentives and reminders to complete the purchase.\nBookmark this and follow Chase Dimond for more great tips.\n\nQuadro de sete métricas de e-mail e orientações de melhoria apresentadas pela peça.",
+  "segments": [
+    {
+      "text": "7 EMAIL MARKETING METRIC\n+ TIPS ON HOW TO INCREASE OR DECREASE THEM ON COMMAND\nFrom a $200M+ email marketer - Chase Dimond\nOPEN RATE\n• This metric shows the percentage of recipients who opened your email.\n• It measures the effectiveness of your subject line and preview text.\nTo boost it, craft intriguing, compelling subject lines and preview texts.\nCONVERSION RATE\nThis metric shows the percentage of recipients who bought after clicking through your\nemail. It directly correlates with revenue.\nTo boost it, optimize your emails and landing pages for conversions.\nCLICK-THROUGH RATE\nThis metric shows the percentage of recipients who clicked a link in your email. It reveals\nhow enticing your CTAs are.\nTo boost it, make your CTAs clear, concise, and compelling.\nBOUNCE RATE\nThis metric shows the percentage of undeliverable emails. It reflects the health of your\nemail list.\nTo reduce it, keep your list clean and up-to-date by removing unengaged subscribers.\nUNSUBSCRIBE RATE\nThis metric shows the percentage of recipients who unsubscribe. It reflects how relevant and\nengaging your emails are.\nTo reduce it, ensure your content is valuable to subscribers.\nREVENUE PER SUBSCRIBER\nThis metric shows the revenue generated per email subscriber. It helps you understand\neach subscriber's value.\nTo boost it, send more targeted offers and promotions.\nABANDONED CHECKOUT RATE\nThis metric shows how many customers started but didn't complete their\npurchases. It helps you understand why they abandon.\nTo reduce it, offer incentives and reminders to complete the purchase.\nBookmark this and follow Chase Dimond for more great tips.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.06296296288214247,
+            0.9244444444493344,
+            0.875925925925926,
+            0.040000000000000036
+          ],
+          "text": "7 EMAIL MARKETING METRIC",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 24
+        },
+        {
+          "box": [
+            0.08518518108333334,
+            0.8948148149185186,
+            0.8277777777777777,
+            0.020740740740740726
+          ],
+          "text": "+ TIPS ON HOW TO INCREASE OR DECREASE THEM ON COMMAND",
+          "confidence": 1,
+          "start_char": 25,
+          "end_char": 78
+        },
+        {
+          "box": [
+            0.27592592583333325,
+            0.8696296296328125,
+            0.4777777777777778,
+            0.016296296296296253
+          ],
+          "text": "From a $200M+ email marketer - Chase Dimond",
+          "confidence": 1,
+          "start_char": 79,
+          "end_char": 122
+        },
+        {
+          "box": [
+            0.3962962962048468,
+            0.8222222222341107,
+            0.15925925925925927,
+            0.019259259259259198
+          ],
+          "text": "OPEN RATE",
+          "confidence": 1,
+          "start_char": 123,
+          "end_char": 132
+        },
+        {
+          "box": [
+            0.07407407398665931,
+            0.7925925925952729,
+            0.6092592592592593,
+            0.016296296296296253
+          ],
+          "text": "• This metric shows the percentage of recipients who opened your email.",
+          "confidence": 1,
+          "start_char": 133,
+          "end_char": 204
+        },
+        {
+          "box": [
+            0.07407407396241833,
+            0.7718518518552755,
+            0.5722222222222222,
+            0.016296296296296253
+          ],
+          "text": "• It measures the effectiveness of your subject line and preview text.",
+          "confidence": 1,
+          "start_char": 205,
+          "end_char": 275
+        },
+        {
+          "box": [
+            0.07398175682786662,
+            0.7450040276466097,
+            0.6094479031032987,
+            0.020220452767831354
+          ],
+          "text": "To boost it, craft intriguing, compelling subject lines and preview texts.",
+          "confidence": 1,
+          "start_char": 276,
+          "end_char": 350
+        },
+        {
+          "box": [
+            0.34058540707103435,
+            0.7107753142197218,
+            0.2744071112738715,
+            0.023541035122341625
+          ],
+          "text": "CONVERSION RATE",
+          "confidence": 1,
+          "start_char": 351,
+          "end_char": 366
+        },
+        {
+          "box": [
+            0.19814814810449746,
+            0.6800000000063492,
+            0.7111111111111111,
+            0.01777777777777778
+          ],
+          "text": "This metric shows the percentage of recipients who bought after clicking through your",
+          "confidence": 1,
+          "start_char": 367,
+          "end_char": 452
+        },
+        {
+          "box": [
+            0.19814814798495375,
+            0.6607407407509259,
+            0.33518518518518525,
+            0.016296296296296253
+          ],
+          "text": "email. It directly correlates with revenue.",
+          "confidence": 1,
+          "start_char": 453,
+          "end_char": 496
+        },
+        {
+          "box": [
+            0.19814814804957165,
+            0.6385185185212899,
+            0.5833333333333333,
+            0.016296296296296364
+          ],
+          "text": "To boost it, optimize your emails and landing pages for conversions.",
+          "confidence": 1,
+          "start_char": 497,
+          "end_char": 565
+        },
+        {
+          "box": [
+            0.3370370369444445,
+            0.6014814814876913,
+            0.3166666666666667,
+            0.020740740740740726
+          ],
+          "text": "CLICK-THROUGH RATE",
+          "confidence": 1,
+          "start_char": 566,
+          "end_char": 584
+        },
+        {
+          "box": [
+            0.07407407398052444,
+            0.5688888888909944,
+            0.7277777777777777,
+            0.016296296296296253
+          ],
+          "text": "This metric shows the percentage of recipients who clicked a link in your email. It reveals",
+          "confidence": 1,
+          "start_char": 585,
+          "end_char": 676
+        },
+        {
+          "box": [
+            0.07407407394149833,
+            0.549629629638889,
+            0.23333333333333334,
+            0.016296296296296253
+          ],
+          "text": "how enticing your CTAs are.",
+          "confidence": 1,
+          "start_char": 677,
+          "end_char": 704
+        },
+        {
+          "box": [
+            0.07407407397649571,
+            0.5244444444475783,
+            0.5111111111111112,
+            0.016296296296296364
+          ],
+          "text": "To boost it, make your CTAs clear, concise, and compelling.",
+          "confidence": 1,
+          "start_char": 705,
+          "end_char": 764
+        },
+        {
+          "box": [
+            0.3777777764074074,
+            0.4918518520592593,
+            0.20370370370370372,
+            0.020740740740740615
+          ],
+          "text": "BOUNCE RATE",
+          "confidence": 1,
+          "start_char": 765,
+          "end_char": 776
+        },
+        {
+          "box": [
+            0.19814814805213593,
+            0.45777777778009265,
+            0.7092592592592593,
+            0.016296296296296253
+          ],
+          "text": "This metric shows the percentage of undeliverable emails. It reflects the health of your",
+          "confidence": 1,
+          "start_char": 777,
+          "end_char": 865
+        },
+        {
+          "box": [
+            0.1980978682900291,
+            0.43980969963949346,
+            0.07787833743625219,
+            0.013713934156629692
+          ],
+          "text": "email list.",
+          "confidence": 1,
+          "start_char": 866,
+          "end_char": 877
+        },
+        {
+          "box": [
+            0.19814814805118106,
+            0.416296296298435,
+            0.7425925925925926,
+            0.016296296296296253
+          ],
+          "text": "To reduce it, keep your list clean and up-to-date by removing unengaged subscribers.",
+          "confidence": 1,
+          "start_char": 878,
+          "end_char": 962
+        },
+        {
+          "box": [
+            0.34999999990887715,
+            0.38222222223045266,
+            0.27777777777777773,
+            0.020740740740740726
+          ],
+          "text": "UNSUBSCRIBE RATE",
+          "confidence": 1,
+          "start_char": 963,
+          "end_char": 979
+        },
+        {
+          "box": [
+            0.07407407398148151,
+            0.3496296296316169,
+            0.762962962962963,
+            0.016296296296296364
+          ],
+          "text": "This metric shows the percentage of recipients who unsubscribe. It reflects how relevant and",
+          "confidence": 1,
+          "start_char": 980,
+          "end_char": 1072
+        },
+        {
+          "box": [
+            0.07407407398148146,
+            0.3303703703835126,
+            0.21111111111111108,
+            0.016296296296296253
+          ],
+          "text": "engaging your emails are.",
+          "confidence": 1,
+          "start_char": 1073,
+          "end_char": 1098
+        },
+        {
+          "box": [
+            0.07222222212286329,
+            0.30518518518831905,
+            0.5203703703703704,
+            0.016296296296296364
+          ],
+          "text": "To reduce it, ensure your content is valuable to subscribers.",
+          "confidence": 1,
+          "start_char": 1099,
+          "end_char": 1160
+        },
+        {
+          "box": [
+            0.31666666656997705,
+            0.26814814815732546,
+            0.3703703703703704,
+            0.020740740740740726
+          ],
+          "text": "REVENUE PER SUBSCRIBER",
+          "confidence": 1,
+          "start_char": 1161,
+          "end_char": 1183
+        },
+        {
+          "box": [
+            0.198148149537037,
+            0.22962962985185187,
+            0.7148148148148148,
+            0.01777777777777778
+          ],
+          "text": "This metric shows the revenue generated per email subscriber. It helps you understand",
+          "confidence": 1,
+          "start_char": 1184,
+          "end_char": 1269
+        },
+        {
+          "box": [
+            0.19789227124407016,
+            0.21019500294414517,
+            0.2006344124122902,
+            0.02012143664889865
+          ],
+          "text": "each subscriber's value.",
+          "confidence": 1,
+          "start_char": 1270,
+          "end_char": 1294
+        },
+        {
+          "box": [
+            0.19814814804770872,
+            0.1851851851886379,
+            0.4740740740740741,
+            0.016296296296296253
+          ],
+          "text": "To boost it, send more targeted offers and promotions.",
+          "confidence": 1,
+          "start_char": 1295,
+          "end_char": 1349
+        },
+        {
+          "box": [
+            0.2870370369448579,
+            0.1466666666709655,
+            0.424074074074074,
+            0.01925925925925931
+          ],
+          "text": "ABANDONED CHECKOUT RATE",
+          "confidence": 1,
+          "start_char": 1350,
+          "end_char": 1373
+        },
+        {
+          "box": [
+            0.07954497524470533,
+            0.11215209463628173,
+            0.6075922082971643,
+            0.020618377968117052
+          ],
+          "text": "This metric shows how many customers started but didn't complete their",
+          "confidence": 1,
+          "start_char": 1374,
+          "end_char": 1444
+        },
+        {
+          "box": [
+            0.07962962954359228,
+            0.09333333334054406,
+            0.45370370370370366,
+            0.016296296296296364
+          ],
+          "text": "purchases. It helps you understand why they abandon.",
+          "confidence": 1,
+          "start_char": 1445,
+          "end_char": 1497
+        },
+        {
+          "box": [
+            0.07962962953102451,
+            0.06814814815079373,
+            0.6111111111111112,
+            0.016296296296296364
+          ],
+          "text": "To reduce it, offer incentives and reminders to complete the purchase.",
+          "confidence": 1,
+          "start_char": 1498,
+          "end_char": 1568
+        },
+        {
+          "box": [
+            0.25740740731016726,
+            0.026666666669812655,
+            0.5074074074074073,
+            0.016296296296296364
+          ],
+          "text": "Bookmark this and follow Chase Dimond for more great tips.",
+          "confidence": 1,
+          "start_char": 1569,
+          "end_char": 1627
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1627
+    },
+    {
+      "text": "Quadro de sete métricas de e-mail e orientações de melhoria apresentadas pela peça.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1629,
+      "end_char": 1712
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 32,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

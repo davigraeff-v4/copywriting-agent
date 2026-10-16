@@ -1,0 +1,3 @@
+# Optional PDF text extraction, matching the installed local version.
+# Image OCR uses Apple Vision via the local Swift tool on macOS.
+pypdf==6.4.1

@@ -43,11 +43,11 @@ O script aceita somente uma versão-pai cuja revisão atual esteja válida. Ele 
 Fluxo:
 
 ```bash
-python3 scripts/revise_delivery.py inspect campaigns/cliente/campanha/v1/delivery.json
-python3 scripts/revise_delivery.py prepare campaigns/cliente/campanha/v1/delivery.json campaigns/cliente/campanha/v1/review.json change.json campaigns/cliente/campanha/v2
+python3 scripts/revise_delivery.py inspect clients/cliente/campanhas/campanha/v1/delivery.json
+python3 scripts/revise_delivery.py prepare clients/cliente/campanhas/campanha/v1/delivery.json clients/cliente/campanhas/campanha/v1/review.json change.json clients/cliente/campanhas/campanha/v2
 # preencher somente review-delta.json
-python3 scripts/revise_delivery.py merge campaigns/cliente/campanha/v2/review.pending.json campaigns/cliente/campanha/v2/review-delta.json campaigns/cliente/campanha/v2/review.json
-python3 scripts/copycheck.py campaigns/cliente/campanha/v2/delivery.json --review campaigns/cliente/campanha/v2/review.json --render campaigns/cliente/campanha/v2/final.md
+python3 scripts/revise_delivery.py merge clients/cliente/campanhas/campanha/v2/review.pending.json clients/cliente/campanhas/campanha/v2/review-delta.json clients/cliente/campanhas/campanha/v2/review.json
+python3 scripts/copycheck.py clients/cliente/campanhas/campanha/v2/delivery.json --review clients/cliente/campanhas/campanha/v2/review.json --render clients/cliente/campanhas/campanha/v2/final.md
 ```
 
 `change.json` para corte de escopo:

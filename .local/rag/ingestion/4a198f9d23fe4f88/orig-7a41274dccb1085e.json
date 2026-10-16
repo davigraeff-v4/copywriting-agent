@@ -1,0 +1,1016 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/812b2a24f4138204b6cda969f07129ee.jpg",
+  "source_sha256": "7a41274dccb1085e4d0673e68f627a8eec8bf29d3238332225537876ff3185fa",
+  "text": "Anatomy of a high-converting landing page\nNavbar\nLink Link Link Link\nCTA\nOnly main links and sticky CTA.\nHeading <\nyou selling? Use clear, benefit-\nWhat is your USP? What are\nSubheading -\ndriven language-no vague,\nclever words.\nCall-To-Action (CTA)\nHero / Main fold\ndetail. Use the product's/\nExplain the heading's claim in\nservice's features.\nWhat's the next step you want\nvisitors to take?\nSocial Proof\n> 1 Supafast 12 Supafast 1 Supafast 1 Supafas\nA demo video (2-3 mins max)\nservice works.\nexplaining how your product/\nOld Way vs New Way +\nShow the problem.\nThen, present your product as\nComparision\nOld Way\nthe solution.\nHeading\nNew Way\nSubheading\nHeading\nSubheading\n• Pain Point 2\n• Pain Point 1\n• Solution 1\n• Pain Point 3\n• Solution 2\n• Solution 3\nBenefits\nFeatures tell, but benefits sell.\nBenefits\nBenefit 1\nBenefit 2\nBenefit 3\nSubheading\nSubheading\nSubheading\nHow it works? <\nHow it works\nIn 3-5 simple steps, summarize the\nfeatures of your product.\nSubheading\nStep 1\nSubheading\nStep 2\nSubheading\nStep 3\nPricing\nbasic\nList the pricing options for a\n$9 /m\n$29(m\n$99/m\nproduct/service. Include the\nPricing\nfeatures and benefits of each tier.\nFAQ\nFAQ +\nSimple answers to common\nquestions.\nHigh contrast, action-oriented CTA\nCTA\nCall-To-Action (CTA)\nLogo copyright. Privacy policy.\nFooter\nLink Link Link Link\nmedia links.\nContact info. Email sign-up. Social\nwithsupafast.com\n\nWireframe de landing page com blocos, chamadas laterais e setas explicativas.",
+  "segments": [
+    {
+      "text": "Anatomy of a high-converting landing page\nNavbar\nLink Link Link Link\nCTA\nOnly main links and sticky CTA.\nHeading <\nyou selling? Use clear, benefit-\nWhat is your USP? What are\nSubheading -\ndriven language-no vague,\nclever words.\nCall-To-Action (CTA)\nHero / Main fold\ndetail. Use the product's/\nExplain the heading's claim in\nservice's features.\nWhat's the next step you want\nvisitors to take?\nSocial Proof\n> 1 Supafast 12 Supafast 1 Supafast 1 Supafas\nA demo video (2-3 mins max)\nservice works.\nexplaining how your product/\nOld Way vs New Way +\nShow the problem.\nThen, present your product as\nComparision\nOld Way\nthe solution.\nHeading\nNew Way\nSubheading\nHeading\nSubheading\n• Pain Point 2\n• Pain Point 1\n• Solution 1\n• Pain Point 3\n• Solution 2\n• Solution 3\nBenefits\nFeatures tell, but benefits sell.\nBenefits\nBenefit 1\nBenefit 2\nBenefit 3\nSubheading\nSubheading\nSubheading\nHow it works? <\nHow it works\nIn 3-5 simple steps, summarize the\nfeatures of your product.\nSubheading\nStep 1\nSubheading\nStep 2\nSubheading\nStep 3\nPricing\nbasic\nList the pricing options for a\n$9 /m\n$29(m\n$99/m\nproduct/service. Include the\nPricing\nfeatures and benefits of each tier.\nFAQ\nFAQ +\nSimple answers to common\nquestions.\nHigh contrast, action-oriented CTA\nCTA\nCall-To-Action (CTA)\nLogo copyright. Privacy policy.\nFooter\nLink Link Link Link\nmedia links.\nContact info. Email sign-up. Social\nwithsupafast.com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Anatomy of a high-converting landing page",
+          "box": [
+            0.1422845887940734,
+            0.9505813956490876,
+            0.7154308226551971,
+            0.02616279013454914
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 41
+        },
+        {
+          "text": "Navbar",
+          "box": [
+            0.12024048125171485,
+            0.8953488374856299,
+            0.04809619152963643,
+            0.008720929734408855
+          ],
+          "confidence": 0.5,
+          "start_char": 42,
+          "end_char": 48
+        },
+        {
+          "text": "Link Link Link Link",
+          "box": [
+            0.37274548939815916,
+            0.8953488370006438,
+            0.11022044384897234,
+            0.008948037866503
+          ],
+          "confidence": 1,
+          "start_char": 49,
+          "end_char": 68
+        },
+        {
+          "text": "CTA",
+          "box": [
+            0.5370741490030425,
+            0.8968023258021903,
+            0.022044086713353894,
+            0.007267441600561142
+          ],
+          "confidence": 0.3,
+          "start_char": 69,
+          "end_char": 72
+        },
+        {
+          "text": "Only main links and sticky CTA.",
+          "box": [
+            0.6713426867595792,
+            0.8968023254927024,
+            0.19839679070238803,
+            0.010174418799579144
+          ],
+          "confidence": 1,
+          "start_char": 73,
+          "end_char": 104
+        },
+        {
+          "text": "Heading <",
+          "box": [
+            0.3924447849700183,
+            0.8498183052025079,
+            0.10879287308438451,
+            0.015446311794221401
+          ],
+          "confidence": 1,
+          "start_char": 105,
+          "end_char": 114
+        },
+        {
+          "text": "you selling? Use clear, benefit-",
+          "box": [
+            0.6973947945505691,
+            0.85156249994345,
+            0.19438876745835787,
+            0.011809593066573143
+          ],
+          "confidence": 1,
+          "start_char": 115,
+          "end_char": 147
+        },
+        {
+          "text": "What is your USP? What are",
+          "box": [
+            0.6992329112354204,
+            0.8622601585489729,
+            0.1746383214575261,
+            0.012829327955842018
+          ],
+          "confidence": 1,
+          "start_char": 148,
+          "end_char": 174
+        },
+        {
+          "text": "Subheading -",
+          "box": [
+            0.40681362701006935,
+            0.835755813747803,
+            0.08016032092976122,
+            0.00872093066573143
+          ],
+          "confidence": 1,
+          "start_char": 175,
+          "end_char": 187
+        },
+        {
+          "text": "driven language-no vague,",
+          "box": [
+            0.6992131527424146,
+            0.8399975642890751,
+            0.17673422512661086,
+            0.012317941524088383
+          ],
+          "confidence": 1,
+          "start_char": 188,
+          "end_char": 213
+        },
+        {
+          "text": "clever words.",
+          "box": [
+            0.6993987988715546,
+            0.8313953486330812,
+            0.0841683338915884,
+            0.008936682716012001
+          ],
+          "confidence": 1,
+          "start_char": 214,
+          "end_char": 227
+        },
+        {
+          "text": "Call-To-Action (CTA)",
+          "box": [
+            0.3787575165164922,
+            0.8124999999114609,
+            0.1182364697726268,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 228,
+          "end_char": 248
+        },
+        {
+          "text": "Hero / Main fold",
+          "box": [
+            0.13026052338223557,
+            0.7963867188417029,
+            0.10020039602110006,
+            0.010299327783286572
+          ],
+          "confidence": 1,
+          "start_char": 249,
+          "end_char": 265
+        },
+        {
+          "text": "detail. Use the product's/",
+          "box": [
+            0.679214435855013,
+            0.7856980467514952,
+            0.15862156952809126,
+            0.012344058603048325
+          ],
+          "confidence": 1,
+          "start_char": 266,
+          "end_char": 292
+        },
+        {
+          "text": "Explain the heading's claim in",
+          "box": [
+            0.6792405064806607,
+            0.7969225714684443,
+            0.18462014005511918,
+            0.012789731845259666
+          ],
+          "confidence": 1,
+          "start_char": 293,
+          "end_char": 323
+        },
+        {
+          "text": "service's features.",
+          "box": [
+            0.6793587189964522,
+            0.7761627907273907,
+            0.1182364697726268,
+            0.010174418799579144
+          ],
+          "confidence": 1,
+          "start_char": 324,
+          "end_char": 343
+        },
+        {
+          "text": "What's the next step you want",
+          "box": [
+            0.6633266515796352,
+            0.7441406248862893,
+            0.19038076477873356,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 344,
+          "end_char": 373
+        },
+        {
+          "text": "visitors to take?",
+          "box": [
+            0.663326653795677,
+            0.7338867187154036,
+            0.102204407643115,
+            0.008845839649438858
+          ],
+          "confidence": 1,
+          "start_char": 374,
+          "end_char": 391
+        },
+        {
+          "text": "Social Proof",
+          "box": [
+            0.10821643365672401,
+            0.6962209300274464,
+            0.07615230282683255,
+            0.008857194799929857
+          ],
+          "confidence": 1,
+          "start_char": 392,
+          "end_char": 404
+        },
+        {
+          "text": "> 1 Supafast 12 Supafast 1 Supafast 1 Supafas",
+          "box": [
+            0.28256512698123726,
+            0.6947674418893912,
+            0.3006012086277059,
+            0.01177552668377757
+          ],
+          "confidence": 1,
+          "start_char": 405,
+          "end_char": 450
+        },
+        {
+          "text": "A demo video (2-3 mins max)",
+          "box": [
+            0.6492986026031603,
+            0.6991279069047163,
+            0.18236471829067347,
+            0.010344749316573143
+          ],
+          "confidence": 1,
+          "start_char": 451,
+          "end_char": 478
+        },
+        {
+          "text": "service works.",
+          "box": [
+            0.6470621766390876,
+            0.6757707416531221,
+            0.09473986767051679,
+            0.011626334860920906
+          ],
+          "confidence": 1,
+          "start_char": 479,
+          "end_char": 493
+        },
+        {
+          "text": "explaining how your product/",
+          "box": [
+            0.6472013627544783,
+            0.6863343793505878,
+            0.18459583292752912,
+            0.011424337048083544
+          ],
+          "confidence": 1,
+          "start_char": 494,
+          "end_char": 522
+        },
+        {
+          "text": "Old Way vs New Way +",
+          "box": [
+            0.35871743306494613,
+            0.6511627905073798,
+            0.1903807647787336,
+            0.014534884132444859
+          ],
+          "confidence": 1,
+          "start_char": 523,
+          "end_char": 543
+        },
+        {
+          "text": "Show the problem.",
+          "box": [
+            0.6472945906594209,
+            0.627906976535386,
+            0.1182364697726268,
+            0.008811773266643286
+          ],
+          "confidence": 1,
+          "start_char": 544,
+          "end_char": 561
+        },
+        {
+          "text": "Then, present your product as",
+          "box": [
+            0.6472945874503127,
+            0.6044921873322008,
+            0.19038076477873356,
+            0.010333394166082144
+          ],
+          "confidence": 1,
+          "start_char": 562,
+          "end_char": 591
+        },
+        {
+          "text": "Comparision",
+          "box": [
+            0.13627254558744173,
+            0.5886627906166209,
+            0.08216432741067478,
+            0.010174418799579144
+          ],
+          "confidence": 1,
+          "start_char": 592,
+          "end_char": 603
+        },
+        {
+          "text": "Old Way",
+          "box": [
+            0.3486973946352891,
+            0.5872093024797582,
+            0.030060120348660402,
+            0.007267441600561142
+          ],
+          "confidence": 1,
+          "start_char": 604,
+          "end_char": 611
+        },
+        {
+          "text": "the solution.",
+          "box": [
+            0.6472945889187351,
+            0.5942382811657496,
+            0.08016032092976122,
+            0.008959393482655287
+          ],
+          "confidence": 1,
+          "start_char": 612,
+          "end_char": 625
+        },
+        {
+          "text": "Heading",
+          "box": [
+            0.3486840667702919,
+            0.5755427117436687,
+            0.048122848140582875,
+            0.008798297494649887
+          ],
+          "confidence": 1,
+          "start_char": 626,
+          "end_char": 633
+        },
+        {
+          "text": "New Way",
+          "box": [
+            0.45688413403406974,
+            0.5871356767703382,
+            0.03412752331427804,
+            0.007414693012833595
+          ],
+          "confidence": 1,
+          "start_char": 634,
+          "end_char": 641
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.34869739588032955,
+            0.5654069768892785,
+            0.050100198010550046,
+            0.007267441600561142
+          ],
+          "confidence": 1,
+          "start_char": 642,
+          "end_char": 652
+        },
+        {
+          "text": "Heading",
+          "box": [
+            0.45684247716471804,
+            0.5753703867979085,
+            0.04823889308219975,
+            0.009142947383224964
+          ],
+          "confidence": 1,
+          "start_char": 653,
+          "end_char": 660
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.45691382694323646,
+            0.5654069768886729,
+            0.052104209632565124,
+            0.007267441600561142
+          ],
+          "confidence": 1,
+          "start_char": 661,
+          "end_char": 671
+        },
+        {
+          "text": "• Pain Point 2",
+          "box": [
+            0.34826171231594094,
+            0.5432892710903325,
+            0.05689662614601321,
+            0.009348947554826736
+          ],
+          "confidence": 1,
+          "start_char": 672,
+          "end_char": 686
+        },
+        {
+          "text": "• Pain Point 1",
+          "box": [
+            0.34869739562034263,
+            0.5522460937444912,
+            0.05611222259439225,
+            0.008800418116152287
+          ],
+          "confidence": 1,
+          "start_char": 687,
+          "end_char": 701
+        },
+        {
+          "text": "• Solution 1",
+          "box": [
+            0.45691382875023606,
+            0.5537109376119989,
+            0.050100198010550046,
+            0.007335573900490999
+          ],
+          "confidence": 1,
+          "start_char": 702,
+          "end_char": 714
+        },
+        {
+          "text": "• Pain Point 3",
+          "box": [
+            0.34869739562034263,
+            0.5346679687905316,
+            0.05611222259439225,
+            0.007483194116503
+          ],
+          "confidence": 1,
+          "start_char": 715,
+          "end_char": 729
+        },
+        {
+          "text": "• Solution 2",
+          "box": [
+            0.45671119513585307,
+            0.5441901275564425,
+            0.052439501986028036,
+            0.008564881980419159
+          ],
+          "confidence": 1,
+          "start_char": 730,
+          "end_char": 742
+        },
+        {
+          "text": "• Solution 3",
+          "box": [
+            0.45691382694724453,
+            0.53320312515895,
+            0.05210420963256507,
+            0.008948037400841713
+          ],
+          "confidence": 1,
+          "start_char": 743,
+          "end_char": 755
+        },
+        {
+          "text": "Benefits",
+          "box": [
+            0.40878880165274295,
+            0.49119288408340966,
+            0.07420596408072827,
+            0.013253767043352127
+          ],
+          "confidence": 1,
+          "start_char": 756,
+          "end_char": 764
+        },
+        {
+          "text": "Features tell, but benefits sell.",
+          "box": [
+            0.6472945840843692,
+            0.4897460938545295,
+            0.1883767634389214,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 765,
+          "end_char": 798
+        },
+        {
+          "text": "Benefits",
+          "box": [
+            0.15428287322476728,
+            0.469392258127877,
+            0.05415970424436173,
+            0.008889902383089066
+          ],
+          "confidence": 1,
+          "start_char": 799,
+          "end_char": 807
+        },
+        {
+          "text": "Benefit 1",
+          "box": [
+            0.33867735595464477,
+            0.4534883723857026,
+            0.050100198010550046,
+            0.008913971483707428
+          ],
+          "confidence": 1,
+          "start_char": 808,
+          "end_char": 817
+        },
+        {
+          "text": "Benefit 2",
+          "box": [
+            0.41881069426047013,
+            0.4534031023495111,
+            0.05215817063323891,
+            0.00889147026464343
+          ],
+          "confidence": 1,
+          "start_char": 818,
+          "end_char": 827
+        },
+        {
+          "text": "Benefit 3",
+          "box": [
+            0.4989474376962009,
+            0.4533272577444867,
+            0.0522053248156113,
+            0.00904315896332264
+          ],
+          "confidence": 1,
+          "start_char": 828,
+          "end_char": 837
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.3386773557852584,
+            0.4418604652635345,
+            0.050100198010550046,
+            0.007267441600561142
+          ],
+          "confidence": 1,
+          "start_char": 838,
+          "end_char": 848
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.41861512707441617,
+            0.440969342024935,
+            0.05252864354382947,
+            0.008720031939446926
+          ],
+          "confidence": 1,
+          "start_char": 849,
+          "end_char": 859
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.4989979952600606,
+            0.4418604652635345,
+            0.052104209632565124,
+            0.007267441600561142
+          ],
+          "confidence": 1,
+          "start_char": 860,
+          "end_char": 870
+        },
+        {
+          "text": "How it works? <",
+          "box": [
+            0.3867735477611803,
+            0.4011627906091353,
+            0.13627254352415347,
+            0.010174418799579144
+          ],
+          "confidence": 1,
+          "start_char": 871,
+          "end_char": 886
+        },
+        {
+          "text": "How it works",
+          "box": [
+            0.1382765542731142,
+            0.3676757813882181,
+            0.0841683338915884,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 887,
+          "end_char": 899
+        },
+        {
+          "text": "In 3-5 simple steps, summarize the",
+          "box": [
+            0.6472945860909073,
+            0.3735351563856044,
+            0.2204408876979448,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 900,
+          "end_char": 934
+        },
+        {
+          "text": "features of your product.",
+          "box": [
+            0.6472945872376022,
+            0.3618164063444611,
+            0.15631262889769515,
+            0.010276617016643286
+          ],
+          "confidence": 1,
+          "start_char": 935,
+          "end_char": 960
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.33864009898611996,
+            0.3370911331280866,
+            0.052178719615679214,
+            0.008957268670201302
+          ],
+          "confidence": 1,
+          "start_char": 961,
+          "end_char": 971
+        },
+        {
+          "text": "Step 1",
+          "box": [
+            0.34468937910291114,
+            0.34863281267726043,
+            0.038076151413416304,
+            0.008925326634198427
+          ],
+          "confidence": 1,
+          "start_char": 972,
+          "end_char": 978
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.41680009855882727,
+            0.3370988225918823,
+            0.05417535375713334,
+            0.008941889740526676
+          ],
+          "confidence": 1,
+          "start_char": 979,
+          "end_char": 989
+        },
+        {
+          "text": "Step 2",
+          "box": [
+            0.42473166708112164,
+            0.34851426054328216,
+            0.03852503640311106,
+            0.009958514012396336
+          ],
+          "confidence": 1,
+          "start_char": 990,
+          "end_char": 996
+        },
+        {
+          "text": "Subheading",
+          "box": [
+            0.49852540031366405,
+            0.33693636192196474,
+            0.05303126332573499,
+            0.010444071143865585
+          ],
+          "confidence": 1,
+          "start_char": 997,
+          "end_char": 1007
+        },
+        {
+          "text": "Step 3",
+          "box": [
+            0.5050100203910429,
+            0.35009765630809,
+            0.03807615141341625,
+            0.007460483117029071
+          ],
+          "confidence": 1,
+          "start_char": 1008,
+          "end_char": 1014
+        },
+        {
+          "text": "Pricing",
+          "box": [
+            0.41245472412174206,
+            0.30188518519513874,
+            0.0708757642144463,
+            0.015357909724116325
+          ],
+          "confidence": 1,
+          "start_char": 1015,
+          "end_char": 1022
+        },
+        {
+          "text": "basic",
+          "box": [
+            0.3486973950317992,
+            0.27906976746803924,
+            0.016032063414787023,
+            0.0029069767333567142
+          ],
+          "confidence": 1,
+          "start_char": 1023,
+          "end_char": 1028
+        },
+        {
+          "text": "List the pricing options for a",
+          "box": [
+            0.6471554324522338,
+            0.27648656647531933,
+            0.17661904389003535,
+            0.013059530407190323
+          ],
+          "confidence": 1,
+          "start_char": 1029,
+          "end_char": 1059
+        },
+        {
+          "text": "$9 /m",
+          "box": [
+            0.3446893782907565,
+            0.2616279069428703,
+            0.026052104816282506,
+            0.010344749316573143
+          ],
+          "confidence": 1,
+          "start_char": 1060,
+          "end_char": 1065
+        },
+        {
+          "text": "$29(m",
+          "box": [
+            0.4248496991835345,
+            0.26453488378411716,
+            0.04008016046488061,
+            0.011627906933426857
+          ],
+          "confidence": 1,
+          "start_char": 1066,
+          "end_char": 1071
+        },
+        {
+          "text": "$99/m",
+          "box": [
+            0.5150300601740433,
+            0.2616279069216736,
+            0.0340681358810383,
+            0.010174418799579144
+          ],
+          "confidence": 1,
+          "start_char": 1072,
+          "end_char": 1077
+        },
+        {
+          "text": "product/service. Include the",
+          "box": [
+            0.647294587993017,
+            0.26744186025458583,
+            0.17835671561104904,
+            0.008925327099859715
+          ],
+          "confidence": 1,
+          "start_char": 1078,
+          "end_char": 1106
+        },
+        {
+          "text": "Pricing",
+          "box": [
+            0.15377216014346806,
+            0.2477192351131361,
+            0.0493341379088533,
+            0.011931570246815681
+          ],
+          "confidence": 1,
+          "start_char": 1107,
+          "end_char": 1114
+        },
+        {
+          "text": "features and benefits of each tier.",
+          "box": [
+            0.6472945902603546,
+            0.25581395351808833,
+            0.21042083987007243,
+            0.010299327783286572
+          ],
+          "confidence": 1,
+          "start_char": 1115,
+          "end_char": 1150
+        },
+        {
+          "text": "FAQ",
+          "box": [
+            0.16833667294256013,
+            0.16133720958494235,
+            0.026052104816282534,
+            0.008720929734408855
+          ],
+          "confidence": 1,
+          "start_char": 1151,
+          "end_char": 1154
+        },
+        {
+          "text": "FAQ +",
+          "box": [
+            0.4248496984190046,
+            0.15820312493572675,
+            0.05811623421640727,
+            0.011855014599859715
+          ],
+          "confidence": 1,
+          "start_char": 1155,
+          "end_char": 1160
+        },
+        {
+          "text": "Simple answers to common",
+          "box": [
+            0.6471482860451474,
+            0.1671877102096877,
+            0.17459396403433491,
+            0.011680846102535725
+          ],
+          "confidence": 1,
+          "start_char": 1161,
+          "end_char": 1185
+        },
+        {
+          "text": "questions.",
+          "box": [
+            0.6472945902622724,
+            0.1584302329162257,
+            0.0701402782429903,
+            0.008720929734408855
+          ],
+          "confidence": 1,
+          "start_char": 1186,
+          "end_char": 1196
+        },
+        {
+          "text": "High contrast, action-oriented CTA",
+          "box": [
+            0.6492985977329625,
+            0.12060546887383305,
+            0.21643286445391463,
+            0.01025390625
+          ],
+          "confidence": 1,
+          "start_char": 1197,
+          "end_char": 1231
+        },
+        {
+          "text": "CTA",
+          "box": [
+            0.16833667371011934,
+            0.09738372121564443,
+            0.02805611129719615,
+            0.008720929734408855
+          ],
+          "confidence": 1,
+          "start_char": 1232,
+          "end_char": 1235
+        },
+        {
+          "text": "Call-To-Action (CTA)",
+          "box": [
+            0.38276553254855633,
+            0.09716796867101518,
+            0.11823646977262675,
+            0.008936682716012001
+          ],
+          "confidence": 1,
+          "start_char": 1236,
+          "end_char": 1256
+        },
+        {
+          "text": "Logo copyright. Privacy policy.",
+          "box": [
+            0.6472945908346688,
+            0.07848837200534242,
+            0.1923847661185457,
+            0.010378815699368715
+          ],
+          "confidence": 1,
+          "start_char": 1257,
+          "end_char": 1288
+        },
+        {
+          "text": "Footer",
+          "box": [
+            0.160257841864104,
+            0.06522967284588621,
+            0.046217782156808024,
+            0.009075538255274296
+          ],
+          "confidence": 1,
+          "start_char": 1289,
+          "end_char": 1295
+        },
+        {
+          "text": "Link Link Link Link",
+          "box": [
+            0.4068136256900978,
+            0.06540697654166538,
+            0.11022044384897234,
+            0.008811773266643286
+          ],
+          "confidence": 1,
+          "start_char": 1296,
+          "end_char": 1315
+        },
+        {
+          "text": "media links.",
+          "box": [
+            0.6491641292846068,
+            0.055765918317775665,
+            0.07652689890077502,
+            0.010259685106575489
+          ],
+          "confidence": 1,
+          "start_char": 1316,
+          "end_char": 1328
+        },
+        {
+          "text": "Contact info. Email sign-up. Social",
+          "box": [
+            0.6492986013318606,
+            0.06686046502395371,
+            0.21242484120988459,
+            0.010287972632795572
+          ],
+          "confidence": 1,
+          "start_char": 1329,
+          "end_char": 1364
+        },
+        {
+          "text": "withsupafast.com",
+          "box": [
+            0.3944866509881913,
+            0.02643756005795972,
+            0.0988708866253053,
+            0.012641365639865398
+          ],
+          "confidence": 1,
+          "start_char": 1365,
+          "end_char": 1381
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1381
+    },
+    {
+      "text": "Wireframe de landing page com blocos, chamadas laterais e setas explicativas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1383,
+      "end_char": 1460
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1484,
+      2048
+    ],
+    "ocr_rows": 81,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9851851851851852,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

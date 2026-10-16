@@ -1,0 +1,1388 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e954a9bba3651680ab55a51208b3e382.jpg",
+  "source_sha256": "a34dcf83458f37671349ccece44ab06f345bf59dc1ea3b70dac70c8afd73c75b",
+  "text": "SEO Analysis Checklist\n1. Keyword Research\n2. On-Page SEO\n3. Content Quality\n• Identify primary and secondary\n• Optimize title tags and meta\n• Ensure content is original,\nkeywords\ndescriptions with keywords\nengaging, and valuable\n• Analyze keyword search volume\n• Use header tags (H1, H2, etc.)\n• Optimize for keyword density\nand competition\neffectively\nwithout keyword stuffing\n• Focus on long-tail and buyer-\n• Include internal links to other\n• Use multimedia (images, videos)\nintent keywords\nrelevant pages\nto enhance content\n4. URL Structure\n5. Mobile-\nFriendliness\n6. Page Speed\n• Ensure URLs are short,\n• Check if the website is mobile-\n• Use Google PageSpeed Insights\ndescriptive, and include keywords\nresponsive\nto analyze load times\n• Use hyphens (-) to separate\n• Test page load speed on mobile\n• Compress images and reduce\nwords in URLs\ndevices\nserver response time\n• Avoid numbers or symbols in\n• Optimize mobile UX (easy\n• Minimize JavaScript, CSS, and\nURLS\nnavigation, readable fonts)\nHTML\n7. Backlink Profile\n8. Internal Linking\n9. Schema Markup\n(Structured Data)\n• Review the number and quality of\n• Ensure all pages are linked within\n• Add schema markup to enhance\nbacklinks\nthe website\nsearch engine understanding\n• Identify and disavow spammy or\n• Use descriptive anchor text for\n• Use tools like Google's Structured\nlow-quality links\ninternal links\nData Testing Tool\n• Look for opportunities to acquire\n• Check for broken internal links\n• Implement relevant schema\nhigh-authority backlinks\ntypes (e.g., product, FAQ)\n10. Image\n11. Sitemap and\nRobots.txt\n12. Core Web Vitals\nOptimization\n• Use descriptive ALT tags with\n• Ensure the XML sitemap is\n• Check metrics like Largest Contentful\nkeywords\nsubmitted to Google Search Console\nPaint (LCP), First Input Delay (FID), and\n• Compress images for faster\n• Check the robots.txt file to ensure\nCumulative Layout Shift (CLS)\nloading\nimportant pages are not blocked\n• Aim for fast load times and minimal\n• Ensure filenames are relevant\n• Update both files regularly with new\nlayout shifts\n• Use tools like Google Search Console\nand keyword-rich\npages\nfor detailed insights\n13. Crawlability and\n14. Competitor\n15. Local SEO\nIndexing\nAnalysis\n• Check if all pages are being\n• Analyze competitors' keywords,\n• Optimize Google Business Profile with\nindexed by Google\nbacklinks, and top-ranking content\ncorrect NAP (name, address, phone)\n• Use Google Search Console to\n• Identify gaps in your strategy\n• Add local keywords in content and\nidentify crawl issues\ncompared to competitors\nmetadata\n• Fix broken links, redirects, and\n• Use tools like SEMrush or Ahrefs\n• Encourage customer reviews on\nensure all pages are accessible\nfor detailed competitor insights\nGoogle and other platforms\n\nChecklist de SEO em quinze cartões; itens são referência e não norma atual comprovada.",
+  "segments": [
+    {
+      "text": "SEO Analysis Checklist\n1. Keyword Research\n2. On-Page SEO\n3. Content Quality\n• Identify primary and secondary\n• Optimize title tags and meta\n• Ensure content is original,\nkeywords\ndescriptions with keywords\nengaging, and valuable\n• Analyze keyword search volume\n• Use header tags (H1, H2, etc.)\n• Optimize for keyword density\nand competition\neffectively\nwithout keyword stuffing\n• Focus on long-tail and buyer-\n• Include internal links to other\n• Use multimedia (images, videos)\nintent keywords\nrelevant pages\nto enhance content\n4. URL Structure\n5. Mobile-\nFriendliness\n6. Page Speed\n• Ensure URLs are short,\n• Check if the website is mobile-\n• Use Google PageSpeed Insights\ndescriptive, and include keywords\nresponsive\nto analyze load times\n• Use hyphens (-) to separate\n• Test page load speed on mobile\n• Compress images and reduce\nwords in URLs\ndevices\nserver response time\n• Avoid numbers or symbols in\n• Optimize mobile UX (easy\n• Minimize JavaScript, CSS, and\nURLS\nnavigation, readable fonts)\nHTML\n7. Backlink Profile\n8. Internal Linking\n9. Schema Markup\n(Structured Data)\n• Review the number and quality of\n• Ensure all pages are linked within\n• Add schema markup to enhance\nbacklinks\nthe website\nsearch engine understanding\n• Identify and disavow spammy or\n• Use descriptive anchor text for\n• Use tools like Google's Structured\nlow-quality links\ninternal links\nData Testing Tool\n• Look for opportunities to acquire\n• Check for broken internal links\n• Implement relevant schema\nhigh-authority backlinks\ntypes (e.g., product, FAQ)\n10. Image\n11. Sitemap and\nRobots.txt\n12. Core Web Vitals\nOptimization\n• Use descriptive ALT tags with\n• Ensure the XML sitemap is\n• Check metrics like Largest Contentful\nkeywords\nsubmitted to Google Search Console\nPaint (LCP), First Input Delay (FID), and\n• Compress images for faster\n• Check the robots.txt file to ensure\nCumulative Layout Shift (CLS)\nloading\nimportant pages are not blocked\n• Aim for fast load times and minimal\n• Ensure filenames are relevant\n• Update both files regularly with new\nlayout shifts\n• Use tools like Google Search Console\nand keyword-rich\npages\nfor detailed insights\n13. Crawlability and\n14. Competitor\n15. Local SEO\nIndexing\nAnalysis\n• Check if all pages are being\n• Analyze competitors' keywords,\n• Optimize Google Business Profile with\nindexed by Google\nbacklinks, and top-ranking content\ncorrect NAP (name, address, phone)\n• Use Google Search Console to\n• Identify gaps in your strategy\n• Add local keywords in content and\nidentify crawl issues\ncompared to competitors\nmetadata\n• Fix broken links, redirects, and\n• Use tools like SEMrush or Ahrefs\n• Encourage customer reviews on\nensure all pages are accessible\nfor detailed competitor insights\nGoogle and other platforms",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.12999999993859646,
+            0.9242424242607782,
+            0.785,
+            0.06277056277056281
+          ],
+          "text": "SEO Analysis Checklist",
+          "start_char": 0,
+          "end_char": 22
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07749999987132355,
+            0.8874458874586199,
+            0.18,
+            0.017316017316017285
+          ],
+          "text": "1. Keyword Research",
+          "start_char": 23,
+          "end_char": 42
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38249999987500005,
+            0.8852813853001166,
+            0.13,
+            0.01948051948051943
+          ],
+          "text": "2. On-Page SEO",
+          "start_char": 43,
+          "end_char": 57
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6871786092153082,
+            0.8850417099712166,
+            0.15818563461303714,
+            0.02196335276483974
+          ],
+          "text": "3. Content Quality",
+          "start_char": 58,
+          "end_char": 76
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0822827622291475,
+            0.8424192209997858,
+            0.22791414260864262,
+            0.019450920484798795
+          ],
+          "text": "• Identify primary and secondary",
+          "start_char": 77,
+          "end_char": 109
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38749999915625,
+            0.8463203463834776,
+            0.20750000000000002,
+            0.015151515151515138
+          ],
+          "text": "• Optimize title tags and meta",
+          "start_char": 110,
+          "end_char": 140
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6924999981250001,
+            0.8463203464718615,
+            0.1925,
+            0.015151515151515138
+          ],
+          "text": "• Ensure content is original,",
+          "start_char": 141,
+          "end_char": 170
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09999999987500001,
+            0.829004329029304,
+            0.06999999999999999,
+            0.012987012987012991
+          ],
+          "text": "keywords",
+          "start_char": 171,
+          "end_char": 179
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4074999998714789,
+            0.8290043290134748,
+            0.1825,
+            0.012987012987012991
+          ],
+          "text": "descriptions with keywords",
+          "start_char": 180,
+          "end_char": 206
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.712214717408271,
+            0.8253411966816901,
+            0.15320162773132318,
+            0.018392428691253015
+          ],
+          "text": "engaging, and valuable",
+          "start_char": 207,
+          "end_char": 229
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08499999987362634,
+            0.8095238095321345,
+            0.23000000000000004,
+            0.015151515151515138
+          ],
+          "text": "• Analyze keyword search volume",
+          "start_char": 230,
+          "end_char": 261
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3897595809741338,
+            0.8081472126722422,
+            0.2129595947265625,
+            0.018856057873019916
+          ],
+          "text": "• Use header tags (H1, H2, etc.)",
+          "start_char": 262,
+          "end_char": 294
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.694999999871988,
+            0.8095238095329369,
+            0.21250000000000002,
+            0.015151515151515138
+          ],
+          "text": "• Optimize for keyword density",
+          "start_char": 295,
+          "end_char": 325
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09966829341792155,
+            0.790725372317014,
+            0.11564146041870119,
+            0.017508182690773255
+          ],
+          "text": "and competition",
+          "start_char": 326,
+          "end_char": 341
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4072083803433304,
+            0.792799674043462,
+            0.07066055297851564,
+            0.015440507368608025
+          ],
+          "text": "effectively",
+          "start_char": 342,
+          "end_char": 353
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.712499999865566,
+            0.7922077922220861,
+            0.16749999999999998,
+            0.015151515151515138
+          ],
+          "text": "without keyword stuffing",
+          "start_char": 354,
+          "end_char": 378
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08499999985000002,
+            0.7748917749025974,
+            0.21000000000000002,
+            0.015151515151515138
+          ],
+          "text": "• Focus on long-tail and buyer-",
+          "start_char": 379,
+          "end_char": 410
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3899999998652598,
+            0.7770562770647101,
+            0.21250000000000002,
+            0.012987012987012991
+          ],
+          "text": "• Include internal links to other",
+          "start_char": 411,
+          "end_char": 444
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998593751,
+            0.7748917749012446,
+            0.22999999999999998,
+            0.015151515151515138
+          ],
+          "text": "• Use multimedia (images, videos)",
+          "start_char": 445,
+          "end_char": 478
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999987500001,
+            0.7575757575908587,
+            0.1075,
+            0.012987012987012991
+          ],
+          "text": "intent keywords",
+          "start_char": 479,
+          "end_char": 494
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40749999987179486,
+            0.7575757575924076,
+            0.09999999999999998,
+            0.012987012987012991
+          ],
+          "text": "relevant pages",
+          "start_char": 495,
+          "end_char": 509
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.709999999875,
+            0.7597402597506661,
+            0.1349999999999999,
+            0.010822510822510734
+          ],
+          "text": "to enhance content",
+          "start_char": 510,
+          "end_char": 528
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07499999974999999,
+            0.7056277056586271,
+            0.14500000000000002,
+            0.017316017316017396
+          ],
+          "text": "4. URL Structure",
+          "start_char": 529,
+          "end_char": 545
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3799172113811139,
+            0.7117927270854528,
+            0.09016557693481442,
+            0.017972987451594702
+          ],
+          "text": "5. Mobile-",
+          "start_char": 546,
+          "end_char": 556
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.397499999883721,
+            0.696969696984798,
+            0.11499999999999999,
+            0.012987012987013102
+          ],
+          "text": "Friendliness",
+          "start_char": 557,
+          "end_char": 569
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6874999998723405,
+            0.7034632034839274,
+            0.12,
+            0.01948051948051943
+          ],
+          "text": "6. Page Speed",
+          "start_char": 570,
+          "end_char": 583
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08230225793887691,
+            0.6622008138166162,
+            0.17041563034057616,
+            0.016524365970066568
+          ],
+          "text": "• Ensure URLs are short,",
+          "start_char": 584,
+          "end_char": 608
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38999999986574074,
+            0.6645021645101812,
+            0.21750000000000003,
+            0.01298701298701288
+          ],
+          "text": "• Check if the website is mobile-",
+          "start_char": 609,
+          "end_char": 642
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998749999,
+            0.6623376623460798,
+            0.22499999999999998,
+            0.015151515151515138
+          ],
+          "text": "• Use Google PageSpeed Insights",
+          "start_char": 643,
+          "end_char": 674
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10250000018229166,
+            0.6450216450532107,
+            0.22249999999999998,
+            0.015151515151515138
+          ],
+          "text": "descriptive, and include keywords",
+          "start_char": 675,
+          "end_char": 708
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4049644995527896,
+            0.6448609292842755,
+            0.07757100105285641,
+            0.013308444580474532
+          ],
+          "text": "responsive",
+          "start_char": 709,
+          "end_char": 719
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.709999999875,
+            0.64502164503367,
+            0.1449999999999999,
+            0.012987012987012991
+          ],
+          "text": "to analyze load times",
+          "start_char": 720,
+          "end_char": 741
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08230782685379502,
+            0.623845726195858,
+            0.20286060333251954,
+            0.019186094209745375
+          ],
+          "text": "• Use hyphens (-) to separate",
+          "start_char": 742,
+          "end_char": 771
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3898095757350386,
+            0.6247992168473886,
+            0.2278763961791992,
+            0.01905822547483238
+          ],
+          "text": "• Test page load speed on mobile",
+          "start_char": 772,
+          "end_char": 804
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.694999999865625,
+            0.6255411255505953,
+            0.21499999999999997,
+            0.015151515151515138
+          ],
+          "text": "• Compress images and reduce",
+          "start_char": 805,
+          "end_char": 833
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0999999999212963,
+            0.6103896104136605,
+            0.0975,
+            0.012987012987012991
+          ],
+          "text": "words in URLs",
+          "start_char": 834,
+          "end_char": 847
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4074999992083333,
+            0.6103896106060607,
+            0.05250000000000005,
+            0.01298701298701288
+          ],
+          "text": "devices",
+          "start_char": 848,
+          "end_char": 855
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7100000009999999,
+            0.6103896105519481,
+            0.14500000000000002,
+            0.012987012987012991
+          ],
+          "text": "server response time",
+          "start_char": 856,
+          "end_char": 876
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999987349398,
+            0.5909090909182184,
+            0.21499999999999997,
+            0.015151515151515138
+          ],
+          "text": "• Avoid numbers or symbols in",
+          "start_char": 877,
+          "end_char": 906
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38999999984631145,
+            0.5909090909215102,
+            0.18750000000000006,
+            0.015151515151515138
+          ],
+          "text": "• Optimize mobile UX (easy",
+          "start_char": 907,
+          "end_char": 933
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6947997399596576,
+            0.5900605616196302,
+            0.21035844802856452,
+            0.018301172173900482
+          ],
+          "text": "• Minimize JavaScript, CSS, and",
+          "start_char": 934,
+          "end_char": 965
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999979166667,
+            0.5757575758297258,
+            0.03749999999999999,
+            0.012987012987013102
+          ],
+          "text": "URLS",
+          "start_char": 966,
+          "end_char": 970
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40726537137149504,
+            0.5729643234542035,
+            0.17796182632446295,
+            0.01676309005522625
+          ],
+          "text": "navigation, readable fonts)",
+          "start_char": 971,
+          "end_char": 998
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.7124999998295455,
+            0.5757575758166076,
+            0.04249999999999998,
+            0.012987012987013102
+          ],
+          "text": "HTML",
+          "start_char": 999,
+          "end_char": 1003
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07499999971428573,
+            0.519480519515306,
+            0.16,
+            0.019480519480519543
+          ],
+          "text": "7. Backlink Profile",
+          "start_char": 1004,
+          "end_char": 1023
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3795908664023052,
+            0.5169388184414183,
+            0.16339321136474616,
+            0.02283069994542508
+          ],
+          "text": "8. Internal Linking",
+          "start_char": 1024,
+          "end_char": 1043
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6849999993846154,
+            0.5281385282134532,
+            0.16500000000000004,
+            0.01948051948051943
+          ],
+          "text": "9. Schema Markup",
+          "start_char": 1044,
+          "end_char": 1060
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7049999998352271,
+            0.5129870130042307,
+            0.15500000000000003,
+            0.015151515151515138
+          ],
+          "text": "(Structured Data)",
+          "start_char": 1061,
+          "end_char": 1078
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999987499997,
+            0.4783549783628699,
+            0.245,
+            0.015151515151515138
+          ],
+          "text": "• Review the number and quality of",
+          "start_char": 1079,
+          "end_char": 1113
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38749999986797756,
+            0.4783549783634905,
+            0.24,
+            0.015151515151515138
+          ],
+          "text": "• Ensure all pages are linked within",
+          "start_char": 1114,
+          "end_char": 1150
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998541666,
+            0.4783549783646909,
+            0.23250000000000004,
+            0.015151515151515138
+          ],
+          "text": "• Add schema markup to enhance",
+          "start_char": 1151,
+          "end_char": 1181
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10248548721145494,
+            0.4631487927474952,
+            0.06502902507781981,
+            0.01309635422446509
+          ],
+          "text": "backlinks",
+          "start_char": 1182,
+          "end_char": 1191
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40741450766547826,
+            0.4627963598976721,
+            0.08017098426818847,
+            0.013801219659450248
+          ],
+          "text": "the website",
+          "start_char": 1192,
+          "end_char": 1203
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.712499999885965,
+            0.46103896105225184,
+            0.19499999999999995,
+            0.015151515151515138
+          ],
+          "text": "search engine understanding",
+          "start_char": 1204,
+          "end_char": 1231
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08231522847464084,
+            0.44123848358819606,
+            0.23533945083618163,
+            0.01800970081643105
+          ],
+          "text": "• Identify and disavow spammy or",
+          "start_char": 1232,
+          "end_char": 1264
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3874999998799342,
+            0.44372294373291177,
+            0.22249999999999992,
+            0.015151515151515138
+          ],
+          "text": "• Use descriptive anchor text for",
+          "start_char": 1265,
+          "end_char": 1298
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999999415323,
+            0.44372294373516263,
+            0.23750000000000004,
+            0.015151515151515138
+          ],
+          "text": "• Use tools like Google's Structured",
+          "start_char": 1299,
+          "end_char": 1335
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09999999987790698,
+            0.4264069264220276,
+            0.11000000000000001,
+            0.012987012987012991
+          ],
+          "text": "low-quality links",
+          "start_char": 1336,
+          "end_char": 1353
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.407499999875,
+            0.4264069264266037,
+            0.08750000000000002,
+            0.012987012987012991
+          ],
+          "text": "internal links",
+          "start_char": 1354,
+          "end_char": 1368
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7124999999021739,
+            0.42640692643986444,
+            0.11499999999999999,
+            0.015151515151515138
+          ],
+          "text": "Data Testing Tool",
+          "start_char": 1369,
+          "end_char": 1386
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999986950549,
+            0.4069264069347319,
+            0.23750000000000002,
+            0.015151515151515138
+          ],
+          "text": "• Look for opportunities to acquire",
+          "start_char": 1387,
+          "end_char": 1422
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3899999995263158,
+            0.4090909091307814,
+            0.21999999999999997,
+            0.015151515151515138
+          ],
+          "text": "• Check for broken internal links",
+          "start_char": 1423,
+          "end_char": 1456
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6950000014374998,
+            0.409090909280303,
+            0.20499999999999996,
+            0.015151515151515138
+          ],
+          "text": "• Implement relevant schema",
+          "start_char": 1457,
+          "end_char": 1484
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999986666665,
+            0.38961038962301586,
+            0.16000000000000003,
+            0.015151515151515138
+          ],
+          "text": "high-authority backlinks",
+          "start_char": 1485,
+          "end_char": 1509
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7124999998912037,
+            0.3917748917869167,
+            0.16749999999999998,
+            0.012987012987012991
+          ],
+          "text": "types (e.g., product, FAQ)",
+          "start_char": 1510,
+          "end_char": 1536
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07447045601754901,
+            0.34291283841865905,
+            0.08833600997924804,
+            0.0184900079454694
+          ],
+          "text": "10. Image",
+          "start_char": 1537,
+          "end_char": 1546
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3849999998726852,
+            0.3463203463343756,
+            0.13749999999999996,
+            0.015151515151515138
+          ],
+          "text": "11. Sitemap and",
+          "start_char": 1547,
+          "end_char": 1562
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4074999996538462,
+            0.33116883121878127,
+            0.09499999999999997,
+            0.012987012987012991
+          ],
+          "text": "Robots.txt",
+          "start_char": 1563,
+          "end_char": 1573
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6849999998812502,
+            0.3398268398412698,
+            0.16749999999999998,
+            0.017316017316017285
+          ],
+          "text": "12. Core Web Vitals",
+          "start_char": 1574,
+          "end_char": 1593
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10482799514804444,
+            0.32593782126193804,
+            0.11534400939941405,
+            0.01912002852468786
+          ],
+          "text": "Optimization",
+          "start_char": 1594,
+          "end_char": 1606
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0823045510152361,
+            0.2938251021156315,
+            0.21285324096679686,
+            0.01799983482856249
+          ],
+          "text": "• Use descriptive ALT tags with",
+          "start_char": 1607,
+          "end_char": 1638
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3849999998767123,
+            0.29653679654569165,
+            0.18500000000000005,
+            0.012987012987012991
+          ],
+          "text": "• Ensure the XML sitemap is",
+          "start_char": 1639,
+          "end_char": 1666
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6924999999705882,
+            0.29870129871403117,
+            0.22999999999999998,
+            0.012987012987012991
+          ],
+          "text": "• Check metrics like Largest Contentful",
+          "start_char": 1667,
+          "end_char": 1706
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.09999999986458333,
+            0.27705627708784264,
+            0.07,
+            0.015151515151515138
+          ],
+          "text": "keywords",
+          "start_char": 1707,
+          "end_char": 1715
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40249999988088236,
+            0.27705627706518965,
+            0.23249999999999993,
+            0.015151515151515138
+          ],
+          "text": "submitted to Google Search Console",
+          "start_char": 1716,
+          "end_char": 1750
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7074999983750001,
+            0.28354978371212125,
+            0.21999999999999997,
+            0.012987012987012991
+          ],
+          "text": "Paint (LCP), First Input Delay (FID), and",
+          "start_char": 1751,
+          "end_char": 1792
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999985294117,
+            0.25757575758849005,
+            0.20500000000000002,
+            0.017316017316017285
+          ],
+          "text": "• Compress images for faster",
+          "start_char": 1793,
+          "end_char": 1821
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38499999981547617,
+            0.26190476191506906,
+            0.23250000000000004,
+            0.012987012987012991
+          ],
+          "text": "• Check the robots.txt file to ensure",
+          "start_char": 1822,
+          "end_char": 1859
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.71000000059375,
+            0.2683982685606061,
+            0.16749999999999998,
+            0.012987012987012991
+          ],
+          "text": "Cumulative Layout Shift (CLS)",
+          "start_char": 1860,
+          "end_char": 1889
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999982500001,
+            0.24242424246753247,
+            0.052500000000000005,
+            0.012987012987012991
+          ],
+          "text": "loading",
+          "start_char": 1890,
+          "end_char": 1897
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.39983939778298544,
+            0.24075006070254779,
+            0.21037906646728516,
+            0.017558081325514507
+          ],
+          "text": "important pages are not blocked",
+          "start_char": 1898,
+          "end_char": 1929
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.692499999875,
+            0.25324675325290247,
+            0.22000000000000008,
+            0.010822510822510734
+          ],
+          "text": "• Aim for fast load times and minimal",
+          "start_char": 1930,
+          "end_char": 1967
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08233382153797819,
+            0.22479120594189406,
+            0.21784170150756837,
+            0.01639150541066081
+          ],
+          "text": "• Ensure filenames are relevant",
+          "start_char": 1968,
+          "end_char": 1999
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3849999998333334,
+            0.22294372295574794,
+            0.24500000000000005,
+            0.017316017316017285
+          ],
+          "text": "• Update both files regularly with new",
+          "start_char": 2000,
+          "end_char": 2038
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.709999999875,
+            0.238095238114564,
+            0.06999999999999995,
+            0.010822510822510845
+          ],
+          "text": "layout shifts",
+          "start_char": 2039,
+          "end_char": 2052
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998825301,
+            0.22077922078704426,
+            0.22499999999999998,
+            0.012987012987012991
+          ],
+          "text": "• Use tools like Google Search Console",
+          "start_char": 2053,
+          "end_char": 2091
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999989062503,
+            0.20779220780844165,
+            0.1175,
+            0.012987012987012991
+          ],
+          "text": "and keyword-rich",
+          "start_char": 2092,
+          "end_char": 2108
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40249999987500007,
+            0.20562770566590272,
+            0.04249999999999998,
+            0.012987012987012991
+          ],
+          "text": "pages",
+          "start_char": 2109,
+          "end_char": 2114
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.709999999875,
+            0.2077922078042328,
+            0.11249999999999993,
+            0.010822510822510734
+          ],
+          "text": "for detailed insights",
+          "start_char": 2115,
+          "end_char": 2136
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.07499999987683821,
+            0.15800865802298192,
+            0.1725,
+            0.019480519480519543
+          ],
+          "text": "13. Crawlability and",
+          "start_char": 2137,
+          "end_char": 2157
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.37999999987500005,
+            0.1601731601898101,
+            0.13499999999999995,
+            0.017316017316017396
+          ],
+          "text": "14. Competitor",
+          "start_char": 2158,
+          "end_char": 2172
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6874999998749999,
+            0.15800865802627606,
+            0.11250000000000004,
+            0.015151515151515138
+          ],
+          "text": "15. Local SEO",
+          "start_char": 2173,
+          "end_char": 2186
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10462953014374675,
+            0.141574392846346,
+            0.08320770263671877,
+            0.019133371708196956
+          ],
+          "text": "Indexing",
+          "start_char": 2187,
+          "end_char": 2195
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.409887337560037,
+            0.1424711070846506,
+            0.07772532463073728,
+            0.01808808892320246
+          ],
+          "text": "Analysis",
+          "start_char": 2196,
+          "end_char": 2204
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.0821712855909091,
+            0.11016492144774348,
+            0.20064878463745117,
+            0.019645290457325104
+          ],
+          "text": "• Check if all pages are being",
+          "start_char": 2205,
+          "end_char": 2235
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38750000017499997,
+            0.1125541125844155,
+            0.22250000000000003,
+            0.015151515151515138
+          ],
+          "text": "• Analyze competitors' keywords,",
+          "start_char": 2236,
+          "end_char": 2268
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6923591756788516,
+            0.11121385528826855,
+            0.2478247833251953,
+            0.017344780298538476
+          ],
+          "text": "• Optimize Google Business Profile with",
+          "start_char": 2269,
+          "end_char": 2308
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10204139840968879,
+            0.09323351793833201,
+            0.1259012794494629,
+            0.018774643604889563
+          ],
+          "text": "indexed by Google",
+          "start_char": 2309,
+          "end_char": 2326
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.40249999982999995,
+            0.09523809525324689,
+            0.22999999999999998,
+            0.015151515151515138
+          ],
+          "text": "backlinks, and top-ranking content",
+          "start_char": 2327,
+          "end_char": 2361
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7097954393353018,
+            0.09421330331553557,
+            0.2204653358459473,
+            0.019147935883823353
+          ],
+          "text": "correct NAP (name, address, phone)",
+          "start_char": 2362,
+          "end_char": 2396
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999987351188,
+            0.07575757576659459,
+            0.21750000000000003,
+            0.015151515151515138
+          ],
+          "text": "• Use Google Search Console to",
+          "start_char": 2397,
+          "end_char": 2427
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3849999998618421,
+            0.07575757576754383,
+            0.21499999999999997,
+            0.015151515151515138
+          ],
+          "text": "• Identify gaps in your strategy",
+          "start_char": 2428,
+          "end_char": 2460
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998963815,
+            0.08008658009512415,
+            0.22250000000000003,
+            0.012987012987012991
+          ],
+          "text": "• Add local keywords in content and",
+          "start_char": 2461,
+          "end_char": 2496
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999983125001,
+            0.060606060622294455,
+            0.135,
+            0.012987012987012991
+          ],
+          "text": "identify crawl issues",
+          "start_char": 2497,
+          "end_char": 2518
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4047809432446647,
+            0.05781901368160647,
+            0.17045843124389654,
+            0.01764569654093162
+          ],
+          "text": "compared to competitors",
+          "start_char": 2519,
+          "end_char": 2542
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.71000000003125,
+            0.06493506507034641,
+            0.0625,
+            0.010822510822510734
+          ],
+          "text": "metadata",
+          "start_char": 2543,
+          "end_char": 2551
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.08249999987643676,
+            0.043290043297506964,
+            0.22000000000000003,
+            0.012987012987012991
+          ],
+          "text": "• Fix broken links, redirects, and",
+          "start_char": 2552,
+          "end_char": 2586
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.38499999979166666,
+            0.0432900435425686,
+            0.23250000000000004,
+            0.015151515151515138
+          ],
+          "text": "• Use tools like SEMrush or Ahrefs",
+          "start_char": 2587,
+          "end_char": 2621
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6949999998734939,
+            0.045454545462368934,
+            0.21000000000000008,
+            0.012987012987012991
+          ],
+          "text": "• Encourage customer reviews on",
+          "start_char": 2622,
+          "end_char": 2653
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.10249999991745284,
+            0.023809523823817735,
+            0.2025,
+            0.015151515151515138
+          ],
+          "text": "ensure all pages are accessible",
+          "start_char": 2654,
+          "end_char": 2685
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4023151990066033,
+            0.02265376982568068,
+            0.20788742065429688,
+            0.01858953996138135
+          ],
+          "text": "for detailed competitor insights",
+          "start_char": 2686,
+          "end_char": 2718
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.7099999998472222,
+            0.02813852815255735,
+            0.17000000000000004,
+            0.015151515151515138
+          ],
+          "text": "Google and other platforms",
+          "start_char": 2719,
+          "end_char": 2745
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 2745
+    },
+    {
+      "text": "Checklist de SEO em quinze cartões; itens são referência e não norma atual comprovada.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 2747,
+      "end_char": 2833
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      800,
+      924
+    ],
+    "ocr_rows": 112,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9955357142857143,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

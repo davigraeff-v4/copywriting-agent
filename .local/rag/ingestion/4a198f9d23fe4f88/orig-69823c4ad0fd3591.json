@@ -1,0 +1,416 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/325bcb031752751ffb137ed78c3c549a.jpg",
+  "source_sha256": "69823c4ad0fd359115e75e289bbbff1b57bdfdefbf3a687098e30d341fe1847f",
+  "text": "A estrutura perfeita para um\nroteiro de reels\nGancho:\nProblema:\nComece com uma frase\nApresente o \"vilão ou a\nou pergunta impactante\ndor que sua audiência\nque prenda a atenção nos\nenfrenta.\nprimeiros 3 segundos.\nExemplo: \"Seus posts não\nExemplo®&ẠVocê sabia que\nestao engajando? Aqui\nesta cometendo esse erro\nestá o motivoỊi\nno Instagram?\"\nSolução:\nCall to Action (CTA:\nMostre a resposta ou o\nTermine com uma chamada\nbenefício que você tem\nclara para ação.\na oferecer.\nExemplo: \"Comente 'Quero' e\nExemplo: \"Com essa\nreceba a estratégia que eu\ntécnica simples, você vai\nmesma uso no meu perfiliỊẠạ\ndobrar o alcance dos\nseus posts!\"\n\nEsboço de roteiro de Reels em quatro quadrantes: gancho, problema, solução e ação.",
+  "segments": [
+    {
+      "text": "A estrutura perfeita para um\nroteiro de reels\nGancho:\nProblema:\nComece com uma frase\nApresente o \"vilão ou a\nou pergunta impactante\ndor que sua audiência\nque prenda a atenção nos\nenfrenta.\nprimeiros 3 segundos.\nExemplo: \"Seus posts não\nExemplo®&ẠVocê sabia que\nestao engajando? Aqui\nesta cometendo esse erro\nestá o motivoỊi\nno Instagram?\"\nSolução:\nCall to Action (CTA:\nMostre a resposta ou o\nTermine com uma chamada\nbenefício que você tem\nclara para ação.\na oferecer.\nExemplo: \"Comente 'Quero' e\nExemplo: \"Com essa\nreceba a estratégia que eu\ntécnica simples, você vai\nmesma uso no meu perfiliỊẠạ\ndobrar o alcance dos\nseus posts!\"",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.16508759147092797,
+            0.7655110575666861,
+            0.669716627701469,
+            0.06248628367548403
+          ],
+          "text": "A estrutura perfeita para um",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 28
+        },
+        {
+          "box": [
+            0.1324811850477412,
+            0.6926233257651437,
+            0.734936175139054,
+            0.08406694661016045
+          ],
+          "text": "roteiro de reels",
+          "confidence": 1,
+          "start_char": 29,
+          "end_char": 45
+        },
+        {
+          "box": [
+            0.1385869555706522,
+            0.6130434784782608,
+            0.14402173913043476,
+            0.0304347826086957
+          ],
+          "text": "Gancho:",
+          "confidence": 1,
+          "start_char": 46,
+          "end_char": 53
+        },
+        {
+          "box": [
+            0.540685000376018,
+            0.6106045111867549,
+            0.17678217265916907,
+            0.03313880381376855
+          ],
+          "text": "Problema:",
+          "confidence": 1,
+          "start_char": 54,
+          "end_char": 63
+        },
+        {
+          "box": [
+            0.1385869563617914,
+            0.5891304347922399,
+            0.25815217391304346,
+            0.01521739130434785
+          ],
+          "text": "Comece com uma frase",
+          "confidence": 1,
+          "start_char": 64,
+          "end_char": 84
+        },
+        {
+          "box": [
+            0.5405124058014737,
+            0.5845149276994999,
+            0.24773232833198877,
+            0.023159695708233285
+          ],
+          "text": "Apresente o \"vilão ou a",
+          "confidence": 1,
+          "start_char": 85,
+          "end_char": 108
+        },
+        {
+          "box": [
+            0.13833824371507095,
+            0.5640945794217891,
+            0.2640625912210216,
+            0.020648620439612353
+          ],
+          "text": "ou pergunta impactante",
+          "confidence": 1,
+          "start_char": 109,
+          "end_char": 131
+        },
+        {
+          "box": [
+            0.5405424859452227,
+            0.5623440943713487,
+            0.23960747926131543,
+            0.021139820762302586
+          ],
+          "text": "dor que sua audiência",
+          "confidence": 1,
+          "start_char": 132,
+          "end_char": 153
+        },
+        {
+          "box": [
+            0.1385869564272212,
+            0.5434782608884687,
+            0.2826086956521739,
+            0.01739130434782621
+          ],
+          "text": "que prenda a atenção nos",
+          "confidence": 1,
+          "start_char": 154,
+          "end_char": 178
+        },
+        {
+          "box": [
+            0.5405996673727622,
+            0.5427438135174452,
+            0.10358327368031384,
+            0.016686286096987524
+          ],
+          "text": "enfrenta.",
+          "confidence": 1,
+          "start_char": 179,
+          "end_char": 188
+        },
+        {
+          "box": [
+            0.13858695624632783,
+            0.5217391304582844,
+            0.23641304347826086,
+            0.01739130434782621
+          ],
+          "text": "primeiros 3 segundos.",
+          "confidence": 1,
+          "start_char": 189,
+          "end_char": 210
+        },
+        {
+          "box": [
+            0.5353260862228261,
+            0.4978260871739131,
+            0.2690217391304348,
+            0.021739130434782483
+          ],
+          "text": "Exemplo: \"Seus posts não",
+          "confidence": 1,
+          "start_char": 211,
+          "end_char": 235
+        },
+        {
+          "box": [
+            0.13561118344724452,
+            0.47567386078097107,
+            0.2749324674191682,
+            0.02417026602703587
+          ],
+          "text": "Exemplo®&ẠVocê sabia que",
+          "confidence": 1,
+          "start_char": 236,
+          "end_char": 260
+        },
+        {
+          "box": [
+            0.5377107026895871,
+            0.47212240820249607,
+            0.2507240875907566,
+            0.024825417477151612
+          ],
+          "text": "estao engajando? Aqui",
+          "confidence": 1,
+          "start_char": 261,
+          "end_char": 282
+        },
+        {
+          "box": [
+            0.13858695629703177,
+            0.45869565218854524,
+            0.27717391304347827,
+            0.01521739130434785
+          ],
+          "text": "esta cometendo esse erro",
+          "confidence": 1,
+          "start_char": 283,
+          "end_char": 307
+        },
+        {
+          "box": [
+            0.5407608712975542,
+            0.4586956523913044,
+            0.16032608695652173,
+            0.017391304347825987
+          ],
+          "text": "está o motivoỊi",
+          "confidence": 1,
+          "start_char": 308,
+          "end_char": 323
+        },
+        {
+          "box": [
+            0.13800540144210977,
+            0.43199667507603556,
+            0.1645112244979195,
+            0.02483522788338033
+          ],
+          "text": "no Instagram?\"",
+          "confidence": 1,
+          "start_char": 324,
+          "end_char": 338
+        },
+        {
+          "box": [
+            0.13315217434782609,
+            0.34130434819565225,
+            0.15217391304347824,
+            0.036956521739130443
+          ],
+          "text": "Solução:",
+          "confidence": 1,
+          "start_char": 339,
+          "end_char": 347
+        },
+        {
+          "box": [
+            0.5434782605395962,
+            0.3434782611180125,
+            0.32880434782608703,
+            0.034782608695652195
+          ],
+          "text": "Call to Action (CTA:",
+          "confidence": 1,
+          "start_char": 348,
+          "end_char": 368
+        },
+        {
+          "box": [
+            0.13858695637245036,
+            0.3195652174006979,
+            0.24184782608695657,
+            0.01521739130434785
+          ],
+          "text": "Mostre a resposta ou o",
+          "confidence": 1,
+          "start_char": 369,
+          "end_char": 391
+        },
+        {
+          "box": [
+            0.5380434775753458,
+            0.3195652174258894,
+            0.30706521739130443,
+            0.01521739130434785
+          ],
+          "text": "Termine com uma chamada",
+          "confidence": 1,
+          "start_char": 392,
+          "end_char": 415
+        },
+        {
+          "box": [
+            0.13858695638586957,
+            0.2956521739315012,
+            0.2527173913043479,
+            0.019565217391304346
+          ],
+          "text": "benefício que você tem",
+          "confidence": 1,
+          "start_char": 416,
+          "end_char": 438
+        },
+        {
+          "box": [
+            0.5404533504867916,
+            0.2913476710379733,
+            0.17989807543547254,
+            0.022225746901138876
+          ],
+          "text": "clara para ação.",
+          "confidence": 1,
+          "start_char": 439,
+          "end_char": 455
+        },
+        {
+          "box": [
+            0.13834761419643793,
+            0.2764188048881744,
+            0.1174901257390561,
+            0.017353453325188672
+          ],
+          "text": "a oferecer.",
+          "confidence": 1,
+          "start_char": 456,
+          "end_char": 467
+        },
+        {
+          "box": [
+            0.5380434781832298,
+            0.2521739130574533,
+            0.30434782608695643,
+            0.019565217391304346
+          ],
+          "text": "Exemplo: \"Comente 'Quero' e",
+          "confidence": 1,
+          "start_char": 468,
+          "end_char": 495
+        },
+        {
+          "box": [
+            0.13813455925192694,
+            0.2308413633139591,
+            0.21272472713304605,
+            0.023451232910156272
+          ],
+          "text": "Exemplo: \"Com essa",
+          "confidence": 1,
+          "start_char": 496,
+          "end_char": 514
+        },
+        {
+          "box": [
+            0.5353260875,
+            0.23043478282608687,
+            0.2934782608695653,
+            0.017391304347826098
+          ],
+          "text": "receba a estratégia que eu",
+          "confidence": 1,
+          "start_char": 515,
+          "end_char": 541
+        },
+        {
+          "box": [
+            0.1356920652883761,
+            0.20714383235623945,
+            0.27214400664619776,
+            0.023385970488838503
+          ],
+          "text": "técnica simples, você vai",
+          "confidence": 1,
+          "start_char": 542,
+          "end_char": 567
+        },
+        {
+          "box": [
+            0.5323977234277679,
+            0.20502705802925703,
+            0.29414241210274084,
+            0.023444791462110426
+          ],
+          "text": "mesma uso no meu perfiliỊẠạ",
+          "confidence": 1,
+          "start_char": 568,
+          "end_char": 595
+        },
+        {
+          "box": [
+            0.13858695373641314,
+            0.19130434801630436,
+            0.22826086956521738,
+            0.015217391304347738
+          ],
+          "text": "dobrar o alcance dos",
+          "confidence": 1,
+          "start_char": 596,
+          "end_char": 616
+        },
+        {
+          "box": [
+            0.13824698438066693,
+            0.16715191318346723,
+            0.12864940062813138,
+            0.017983208531918704
+          ],
+          "text": "seus posts!\"",
+          "confidence": 1,
+          "start_char": 617,
+          "end_char": 629
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 629
+    },
+    {
+      "text": "Esboço de roteiro de Reels em quatro quadrantes: gancho, problema, solução e ação.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 631,
+      "end_char": 713
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      920
+    ],
+    "ocr_rows": 31,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

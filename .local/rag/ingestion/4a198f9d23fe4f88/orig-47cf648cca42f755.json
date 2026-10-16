@@ -1,0 +1,164 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ea15665e2e91735920a91d41d735acb.jpg",
+  "source_sha256": "47cf648cca42f755c439c69a4aeccb4463d9585e50278a5dea3fca185caa9517",
+  "text": "CHATGPT\nPROMPT 4\nPROBLEM\nSOLVING\ni help (insert who you help doing what),\ngive me the best angle to create an ebook\nthat will be highly in demand with this\nspecific 1udience. Give me 5 different\nangles and examples.\n@digiterahub111\n\nPrompt de resolução de problema para explorar ângulos de um e-book, com imagem de dispositivo.",
+  "segments": [
+    {
+      "text": "CHATGPT\nPROMPT 4\nPROBLEM\nSOLVING\ni help (insert who you help doing what),\ngive me the best angle to create an ebook\nthat will be highly in demand with this\nspecific 1udience. Give me 5 different\nangles and examples.\n@digiterahub111",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 0.5,
+          "box": [
+            0.1343012693470519,
+            0.9113372095115799,
+            0.15063521067301433,
+            0.018895348442925397
+          ],
+          "text": "CHATGPT",
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.16866544545915182,
+            0.7437039995992718,
+            0.4321790907118055,
+            0.06927804946899419
+          ],
+          "text": "PROMPT 4",
+          "start_char": 8,
+          "end_char": 16
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.24137930542643948,
+            0.6831395352908589,
+            0.29038113488091366,
+            0.03779069688585057
+          ],
+          "text": "PROBLEM",
+          "start_char": 17,
+          "end_char": 24
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2495549835083042,
+            0.6063556099316462,
+            0.27693169911702475,
+            0.04562211354573564
+          ],
+          "text": "SOLVING",
+          "start_char": 25,
+          "end_char": 32
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.16515426685868892,
+            0.4738372095550222,
+            0.6987295786539713,
+            0.03949612299601235
+          ],
+          "text": "i help (insert who you help doing what),",
+          "start_char": 33,
+          "end_char": 73
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17059891354456364,
+            0.43750000007889944,
+            0.7277676900227865,
+            0.030523255666097038
+          ],
+          "text": "give me the best angle to create an ebook",
+          "start_char": 74,
+          "end_char": 115
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.16878403550935434,
+            0.393888889215394,
+            0.6624319288465712,
+            0.03222222222222215
+          ],
+          "text": "that will be highly in demand with this",
+          "start_char": 116,
+          "end_char": 155
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17023148447284595,
+            0.35138238700913416,
+            0.6577256096733941,
+            0.03830396016438797
+          ],
+          "text": "specific 1udience. Give me 5 different",
+          "start_char": 156,
+          "end_char": 194
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17059892246776845,
+            0.3094444441687768,
+            0.38656984965006513,
+            0.03222222222222226
+          ],
+          "text": "angles and examples.",
+          "start_char": 195,
+          "end_char": 215
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5680580718719592,
+            0.06686046503168397,
+            0.18511797587076817,
+            0.021802325778537357
+          ],
+          "text": "@digiterahub111",
+          "start_char": 216,
+          "end_char": 231
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 231
+    },
+    {
+      "text": "Prompt de resolução de problema para explorar ângulos de um e-book, com imagem de dispositivo.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 233,
+      "end_char": 327
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1440,
+      1800
+    ],
+    "ocr_rows": 10,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.95,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

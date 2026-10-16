@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "name": "unknown_source",
+      "passed": true,
+      "detail": "unknown source filter"
+    },
+    {
+      "name": "private_path_as_source_id",
+      "passed": true,
+      "detail": "unknown source filter"
+    },
+    {
+      "name": "invalid_page",
+      "passed": true,
+      "detail": "invalid page filter"
+    },
+    {
+      "name": "invalid_page_bool",
+      "passed": true,
+      "detail": "invalid page filter"
+    },
+    {
+      "name": "empty_section",
+      "passed": true,
+      "detail": "invalid section filter"
+    },
+    {
+      "name": "invalid_route",
+      "passed": true,
+      "detail": "invalid retrieval filters"
+    },
+    {
+      "name": "client_path_escape",
+      "passed": true,
+      "detail": "invalid client slug"
+    },
+    {
+      "name": "unknown_pdf_page",
+      "passed": true,
+      "detail": "0 results, 0 eligible chunks"
+    },
+    {
+      "name": "unknown_section",
+      "passed": true,
+      "detail": "0 results, 0 eligible chunks"
+    },
+    {
+      "name": "incompatible_use",
+      "passed": true,
+      "detail": "0 results, 0 eligible chunks"
+    },
+    {
+      "name": "incompatible_route",
+      "passed": true,
+      "detail": "0 results, 0 eligible chunks"
+    },
+    {
+      "name": "page_and_section_scope",
+      "passed": true,
+      "detail": "Both filters honored before selection"
+    },
+    {
+      "name": "metadata_filter_not_silently_ignored",
+      "passed": true,
+      "detail": "exit=2"
+    },
+    {
+      "name": "query_content_not_executed",
+      "passed": true,
+      "detail": "No source execution; not a universal prompt-injection certification"
+    }
+  ],
+  "passed": 14,
+  "total": 14,
+  "grade": 10.0
+}

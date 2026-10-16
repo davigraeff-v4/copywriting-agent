@@ -1,0 +1,33 @@
+{
+  "labeling": "Consultas sintéticas e alvos de relevância definidos pelo agente antes da comparação; revisão humana pendente. Não mede qualidade de copy ou performance.",
+  "queries": [
+    {"id":"dev01","route":"lp","use":"guidance","query":"A página repete a mesma promessa em todos os blocos. Como criar uma ideia central e fazer cada título avançar?","expected":["narrativa-lp","rep-01-m10","rep-01-m08"]},
+    {"id":"dev02","route":"ads","use":"guidance","query":"O briefing descreve idade e cargo, mas não explica em que ocasião a pessoa escolhe o produto. Como pesquisar isso?","expected":["rep-01-m01","pesquisa-voz-do-cliente","rep-01-m19"]},
+    {"id":"dev03","route":"ads","use":"guidance","query":"A marca afirma que é mais segura e dura o dobro, porém só enviou uma descrição técnica. Qual sustentação falta?","expected":["provas-e-claims","rep-01-m11","termos-a-evitar"]},
+    {"id":"dev04","route":"social","use":"guidance","query":"Quero um calendário orgânico com assunto útil por postagem, sem pedir curtida automaticamente e sem inventar promoção.","expected":["rep-01-m13","rotas-social","regras-por-canal"]},
+    {"id":"dev05","route":"direct","use":"guidance","query":"Como fazer a abertura da mensagem desenvolver a promessa do assunto e do texto que aparece antes de abrir?","expected":["rep-01-m14","rotas-direct"]},
+    {"id":"dev06","route":"lp","use":"structure","query":"A empresa é desconhecida e a página precisa explicar o produto numa sequência em que cada dobra prepare a próxima.","expected":["rep-01-r05","rep-01-r06"]},
+    {"id":"dev07","route":"ads","use":"structure","query":"O comprador não sabe se o componente serve na máquina que já possui. Qual informação deve abrir o anúncio?","expected":["rep-01-r01","rep-01-r02"]},
+    {"id":"dev08","route":"lp","use":"positive","query":"Exemplo de um serviço que cuida da instalação do produto depois da compra e explica agendamento, visita e abrangência.","expected":["rep-02-l09","rep-01-e17"]},
+    {"id":"dev09","route":"lp","use":"positive","query":"Página que apresenta camisetas pelo uso, cuidados de lavagem e condições específicas da garantia de conservação da cor.","expected":["rep-02-l01"]},
+    {"id":"dev10","route":"lp","use":"positive","query":"Sistema empresarial explicado por tarefas de estoque, documentos fiscais e caixa, em vez de apenas gestão eficiente.","expected":["rep-02-l04"]},
+    {"id":"dev11","route":"lp","use":"positive","query":"Mostrar como escolher um plano de academia pela unidade, amplitude do acesso e compromisso de permanência.","expected":["rep-02-l12"]},
+    {"id":"dev12","route":"lp","use":"positive","query":"Serviço para criar sites que explica escolher um modelo, personalizar e publicar, com condições de contratação e renovação.","expected":["rep-02-l03"]},
+    {"id":"dev13","route":"lp","use":"positive","query":"Como uma página distingue a pessoa que só precisa assinar um documento da organização que compra uma operação de assinaturas?","expected":["rep-02-l06"]},
+    {"id":"dev14","route":"ads","use":"positive","query":"Anúncio de câmera de terreno usa olhos na sola de um pé para tornar visível uma função técnica abstrata.","expected":["rep-02-a01"]},
+    {"id":"dev15","route":"ads","use":"positive","query":"Peça de comida mostra uma pessoa comendo antes de chegar à mesa, construindo desejo por um episódio de consumo.","expected":["rep-02-a02"]},
+    {"id":"dev16","route":"ads","use":"positive","query":"Publicidade náutica mostra um trecho de mar calmo e acrescenta mecanismo de estabilização e endereço para pesquisar.","expected":["rep-02-a03"]},
+    {"id":"dev17","route":"ads","use":"positive","query":"Uma exposição de gravura usa pressão como palavra do processo artístico e como jogo de sentido, sem perder data e local.","expected":["rep-02-a04"]},
+    {"id":"dev18","route":"direct","use":"positive","query":"Boas-vindas a uma ferramenta de design orientam a criar o primeiro arquivo antes de listar todos os recursos de ajuda.","expected":["rep-02-d01"]},
+    {"id":"dev19","route":"direct","use":"positive","query":"Mensagem de apoio oferece conteúdo de meditação e reconhece que o aplicativo não resolve todos os problemas do mundo.","expected":["rep-02-d02"]},
+    {"id":"dev20","route":"direct","use":"positive","query":"Uma novidade ajuda a encontrar trilhas para observar folhagens e explica mapa, previsão sazonal e período de teste.","expected":["rep-02-d03"]},
+    {"id":"dev21","route":"direct","use":"positive","query":"Convite de torcida para votar num produto explica frequência, prazo e regras antes de uma compra secundária.","expected":["rep-02-d04"]},
+    {"id":"dev22","route":"direct","use":"positive","query":"E-mail de lançamento de jogo ainda indisponível oferece lista de interesse e teste, com linguagem do universo narrativo.","expected":["rep-02-d08"]},
+    {"id":"dev23","route":"social","use":"positive","query":"Pauta de participação permite enviar uma proposta de criação com critérios e condição, em vez de só pedir comentários.","expected":["rep-01-e24"]},
+    {"id":"dev24","route":"social","use":"positive","query":"Mensagem comemorativa usa um desenho de planta de construção para formar um símbolo de homenagem ligado ao setor.","expected":["rep-02-a18"]},
+    {"id":"devn01","route":"lp","query":"Como provar o teorema espectral para operadores compactos em espaços de Hilbert?","expected":[],"type":"no_coverage"},
+    {"id":"devn02","route":"ads","query":"Configurar drivers do kernel Linux para uma placa de rede Realtek e compilar módulos DKMS.","expected":[],"type":"no_coverage"},
+    {"id":"devn03","route":"social","query":"Qual é a composição mineral do basalto lunar coletado pela missão Apollo?","expected":[],"type":"no_coverage"},
+    {"id":"devn04","route":"direct","query":"Resolver uma integral elíptica pelo método de substituição trigonométrica.","expected":[],"type":"no_coverage"}
+  ]
+}

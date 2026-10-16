@@ -30,6 +30,14 @@ def valid_review(doc):
         for key in review[group]:
             review[group][key] = {"status": "pass", "reason": "Synthetic review fixture"}
     review["claim_inventory"] = {"status": "pass", "reason": "Synthetic review fixture"}
+    for f in doc['fields']:
+        ids = [x['id'] for x in doc['claims'] if x['field_id'] == f['id']]
+        review['field_checks'][f['id']] = dict(status='mapped' if ids else 'no_factual_claim',
+                                             claim_ids=ids, reason='Synthetic factual check')
+    for s in doc['sources']:
+        path = 'tests/fixtures/briefing-source.txt'
+        review['source_checks'][s['id']] = dict(status='pass', path=path,
+            sha256=hashlib.sha256((ROOT/path).read_bytes()).hexdigest(), reason='Synthetic snapshot')
     required = [
         ("context", "knowledge/README.md"),
         ("context", "knowledge/metodologia-thamy.md"),
@@ -66,6 +74,10 @@ def fill_delta(delta, doc):
     for group in ("claim_checks", "constraint_checks"):
         for key in result[group]:
             result[group][key] = {"status": "pass", "reason": "Synthetic incremental check"}
+    for field_id in result.get('field_checks', {}):
+        ids = [x['id'] for x in doc['claims'] if x['field_id'] == field_id]
+        result['field_checks'][field_id] = dict(status='mapped' if ids else 'no_factual_claim',
+                                              claim_ids=ids, reason='Synthetic incremental factual check')
     if result.get("claim_inventory"):
         result["claim_inventory"] = {"status": "pass", "reason": "Synthetic incremental check"}
     for warning in result["warning_resolutions"]:
@@ -132,6 +144,21 @@ class IncrementalRevision(unittest.TestCase):
         self.assertEqual(set(delta["humanization"]), revise_delivery.ALL_HUMAN)
         merged = revise_delivery.merge_review(pending, fill_delta(delta, revised))
         self.assertEqual(copycheck.check(revised, merged)["status"], "ready_for_human_approval")
+
+    def test_scope_removal_prunes_only_removed_constraint_targets(self):
+        self.doc['constraints'].extend([
+            dict(id='story', rule='Catálogo no Story', scope='Story', source='synthetic',
+                 applies_to=dict(field_ids=['story_headline']), required_terms=['catálogo']),
+            dict(id='both', rule='Catálogo em ambas as seções', scope='Feed/Story', source='synthetic',
+                 applies_to=dict(sections=['dobra-1', 'story-1']), required_terms=['catálogo'])])
+        self.review = valid_review(self.doc)
+        change = dict(kind='scope', version='v2', instruction='Somente Feed', remove_sections=['story-1'])
+        doc, review, delta, _ = revise_delivery.prepare(self.doc, self.review, change)
+        self.assertEqual(doc['revision']['removed_constraint_ids'], ['story'])
+        self.assertNotIn('story', review['constraint_checks'])
+        self.assertEqual(doc['constraints'][-1]['applies_to'], dict(sections=['dobra-1']))
+        merged = revise_delivery.merge_review(review, fill_delta(delta, doc))
+        self.assertEqual(copycheck.check(doc, merged)['status'], 'ready_for_human_approval')
 
     def test_scope_cannot_silently_change_text(self):
         change = {

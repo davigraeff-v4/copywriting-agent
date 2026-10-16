@@ -1,0 +1,4 @@
+# Optional local semantic retrieval, using the installed Agent Tráfego runtime.
+# Objective verifiers and BM25 fallback continue to use Python's standard library.
+fastembed==0.8.0
+numpy==2.3.5

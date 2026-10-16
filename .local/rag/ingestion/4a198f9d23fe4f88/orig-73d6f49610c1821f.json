@@ -1,0 +1,764 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00312154441471b2f0bca32ff9c96c2c.jpg",
+  "source_sha256": "73d6f49610c1821fcff60d75e51858db8a32c21b5dd4f96287c5f49023b9dc70",
+  "text": "SEO for Dummies\n1\nKeyword\n• Find relevant terms: Use tools like Google Keyword Planner, Ahrefs, or SEMrush.\nResearch\n• Long-tail keywords: Target niche phrases for higher conversion rates.\n• Competitor analysis: Check keywords competitors rank for.\n2\nOn-Page\n• Title tags: Keep under 60 characters,\n• Internal linking: Connect\nSEO\ninclude primary keyword.\nrelevant pages on your site.\n• Meta descriptions: 150-160\n• URL structure: Short, keyword-\ncharacters, catchy and keyword-rich.\nfocused, and easy to read (no\n• Headings (H1, H2, H3): Structure\nsymbols).\nwith keywords, H1 for main title.\nContent\n• High-quality content: Address user intent, provide value.\nOptimization\n• Keyword placement: Naturally include primary and secondary keywords.\n• Alt tags for images: Describe images using keywords.\n• Mobile-friendly content: Ensure readability on mobile devices.\n4\nTechnical\n• Site speed: Use tools like Google PageSpeed Insights to improve loading times.\nSEO\n• Mobile optimization: Use responsive design for mobile users.\n• SSL Certificate: Ensure your site is secure (https).\n• Sitemap: Submit a sitemap to Google Search Console.\n• Robots.txt: Make sure important pages are not blocked from being crawled.\n5\nOff-Page\n• Backlinks: Acquire quality links from authoritative sites.\nSEO\n• Guest posting: Write for reputable blogs in your niche.\n• Social signals: Share content on social media for visibility.\n• Forum & Q&A participation: Answer relevant questions (e.g., Quora, Reddit).\n6\nLocal SEO\n• Google My Business: Set up and optimize your profile.\n• NAP consistency: Ensure Name, Address, Phone Number are the\nsame across all platforms.\n• Local citations: Get listed in online directories like Yelp, Yellow Pages.\n7\nAnalytics &\n• Google Analytics: Track traffic, bounce rates, and behavior.\nMonitoring\n• Google Search Console: Monitor search performance and indexing issues.\n• Keyword ranking tools: Use tools like SEMrush to track your keyword positions.\nFollow + slam my 4 for\nREPOST and let's make SEO\nI'm Connor Gillivan.\ndaily insights.\nsimpler for millions.\nSEO & Growth\n\nInfográfico de SEO em sete blocos numerados, com subtítulos e listas de tarefas.",
+  "segments": [
+    {
+      "text": "SEO for Dummies\n1\nKeyword\n• Find relevant terms: Use tools like Google Keyword Planner, Ahrefs, or SEMrush.\nResearch\n• Long-tail keywords: Target niche phrases for higher conversion rates.\n• Competitor analysis: Check keywords competitors rank for.\n2\nOn-Page\n• Title tags: Keep under 60 characters,\n• Internal linking: Connect\nSEO\ninclude primary keyword.\nrelevant pages on your site.\n• Meta descriptions: 150-160\n• URL structure: Short, keyword-\ncharacters, catchy and keyword-rich.\nfocused, and easy to read (no\n• Headings (H1, H2, H3): Structure\nsymbols).\nwith keywords, H1 for main title.\nContent\n• High-quality content: Address user intent, provide value.\nOptimization\n• Keyword placement: Naturally include primary and secondary keywords.\n• Alt tags for images: Describe images using keywords.\n• Mobile-friendly content: Ensure readability on mobile devices.\n4\nTechnical\n• Site speed: Use tools like Google PageSpeed Insights to improve loading times.\nSEO\n• Mobile optimization: Use responsive design for mobile users.\n• SSL Certificate: Ensure your site is secure (https).\n• Sitemap: Submit a sitemap to Google Search Console.\n• Robots.txt: Make sure important pages are not blocked from being crawled.\n5\nOff-Page\n• Backlinks: Acquire quality links from authoritative sites.\nSEO\n• Guest posting: Write for reputable blogs in your niche.\n• Social signals: Share content on social media for visibility.\n• Forum & Q&A participation: Answer relevant questions (e.g., Quora, Reddit).\n6\nLocal SEO\n• Google My Business: Set up and optimize your profile.\n• NAP consistency: Ensure Name, Address, Phone Number are the\nsame across all platforms.\n• Local citations: Get listed in online directories like Yelp, Yellow Pages.\n7\nAnalytics &\n• Google Analytics: Track traffic, bounce rates, and behavior.\nMonitoring\n• Google Search Console: Monitor search performance and indexing issues.\n• Keyword ranking tools: Use tools like SEMrush to track your keyword positions.\nFollow + slam my 4 for\nREPOST and let's make SEO\nI'm Connor Gillivan.\ndaily insights.\nsimpler for millions.\nSEO & Growth",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "SEO for Dummies",
+          "box": [
+            0.14444444436989956,
+            0.9274074074187069,
+            0.7111111111111111,
+            0.053333333333333344
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "text": "1",
+          "box": [
+            0.07037037027777779,
+            0.8696296297685185,
+            0.018518518518518517,
+            0.022222222222222254
+          ],
+          "confidence": 1,
+          "start_char": 16,
+          "end_char": 17
+        },
+        {
+          "text": "Keyword",
+          "box": [
+            0.12774597088232523,
+            0.8665661536526788,
+            0.10932287286829068,
+            0.022423248291015607
+          ],
+          "confidence": 1,
+          "start_char": 18,
+          "end_char": 25
+        },
+        {
+          "text": "• Find relevant terms: Use tools like Google Keyword Planner, Ahrefs, or SEMrush.",
+          "box": [
+            0.3166666665760869,
+            0.8607407407430412,
+            0.6277777777777778,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 26,
+          "end_char": 107
+        },
+        {
+          "text": "Research",
+          "box": [
+            0.12777777835978835,
+            0.8444444445820105,
+            0.11481481481481484,
+            0.01925925925925931
+          ],
+          "confidence": 1,
+          "start_char": 108,
+          "end_char": 116
+        },
+        {
+          "text": "• Long-tail keywords: Target niche phrases for higher conversion rates.",
+          "box": [
+            0.31851851841326684,
+            0.8444444444470486,
+            0.5425925925925926,
+            0.013333333333333308
+          ],
+          "confidence": 1,
+          "start_char": 117,
+          "end_char": 188
+        },
+        {
+          "text": "• Competitor analysis: Check keywords competitors rank for.",
+          "box": [
+            0.31666666657447845,
+            0.8266666666695779,
+            0.4703703703703704,
+            0.013333333333333308
+          ],
+          "confidence": 1,
+          "start_char": 189,
+          "end_char": 248
+        },
+        {
+          "text": "2",
+          "box": [
+            0.06666666655864198,
+            0.7659259261481481,
+            0.02777777777777779,
+            0.026666666666666616
+          ],
+          "confidence": 0.5,
+          "start_char": 249,
+          "end_char": 250
+        },
+        {
+          "text": "On-Page",
+          "box": [
+            0.12360267774295482,
+            0.7627364311665872,
+            0.11039813006365741,
+            0.021751538029423423
+          ],
+          "confidence": 1,
+          "start_char": 251,
+          "end_char": 258
+        },
+        {
+          "text": "• Title tags: Keep under 60 characters,",
+          "box": [
+            0.3165135229978572,
+            0.7599152590543515,
+            0.30031950208875857,
+            0.01738519668579097
+          ],
+          "confidence": 1,
+          "start_char": 259,
+          "end_char": 298
+        },
+        {
+          "text": "• Internal linking: Connect",
+          "box": [
+            0.660950508937863,
+            0.7619976042865575,
+            0.21329116821289062,
+            0.01565044261791093
+          ],
+          "confidence": 1,
+          "start_char": 299,
+          "end_char": 326
+        },
+        {
+          "text": "SEO",
+          "box": [
+            0.12777777768518517,
+            0.740740740779388,
+            0.04999999999999999,
+            0.017777777777777892
+          ],
+          "confidence": 1,
+          "start_char": 327,
+          "end_char": 330
+        },
+        {
+          "text": "include primary keyword.",
+          "box": [
+            0.3332189947509722,
+            0.7412302121592806,
+            0.19836875067816834,
+            0.017424962079083395
+          ],
+          "confidence": 1,
+          "start_char": 331,
+          "end_char": 355
+        },
+        {
+          "text": "relevant pages on your site.",
+          "box": [
+            0.6833333332377857,
+            0.7437037037107959,
+            0.20925925925925926,
+            0.01333333333333342
+          ],
+          "confidence": 1,
+          "start_char": 356,
+          "end_char": 384
+        },
+        {
+          "text": "• Meta descriptions: 150-160",
+          "box": [
+            0.3148148147605364,
+            0.7259259259344402,
+            0.2314814814814815,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 385,
+          "end_char": 413
+        },
+        {
+          "text": "• URL structure: Short, keyword-",
+          "box": [
+            0.6591463477649119,
+            0.7253612068529117,
+            0.25948150069625286,
+            0.01560529355649598
+          ],
+          "confidence": 1,
+          "start_char": 414,
+          "end_char": 446
+        },
+        {
+          "text": "characters, catchy and keyword-rich.",
+          "box": [
+            0.3369080971093798,
+            0.7068913826019478,
+            0.27799510249385123,
+            0.017155703791865706
+          ],
+          "confidence": 1,
+          "start_char": 447,
+          "end_char": 483
+        },
+        {
+          "text": "focused, and easy to read (no",
+          "box": [
+            0.6814814811290323,
+            0.7081481481720431,
+            0.2222222222222222,
+            0.014814814814814725
+          ],
+          "confidence": 1,
+          "start_char": 484,
+          "end_char": 513
+        },
+        {
+          "text": "• Headings (H1, H2, H3): Structure",
+          "box": [
+            0.31481481467824074,
+            0.6888888888990741,
+            0.2703703703703703,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 514,
+          "end_char": 548
+        },
+        {
+          "text": "symbols).",
+          "box": [
+            0.6810895761161727,
+            0.688670233758222,
+            0.07471515514232496,
+            0.015943001641167465
+          ],
+          "confidence": 1,
+          "start_char": 549,
+          "end_char": 558
+        },
+        {
+          "text": "with keywords, H1 for main title.",
+          "box": [
+            0.33500485559628335,
+            0.6697976991509773,
+            0.2484588623046875,
+            0.01879736158582901
+          ],
+          "confidence": 1,
+          "start_char": 559,
+          "end_char": 592
+        },
+        {
+          "text": "Content",
+          "box": [
+            0.12404477077557712,
+            0.6191577715167662,
+            0.10376230875651042,
+            0.019462235062210675
+          ],
+          "confidence": 1,
+          "start_char": 593,
+          "end_char": 600
+        },
+        {
+          "text": "• High-quality content: Address user intent, provide value.",
+          "box": [
+            0.3148148147173913,
+            0.6133333333365539,
+            0.4518518518518519,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 601,
+          "end_char": 660
+        },
+        {
+          "text": "Optimization",
+          "box": [
+            0.12371821573541109,
+            0.5895115723458912,
+            0.16373618797019673,
+            0.026514214409722126
+          ],
+          "confidence": 1,
+          "start_char": 661,
+          "end_char": 673
+        },
+        {
+          "text": "• Keyword placement: Naturally include primary and secondary keywords.",
+          "box": [
+            0.3147586041379178,
+            0.5941093654876202,
+            0.5723411842628762,
+            0.017777725502296837
+          ],
+          "confidence": 1,
+          "start_char": 674,
+          "end_char": 744
+        },
+        {
+          "text": "• Alt tags for images: Describe images using keywords.",
+          "box": [
+            0.31481481471885525,
+            0.5777777777811448,
+            0.4259259259259259,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 745,
+          "end_char": 799
+        },
+        {
+          "text": "• Mobile-friendly content: Ensure readability on mobile devices.",
+          "box": [
+            0.314814814711283,
+            0.5600000000031254,
+            0.4944444444444444,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 800,
+          "end_char": 864
+        },
+        {
+          "text": "4",
+          "box": [
+            0.06666666655555556,
+            0.5037037038444445,
+            0.02962962962962963,
+            0.028148148148148033
+          ],
+          "confidence": 0.5,
+          "start_char": 865,
+          "end_char": 866
+        },
+        {
+          "text": "Technical",
+          "box": [
+            0.12767944323041397,
+            0.5062715982740333,
+            0.11871518735532408,
+            0.020049396091037397
+          ],
+          "confidence": 1,
+          "start_char": 867,
+          "end_char": 876
+        },
+        {
+          "text": "• Site speed: Use tools like Google PageSpeed Insights to improve loading times.",
+          "box": [
+            0.3148148147162292,
+            0.5007407407431379,
+            0.6129629629629629,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 877,
+          "end_char": 957
+        },
+        {
+          "text": "SEO",
+          "box": [
+            0.12777777768132714,
+            0.48148148151851844,
+            0.05000000000000002,
+            0.01777777777777778
+          ],
+          "confidence": 1,
+          "start_char": 958,
+          "end_char": 961
+        },
+        {
+          "text": "• Mobile optimization: Use responsive design for mobile users.",
+          "box": [
+            0.3148148147092835,
+            0.4829629629661977,
+            0.48703703703703705,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 962,
+          "end_char": 1024
+        },
+        {
+          "text": "• SSL Certificate: Ensure your site is secure (https).",
+          "box": [
+            0.3148148147109543,
+            0.46518518518910446,
+            0.3925925925925926,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 1025,
+          "end_char": 1079
+        },
+        {
+          "text": "• Sitemap: Submit a sitemap to Google Search Console.",
+          "box": [
+            0.3148148147193026,
+            0.44740740741074403,
+            0.4277777777777778,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 1080,
+          "end_char": 1133
+        },
+        {
+          "text": "• Robots.txt: Make sure important pages are not blocked from being crawled.",
+          "box": [
+            0.3148148147213432,
+            0.4296296296319738,
+            0.5944444444444444,
+            0.014814814814814725
+          ],
+          "confidence": 1,
+          "start_char": 1134,
+          "end_char": 1209
+        },
+        {
+          "text": "5",
+          "box": [
+            0.06851851834876543,
+            0.37629629649382723,
+            0.031481481481481485,
+            0.023703703703703782
+          ],
+          "confidence": 1,
+          "start_char": 1210,
+          "end_char": 1211
+        },
+        {
+          "text": "Off-Page",
+          "box": [
+            0.12367351864428558,
+            0.37182592829787453,
+            0.11211939211244937,
+            0.021520898607042094
+          ],
+          "confidence": 1,
+          "start_char": 1212,
+          "end_char": 1220
+        },
+        {
+          "text": "• Backlinks: Acquire quality links from authoritative sites.",
+          "box": [
+            0.31481481467078193,
+            0.36888888889585314,
+            0.4407407407407407,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 1221,
+          "end_char": 1281
+        },
+        {
+          "text": "SEO",
+          "box": [
+            0.12777777768132714,
+            0.34962962966666666,
+            0.05000000000000002,
+            0.01777777777777778
+          ],
+          "confidence": 1,
+          "start_char": 1282,
+          "end_char": 1285
+        },
+        {
+          "text": "• Guest posting: Write for reputable blogs in your niche.",
+          "box": [
+            0.3166666701666666,
+            0.351111111274074,
+            0.43148148148148147,
+            0.016296296296296364
+          ],
+          "confidence": 1,
+          "start_char": 1286,
+          "end_char": 1343
+        },
+        {
+          "text": "• Social signals: Share content on social media for visibility.",
+          "box": [
+            0.3184432339939451,
+            0.3347450489603687,
+            0.45201367978696466,
+            0.01666847370288993
+          ],
+          "confidence": 1,
+          "start_char": 1344,
+          "end_char": 1407
+        },
+        {
+          "text": "• Forum & Q&A participation: Answer relevant questions (e.g., Quora, Reddit).",
+          "box": [
+            0.31474315722105833,
+            0.31499264347953204,
+            0.6075669465241609,
+            0.018533166956018587
+          ],
+          "confidence": 1,
+          "start_char": 1408,
+          "end_char": 1485
+        },
+        {
+          "text": "6",
+          "box": [
+            0.07037037027777779,
+            0.26370370390123454,
+            0.022222222222222213,
+            0.023703703703703782
+          ],
+          "confidence": 0.5,
+          "start_char": 1486,
+          "end_char": 1487
+        },
+        {
+          "text": "Local SEO",
+          "box": [
+            0.1312700821668889,
+            0.2528685950139685,
+            0.12089660079390918,
+            0.019924949363425926
+          ],
+          "confidence": 1,
+          "start_char": 1488,
+          "end_char": 1497
+        },
+        {
+          "text": "• Google My Business: Set up and optimize your profile.",
+          "box": [
+            0.3148148147193287,
+            0.2548148148181216,
+            0.43148148148148147,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 1498,
+          "end_char": 1553
+        },
+        {
+          "text": "• NAP consistency: Ensure Name, Address, Phone Number are the",
+          "box": [
+            0.3147483752416543,
+            0.23478683040533677,
+            0.5112335205078125,
+            0.018580130824336294
+          ],
+          "confidence": 1,
+          "start_char": 1554,
+          "end_char": 1615
+        },
+        {
+          "text": "same across all platforms.",
+          "box": [
+            0.3351851852136752,
+            0.22074074076638173,
+            0.2,
+            0.013333333333333308
+          ],
+          "confidence": 1,
+          "start_char": 1616,
+          "end_char": 1642
+        },
+        {
+          "text": "• Local citations: Get listed in online directories like Yelp, Yellow Pages.",
+          "box": [
+            0.31111111101100175,
+            0.20000000000300677,
+            0.55,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 1643,
+          "end_char": 1719
+        },
+        {
+          "text": "7",
+          "box": [
+            0.06666666657407408,
+            0.14962962983950612,
+            0.02592592592592592,
+            0.0251851851851852
+          ],
+          "confidence": 0.5,
+          "start_char": 1720,
+          "end_char": 1721
+        },
+        {
+          "text": "Analytics &",
+          "box": [
+            0.12777777768386245,
+            0.1466666666825397,
+            0.1388888888888889,
+            0.022222222222222254
+          ],
+          "confidence": 1,
+          "start_char": 1722,
+          "end_char": 1733
+        },
+        {
+          "text": "• Google Analytics: Track traffic, bounce rates, and behavior.",
+          "box": [
+            0.3148148147315706,
+            0.13777777778205136,
+            0.46851851851851856,
+            0.01777777777777778
+          ],
+          "confidence": 1,
+          "start_char": 1734,
+          "end_char": 1796
+        },
+        {
+          "text": "Monitoring",
+          "box": [
+            0.12749386952850028,
+            0.12217696776302378,
+            0.13973197937011717,
+            0.023213632371690496
+          ],
+          "confidence": 1,
+          "start_char": 1797,
+          "end_char": 1807
+        },
+        {
+          "text": "• Google Search Console: Monitor search performance and indexing issues.",
+          "box": [
+            0.3185185184615766,
+            0.1229629629669241,
+            0.575925925925926,
+            0.014814814814814836
+          ],
+          "confidence": 1,
+          "start_char": 1808,
+          "end_char": 1880
+        },
+        {
+          "text": "• Keyword ranking tools: Use tools like SEMrush to track your keyword positions.",
+          "box": [
+            0.31481481469953887,
+            0.10370370370697601,
+            0.6222222222222222,
+            0.016296296296296364
+          ],
+          "confidence": 1,
+          "start_char": 1881,
+          "end_char": 1961
+        },
+        {
+          "text": "Follow + slam my 4 for",
+          "box": [
+            0.07407407397354498,
+            0.04148148148924169,
+            0.21481481481481485,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 1962,
+          "end_char": 1984
+        },
+        {
+          "text": "REPOST and let's make SEO",
+          "box": [
+            0.405555555462963,
+            0.04592592593157552,
+            0.22222222222222215,
+            0.01333333333333342
+          ],
+          "confidence": 1,
+          "start_char": 1985,
+          "end_char": 2010
+        },
+        {
+          "text": "I'm Connor Gillivan.",
+          "box": [
+            0.7479547729008987,
+            0.04728757930208072,
+            0.18561692414460362,
+            0.01771664654767069
+          ],
+          "confidence": 1,
+          "start_char": 2011,
+          "end_char": 2031
+        },
+        {
+          "text": "daily insights.",
+          "box": [
+            0.07401906461039123,
+            0.02195802336955377,
+            0.1315915001763238,
+            0.018306175514503753
+          ],
+          "confidence": 1,
+          "start_char": 2032,
+          "end_char": 2047
+        },
+        {
+          "text": "simpler for millions.",
+          "box": [
+            0.39999999988834417,
+            0.02814814816013078,
+            0.1740740740740741,
+            0.016296296296296253
+          ],
+          "confidence": 1,
+          "start_char": 2048,
+          "end_char": 2069
+        },
+        {
+          "text": "SEO & Growth",
+          "box": [
+            0.7481481480555556,
+            0.028148148157264963,
+            0.124074074074074,
+            0.011851851851851891
+          ],
+          "confidence": 1,
+          "start_char": 2070,
+          "end_char": 2082
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 2082
+    },
+    {
+      "text": "Infográfico de SEO em sete blocos numerados, com subtítulos e listas de tarefas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 2084,
+      "end_char": 2164
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 60,
+    "low_confidence_rows": 4,
+    "ocr_mean_confidence": 0.9666666666666667,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

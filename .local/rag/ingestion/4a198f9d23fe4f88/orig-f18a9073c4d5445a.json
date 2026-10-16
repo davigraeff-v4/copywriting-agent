@@ -1,0 +1,512 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5619cb0c3d85b652442c2a8c0591028f.jpg",
+  "source_sha256": "f18a9073c4d5445a2f7dc84c82420cc9d135523a53776272a294dc50d2c21f14",
+  "text": "FACELESS REELS\nsocial media ideas for business\nMorning Routine for\nProductivity\nH1nds pouring coffee,\nBehind-the-Scenes\nopening I1ptop, writing\nof Your Work\nin planner.\nTyping on keybo1rd,\nsticky notes, packaging\nproducts, or planning.\nTools I Can't Live Without\nScreen-record Canva, Trello,\nNotion, QuickBooks, etc.\nDay-in-the-Life B-Roll\nShots of desk setup, coffee\nshop work, answering emails.\nMy Favorite Business Hck\nTyping shortcuts, automation\ntools, or scheduling apps.\nBusiness Wins & Milestones\nHands clapping, champagne\npouring, confetti stock clip.\nClient Love/Testimonial\nHighlight\nScreen-record part of\nMotivational Quotes\na review/email.\nStock video (sunrise, city\nskyline, working hands)\nwith trending audio.\nBefore vs. After\nSplit-screen showing messy\ndesk vs. organized setup OR\nQuick Tips List\nold design vs. new.\nAnim›1ted text with\nbackground footage.\n\nLista de ideias de Reels sem aparecer em câmera, organizada em linha vertical.",
+  "segments": [
+    {
+      "text": "FACELESS REELS\nsocial media ideas for business\nMorning Routine for\nProductivity\nH1nds pouring coffee,\nBehind-the-Scenes\nopening I1ptop, writing\nof Your Work\nin planner.\nTyping on keybo1rd,\nsticky notes, packaging\nproducts, or planning.\nTools I Can't Live Without\nScreen-record Canva, Trello,\nNotion, QuickBooks, etc.\nDay-in-the-Life B-Roll\nShots of desk setup, coffee\nshop work, answering emails.\nMy Favorite Business Hck\nTyping shortcuts, automation\ntools, or scheduling apps.\nBusiness Wins & Milestones\nHands clapping, champagne\npouring, confetti stock clip.\nClient Love/Testimonial\nHighlight\nScreen-record part of\nMotivational Quotes\na review/email.\nStock video (sunrise, city\nskyline, working hands)\nwith trending audio.\nBefore vs. After\nSplit-screen showing messy\ndesk vs. organized setup OR\nQuick Tips List\nold design vs. new.\nAnim›1ted text with\nbackground footage.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "FACELESS REELS",
+          "box": [
+            0.06793478238636366,
+            0.860507246394653,
+            0.7173913043478262,
+            0.047101449275362306
+          ],
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "confidence": 1,
+          "text": "social media ideas for business",
+          "box": [
+            0.06793478247740596,
+            0.8188405797172692,
+            0.7065217391304347,
+            0.025362318840579712
+          ],
+          "start_char": 15,
+          "end_char": 46
+        },
+        {
+          "confidence": 1,
+          "text": "Morning Routine for",
+          "box": [
+            0.06793478246074876,
+            0.7246376811835749,
+            0.2690217391304348,
+            0.021739130434782705
+          ],
+          "start_char": 47,
+          "end_char": 66
+        },
+        {
+          "confidence": 1,
+          "text": "Productivity",
+          "box": [
+            0.06489574093034303,
+            0.6997008265240741,
+            0.17219666812730872,
+            0.02171652386153955
+          ],
+          "start_char": 67,
+          "end_char": 79
+        },
+        {
+          "confidence": 1,
+          "text": "H1nds pouring coffee,",
+          "box": [
+            0.06521739351222823,
+            0.6721014495471014,
+            0.2961956521739131,
+            0.021739130434782705
+          ],
+          "start_char": 80,
+          "end_char": 101
+        },
+        {
+          "confidence": 1,
+          "text": "Behind-the-Scenes",
+          "box": [
+            0.5407608693702741,
+            0.6775362318958726,
+            0.2690217391304348,
+            0.01630434782608703
+          ],
+          "start_char": 102,
+          "end_char": 119
+        },
+        {
+          "confidence": 1,
+          "text": "opening I1ptop, writing",
+          "box": [
+            0.06521739334239127,
+            0.6449275364492753,
+            0.3070652173913043,
+            0.021739130434782705
+          ],
+          "start_char": 120,
+          "end_char": 143
+        },
+        {
+          "confidence": 1,
+          "text": "of Your Work",
+          "box": [
+            0.5407608694388825,
+            0.6503623188564709,
+            0.17663043478260887,
+            0.018115942028985588
+          ],
+          "start_char": 144,
+          "end_char": 156
+        },
+        {
+          "confidence": 1,
+          "text": "in planner.",
+          "box": [
+            0.06149674793979975,
+            0.6172426579008603,
+            0.14845339111659836,
+            0.021805737329565922
+          ],
+          "start_char": 157,
+          "end_char": 168
+        },
+        {
+          "confidence": 1,
+          "text": "Typing on keybo1rd,",
+          "box": [
+            0.5380434776203417,
+            0.6213768116416494,
+            0.2744565217391305,
+            0.019927536231884146
+          ],
+          "start_char": 169,
+          "end_char": 188
+        },
+        {
+          "confidence": 1,
+          "text": "sticky notes, packaging",
+          "box": [
+            0.5380434781192792,
+            0.5942028985621663,
+            0.3124999999999999,
+            0.021739130434782483
+          ],
+          "start_char": 189,
+          "end_char": 212
+        },
+        {
+          "confidence": 1,
+          "text": "products, or planning.",
+          "box": [
+            0.5380434781286233,
+            0.5688405797234299,
+            0.2961956521739131,
+            0.019927536231884035
+          ],
+          "start_char": 213,
+          "end_char": 235
+        },
+        {
+          "confidence": 1,
+          "text": "Tools I Can't Live Without",
+          "box": [
+            0.06521739116847823,
+            0.5507246376884058,
+            0.3451086956521739,
+            0.018115942028985366
+          ],
+          "start_char": 236,
+          "end_char": 262
+        },
+        {
+          "confidence": 1,
+          "text": "Screen-record Canva, Trello,",
+          "box": [
+            0.06521739116011707,
+            0.521739130442447,
+            0.3804347826086957,
+            0.019927536231884035
+          ],
+          "start_char": 263,
+          "end_char": 291
+        },
+        {
+          "confidence": 1,
+          "text": "Notion, QuickBooks, etc.",
+          "box": [
+            0.06521739112531971,
+            0.4945652174040921,
+            0.31521739130434784,
+            0.021739130434782594
+          ],
+          "start_char": 292,
+          "end_char": 316
+        },
+        {
+          "confidence": 1,
+          "text": "Day-in-the-Life B-Roll",
+          "box": [
+            0.5407608694268548,
+            0.4981884058062426,
+            0.30706521739130443,
+            0.019927536231884035
+          ],
+          "start_char": 317,
+          "end_char": 339
+        },
+        {
+          "confidence": 1,
+          "text": "Shots of desk setup, coffee",
+          "box": [
+            0.5380434781134857,
+            0.47101449276206697,
+            0.3532608695652174,
+            0.019927536231884146
+          ],
+          "start_char": 340,
+          "end_char": 367
+        },
+        {
+          "confidence": 1,
+          "text": "shop work, answering emails.",
+          "box": [
+            0.5380434781228769,
+            0.4456521739208277,
+            0.39130434782608703,
+            0.019927536231884146
+          ],
+          "start_char": 368,
+          "end_char": 396
+        },
+        {
+          "confidence": 1,
+          "text": "My Favorite Business Hck",
+          "box": [
+            0.06481702259801025,
+            0.42345416167090044,
+            0.3649444165437118,
+            0.025758250036101438
+          ],
+          "start_char": 397,
+          "end_char": 421
+        },
+        {
+          "confidence": 1,
+          "text": "Typing shortcuts, automation",
+          "box": [
+            0.06521739115603223,
+            0.3967391304437714,
+            0.3940217391304348,
+            0.023550724637681153
+          ],
+          "start_char": 422,
+          "end_char": 450
+        },
+        {
+          "confidence": 1,
+          "text": "tools, or scheduling apps.",
+          "box": [
+            0.06492723784372952,
+            0.36901016046536983,
+            0.34286285483318835,
+            0.02560698294985131
+          ],
+          "start_char": 451,
+          "end_char": 477
+        },
+        {
+          "confidence": 1,
+          "text": "Business Wins & Milestones",
+          "box": [
+            0.5380434780837232,
+            0.37500000001261236,
+            0.3777173913043479,
+            0.019927536231884035
+          ],
+          "start_char": 478,
+          "end_char": 504
+        },
+        {
+          "confidence": 1,
+          "text": "Hands clapping, champagne",
+          "box": [
+            0.5407608693562996,
+            0.3478260869672355,
+            0.38858695652173914,
+            0.019927536231884035
+          ],
+          "start_char": 505,
+          "end_char": 530
+        },
+        {
+          "confidence": 1,
+          "text": "pouring, confetti stock clip.",
+          "box": [
+            0.5407608694429349,
+            0.320652173923913,
+            0.35869565217391297,
+            0.021739130434782705
+          ],
+          "start_char": 531,
+          "end_char": 560
+        },
+        {
+          "confidence": 1,
+          "text": "Client Love/Testimonial",
+          "box": [
+            0.0652173911642761,
+            0.30253623189433,
+            0.3260869565217391,
+            0.019927536231884035
+          ],
+          "start_char": 561,
+          "end_char": 584
+        },
+        {
+          "confidence": 1,
+          "text": "Highlight",
+          "box": [
+            0.06500857795978489,
+            0.2730146292572353,
+            0.13356980033542798,
+            0.024622915447622185
+          ],
+          "start_char": 585,
+          "end_char": 594
+        },
+        {
+          "confidence": 1,
+          "text": "Screen-record part of",
+          "box": [
+            0.06487881131966496,
+            0.24733414431236356,
+            0.2941370632337487,
+            0.024378781733305543
+          ],
+          "start_char": 595,
+          "end_char": 616
+        },
+        {
+          "confidence": 1,
+          "text": "Motivational Quotes",
+          "box": [
+            0.5376768614407608,
+            0.2507192539699886,
+            0.2806956042414126,
+            0.023048430249310914
+          ],
+          "start_char": 617,
+          "end_char": 636
+        },
+        {
+          "confidence": 1,
+          "text": "a review/email.",
+          "box": [
+            0.06521739144021739,
+            0.22282608715277774,
+            0.21195652173913043,
+            0.023550724637681153
+          ],
+          "start_char": 637,
+          "end_char": 652
+        },
+        {
+          "confidence": 1,
+          "text": "Stock video (sunrise, city",
+          "box": [
+            0.5402419670451498,
+            0.22186454638674036,
+            0.3271714915399966,
+            0.026937834594560672
+          ],
+          "start_char": 653,
+          "end_char": 679
+        },
+        {
+          "confidence": 1,
+          "text": "skyline, working hands)",
+          "box": [
+            0.5376969365430441,
+            0.19441442731086556,
+            0.3133272295412809,
+            0.026631738828576168
+          ],
+          "start_char": 680,
+          "end_char": 703
+        },
+        {
+          "confidence": 1,
+          "text": "with trending audio.",
+          "box": [
+            0.5380434782290703,
+            0.17028985509559047,
+            0.2690217391304348,
+            0.021739130434782594
+          ],
+          "start_char": 704,
+          "end_char": 724
+        },
+        {
+          "confidence": 1,
+          "text": "Before vs. After",
+          "box": [
+            0.06521739113779804,
+            0.15217391305954886,
+            0.21195652173913046,
+            0.019927536231884035
+          ],
+          "start_char": 725,
+          "end_char": 741
+        },
+        {
+          "confidence": 1,
+          "text": "Split-screen showing messy",
+          "box": [
+            0.06521739130173491,
+            0.1231884058180045,
+            0.3722826086956521,
+            0.021739130434782594
+          ],
+          "start_char": 742,
+          "end_char": 768
+        },
+        {
+          "confidence": 1,
+          "text": "desk vs. organized setup OR",
+          "box": [
+            0.06521739315217387,
+            0.09782608717391306,
+            0.3695652173913043,
+            0.021739130434782594
+          ],
+          "start_char": 769,
+          "end_char": 796
+        },
+        {
+          "confidence": 1,
+          "text": "Quick Tips List",
+          "box": [
+            0.540760869431317,
+            0.10144927537675907,
+            0.19565217391304357,
+            0.019927536231884146
+          ],
+          "start_char": 797,
+          "end_char": 812
+        },
+        {
+          "confidence": 1,
+          "text": "old design vs. new.",
+          "box": [
+            0.06521739096233133,
+            0.0706521739505247,
+            0.25271739130434784,
+            0.021739130434782594
+          ],
+          "start_char": 813,
+          "end_char": 832
+        },
+        {
+          "confidence": 1,
+          "text": "Anim›1ted text with",
+          "box": [
+            0.538043478125,
+            0.07608695653191655,
+            0.2527173913043478,
+            0.018115942028985477
+          ],
+          "start_char": 833,
+          "end_char": 852
+        },
+        {
+          "confidence": 1,
+          "text": "background footage.",
+          "box": [
+            0.5380434780497492,
+            0.047101449292084596,
+            0.2853260869565216,
+            0.021739130434782594
+          ],
+          "start_char": 853,
+          "end_char": 872
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 872
+    },
+    {
+      "text": "Lista de ideias de Reels sem aparecer em câmera, organizada em linha vertical.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 874,
+      "end_char": 952
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      1104
+    ],
+    "ocr_rows": 39,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

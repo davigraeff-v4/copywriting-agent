@@ -1,0 +1,377 @@
+{
+  "labeling": "Agent-authored original-source queries, with page/section labels where physical pages exist. No human preference or media performance measured.",
+  "queries": [
+    {
+      "id": "orig01",
+      "query": "Remember the people you address are selfish. Offer service and information, not demands to buy.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "expected_section": "Chapter 3",
+      "language": "en"
+    },
+    {
+      "id": "orig02",
+      "query": "The library of an advertising agency should contain books on every line of products. Gain full information on the subject.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "expected_section": "Chapter 11",
+      "language": "en"
+    },
+    {
+      "id": "orig03",
+      "query": "Product samples should be their own best salesman, but include mental impressions and information.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "expected_section": "Chapter 13",
+      "language": "en"
+    },
+    {
+      "id": "orig04",
+      "query": "A letter can replace a salesman and enter where salesmen cannot, but it must catch attention with a headline.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "expected_section": "Chapter 19",
+      "language": "en"
+    },
+    {
+      "id": "orig05",
+      "query": "A name which tells a story gives a great advantage. Consider coined names versus descriptive names.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        108,
+        109,
+        110
+      ],
+      "expected_section": "Chapter 20",
+      "language": "en"
+    },
+    {
+      "id": "orig06",
+      "query": "People prefer sunlight, happiness and success to gloomy advertising that attacks rivals.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        101,
+        102
+      ],
+      "expected_section": "Chapter 18",
+      "language": "en"
+    },
+    {
+      "id": "orig07",
+      "query": "A brand personality should be distinctive but not eccentric. Maintain individuality across advertisements.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        98,
+        99,
+        100
+      ],
+      "expected_section": "Chapter 17",
+      "language": "en"
+    },
+    {
+      "id": "orig08",
+      "query": "Mail-order advertising teaches how to measure replies with coupons and key results.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "expected_section": "Chapter 4",
+      "language": "en"
+    },
+    {
+      "id": "orig09",
+      "query": "Pictures in advertising should help to sell and not merely amuse or attract curiosity.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "expected_section": "Chapter 9",
+      "language": "en"
+    },
+    {
+      "id": "orig10",
+      "query": "Qual é o valor de uma amostra do produto acompanhada das informações necessárias para experimentá-lo?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "expected_section": "Chapter 13",
+      "language": "pt"
+    },
+    {
+      "id": "orig11",
+      "query": "Como escolher um nome de marca que conte uma história e identifique o que o produto faz?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        108,
+        109,
+        110
+      ],
+      "expected_section": "Chapter 20",
+      "language": "pt"
+    },
+    {
+      "id": "orig12",
+      "query": "Por que a comunicação por carta precisa prender a atenção logo na abertura e ser testada?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "expected_section": "Chapter 19",
+      "language": "pt"
+    },
+    {
+      "id": "orig13",
+      "query": "Wall inscriptions in Pompeii, early Roman notices and street criers in ancient advertising.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig14",
+      "query": "Advertisements for runaway apprentices and servants in old English newspapers.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig15",
+      "query": "The history of quack medicines and medical advertisements in the eighteenth century.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig16",
+      "query": "Advertising on railway stations and walls using large posters and hoardings.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig17",
+      "query": "Como eram as inscrições de anúncios nas paredes de Pompeia?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "pt"
+    },
+    {
+      "id": "orig18",
+      "query": "Como anúncios de medicamentos e charlatanismo apareciam em jornais históricos?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "expected_pages": null,
+      "expected_section": null,
+      "language": "pt"
+    },
+    {
+      "id": "orig19",
+      "query": "Anatomy of a high converting landing page with comparison, benefits, how it works, pricing and FAQ.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-7a41274dccb1085e"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig20",
+      "query": "80 business model patterns for innovation and businesses.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-87a53bed3459d085"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig21",
+      "query": "Call to action cheat sheet with alternatives to sign up, learn more, buy now and get a quote.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-437ab0c67c7ab253"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig22",
+      "query": "Brand strategy marketing plan creative direction digital marketing flywheel.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-ca45a74487e7bd60"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "en"
+    },
+    {
+      "id": "orig23",
+      "query": "Fotografia de anel com pedra sobre tecido claro e reflexos de luz.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-a5ad0ae2dddb265d"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "pt"
+    },
+    {
+      "id": "orig24",
+      "query": "Anel metálico com inscrição caligráfica parcialmente oculta, segurado entre dedos.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-799c90e98bdee871"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "expected_section": null,
+      "language": "pt"
+    }
+  ]
+}

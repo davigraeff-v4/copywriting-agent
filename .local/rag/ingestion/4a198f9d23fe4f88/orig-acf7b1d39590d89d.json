@@ -1,0 +1,788 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/732e0c1380c2a1b6de633b796e732618.png",
+  "source_sha256": "acf7b1d39590d89d1b5b6b505ef4106b7e656fb02186209ecdd84a57516ffd41",
+  "text": "THE ULTIMATE\nVIDEO PITCH\nFRAMEWORK!\nTHE DO'S\nEXAMPLE\nFIRST 5\nGrab the prospect's\nDid you know thirty\nSECONDS\nattention with a\nthousand websites are\nquestion\nhacked every day?\nINTRODUCTION\nExplain who you are\nJohn here from Cyber\nand what you do\nSecurity Co.\nWe've been securing\nPROMISE TO\nPresent your\nwebsites for over 20 years\nSOLVE THE\ndifferentiators, proof,\nand want to help you before\nPROBLEM\nand industry authority\nyour website becomes part\nof the statistics.\nIn fact, last week we secured\nPROOF OF\nSOLVING\nRecall a time you\na website of a major\nmanufacturer in record time\nPROBLEM\nhelped a customer\nNEXT STEPS\nwith a similar issue\nresulting in them being\nback online within 2 hours\nwith a completely clean site.\nDon't wait until you get\nHow can they begin\nhacked! Vsit our website at\nNEXT STEPS\nto solve the problem\nInamel, where you can get a\nnow?\ncomplimentary live security\nanalysis of your websites.\nCALL TO\nWhat do you want your\nWhen you're ready, click the\nACTION\nprospect to do now?\nbutton to schedule an\nTell them!\nappointment with us.\nsocoselling.com\nSOCO\nOPT THE SALE\n\nTabela de roteiro de vídeo comercial, associando etapas, orientação e exemplo.",
+  "segments": [
+    {
+      "text": "THE ULTIMATE\nVIDEO PITCH\nFRAMEWORK!\nTHE DO'S\nEXAMPLE\nFIRST 5\nGrab the prospect's\nDid you know thirty\nSECONDS\nattention with a\nthousand websites are\nquestion\nhacked every day?\nINTRODUCTION\nExplain who you are\nJohn here from Cyber\nand what you do\nSecurity Co.\nWe've been securing\nPROMISE TO\nPresent your\nwebsites for over 20 years\nSOLVE THE\ndifferentiators, proof,\nand want to help you before\nPROBLEM\nand industry authority\nyour website becomes part\nof the statistics.\nIn fact, last week we secured\nPROOF OF\nSOLVING\nRecall a time you\na website of a major\nmanufacturer in record time\nPROBLEM\nhelped a customer\nNEXT STEPS\nwith a similar issue\nresulting in them being\nback online within 2 hours\nwith a completely clean site.\nDon't wait until you get\nHow can they begin\nhacked! Vsit our website at\nNEXT STEPS\nto solve the problem\nInamel, where you can get a\nnow?\ncomplimentary live security\nanalysis of your websites.\nCALL TO\nWhat do you want your\nWhen you're ready, click the\nACTION\nprospect to do now?\nbutton to schedule an\nTell them!\nappointment with us.\nsocoselling.com\nSOCO\nOPT THE SALE",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.09152248549599222,
+            0.9238541440865071,
+            0.23650696365921586,
+            0.028745200234013724
+          ],
+          "text": "THE ULTIMATE",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "box": [
+            0.09136513089059553,
+            0.8520193542975959,
+            0.523990715874566,
+            0.06776361704817535
+          ],
+          "text": "VIDEO PITCH",
+          "confidence": 1,
+          "start_char": 13,
+          "end_char": 24
+        },
+        {
+          "box": [
+            0.11780404361353491,
+            0.7981731637642648,
+            0.28985016434280964,
+            0.04173506833760554
+          ],
+          "text": "FRAMEWORK!",
+          "confidence": 1,
+          "start_char": 25,
+          "end_char": 35
+        },
+        {
+          "box": [
+            0.3848644799113519,
+            0.749811669777018,
+            0.10807144730179397,
+            0.019272009321689043
+          ],
+          "text": "THE DO'S",
+          "confidence": 1,
+          "start_char": 36,
+          "end_char": 44
+        },
+        {
+          "box": [
+            0.6923898182105591,
+            0.7512204353458918,
+            0.10605539392541963,
+            0.01790796655329885
+          ],
+          "text": "EXAMPLE",
+          "confidence": 1,
+          "start_char": 45,
+          "end_char": 52
+        },
+        {
+          "box": [
+            0.11594469125682517,
+            0.6900596821279548,
+            0.08786621800175419,
+            0.019589938134781715
+          ],
+          "text": "FIRST 5",
+          "confidence": 1,
+          "start_char": 53,
+          "end_char": 60
+        },
+        {
+          "box": [
+            0.3279022400310748,
+            0.7005813954744791,
+            0.18940936900951244,
+            0.014742250329122242
+          ],
+          "text": "Grab the prospect's",
+          "confidence": 1,
+          "start_char": 61,
+          "end_char": 80
+        },
+        {
+          "box": [
+            0.6005769409163251,
+            0.6990702958562327,
+            0.19800936381022127,
+            0.016375124060808544
+          ],
+          "text": "Did you know thirty",
+          "confidence": 1,
+          "start_char": 81,
+          "end_char": 100
+        },
+        {
+          "box": [
+            0.11398886801524542,
+            0.6698738476243046,
+            0.10603448373300058,
+            0.019263932695476993
+          ],
+          "text": "SECONDS",
+          "confidence": 1,
+          "start_char": 101,
+          "end_char": 108
+        },
+        {
+          "box": [
+            0.3258655797193581,
+            0.6829590490488343,
+            0.16496945133915664,
+            0.013261881340762671
+          ],
+          "text": "attention with a",
+          "confidence": 1,
+          "start_char": 109,
+          "end_char": 125
+        },
+        {
+          "box": [
+            0.6008146606322717,
+            0.6829590490465642,
+            0.2199592731617115,
+            0.01326188134076256
+          ],
+          "text": "thousand websites are",
+          "confidence": 1,
+          "start_char": 126,
+          "end_char": 147
+        },
+        {
+          "box": [
+            0.32756376246331564,
+            0.663744171220535,
+            0.09023619757758244,
+            0.013510997575686745
+          ],
+          "text": "question",
+          "confidence": 1,
+          "start_char": 148,
+          "end_char": 156
+        },
+        {
+          "box": [
+            0.6008146674016681,
+            0.6624834877229127,
+            0.1832993825276693,
+            0.01651254953764869
+          ],
+          "text": "hacked every day?",
+          "confidence": 1,
+          "start_char": 157,
+          "end_char": 174
+        },
+        {
+          "box": [
+            0.11201629310326108,
+            0.5828488375551153,
+            0.16904277095088252,
+            0.018895348280550173
+          ],
+          "text": "INTRODUCTION",
+          "confidence": 1,
+          "start_char": 175,
+          "end_char": 187
+        },
+        {
+          "box": [
+            0.32790224025070785,
+            0.5944517831138105,
+            0.2016293278446904,
+            0.01455984468346705
+          ],
+          "text": "Explain who you are",
+          "confidence": 1,
+          "start_char": 188,
+          "end_char": 207
+        },
+        {
+          "box": [
+            0.6008146606429828,
+            0.5944517833795159,
+            0.2199592731617116,
+            0.016013333158102494
+          ],
+          "text": "John here from Cyber",
+          "confidence": 1,
+          "start_char": 208,
+          "end_char": 228
+        },
+        {
+          "box": [
+            0.3258655798095242,
+            0.5739762217671753,
+            0.1690427709508826,
+            0.017833553500660404
+          ],
+          "text": "and what you do",
+          "confidence": 1,
+          "start_char": 229,
+          "end_char": 244
+        },
+        {
+          "box": [
+            0.6005882837333956,
+            0.5756993257865448,
+            0.1246669204146773,
+            0.016512649062445206
+          ],
+          "text": "Security Co.",
+          "confidence": 1,
+          "start_char": 245,
+          "end_char": 257
+        },
+        {
+          "box": [
+            0.6004649383471238,
+            0.5099876300282908,
+            0.20444169221100983,
+            0.018892662370850632
+          ],
+          "text": "We've been securing",
+          "confidence": 1,
+          "start_char": 258,
+          "end_char": 277
+        },
+        {
+          "box": [
+            0.11400733105272154,
+            0.492558508460357,
+            0.140620775575991,
+            0.019243448854595058
+          ],
+          "text": "PROMISE TO",
+          "confidence": 1,
+          "start_char": 278,
+          "end_char": 288
+        },
+        {
+          "box": [
+            0.3256002736356861,
+            0.4924790871599184,
+            0.12879344798900466,
+            0.016080627038267847
+          ],
+          "text": "Present your",
+          "confidence": 1,
+          "start_char": 289,
+          "end_char": 301
+        },
+        {
+          "box": [
+            0.600523438117996,
+            0.49047971124041445,
+            0.2552234508373119,
+            0.0196329844990053
+          ],
+          "text": "websites for over 20 years",
+          "confidence": 1,
+          "start_char": 302,
+          "end_char": 328
+        },
+        {
+          "box": [
+            0.11393688880151416,
+            0.4734479323805434,
+            0.12243171974464699,
+            0.019673903048274766
+          ],
+          "text": "SOLVE THE",
+          "confidence": 1,
+          "start_char": 329,
+          "end_char": 338
+        },
+        {
+          "box": [
+            0.3258655805178637,
+            0.4735799204547778,
+            0.20977596706814233,
+            0.01651254953764869
+          ],
+          "text": "differentiators, proof,",
+          "confidence": 1,
+          "start_char": 339,
+          "end_char": 362
+        },
+        {
+          "box": [
+            0.6008146687391458,
+            0.473579920819736,
+            0.2769857335973669,
+            0.01479217209305761
+          ],
+          "text": "and want to help you before",
+          "confidence": 1,
+          "start_char": 363,
+          "end_char": 390
+        },
+        {
+          "box": [
+            0.11405295143124089,
+            0.4534883723902482,
+            0.10794297677499276,
+            0.018895348280550173
+          ],
+          "text": "PROBLEM",
+          "confidence": 1,
+          "start_char": 391,
+          "end_char": 398
+        },
+        {
+          "box": [
+            0.32586558073824656,
+            0.45639534896285106,
+            0.2219959259033203,
+            0.014542563903284567
+          ],
+          "text": "and industry authority",
+          "confidence": 1,
+          "start_char": 399,
+          "end_char": 421
+        },
+        {
+          "box": [
+            0.6008146650655063,
+            0.45494186058995767,
+            0.26680244163230604,
+            0.014675048414908076
+          ],
+          "text": "your website becomes part",
+          "confidence": 1,
+          "start_char": 422,
+          "end_char": 447
+        },
+        {
+          "box": [
+            0.6004087505943584,
+            0.4357987304934312,
+            0.15778579711914065,
+            0.018806433583187787
+          ],
+          "text": "of the statistics.",
+          "confidence": 1,
+          "start_char": 448,
+          "end_char": 466
+        },
+        {
+          "box": [
+            0.5987780018816771,
+            0.38953488384403023,
+            0.28105906733760133,
+            0.014692328565186763
+          ],
+          "text": "In fact, last week we secured",
+          "confidence": 1,
+          "start_char": 467,
+          "end_char": 496
+        },
+        {
+          "box": [
+            0.11384508939387088,
+            0.37003007519768616,
+            0.11446868048773871,
+            0.02156775662259669
+          ],
+          "text": "PROOF OF",
+          "confidence": 1,
+          "start_char": 497,
+          "end_char": 505
+        },
+        {
+          "box": [
+            0.11400673690057343,
+            0.3501684084544797,
+            0.09785210644757307,
+            0.019139927318578054
+          ],
+          "text": "SOLVING",
+          "confidence": 1,
+          "start_char": 506,
+          "end_char": 513
+        },
+        {
+          "box": [
+            0.3234041201294305,
+            0.35670765342361443,
+            0.1739551261619286,
+            0.01888655671355277
+          ],
+          "text": "Recall a time you",
+          "confidence": 1,
+          "start_char": 514,
+          "end_char": 531
+        },
+        {
+          "box": [
+            0.6008146638457263,
+            0.3705416114332081,
+            0.1975560082329645,
+            0.014632807067709863
+          ],
+          "text": "a website of a major",
+          "confidence": 1,
+          "start_char": 532,
+          "end_char": 552
+        },
+        {
+          "box": [
+            0.6008146653299502,
+            0.3531976742791484,
+            0.28309572007921013,
+            0.013380925595524173
+          ],
+          "text": "manufacturer in record time",
+          "confidence": 1,
+          "start_char": 553,
+          "end_char": 580
+        },
+        {
+          "box": [
+            0.11193036553363216,
+            0.328280068416276,
+            0.11015148869267218,
+            0.023672421353338913
+          ],
+          "text": "PROBLEM",
+          "confidence": 1,
+          "start_char": 581,
+          "end_char": 588
+        },
+        {
+          "box": [
+            0.32382892373936556,
+            0.3401162791983142,
+            0.18737270213939516,
+            0.014573284940329057
+          ],
+          "text": "helped a customer",
+          "confidence": 1,
+          "start_char": 589,
+          "end_char": 606
+        },
+        {
+          "box": [
+            0.11395441978554115,
+            0.31069474431053457,
+            0.14072659810384114,
+            0.02105237187293596
+          ],
+          "text": "NEXT STEPS",
+          "confidence": 1,
+          "start_char": 607,
+          "end_char": 617
+        },
+        {
+          "box": [
+            0.32382892039406513,
+            0.3226744187426067,
+            0.19348268862123846,
+            0.014842093856992977
+          ],
+          "text": "with a similar issue",
+          "confidence": 1,
+          "start_char": 618,
+          "end_char": 638
+        },
+        {
+          "box": [
+            0.5987780045844542,
+            0.3328488373353564,
+            0.2342158847384983,
+            0.014575204887037452
+          ],
+          "text": "resulting in them being",
+          "confidence": 1,
+          "start_char": 639,
+          "end_char": 662
+        },
+        {
+          "box": [
+            0.5967413488189263,
+            0.3168604649758461,
+            0.26883909437391496,
+            0.013390525958969501
+          ],
+          "text": "back online within 2 hours",
+          "confidence": 1,
+          "start_char": 663,
+          "end_char": 689
+        },
+        {
+          "box": [
+            0.6006684522169016,
+            0.2943190280370459,
+            0.28136283026801223,
+            0.01695279243600256
+          ],
+          "text": "with a completely clean site.",
+          "confidence": 1,
+          "start_char": 690,
+          "end_char": 719
+        },
+        {
+          "box": [
+            0.6004019873749668,
+            0.2456785720225485,
+            0.2350348719844112,
+            0.020089189788939255
+          ],
+          "text": "Don't wait until you get",
+          "confidence": 1,
+          "start_char": 720,
+          "end_char": 744
+        },
+        {
+          "box": [
+            0.32586558386333225,
+            0.2296511625504507,
+            0.19959266097457323,
+            0.016055574505300818
+          ],
+          "text": "How can they begin",
+          "confidence": 1,
+          "start_char": 745,
+          "end_char": 763
+        },
+        {
+          "box": [
+            0.6008146575555474,
+            0.23110465105718092,
+            0.26272913614908855,
+            0.013281082067653438
+          ],
+          "text": "hacked! Vsit our website at",
+          "confidence": 1,
+          "start_char": 764,
+          "end_char": 791
+        },
+        {
+          "box": [
+            0.1140529522512466,
+            0.20930232590944953,
+            0.1405295336688006,
+            0.01889534828055006
+          ],
+          "text": "NEXT STEPS",
+          "confidence": 1,
+          "start_char": 792,
+          "end_char": 802
+        },
+        {
+          "box": [
+            0.3238289240653025,
+            0.2120211363345046,
+            0.20366598058629914,
+            0.014723049602231364
+          ],
+          "text": "to solve the problem",
+          "confidence": 1,
+          "start_char": 803,
+          "end_char": 823
+        },
+        {
+          "box": [
+            0.5987779982972494,
+            0.21070013184239322,
+            0.2790224145959924,
+            0.014590565720511539
+          ],
+          "text": "Inamel, where you can get a",
+          "confidence": 1,
+          "start_char": 824,
+          "end_char": 851
+        },
+        {
+          "box": [
+            0.3238289218679398,
+            0.1947674420987806,
+            0.05906313437002675,
+            0.014534883486547412
+          ],
+          "text": "now?",
+          "confidence": 1,
+          "start_char": 852,
+          "end_char": 856
+        },
+        {
+          "box": [
+            0.6008146715923551,
+            0.19154557490982327,
+            0.276985733597367,
+            0.01651254953764858
+          ],
+          "text": "complimentary live security",
+          "confidence": 1,
+          "start_char": 857,
+          "end_char": 884
+        },
+        {
+          "box": [
+            0.6005682080921588,
+            0.171426776412976,
+            0.2550965203179253,
+            0.01863733528469791
+          ],
+          "text": "analysis of your websites.",
+          "confidence": 1,
+          "start_char": 885,
+          "end_char": 911
+        },
+        {
+          "box": [
+            0.11395387508450909,
+            0.11165457259620404,
+            0.09795783007586444,
+            0.019423412993215705
+          ],
+          "text": "CALL TO",
+          "confidence": 1,
+          "start_char": 912,
+          "end_char": 919
+        },
+        {
+          "box": [
+            0.3256215979513672,
+            0.11931574904569398,
+            0.23464022035951965,
+            0.01795577247045166
+          ],
+          "text": "What do you want your",
+          "confidence": 1,
+          "start_char": 920,
+          "end_char": 941
+        },
+        {
+          "box": [
+            0.5987780018654728,
+            0.1188903568383105,
+            0.28105906733760133,
+            0.01651254953764869
+          ],
+          "text": "When you're ready, click the",
+          "confidence": 1,
+          "start_char": 942,
+          "end_char": 970
+        },
+        {
+          "box": [
+            0.11405295476150823,
+            0.09156976779286441,
+            0.08553971184624565,
+            0.01889534828055006
+          ],
+          "text": "ACTION",
+          "confidence": 1,
+          "start_char": 971,
+          "end_char": 977
+        },
+        {
+          "box": [
+            0.3253854451889707,
+            0.10064074434682446,
+            0.20262429979112417,
+            0.018769160916972227
+          ],
+          "text": "prospect to do now?",
+          "confidence": 1,
+          "start_char": 978,
+          "end_char": 997
+        },
+        {
+          "box": [
+            0.5987780042631452,
+            0.10435931311484259,
+            0.21792260629159432,
+            0.013373245178787019
+          ],
+          "text": "button to schedule an",
+          "confidence": 1,
+          "start_char": 998,
+          "end_char": 1019
+        },
+        {
+          "box": [
+            0.3276558725877796,
+            0.08472085105402538,
+            0.10028906928168402,
+            0.01515132117932827
+          ],
+          "text": "Tell them!",
+          "confidence": 1,
+          "start_char": 1020,
+          "end_char": 1030
+        },
+        {
+          "box": [
+            0.600814665234404,
+            0.08430232584393549,
+            0.21384928667986836,
+            0.014772971366166732
+          ],
+          "text": "appointment with us.",
+          "confidence": 1,
+          "start_char": 1031,
+          "end_char": 1051
+        },
+        {
+          "box": [
+            0.04461693225301014,
+            0.020901786036413794,
+            0.14106614854600696,
+            0.017129763271881093
+          ],
+          "text": "socoselling.com",
+          "confidence": 1,
+          "start_char": 1052,
+          "end_char": 1067
+        },
+        {
+          "box": [
+            0.7981149086892086,
+            0.018426972019680132,
+            0.08808790136266642,
+            0.025646056020275587
+          ],
+          "text": "SOCO",
+          "confidence": 1,
+          "start_char": 1068,
+          "end_char": 1072
+        },
+        {
+          "box": [
+            0.896073233855341,
+            0.026437775052992274,
+            0.04662713298091181,
+            0.015399119025649943
+          ],
+          "text": "OPT THE SALE",
+          "confidence": 1,
+          "start_char": 1073,
+          "end_char": 1085
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1085
+    },
+    {
+      "text": "Tabela de roteiro de vídeo comercial, associando etapas, orientação e exemplo.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1087,
+      "end_char": 1165
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1514
+    ],
+    "ocr_rows": 62,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

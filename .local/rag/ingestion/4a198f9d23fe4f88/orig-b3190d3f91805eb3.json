@@ -1,0 +1,212 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e808f878645b9e7186b2ed8445451e26.jpg",
+  "source_sha256": "b3190d3f91805eb30c50a9bee45291c95725d9a8e381ee8fbbf273dfbe784031",
+  "text": "●●●\nComando:\n(PRINT) Com base nesse print dos meus Stories,\nanalise o tom da comunicação, a clareza da\nmensagem e o impacto emocional que esta\ncausando em minha audiência.\nEm seguida, reescreva o roteiro completo de\nforma mais envolvente e estratégica com início\nque prenda atenção, meio que gere\nidentificação e fim com um CTA irresistível que\nleve à compra (ex: comentar, responder ou\nclicar no link). Mantenha meu estilo de fala e\nadapte a narrativa para gerar mais conexão\ne desejo de compra.\n\nCaptura de prompt para analisar Stories e criar roteiro, preservando estilo de fala declarado.",
+  "segments": [
+    {
+      "text": "●●●\nComando:\n(PRINT) Com base nesse print dos meus Stories,\nanalise o tom da comunicação, a clareza da\nmensagem e o impacto emocional que esta\ncausando em minha audiência.\nEm seguida, reescreva o roteiro completo de\nforma mais envolvente e estratégica com início\nque prenda atenção, meio que gere\nidentificação e fim com um CTA irresistível que\nleve à compra (ex: comentar, responder ou\nclicar no link). Mantenha meu estilo de fala e\nadapte a narrativa para gerar mais conexão\ne desejo de compra.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.8313953483642089,
+            0.9171511627062436,
+            0.03488372166951492,
+            0.01162790722317164
+          ],
+          "text": "●●●",
+          "confidence": 0.3,
+          "start_char": 0,
+          "end_char": 3
+        },
+        {
+          "box": [
+            0.2601455482970708,
+            0.6834851162273542,
+            0.48405196578414356,
+            0.09345651202731664
+          ],
+          "text": "Comando:",
+          "confidence": 1,
+          "start_char": 4,
+          "end_char": 12
+        },
+        {
+          "box": [
+            0.13543928352236587,
+            0.5973014231213201,
+            0.7349799262152777,
+            0.031893583138783765
+          ],
+          "text": "(PRINT) Com base nesse print dos meus Stories,",
+          "confidence": 1,
+          "start_char": 13,
+          "end_char": 59
+        },
+        {
+          "box": [
+            0.1568103998107309,
+            0.565763276742292,
+            0.6882987128363716,
+            0.03073570066028175
+          ],
+          "text": "analise o tom da comunicação, a clareza da",
+          "confidence": 1,
+          "start_char": 60,
+          "end_char": 102
+        },
+        {
+          "box": [
+            0.15891472399789658,
+            0.5361111113989774,
+            0.6841085363317418,
+            0.026388888888888795
+          ],
+          "text": "mensagem e o impacto emocional que esta",
+          "confidence": 1,
+          "start_char": 103,
+          "end_char": 142
+        },
+        {
+          "box": [
+            0.2557349452518443,
+            0.5086734701979363,
+            0.4943910951967592,
+            0.024721021122402487
+          ],
+          "text": "causando em minha audiência.",
+          "confidence": 1,
+          "start_char": 143,
+          "end_char": 171
+        },
+        {
+          "box": [
+            0.1568828563213761,
+            0.4717628066478857,
+            0.688179694281684,
+            0.027596733305189303
+          ],
+          "text": "Em seguida, reescreva o roteiro completo de",
+          "confidence": 1,
+          "start_char": 172,
+          "end_char": 215
+        },
+        {
+          "box": [
+            0.13178295286597322,
+            0.44166666697804924,
+            0.7344961095739294,
+            0.025000000000000022
+          ],
+          "text": "forma mais envolvente e estratégica com início",
+          "confidence": 1,
+          "start_char": 216,
+          "end_char": 262
+        },
+        {
+          "box": [
+            0.22265863302409786,
+            0.40646149824592825,
+            0.556614911114728,
+            0.030639423264397503
+          ],
+          "text": "que prenda atenção, meio que gere",
+          "confidence": 1,
+          "start_char": 263,
+          "end_char": 296
+        },
+        {
+          "box": [
+            0.13565890871569533,
+            0.3777777774438764,
+            0.7248062133789063,
+            0.026388888888888795
+          ],
+          "text": "identificação e fim com um CTA irresistível que",
+          "confidence": 1,
+          "start_char": 297,
+          "end_char": 344
+        },
+        {
+          "box": [
+            0.1645426540404005,
+            0.3447282961777991,
+            0.6689502292209202,
+            0.03162017795774663
+          ],
+          "text": "leve à compra (ex: comentar, responder ou",
+          "confidence": 1,
+          "start_char": 345,
+          "end_char": 386
+        },
+        {
+          "box": [
+            0.1569767423076568,
+            0.3166666665150488,
+            0.6879844948097511,
+            0.026388888888888795
+          ],
+          "text": "clicar no link). Mantenha meu estilo de fala e",
+          "confidence": 1,
+          "start_char": 387,
+          "end_char": 433
+        },
+        {
+          "box": [
+            0.1569767447468762,
+            0.28333333302905417,
+            0.6879844948097512,
+            0.025000000000000022
+          ],
+          "text": "adapte a narrativa para gerar mais conexão",
+          "confidence": 1,
+          "start_char": 434,
+          "end_char": 476
+        },
+        {
+          "box": [
+            0.3466306445690184,
+            0.2509222351834113,
+            0.31842857643410005,
+            0.026675242847866487
+          ],
+          "text": "e desejo de compra.",
+          "confidence": 1,
+          "start_char": 477,
+          "end_char": 496
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 496
+    },
+    {
+      "text": "Captura de prompt para analisar Stories e criar roteiro, preservando estilo de fala declarado.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 498,
+      "end_char": 592
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1440
+    ],
+    "ocr_rows": 14,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9500000000000001,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

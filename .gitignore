@@ -2,7 +2,42 @@
 .DS_Store
 __pycache__/
 *.pyc
-.local/
+.local/*
+
+# Snapshot do RAG autorizado para commit local em 2026-10-16.
+# Somente as gerações vigentes; históricos, benchmarks reais e caches continuam locais.
+!.local/rag/
+.local/rag/*
+!.local/rag/ingestion/
+.local/rag/ingestion/*
+!.local/rag/ingestion/current.json
+!.local/rag/ingestion/4a198f9d23fe4f88/
+!.local/rag/index/
+.local/rag/index/*
+!.local/rag/index/current.json
+!.local/rag/index/56bab97b8fc4ecf1-8019ff93/
+!.local/rag/semantic-channel/
+.local/rag/semantic-channel/*
+!.local/rag/semantic-channel/current.json
+!.local/rag/semantic-channel/56bab97b8fc4ecf1-48bfc570/
+!.local/rag/full-ingestion/
+.local/rag/full-ingestion/*
+!.local/rag/full-ingestion/source-inputs.json
+!.local/rag/full-ingestion/ocr.jsonl
+!.local/rag/full-ingestion/ocr-tiled.jsonl
+!.local/rag/full-ingestion/pdf-crosscheck.json
+!.local/rag/full-ingestion/visual-descriptions.json
+!.local/repertorio/
+.local/repertorio/*
+!.local/repertorio/originais/
+!.local/repertorio/lote-01/
+!.local/repertorio/lote-02/
+.local/repertorio/lote-01/*
+.local/repertorio/lote-02/*
+!.local/repertorio/lote-01/*.py
+!.local/repertorio/lote-02/*.py
+!.local/repertorio/lote-01/urls.json
+!.local/repertorio/lote-02/urls.json
 
 # Contexto, validações e avaliações reais: somente armazenamento local
 clients/current/
@@ -18,6 +53,8 @@ examples/**/*.json
 .claude/settings.local.json
 
 # Fichas reais de clientes — mantém só o template
+clients/*/
+!clients/cliente-template/
 clients/*.md
 !clients/cliente-template.md
 
@@ -31,8 +68,7 @@ examples/**/*.md
 # Documentos de handoff entre sessões (contexto interno, com dados de cliente)
 /HANDOFF-*.md
 
-# Swipe file de imagens (grande, não essencial para o funcionamento do agent)
-BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/
+# As imagens fornecidas fazem parte do snapshot local autorizado do RAG.
 
 # Documentos internos de planejamento/arquitetura (não destinados ao repo público)
 /GUIA-REPLICAR-ESTRUTURA-AGENT-IA.md

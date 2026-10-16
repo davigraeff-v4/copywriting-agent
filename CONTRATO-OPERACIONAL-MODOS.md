@@ -31,8 +31,9 @@ Descoberta não exige questionário completo. Pesquisar antes de perguntar. Uma 
 
 ## 3. Rotas e dependências
 
-- Todos: 01 → 02 → pacote de contexto (03/05/06/07 conforme lacunas) → direção (09 + 08 + 10 conforme rota) → 11 com 12 → 13 → 14.
+- Nova produção: 01 → 02 → pacote de contexto (03/05/06 conforme necessidade e 07 para repertório proativo) → direção (09 + 08 + 10 conforme rota) → 11 com 12 → 13 → 14. O agent seleciona e lê as skills pertinentes, registra decisão/retorno e aplica `quality/AUTONOMIA-E-REPERTORIO.md`; não executa as 14 por ritual.
 - A oferta/evidência da 09 informa a escolha de argumento da 08. Se a ideação revelar lacuna, retornar à fonte específica.
+- Desenvolvimento editorial: `quality/DESENVOLVIMENTO-EDITORIAL.md` liga contexto e referências à direção, escrita e revisão nas quatro rotas. O plano curto fica no contexto da nova entrega; não cria aprovação, formulário, score ou checkpoint adicional. Ajustes reutilizam a direção vigente.
 - 04 registra fatos/feedback quando surgem; não interrompe a produção nem cria aprovação fictícia.
 - Consulta rápida de cliente recorrente pode reutilizar decisões vigentes. Registrar o que foi reutilizado e por quê. Não reexecutar 14 análises por ritual.
 - LP: arquitetura por pergunta, informação nova e prova em `knowledge/rotas/lp.md`.
@@ -84,13 +85,15 @@ Registrar id, regra, escopo (global/cliente/produto/campanha/formato), origem, d
 
 ## 7. Gate, reescrita e entrega
 
-Leituras: índice + metodologia + rota no contexto; humanização integral antes da escrita e novamente antes da revisão. Referências adicionais por necessidade. Recibos registram leitura do arquivo, não compreensão do modelo.
+Leituras: índice + metodologia + rota no contexto; humanização integral antes da escrita e novamente antes da revisão. Repertório pesquisado proativamente na produção nova, por match com objetivo/público/construção, sem exigir dúvida ou lacuna. Referências adicionais e reutilização em ajustes seguem `quality/AUTONOMIA-E-REPERTORIO.md`. Redundância segue `quality/REDUNDANCIA.md`, com a escala e os mínimos vigentes. Recibos registram leitura do arquivo, não compreensão do modelo.
 
 `quality/FORMATO-ENTREGA.md` define o artefato; `quality/scorecard.md` define a revisão. `scripts/copycheck.py` verifica campos publicáveis, integridade e evidência registrada; não certifica fatos ou qualidade subjetiva.
 
 Para versão incremental, `scripts/revise_delivery.py` preserva campos intactos e cria um delta de revisão. Não reler o Knowledge Gate nem humanização se a correção acontece na mesma conversa, a revisão-pai continua válida e nenhum fato, política ou direção mudou.
 
-Até 2 reescritas internas por direção. Se persistir falha estratégica, voltar ao argumento; se faltar dado, informar a lacuna concreta. Após o limite, entregar diagnóstico do impedimento, não copy reprovada com nota elevada.
+O ciclo segue `quality/CICLO-REVISAO.md` e usa `scripts/review_cycle.py` para preservar tentativas e aplicar orçamento: versão inicial + até 2 reescritas por direção. Bloqueio corrigível aciona diagnóstico, correção e nova revisão internamente. O revisor recebe as mesmas fontes/excertos e ressalvas do escritor. Até 2 reparos de revisão são permitidos no ciclo inteiro, sem alteração de texto/contexto.
+
+Se persistir falha estratégica, voltar ao argumento dentro do orçamento; se faltar dado indispensável, informar a lacuna concreta. Após o limite, entregar diagnóstico e alternativa ou decisão necessária, não apenas blocked nem copy reprovada com nota elevada. Nova direção exige autorização explícita aplicável e não reinicia o ciclo silenciosamente. Somente ready_for_human_approval libera a entrega para decisão humana.
 
 Entrega: copy exata renderizada, notas separadas, scores calculados, limitações, HARD CONSTRAINTS e pedido de feedback. Aprovação só registra decisão expressa do humano sobre aquela versão; não é autorização de publicação.
 

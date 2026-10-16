@@ -1,0 +1,632 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d6370682fd46b7b5c95b0777dc426ba6.jpg",
+  "source_sha256": "ca45a74487e7bd6060f6dd3f4f3bd5851025e9d4bbc143ccd62e2e40b6ad0bc0",
+  "text": "BRAND\nSTRATEGY\nNew\nPurpose - Vision Mission Values\nInsights\nProduct Strategy\nBrand\nPromotion Strategy\nPositioning\nPrice Strategy\nDistribution Channels\nLEARNING\nMarket Research\nTarget Customer\nCREATIVE\nCompetitive Landscape\nDIRECTION\nSales Strategy\nAnalyze Data\nKey Performance Indicators\nBRAND VOICE\nVISUAL\nTone\nLogo\nDiction\nTypograpny\n\"Naming\nColor Palette\nTagline &\nPhotography\nMeasure\nMARKETING\nSlogans\nKPI's\nPLAN\n1-3 Years\n360°\nMARKETING\nSOCIAL\nEMAIL\nMEDIA\nMARKETING\nDIGITAL\nFLYWHEEL\nSEO\nCRM Integration\nWEBSITE\nPUBLIC RELATIONS\nSALES COLLATERAL\n\nDiagrama de estratégia de marca e marketing com conexões entre pesquisa, direção criativa, planejamento e canais.",
+  "segments": [
+    {
+      "text": "BRAND\nSTRATEGY\nNew\nPurpose - Vision Mission Values\nInsights\nProduct Strategy\nBrand\nPromotion Strategy\nPositioning\nPrice Strategy\nDistribution Channels\nLEARNING\nMarket Research\nTarget Customer\nCREATIVE\nCompetitive Landscape\nDIRECTION\nSales Strategy\nAnalyze Data\nKey Performance Indicators\nBRAND VOICE\nVISUAL\nTone\nLogo\nDiction\nTypograpny\n\"Naming\nColor Palette\nTagline &\nPhotography\nMeasure\nMARKETING\nSlogans\nKPI's\nPLAN\n1-3 Years\n360°\nMARKETING\nSOCIAL\nEMAIL\nMEDIA\nMARKETING\nDIGITAL\nFLYWHEEL\nSEO\nCRM Integration\nWEBSITE\nPUBLIC RELATIONS\nSALES COLLATERAL",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.3940217389945653,
+            0.9367945824176737,
+            0.20108695652173914,
+            0.0338600451467268
+          ],
+          "text": "BRAND",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 5
+        },
+        {
+          "box": [
+            0.35326086942797547,
+            0.8848758465193698,
+            0.2826086956521739,
+            0.03611738148984189
+          ],
+          "text": "STRATEGY",
+          "confidence": 1,
+          "start_char": 6,
+          "end_char": 14
+        },
+        {
+          "box": [
+            0.17934782565217391,
+            0.8352144471106094,
+            0.048913043478260865,
+            0.015801354401805967
+          ],
+          "text": "New",
+          "confidence": 1,
+          "start_char": 15,
+          "end_char": 18
+        },
+        {
+          "box": [
+            0.34510869550298373,
+            0.8374717833034568,
+            0.30434782608695654,
+            0.015801354401805856
+          ],
+          "text": "Purpose - Vision Mission Values",
+          "confidence": 1,
+          "start_char": 19,
+          "end_char": 50
+        },
+        {
+          "box": [
+            0.15760869550174691,
+            0.8103837472146082,
+            0.08967391304347827,
+            0.020316027088036148
+          ],
+          "text": "Insights",
+          "confidence": 1,
+          "start_char": 51,
+          "end_char": 59
+        },
+        {
+          "box": [
+            0.4181399061440225,
+            0.8099156317178724,
+            0.16095327294391137,
+            0.019277947212718693
+          ],
+          "text": "Product Strategy",
+          "confidence": 1,
+          "start_char": 60,
+          "end_char": 76
+        },
+        {
+          "box": [
+            0.749985816556026,
+            0.8148511387448052,
+            0.0652457579322483,
+            0.01363858035670984
+          ],
+          "text": "Brand",
+          "confidence": 1,
+          "start_char": 77,
+          "end_char": 82
+        },
+        {
+          "box": [
+            0.40732096423714975,
+            0.7846419411342244,
+            0.18266895542974054,
+            0.018727722340189934
+          ],
+          "text": "Promotion Strategy",
+          "confidence": 1,
+          "start_char": 83,
+          "end_char": 101
+        },
+        {
+          "box": [
+            0.7225015411674008,
+            0.7913635226242928,
+            0.11760076232578442,
+            0.01788258068179438
+          ],
+          "text": "Positioning",
+          "confidence": 1,
+          "start_char": 102,
+          "end_char": 113
+        },
+        {
+          "box": [
+            0.4345907483150791,
+            0.7593604450191311,
+            0.13067557500756305,
+            0.016270949662942624
+          ],
+          "text": "Price Strategy",
+          "confidence": 1,
+          "start_char": 114,
+          "end_char": 128
+        },
+        {
+          "box": [
+            0.3967391302989131,
+            0.7336343115232382,
+            0.20380434782608697,
+            0.015801354401805856
+          ],
+          "text": "Distribution Channels",
+          "confidence": 1,
+          "start_char": 129,
+          "end_char": 150
+        },
+        {
+          "box": [
+            0.08695652160326088,
+            0.7178329571294206,
+            0.15217391304347827,
+            0.020316027088036037
+          ],
+          "text": "LEARNING",
+          "confidence": 1,
+          "start_char": 151,
+          "end_char": 159
+        },
+        {
+          "box": [
+            0.41847826073122535,
+            0.7088036117525138,
+            0.1576086956521739,
+            0.015801354401805856
+          ],
+          "text": "Market Research",
+          "confidence": 1,
+          "start_char": 160,
+          "end_char": 175
+        },
+        {
+          "box": [
+            0.4184782606657609,
+            0.6817155756415587,
+            0.16032608695652173,
+            0.015801354401805856
+          ],
+          "text": "Target Customer",
+          "confidence": 1,
+          "start_char": 176,
+          "end_char": 191
+        },
+        {
+          "box": [
+            0.7364130433451642,
+            0.6681715575828073,
+            0.14130434782608692,
+            0.02031602708803626
+          ],
+          "text": "CREATIVE",
+          "confidence": 1,
+          "start_char": 192,
+          "end_char": 200
+        },
+        {
+          "box": [
+            0.388586956342115,
+            0.6568848758598922,
+            0.2173913043478261,
+            0.015801354401805856
+          ],
+          "text": "Competitive Landscape",
+          "confidence": 1,
+          "start_char": 201,
+          "end_char": 222
+        },
+        {
+          "box": [
+            0.7282608694293479,
+            0.6410835214631644,
+            0.16032608695652173,
+            0.020316027088036148
+          ],
+          "text": "DIRECTION",
+          "confidence": 1,
+          "start_char": 223,
+          "end_char": 232
+        },
+        {
+          "box": [
+            0.43206521725260416,
+            0.6297968397455793,
+            0.13315217391304346,
+            0.015801354401805856
+          ],
+          "text": "Sales Strategy",
+          "confidence": 1,
+          "start_char": 233,
+          "end_char": 247
+        },
+        {
+          "box": [
+            0.10326086938160986,
+            0.6162528216917821,
+            0.1358695652173913,
+            0.015801354401805856
+          ],
+          "text": "Analyze Data",
+          "confidence": 1,
+          "start_char": 248,
+          "end_char": 260
+        },
+        {
+          "box": [
+            0.3695652172182103,
+            0.604966139965676,
+            0.2581521739130435,
+            0.015801354401805856
+          ],
+          "text": "Key Performance Indicators",
+          "confidence": 1,
+          "start_char": 261,
+          "end_char": 287
+        },
+        {
+          "box": [
+            0.6956521737804089,
+            0.6139954853434376,
+            0.11684782608695654,
+            0.013544018058690654
+          ],
+          "text": "BRAND VOICE",
+          "confidence": 1,
+          "start_char": 288,
+          "end_char": 299
+        },
+        {
+          "box": [
+            0.845064997537368,
+            0.6138487922732667,
+            0.06530478726262634,
+            0.013837404229571026
+          ],
+          "text": "VISUAL",
+          "confidence": 1,
+          "start_char": 300,
+          "end_char": 306
+        },
+        {
+          "box": [
+            0.7336956520289855,
+            0.595936794620015,
+            0.0434782608695653,
+            0.011286681715575564
+          ],
+          "text": "Tone",
+          "confidence": 1,
+          "start_char": 307,
+          "end_char": 311
+        },
+        {
+          "box": [
+            0.8559782607252038,
+            0.5936794582816027,
+            0.04619565217391308,
+            0.013544018058690765
+          ],
+          "text": "Logo",
+          "confidence": 1,
+          "start_char": 312,
+          "end_char": 316
+        },
+        {
+          "box": [
+            0.7255434780344202,
+            0.5756207675507901,
+            0.05978260869565222,
+            0.013544018058690765
+          ],
+          "text": "Diction",
+          "confidence": 1,
+          "start_char": 317,
+          "end_char": 324
+        },
+        {
+          "box": [
+            0.830938351702805,
+            0.5714053740167284,
+            0.09611562023992126,
+            0.017991271567936673
+          ],
+          "text": "Typograpny",
+          "confidence": 0.5,
+          "start_char": 325,
+          "end_char": 335
+        },
+        {
+          "box": [
+            0.7173913042119564,
+            0.5553047404345373,
+            0.07608695652173914,
+            0.015801354401805856
+          ],
+          "text": "\"Naming",
+          "confidence": 1,
+          "start_char": 336,
+          "end_char": 343
+        },
+        {
+          "box": [
+            0.8288043476865453,
+            0.5575620767646879,
+            0.1032608695652174,
+            0.011286681715575564
+          ],
+          "text": "Color Palette",
+          "confidence": 1,
+          "start_char": 344,
+          "end_char": 357
+        },
+        {
+          "box": [
+            0.7173913042069242,
+            0.5372460496823008,
+            0.07608695652173914,
+            0.011286681715575564
+          ],
+          "text": "Tagline &",
+          "confidence": 1,
+          "start_char": 358,
+          "end_char": 367
+        },
+        {
+          "box": [
+            0.825871976799519,
+            0.5348817985073606,
+            0.10628155003423279,
+            0.015115758366294085
+          ],
+          "text": "Photography",
+          "confidence": 1,
+          "start_char": 368,
+          "end_char": 379
+        },
+        {
+          "box": [
+            0.2089750357066007,
+            0.5184563426759149,
+            0.09012985229492188,
+            0.015702923587428752
+          ],
+          "text": "Measure",
+          "confidence": 1,
+          "start_char": 380,
+          "end_char": 387
+        },
+        {
+          "box": [
+            0.4076086955185316,
+            0.514672686248751,
+            0.17934782608695654,
+            0.02257336343115135
+          ],
+          "text": "MARKETING",
+          "confidence": 1,
+          "start_char": 388,
+          "end_char": 397
+        },
+        {
+          "box": [
+            0.7224766673319354,
+            0.5211036271178318,
+            0.06569853554601257,
+            0.015304941086952017
+          ],
+          "text": "Slogans",
+          "confidence": 1,
+          "start_char": 398,
+          "end_char": 405
+        },
+        {
+          "box": [
+            0.2228260868206522,
+            0.4966139955328501,
+            0.057065217391304324,
+            0.018058690744920947
+          ],
+          "text": "KPI's",
+          "confidence": 0.5,
+          "start_char": 406,
+          "end_char": 411
+        },
+        {
+          "box": [
+            0.456521738989533,
+            0.4898419864936042,
+            0.08152173913043476,
+            0.020316027088036148
+          ],
+          "text": "PLAN",
+          "confidence": 1,
+          "start_char": 412,
+          "end_char": 416
+        },
+        {
+          "box": [
+            0.4619565209692029,
+            0.474040632317532,
+            0.07336956521739135,
+            0.015801354401805856
+          ],
+          "text": "1-3 Years",
+          "confidence": 1,
+          "start_char": 417,
+          "end_char": 426
+        },
+        {
+          "box": [
+            0.4510869569746377,
+            0.28893905216328064,
+            0.09239130434782611,
+            0.02934537246049662
+          ],
+          "text": "360°",
+          "confidence": 1,
+          "start_char": 427,
+          "end_char": 431
+        },
+        {
+          "box": [
+            0.38315217377717387,
+            0.25282167044541104,
+            0.23369565217391303,
+            0.02708803611738153
+          ],
+          "text": "MARKETING",
+          "confidence": 1,
+          "start_char": 432,
+          "end_char": 441
+        },
+        {
+          "box": [
+            0.32603959119482623,
+            0.17592854541271474,
+            0.07889907774717914,
+            0.018346069628713324
+          ],
+          "text": "SOCIAL",
+          "confidence": 1,
+          "start_char": 442,
+          "end_char": 448
+        },
+        {
+          "box": [
+            0.6005434781193387,
+            0.18058690748212936,
+            0.06793478260869568,
+            0.015801354401805856
+          ],
+          "text": "EMAIL",
+          "confidence": 1,
+          "start_char": 449,
+          "end_char": 454
+        },
+        {
+          "box": [
+            0.32869312478053897,
+            0.1554755715069659,
+            0.07359200975169305,
+            0.02087729994384213
+          ],
+          "text": "MEDIA",
+          "confidence": 1,
+          "start_char": 455,
+          "end_char": 460
+        },
+        {
+          "box": [
+            0.5733695650815217,
+            0.160270880381695,
+            0.12499999999999989,
+            0.018058690744921058
+          ],
+          "text": "MARKETING",
+          "confidence": 1,
+          "start_char": 461,
+          "end_char": 470
+        },
+        {
+          "box": [
+            0.4372568180971301,
+            0.13214413148370407,
+            0.12005158092664642,
+            0.022393452663723057
+          ],
+          "text": "DIGITAL",
+          "confidence": 1,
+          "start_char": 471,
+          "end_char": 478
+        },
+        {
+          "box": [
+            0.41576086942934787,
+            0.106094808144232,
+            0.16032608695652173,
+            0.020316027088036037
+          ],
+          "text": "FLYWHEEL",
+          "confidence": 1,
+          "start_char": 479,
+          "end_char": 487
+        },
+        {
+          "box": [
+            0.4809782607846467,
+            0.08577878112302484,
+            0.035326086956521674,
+            0.013544018058690765
+          ],
+          "text": "SEO",
+          "confidence": 0.5,
+          "start_char": 488,
+          "end_char": 491
+        },
+        {
+          "box": [
+            0.43175367738473974,
+            0.06724272485911087,
+            0.13097011524698005,
+            0.01820896441457498
+          ],
+          "text": "CRM Integration",
+          "confidence": 1,
+          "start_char": 492,
+          "end_char": 507
+        },
+        {
+          "box": [
+            0.4510071898355361,
+            0.017755667757252014,
+            0.09798562008401623,
+            0.01866473678003311
+          ],
+          "text": "WEBSITE",
+          "confidence": 1,
+          "start_char": 508,
+          "end_char": 515
+        },
+        {
+          "box": [
+            0.07880435531888208,
+            0.0022573365688486335,
+            0.16032607659049652,
+            0.013544018058690765
+          ],
+          "text": "PUBLIC RELATIONS",
+          "confidence": 1,
+          "start_char": 516,
+          "end_char": 532
+        },
+        {
+          "box": [
+            0.7472826085597825,
+            0.0022573363545931313,
+            0.1657608695652174,
+            0.013544018058690765
+          ],
+          "text": "SALES COLLATERAL",
+          "confidence": 1,
+          "start_char": 533,
+          "end_char": 549
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 549
+    },
+    {
+      "text": "Diagrama de estratégia de marca e marketing com conexões entre pesquisa, direção criativa, planejamento e canais.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 551,
+      "end_char": 664
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      735,
+      886
+    ],
+    "ocr_rows": 49,
+    "low_confidence_rows": 3,
+    "ocr_mean_confidence": 0.9693877551020408,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

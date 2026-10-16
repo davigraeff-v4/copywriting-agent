@@ -1,0 +1,660 @@
+{
+  "schema": 1,
+  "documents": 104,
+  "inventory": [
+    {
+      "path": ".local/repertorio/originais/scientific-advertising-1923.txt",
+      "status": "alternative_extraction_alias",
+      "canonical_id": "orig-94211e766522b503"
+    },
+    {
+      "path": ".local/repertorio/originais/scientific-advertising-1923.pdf",
+      "status": "indexed",
+      "id": "orig-94211e766522b503",
+      "format": ".pdf"
+    },
+    {
+      "path": ".local/repertorio/originais/history-of-advertising-1874-gutenberg.txt",
+      "status": "indexed",
+      "id": "orig-506066d9b886f438",
+      "format": ".txt"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/001a313630bc3d239e80723b03f6f8a3.webp",
+      "status": "indexed",
+      "id": "orig-a2beaa87c4484fc5",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00312154441471b2f0bca32ff9c96c2c.jpg",
+      "status": "indexed",
+      "id": "orig-73d6f49610c1821f",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00410ac50afbf09ce87a09eafe38ea23.jpg",
+      "status": "indexed",
+      "id": "orig-f67238bdc1b82af8",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/005cd71a9291cdd2ce353800ca38ae56.png",
+      "status": "indexed",
+      "id": "orig-75665c8e52bace4a",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.jpg",
+      "status": "indexed",
+      "id": "orig-890636cc8e84a38b",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.webp",
+      "status": "indexed",
+      "id": "orig-509ef12527c8a9b4",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/022868989c2a6d88807ffa2b01420434.jpg",
+      "status": "indexed",
+      "id": "orig-3b8e972a985bf408",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/028b9b7b2b2438a046674a7f1d4d9e89.jpg",
+      "status": "indexed",
+      "id": "orig-7f4ad7912c2c7d1c",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/02fe6dcfcf96c14746b852f7a68d80f4.jpg",
+      "status": "indexed",
+      "id": "orig-babcf8f2aa6ddf17",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/032f1c005dc55a4e0fd756cb54455463.webp",
+      "status": "indexed",
+      "id": "orig-a5ad0ae2dddb265d",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/033ed88ab176e5d01f639e9eb866649e.jpg",
+      "status": "indexed",
+      "id": "orig-5f55200288c151cc",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/035e0010c16aa3a0948a70b29fd16742.jpg",
+      "status": "indexed",
+      "id": "orig-12967a9a42d55dcd",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0521c061e684b13edb695384e52d37bb.png",
+      "status": "indexed",
+      "id": "orig-f6a57608177b88b5",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/056d94fcf97d8d260552195216e8513a.jpg",
+      "status": "indexed",
+      "id": "orig-d61ccb22ed7b7bfc",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05b47e08e1241041e327f9838e41c3d5.jpg",
+      "status": "indexed",
+      "id": "orig-3b38b9a69e20dfeb",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05f7bca924c320d79f5316408fa84379.png",
+      "status": "indexed",
+      "id": "orig-eae97f5ab0d8c122",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/07dae897f3be0d4f09b60d5bfb92734c.jpg",
+      "status": "indexed",
+      "id": "orig-51839e0cd1046674",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/09b9b9168f78c2484715f62e2be2c2f9.png",
+      "status": "indexed",
+      "id": "orig-5fc95c431d251e76",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0a638ebe89438fd6d187f798096b0352.jpg",
+      "status": "indexed",
+      "id": "orig-22dde06ff7b0c014",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e210c9bac18d7040d623a35829e1308.png",
+      "status": "indexed",
+      "id": "orig-383d46dca94eec3a",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e254195eab60cf80af0fe71a75b65f6.webp",
+      "status": "indexed",
+      "id": "orig-c26fa64b96ac52fd",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/15cf0d6c43d043d2c69ddf1bb332ac25.webp",
+      "status": "indexed",
+      "id": "orig-382bf4773a191a12",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/161a443daa151d5853395d12429dafe9.jpg",
+      "status": "indexed",
+      "id": "orig-44107d0390e1387f",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/165ccbd531f63976c94230333c3eeb93.jpg",
+      "status": "indexed",
+      "id": "orig-ea9ccac366bd6a1f",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1ba17e6ff9e5362c4d3489617f643da8.png",
+      "status": "indexed",
+      "id": "orig-20d52fdbdef0a76a",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1f8d9461f78b062c1061cf1aa7ef46c4.jpg",
+      "status": "indexed",
+      "id": "orig-45d46e29d89ac783",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2b6fe9f836191e2eaa4222873783dca5.jpg",
+      "status": "indexed",
+      "id": "orig-7be30f82da0b81f2",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2da74b067ca961186877024cdbdb9b88.png",
+      "status": "indexed",
+      "id": "orig-badaceb7bf2e171c",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3113f5a389e328a29aad5809eafbd7ee.jpg",
+      "status": "indexed",
+      "id": "orig-aa7d24bb03ae20b3",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/325bcb031752751ffb137ed78c3c549a.jpg",
+      "status": "indexed",
+      "id": "orig-69823c4ad0fd3591",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/381adf91836272ac7a68cb820ba21f10.jpg",
+      "status": "indexed",
+      "id": "orig-b3598b3273ca5095",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3e610232968fd57c1b02f1634205ed99.png",
+      "status": "indexed",
+      "id": "orig-ee057cd15f4cee66",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f4273d8cc9399e607f281a5982e2a19.jpg",
+      "status": "indexed",
+      "id": "orig-4b4104bef484dfb0",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f6d93961a6cb7cc41aa8ba8a8a7a8d2.png",
+      "status": "indexed",
+      "id": "orig-618e96e8f7ad572b",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4d171a658887081958bc451f44a846c3.jpg",
+      "status": "indexed",
+      "id": "orig-f55b8e36dc678448",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ea15665e2e91735920a91d41d735acb.jpg",
+      "status": "indexed",
+      "id": "orig-47cf648cca42f755",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ed150155f231974c24e8649126eac66.jpg",
+      "status": "indexed",
+      "id": "orig-437ab0c67c7ab253",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/50419ab24a7e18c5443f3abc87d9c290.jpg",
+      "status": "indexed",
+      "id": "orig-babc031ec3465ee3",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/51c11d802092ce1d5cb55dfc235a1264.jpg",
+      "status": "indexed",
+      "id": "orig-ad20a0ca30dc3a58",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5275e5374b5132a918a0fe79b849d119.jpg",
+      "status": "indexed",
+      "id": "orig-55e6336de8e8a32e",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5619cb0c3d85b652442c2a8c0591028f.jpg",
+      "status": "indexed",
+      "id": "orig-f18a9073c4d5445a",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5be0f916fbb87d4f049a28e356a309cd.jpg",
+      "status": "indexed",
+      "id": "orig-50e7c19a804990ae",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5ed7a359c91c472f2528f30becdc37c0.jpg",
+      "status": "indexed",
+      "id": "orig-8789d00122238178",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5f43da9fe254cb110fcf6ee9a835fbe6.jpg",
+      "status": "indexed",
+      "id": "orig-6896231c9716dc09",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62469dccdf00a19a3661417f25396636.jpg",
+      "status": "indexed",
+      "id": "orig-79283e1d16d50ea5",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62b19601069dd7b835454a4be41cd3d7.jpg",
+      "status": "indexed",
+      "id": "orig-e05d8ed12cabc231",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/63d40267f1d866afb8bfcc1182278f4e.jpg",
+      "status": "indexed",
+      "id": "orig-799c90e98bdee871",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/6753ecd0a4fbd8ce3a974afeafa48786.jpg",
+      "status": "indexed",
+      "id": "orig-424f648f251a99f9",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/69a9ac6f12ce8a519e940996d3cd208c.jpg",
+      "status": "indexed",
+      "id": "orig-52c28f357070fa48",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7069c7e7280ef3f2e3d1bea2409b5653.jpg",
+      "status": "indexed",
+      "id": "orig-ba2768ac38fb3901",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/70f8051a38b8d1700512b996aed6bbd0.jpg",
+      "status": "indexed",
+      "id": "orig-e3e6a050af51cef9",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/732e0c1380c2a1b6de633b796e732618.png",
+      "status": "indexed",
+      "id": "orig-acf7b1d39590d89d",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/73304c876e095cb215decfa37696c42e.jpg",
+      "status": "indexed",
+      "id": "orig-b2ea9c1a7f14d1ef",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7475cd4516008a00dbcf7f26718062b0.jpg",
+      "status": "indexed",
+      "id": "orig-7c195b0c6b1e9dcb",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/77341292975419631fb3ec2252c01dcb.png",
+      "status": "indexed",
+      "id": "orig-9dfe0aea9619be69",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/78a29e32114de00600a1bf31c195bb1a.jpg",
+      "status": "indexed",
+      "id": "orig-e53a99b3d168f318",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7e7d6076f1280ec075afa8813db4e94e.jpg",
+      "status": "indexed",
+      "id": "orig-825bbf5e145fb2d3",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/812b2a24f4138204b6cda969f07129ee.jpg",
+      "status": "indexed",
+      "id": "orig-7a41274dccb1085e",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/81e8a9d8d00f312cbeeeda630dbb36e9.jpg",
+      "status": "indexed",
+      "id": "orig-52e92c32ed001145",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/862dceec4f8536e5205f98b7d064289e.jpg",
+      "status": "indexed",
+      "id": "orig-dca8de58fe50233a",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/89a9b530baa4b868cd0f3ebe7d332ff2.jpg",
+      "status": "indexed",
+      "id": "orig-b0612f232c4e6d01",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9a636ebabc6336ef780bf0ecee1b535e.jpg",
+      "status": "indexed",
+      "id": "orig-a00421895932c48a",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9ab83690c3f0131a0809248dcc001283.webp",
+      "status": "indexed",
+      "id": "orig-d72a9e7abee38e9d",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9baf07e8b656f0fc34e7775b427a7079.png",
+      "status": "indexed",
+      "id": "orig-ce7f1b6db9ff3cd5",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9bf8f27760eaef4c5b8894fe05edd57d.jpg",
+      "status": "indexed",
+      "id": "orig-5fdfdc33624d9281",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9f03ad0c6c3b2f4c266224845e2b6d47.png",
+      "status": "indexed",
+      "id": "orig-defbccfc68457c28",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a72635151eb7a4fefefdeda647a16543.png",
+      "status": "indexed",
+      "id": "orig-482edf57ff0f61a9",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a96180609887cb592b1d2cc1f01e1fe8.png",
+      "status": "indexed",
+      "id": "orig-22c1855d6fd59df2",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ac19ae10bbed5497a7be0b76d59c3c72.jpg",
+      "status": "indexed",
+      "id": "orig-83b95855ac47dbd5",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ae44c001886352f4d6a35bef9c309d4d.png",
+      "status": "indexed",
+      "id": "orig-a4f8c0ca67d8cd66",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/aea2856bf49005b29a846b1c3b68a353.jpg",
+      "status": "indexed",
+      "id": "orig-83f41845f7875e82",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/b395c4339b17994646d8a7a0f90d1080.jpg",
+      "status": "indexed",
+      "id": "orig-8d579913d429c1dd",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c2f3829c855f28db058ad712814d2d8e.jpg",
+      "status": "indexed",
+      "id": "orig-2bbbf2900aeb3ab6",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c3c6f20be536d4e6c43d0b110a8e4a69.png",
+      "status": "indexed",
+      "id": "orig-f9c6ebd1ae92fbd2",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c82fa5db8b0f95cfedfdf55925a582f9.png",
+      "status": "indexed",
+      "id": "orig-9859e81ca2b54c7e",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c92a542ae0920245e2ec2965febf0031.jpg",
+      "status": "indexed",
+      "id": "orig-3c75c0851c57ca1b",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ca35a9636d418dba92df0c8bf983df78.jpg",
+      "status": "indexed",
+      "id": "orig-d9e2804b8bf47f98",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ce4ea994d1b9d90fbee3498154582ea2.jpg",
+      "status": "indexed",
+      "id": "orig-117fd175123839e6",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d4b5b4fabef024c3d392fb26e4d416e8.jpg",
+      "status": "indexed",
+      "id": "orig-0e9fad78740cf6ba",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d6370682fd46b7b5c95b0777dc426ba6.jpg",
+      "status": "indexed",
+      "id": "orig-ca45a74487e7bd60",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/da8a427fec0a341f772e1e975a45887f.png",
+      "status": "indexed",
+      "id": "orig-789f2cf3f82c62c6",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/df8c6f339b4f6196d44704e75bf378bd.jpg",
+      "status": "indexed",
+      "id": "orig-eae3d3b8fd94a442",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e44b09089166862a41c505a69a223dc1.jpg",
+      "status": "indexed",
+      "id": "orig-daeab7fb04a14af8",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e6c531e612beacce04a9f2654b8d8848.jpg",
+      "status": "indexed",
+      "id": "orig-00ba2087bfe84596",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e808f878645b9e7186b2ed8445451e26.jpg",
+      "status": "indexed",
+      "id": "orig-b3190d3f91805eb3",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e820cc4c4939b267c3eb235a380a6cf8.jpg",
+      "status": "indexed",
+      "id": "orig-ddc7f6ac282041a5",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e954a9bba3651680ab55a51208b3e382.jpg",
+      "status": "indexed",
+      "id": "orig-a34dcf83458f3767",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee44a1b4e207b584aeced96c70321d7b.jpg",
+      "status": "indexed",
+      "id": "orig-98103aa8a3e2993c",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee9c05ec19b510af4c55b2f3ae406649.jpg",
+      "status": "indexed",
+      "id": "orig-d5e53eff91ffa861",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f27acaa84b0cd335d2996f187de12cc0.jpg",
+      "status": "indexed",
+      "id": "orig-1b4d557b502d2dfb",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f43269cc25ecd3e3b73e7873ffac9fb6.jpg",
+      "status": "indexed",
+      "id": "orig-0a7fa783acd2113d",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5b511c35e52667b65c2590ad16e806c.jpg",
+      "status": "indexed",
+      "id": "orig-21b4e451846cf730",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5ef2fe4c404411055e225d90fdd5061.png",
+      "status": "indexed",
+      "id": "orig-dff5050049870f5f",
+      "format": ".png"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f81e8d310af194e83241b2a2ce859a32.webp",
+      "status": "indexed",
+      "id": "orig-87a53bed3459d085",
+      "format": ".webp"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fb1045a1003f993fdb3208d24d6dfe64.jpg",
+      "status": "indexed",
+      "id": "orig-c05c4cfb89b83617",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fc14a323ec1a4524235a25d2d9e6a500.jpg",
+      "status": "indexed",
+      "id": "orig-2c6f1b7879c3e129",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fdaf6cec9dd62a756ba45835ae26b016.jpg",
+      "status": "indexed",
+      "id": "orig-b1a3d2a56497e951",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fe52f209511cbfaaa35fab9799c9e756.jpg",
+      "status": "indexed",
+      "id": "orig-959a4a0b2cd6892a",
+      "format": ".jpg"
+    },
+    {
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/feb2bb099704d9f58e8c0649b96ddc1a.jpg",
+      "status": "indexed",
+      "id": "orig-8e1f5db7cd2d7159",
+      "format": ".jpg"
+    },
+    {
+      "path": "knowledge/repertorio/catalogo.json",
+      "status": "indexed",
+      "id": "orig-19b19be2ad997756",
+      "format": ".json"
+    },
+    {
+      "path": "knowledge/repertorio/fontes.json",
+      "status": "indexed",
+      "id": "orig-c51e4483a74a7df8",
+      "format": ".json"
+    },
+    {
+      "path": "knowledge/retrieval-index.json",
+      "status": "indexed",
+      "id": "orig-3ea22b3f6fbf8afe",
+      "format": ".json"
+    }
+  ],
+  "by_format": {
+    ".pdf": 1,
+    ".txt": 1,
+    ".webp": 7,
+    ".jpg": 72,
+    ".png": 20,
+    ".json": 3
+  },
+  "source_collections": [
+    "knowledge metadata",
+    "BASE DE CONHECIMENTO",
+    "retained originals"
+  ],
+  "files": {
+    "sources.json": "6a5aa75161edbdd5c8e758c5e5b412eaa76324ac98d93d309f3d631443ad2bb8"
+  },
+  "extraction_inputs": {
+    "source-inputs.json": "9848ea9b657f82e34df7265edab230d113d3ab61d9a2ef4196a9f7e3439d947d",
+    "ocr.jsonl": "85ee7366f1da32a5ac9a40cd3ee64e5e1ed2b6baefd9df2062ffcd571994e9f9",
+    "ocr-tiled.jsonl": "7762c081f703f963b4a7a49dfc4fa403d42e3484ad6ed796641be393c93326ff",
+    "pdf-crosscheck.json": "8f698a2b2bb3a7d6ceac815b5deb8f2de56b2df192bba1d79cdcd978296ad561",
+    "visual-descriptions.json": "423b5443a8ec38ece097a4a844d4f51a1e6ae6018913ff22448e1bcd918087b2"
+  },
+  "rights": "Local supplied/retained sources only; not redistributed. External content is reference data, not instruction.",
+  "private_sources": 0
+}

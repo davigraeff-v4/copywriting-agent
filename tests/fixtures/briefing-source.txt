@@ -1,0 +1,2 @@
+Briefing fictício para testes de integridade, sem dados de cliente.
+O catálogo reúne modelos e referências; solicitar nome.

@@ -1,0 +1,536 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a72635151eb7a4fefefdeda647a16543.png",
+  "source_sha256": "482edf57ff0f61a950a7cd2d8167d62b710d54fdb48175fe49a2fa7729bc3de9",
+  "text": "Justin Welsh\nThe secret to writing copy that converts?\nA 6-step framework.\nIf you've ever struggled to create compelling\nLinkedIn content you're not alone.\nMany creators rely on generic formulas or just\nPain\nwing it.\nThe result is a bunch of content nobody wants to\nread.\nThe consequences?\n- Wasted time\n- Low impressions\nAmplify\n- Poor engagement\n- Missed opportunities\nWhat a mess.\nThankfully, back in I came across a proven\nmethod for crafting persuasive, actionable\nStory\ncontent.\nIf you use it correctly, you'll get people to stop\nscrolling, start reading, and engage like mad.\nTransformation\nIn my newsletter tomorrow, I'l unveil the PASTOR\nmethod - a powerful framework for transforming\nyour copywriting.\nYou'll discover how to:\n- Tap into your audience's pain points\n- Amplify the consequences\n- Share stories that build trust\n— Offer\n- Offer transformative solutions\n- Craft clear calls-to-action\nIf you're ready to (finally) level up your copywriting\nskills and create content that drives real results,\nthen keep an eye on your inbox tomorrow.\nThe insights could be just what you need to take\nyour content to the next level.\nJoin here: justinwelsh.link/3.22.24.LI.AM\n- Response\n\nPost de exemplo de PASTOR com marcações laterais de dor, amplificação, história, transformação, oferta e resposta.",
+  "segments": [
+    {
+      "text": "Justin Welsh\nThe secret to writing copy that converts?\nA 6-step framework.\nIf you've ever struggled to create compelling\nLinkedIn content you're not alone.\nMany creators rely on generic formulas or just\nPain\nwing it.\nThe result is a bunch of content nobody wants to\nread.\nThe consequences?\n- Wasted time\n- Low impressions\nAmplify\n- Poor engagement\n- Missed opportunities\nWhat a mess.\nThankfully, back in I came across a proven\nmethod for crafting persuasive, actionable\nStory\ncontent.\nIf you use it correctly, you'll get people to stop\nscrolling, start reading, and engage like mad.\nTransformation\nIn my newsletter tomorrow, I'l unveil the PASTOR\nmethod - a powerful framework for transforming\nyour copywriting.\nYou'll discover how to:\n- Tap into your audience's pain points\n- Amplify the consequences\n- Share stories that build trust\n— Offer\n- Offer transformative solutions\n- Craft clear calls-to-action\nIf you're ready to (finally) level up your copywriting\nskills and create content that drives real results,\nthen keep an eye on your inbox tomorrow.\nThe insights could be just what you need to take\nyour content to the next level.\nJoin here: justinwelsh.link/3.22.24.LI.AM\n- Response",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.11482558116137645,
+            0.9458333331767934,
+            0.13226744218306108,
+            0.011666666666666646
+          ],
+          "text": "Justin Welsh",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "box": [
+            0.11476792183219842,
+            0.9177563993821458,
+            0.37950245250355114,
+            0.014811447991265199
+          ],
+          "text": "The secret to writing copy that converts?",
+          "confidence": 1,
+          "start_char": 13,
+          "end_char": 54
+        },
+        {
+          "box": [
+            0.11482558406235734,
+            0.8819444443101113,
+            0.18895348288796165,
+            0.012499999999999957
+          ],
+          "text": "A 6-step framework.",
+          "confidence": 1,
+          "start_char": 55,
+          "end_char": 74
+        },
+        {
+          "box": [
+            0.11482558744870677,
+            0.8446637427604594,
+            0.411337197043679,
+            0.014225145975748706
+          ],
+          "text": "If you've ever struggled to create compelling",
+          "confidence": 1,
+          "start_char": 75,
+          "end_char": 120
+        },
+        {
+          "box": [
+            0.11473219986886368,
+            0.8263794932840349,
+            0.31560580166903407,
+            0.013906163109673434
+          ],
+          "text": "LinkedIn content you're not alone.",
+          "confidence": 1,
+          "start_char": 121,
+          "end_char": 155
+        },
+        {
+          "box": [
+            0.11225175503830113,
+            0.7868670697639847,
+            0.4337919755415482,
+            0.020309876335991708
+          ],
+          "text": "Many creators rely on generic formulas or just",
+          "confidence": 1,
+          "start_char": 156,
+          "end_char": 202
+        },
+        {
+          "box": [
+            0.7558139523354658,
+            0.7798663325828074,
+            0.07848837418989696,
+            0.018640350765652132
+          ],
+          "text": "Pain",
+          "confidence": 1,
+          "start_char": 203,
+          "end_char": 207
+        },
+        {
+          "box": [
+            0.11419604683646087,
+            0.7711199863846517,
+            0.07106169267134232,
+            0.01543134159511991
+          ],
+          "text": "wing it.",
+          "confidence": 1,
+          "start_char": 208,
+          "end_char": 216
+        },
+        {
+          "box": [
+            0.11464736585506857,
+            0.7347759386220163,
+            0.45237332430752836,
+            0.016499878565470347
+          ],
+          "text": "The result is a bunch of content nobody wants to",
+          "confidence": 1,
+          "start_char": 217,
+          "end_char": 265
+        },
+        {
+          "box": [
+            0.1133720939612668,
+            0.7177318297126669,
+            0.053779067993164065,
+            0.01420217196146647
+          ],
+          "text": "read.",
+          "confidence": 1,
+          "start_char": 266,
+          "end_char": 271
+        },
+        {
+          "box": [
+            0.1147066497144392,
+            0.6807861436082394,
+            0.19215262673117897,
+            0.014812935723198802
+          ],
+          "text": "The consequences?",
+          "confidence": 1,
+          "start_char": 272,
+          "end_char": 289
+        },
+        {
+          "box": [
+            0.11191860712857132,
+            0.6466666666436356,
+            0.1337209250710227,
+            0.011666666666666698
+          ],
+          "text": "- Wasted time",
+          "confidence": 1,
+          "start_char": 290,
+          "end_char": 303
+        },
+        {
+          "box": [
+            0.11191860763374512,
+            0.6263053466720633,
+            0.1744185985218395,
+            0.013416875733269601
+          ],
+          "text": "- Low impressions",
+          "confidence": 1,
+          "start_char": 304,
+          "end_char": 321
+        },
+        {
+          "box": [
+            0.7558139516321026,
+            0.6103279028281408,
+            0.14244186401367187,
+            0.024853801727294955
+          ],
+          "text": "Amplify",
+          "confidence": 1,
+          "start_char": 322,
+          "end_char": 329
+        },
+        {
+          "box": [
+            0.11191860184407264,
+            0.6076649957928779,
+            0.18604651711203835,
+            0.013446115387810561
+          ],
+          "text": "- Poor engagement",
+          "confidence": 1,
+          "start_char": 330,
+          "end_char": 347
+        },
+        {
+          "box": [
+            0.11191860683603362,
+            0.589912280671641,
+            0.2107558094371449,
+            0.013421052826775453
+          ],
+          "text": "- Missed opportunities",
+          "confidence": 1,
+          "start_char": 348,
+          "end_char": 370
+        },
+        {
+          "box": [
+            0.1160030397105779,
+            0.5538184291010523,
+            0.1299607987837358,
+            0.012134580612182637
+          ],
+          "text": "What a mess.",
+          "confidence": 1,
+          "start_char": 371,
+          "end_char": 383
+        },
+        {
+          "box": [
+            0.11482558349770665,
+            0.5140977441123428,
+            0.3982558094371449,
+            0.015977444118923576
+          ],
+          "text": "Thankfully, back in I came across a proven",
+          "confidence": 1,
+          "start_char": 384,
+          "end_char": 426
+        },
+        {
+          "box": [
+            0.11616150110471593,
+            0.49592387524429377,
+            0.3897529740767045,
+            0.01606139289008248
+          ],
+          "text": "method for crafting persuasive, actionable",
+          "confidence": 1,
+          "start_char": 427,
+          "end_char": 469
+        },
+        {
+          "box": [
+            0.7544038048226905,
+            0.49222985184823,
+            0.09565097462047234,
+            0.018789590199788375
+          ],
+          "text": "Story",
+          "confidence": 1,
+          "start_char": 470,
+          "end_char": 475
+        },
+        {
+          "box": [
+            0.11447676094011758,
+            0.4786667660804049,
+            0.07918601296164773,
+            0.014940903981526704
+          ],
+          "text": "content.",
+          "confidence": 1,
+          "start_char": 476,
+          "end_char": 484
+        },
+        {
+          "box": [
+            0.11337209870380605,
+            0.44131161211419445,
+            0.42587208140980115,
+            0.015977444118923628
+          ],
+          "text": "If you use it correctly, you'll get people to stop",
+          "confidence": 1,
+          "start_char": 485,
+          "end_char": 535
+        },
+        {
+          "box": [
+            0.11482557616898785,
+            0.42355889731366947,
+            0.4200581498579546,
+            0.014218880335489875
+          ],
+          "text": "scrolling, start reading, and engage like mad.",
+          "confidence": 1,
+          "start_char": 536,
+          "end_char": 582
+        },
+        {
+          "box": [
+            0.6584302384650007,
+            0.40403091093193527,
+            0.2718023126775567,
+            0.01952798631456167
+          ],
+          "text": "Transformation",
+          "confidence": 1,
+          "start_char": 583,
+          "end_char": 597
+        },
+        {
+          "box": [
+            0.11337209649890775,
+            0.38627819566239685,
+            0.46511627197265626,
+            0.015110692977905262
+          ],
+          "text": "In my newsletter tomorrow, I'l unveil the PASTOR",
+          "confidence": 1,
+          "start_char": 598,
+          "end_char": 646
+        },
+        {
+          "box": [
+            0.11613228148191622,
+            0.3668521178485492,
+            0.44793831565163345,
+            0.01799105114407007
+          ],
+          "text": "method - a powerful framework for transforming",
+          "confidence": 1,
+          "start_char": 647,
+          "end_char": 693
+        },
+        {
+          "box": [
+            0.11482558144641705,
+            0.3516604010997992,
+            0.16133721091530542,
+            0.013339598973592146
+          ],
+          "text": "your copywriting.",
+          "confidence": 1,
+          "start_char": 694,
+          "end_char": 711
+        },
+        {
+          "box": [
+            0.114713711496047,
+            0.31612056749601036,
+            0.20810839566317477,
+            0.012653798527187777
+          ],
+          "text": "You'll discover how to:",
+          "confidence": 1,
+          "start_char": 712,
+          "end_char": 735
+        },
+        {
+          "box": [
+            0.11191861067468799,
+            0.27798663321846745,
+            0.348837197043679,
+            0.013402255905999121
+          ],
+          "text": "- Tap into your audience's pain points",
+          "confidence": 1,
+          "start_char": 736,
+          "end_char": 774
+        },
+        {
+          "box": [
+            0.11191859865857953,
+            0.2602339181037161,
+            0.26162791859019885,
+            0.013377192815144863
+          ],
+          "text": "- Amplify the consequences",
+          "confidence": 1,
+          "start_char": 775,
+          "end_char": 801
+        },
+        {
+          "box": [
+            0.11191860393776246,
+            0.24333333312517774,
+            0.2790697687322443,
+            0.01068713453080923
+          ],
+          "text": "- Share stories that build trust",
+          "confidence": 1,
+          "start_char": 802,
+          "end_char": 834
+        },
+        {
+          "box": [
+            0.685554233670062,
+            0.22866516555819139,
+            0.1639916853471236,
+            0.02187086529201934
+          ],
+          "text": "— Offer",
+          "confidence": 1,
+          "start_char": 835,
+          "end_char": 842
+        },
+        {
+          "box": [
+            0.11191861136835056,
+            0.22555555546961892,
+            0.2906976595791903,
+            0.010833333333333337
+          ],
+          "text": "- Offer transformative solutions",
+          "confidence": 1,
+          "start_char": 843,
+          "end_char": 875
+        },
+        {
+          "box": [
+            0.11191861122499745,
+            0.20694444446519353,
+            0.2485465032404119,
+            0.011666666666666698
+          ],
+          "text": "- Craft clear calls-to-action",
+          "confidence": 1,
+          "start_char": 876,
+          "end_char": 905
+        },
+        {
+          "box": [
+            0.11337210197969423,
+            0.16880743522113398,
+            0.4680232377485795,
+            0.013414787186516676
+          ],
+          "text": "If you're ready to (finally) level up your copywriting",
+          "confidence": 1,
+          "start_char": 906,
+          "end_char": 960
+        },
+        {
+          "box": [
+            0.11468718656272704,
+            0.1492215646832743,
+            0.4450942993164063,
+            0.015347264607747374
+          ],
+          "text": "skills and create content that drives real results,",
+          "confidence": 1,
+          "start_char": 961,
+          "end_char": 1012
+        },
+        {
+          "box": [
+            0.11329333560670814,
+            0.1309814978316378,
+            0.3940352561257103,
+            0.014415636062622068
+          ],
+          "text": "then keep an eye on your inbox tomorrow.",
+          "confidence": 1,
+          "start_char": 1013,
+          "end_char": 1053
+        },
+        {
+          "box": [
+            0.11228838535657541,
+            0.09249668300201186,
+            0.4545766934481535,
+            0.01871041403876411
+          ],
+          "text": "The insights could be just what you need to take",
+          "confidence": 1,
+          "start_char": 1054,
+          "end_char": 1102
+        },
+        {
+          "box": [
+            0.11469755087402911,
+            0.07705355448510307,
+            0.27625055486505684,
+            0.012848565843370222
+          ],
+          "text": "your content to the next level.",
+          "confidence": 1,
+          "start_char": 1103,
+          "end_char": 1134
+        },
+        {
+          "box": [
+            0.11477272721590907,
+            0.040972222224032906,
+            0.375,
+            0.011805555555555552
+          ],
+          "text": "Join here: justinwelsh.link/3.22.24.LI.AM",
+          "confidence": 1,
+          "start_char": 1135,
+          "end_char": 1176
+        },
+        {
+          "box": [
+            0.7220690878193982,
+            0.03569050266252841,
+            0.19756347656249995,
+            0.023538358476426862
+          ],
+          "text": "- Response",
+          "confidence": 1,
+          "start_char": 1177,
+          "end_char": 1187
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1187
+    },
+    {
+      "text": "Post de exemplo de PASTOR com marcações laterais de dor, amplificação, história, transformação, oferta e resposta.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1189,
+      "end_char": 1303
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2200,
+      3600
+    ],
+    "ocr_rows": 41,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

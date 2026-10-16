@@ -1,0 +1,236 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c3c6f20be536d4e6c43d0b110a8e4a69.png",
+  "source_sha256": "f9c6ebd1ae92fbd2b989244025b70d20f33519b607ef93fdab2ad056ceefc0e5",
+  "text": "7 Psychology Triggers\nThat Skyrocket Your Marketing\nReciprocity - Give value first, people feel\ncompelled to give back.\nSocial Proof - Show testimonials,\nfollowers, or user results.\nAuthority - Position yourself as an\nexpert (content = proof).\nScarcity - Limited offers trigger\nimmediate action.\nConsistency - Repetition builds trust\nand familiarity.\nLiking - People buy from those they like\nand relate to.\nUrgency - Time limits increase\nconversions.\n\nLista de sete princípios psicológicos; alegações de efeito são conteúdo da peça, sem validação independente.",
+  "segments": [
+    {
+      "text": "7 Psychology Triggers\nThat Skyrocket Your Marketing\nReciprocity - Give value first, people feel\ncompelled to give back.\nSocial Proof - Show testimonials,\nfollowers, or user results.\nAuthority - Position yourself as an\nexpert (content = proof).\nScarcity - Limited offers trigger\nimmediate action.\nConsistency - Repetition builds trust\nand familiarity.\nLiking - People buy from those they like\nand relate to.\nUrgency - Time limits increase\nconversions.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "7 Psychology Triggers",
+          "confidence": 1,
+          "box": [
+            0.09368191551623778,
+            0.8779069779429355,
+            0.81045751953125,
+            0.05087209065755205
+          ],
+          "start_char": 0,
+          "end_char": 21
+        },
+        {
+          "text": "That Skyrocket Your Marketing",
+          "confidence": 1,
+          "box": [
+            0.11764706476241452,
+            0.811046511899786,
+            0.7603485717773438,
+            0.03495348866780601
+          ],
+          "start_char": 22,
+          "end_char": 51
+        },
+        {
+          "text": "Reciprocity - Give value first, people feel",
+          "confidence": 1,
+          "box": [
+            0.16557735366457063,
+            0.7223837208175617,
+            0.7233115234375,
+            0.02628294626871741
+          ],
+          "start_char": 52,
+          "end_char": 95
+        },
+        {
+          "text": "compelled to give back.",
+          "confidence": 1,
+          "box": [
+            0.1633986909759691,
+            0.6873333332271605,
+            0.41176470947265625,
+            0.026329457600911432
+          ],
+          "start_char": 96,
+          "end_char": 119
+        },
+        {
+          "text": "Social Proof - Show testimonials,",
+          "confidence": 1,
+          "box": [
+            0.16517685925194997,
+            0.6132168819383054,
+            0.58916357421875,
+            0.03201855723063152
+          ],
+          "start_char": 120,
+          "end_char": 153
+        },
+        {
+          "text": "followers, or user results.",
+          "confidence": 1,
+          "box": [
+            0.16319846533500834,
+            0.5774285349485557,
+            0.44264596557617186,
+            0.02874026870727553
+          ],
+          "start_char": 154,
+          "end_char": 181
+        },
+        {
+          "text": "Authority - Position yourself as an",
+          "confidence": 1,
+          "box": [
+            0.16339869149701589,
+            0.5072674417488203,
+            0.6078431396484375,
+            0.026162790934244784
+          ],
+          "start_char": 182,
+          "end_char": 217
+        },
+        {
+          "text": "expert (content = proof).",
+          "confidence": 1,
+          "box": [
+            0.1653741151503816,
+            0.47077032447695955,
+            0.43387731933593754,
+            0.027957078297932925
+          ],
+          "start_char": 218,
+          "end_char": 243
+        },
+        {
+          "text": "Scarcity - Limited offers trigger",
+          "confidence": 1,
+          "box": [
+            0.16557734571125549,
+            0.39970930236066815,
+            0.5751633911132812,
+            0.02495736440022789
+          ],
+          "start_char": 244,
+          "end_char": 277
+        },
+        {
+          "text": "immediate action.",
+          "confidence": 1,
+          "box": [
+            0.15870201423580624,
+            0.3661179779349536,
+            0.3189278259277344,
+            0.026206359863281237
+          ],
+          "start_char": 278,
+          "end_char": 295
+        },
+        {
+          "text": "Consistency - Repetition builds trust",
+          "confidence": 1,
+          "box": [
+            0.16557733406911213,
+            0.29200000035998197,
+            0.6514161376953125,
+            0.024860464731852217
+          ],
+          "start_char": 296,
+          "end_char": 333
+        },
+        {
+          "text": "and familiarity.",
+          "confidence": 1,
+          "box": [
+            0.16290314452368368,
+            0.25668770653114403,
+            0.26506967163085937,
+            0.02938986714680991
+          ],
+          "start_char": 334,
+          "end_char": 350
+        },
+        {
+          "text": "Liking - People buy from those they like",
+          "confidence": 1,
+          "box": [
+            0.16557732875930184,
+            0.18313953477066847,
+            0.6862745361328125,
+            0.026193798065185514
+          ],
+          "start_char": 351,
+          "end_char": 391
+        },
+        {
+          "text": "and relate to.",
+          "confidence": 1,
+          "box": [
+            0.16305698178383085,
+            0.1509633697450269,
+            0.24063291931152345,
+            0.02507574462890627
+          ],
+          "start_char": 392,
+          "end_char": 406
+        },
+        {
+          "text": "Urgency - Time limits increase",
+          "confidence": 1,
+          "box": [
+            0.1655773526709149,
+            0.0770348837575211,
+            0.5294117431640626,
+            0.024965115865071663
+          ],
+          "start_char": 407,
+          "end_char": 437
+        },
+        {
+          "text": "conversions.",
+          "confidence": 1,
+          "box": [
+            0.163385258429543,
+            0.04499489966967363,
+            0.21828697204589848,
+            0.023882123311360637
+          ],
+          "start_char": 438,
+          "end_char": 450
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 450
+    },
+    {
+      "text": "Lista de sete princípios psicológicos; alegações de efeito são conteúdo da peça, sem validação independente.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 452,
+      "end_char": 560
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1000,
+      1500
+    ],
+    "ocr_rows": 16,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

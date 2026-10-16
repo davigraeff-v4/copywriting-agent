@@ -1,0 +1,572 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5ed7a359c91c472f2528f30becdc37c0.jpg",
+  "source_sha256": "8789d001222381781c445773d4225967d403cc659dd27fb74612ae37050b8b2c",
+  "text": "Fatima Masood\nBrand Designer\nLINKEDIN CONTENT FUNNEL\nTurn your content into a client-conversion machine.\nWhat is a LinkedIn Content Funnel?\nA LinkedIn Content Funnel is a strategy that guides your audience\nfrom awareness to trust to conversion through intentional content.\nThink of it like this:\nSee your content • Trust your value • Message you • Become a client\nGoal:\nGrab attention &\nTO FU\ngrow reach.\nContent Types:\nPersonal stories\nMOFU\n→ Goal:\nBehind-the-scenes\nEducate, show authority\nHot takes opinions\n& build trust.\nViral-style relatable content\nBOFU\nContent Types:\nHow-tos & tips\nMyths vs truths\nGoal:\nMistakes to avoid\nPrompt action (DM,\nBefore-after examples\ndiscovery call, sign-up)\nCase studies\nContent Types:\nTestimonials\nClient wins\nSoft pitches\nBonus Tips:\nService breakdowns\n1. Post BOF content at least once a week\n2. Use call-to-actions like: \"DM me 'strotegy' if you wont\nmy ex1ct process\"\n3. Your funnel fails if there's noconversion content\nA content funnel brings balance and clarity, so your audience\nknows who you are, why you matter, and how to work with you.\n\nFunil de conteúdo para LinkedIn com três níveis e tipos de conteúdo em cada etapa.",
+  "segments": [
+    {
+      "text": "Fatima Masood\nBrand Designer\nLINKEDIN CONTENT FUNNEL\nTurn your content into a client-conversion machine.\nWhat is a LinkedIn Content Funnel?\nA LinkedIn Content Funnel is a strategy that guides your audience\nfrom awareness to trust to conversion through intentional content.\nThink of it like this:\nSee your content • Trust your value • Message you • Become a client\nGoal:\nGrab attention &\nTO FU\ngrow reach.\nContent Types:\nPersonal stories\nMOFU\n→ Goal:\nBehind-the-scenes\nEducate, show authority\nHot takes opinions\n& build trust.\nViral-style relatable content\nBOFU\nContent Types:\nHow-tos & tips\nMyths vs truths\nGoal:\nMistakes to avoid\nPrompt action (DM,\nBefore-after examples\ndiscovery call, sign-up)\nCase studies\nContent Types:\nTestimonials\nClient wins\nSoft pitches\nBonus Tips:\nService breakdowns\n1. Post BOF content at least once a week\n2. Use call-to-actions like: \"DM me 'strotegy' if you wont\nmy ex1ct process\"\n3. Your funnel fails if there's noconversion content\nA content funnel brings balance and clarity, so your audience\nknows who you are, why you matter, and how to work with you.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.03148148138888889,
+            0.9511111111199678,
+            0.17407407407407408,
+            0.016296296296296253
+          ],
+          "text": "Fatima Masood",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "box": [
+            0.7944444449444445,
+            0.9481481483555556,
+            0.17222222222222228,
+            0.020740740740740726
+          ],
+          "text": "Brand Designer",
+          "confidence": 1,
+          "start_char": 14,
+          "end_char": 28
+        },
+        {
+          "box": [
+            0.08333333324761641,
+            0.8488888888982398,
+            0.8333333333333334,
+            0.0755555555555556
+          ],
+          "text": "LINKEDIN CONTENT FUNNEL",
+          "confidence": 1,
+          "start_char": 29,
+          "end_char": 52
+        },
+        {
+          "box": [
+            0.08878082781045862,
+            0.7995292667519662,
+            0.8224316632306135,
+            0.03287024603949651
+          ],
+          "text": "Turn your content into a client-conversion machine.",
+          "confidence": 1,
+          "start_char": 53,
+          "end_char": 104
+        },
+        {
+          "box": [
+            0.2148148147277647,
+            0.7303703703742828,
+            0.5648148148148149,
+            0.022222222222222143
+          ],
+          "text": "What is a LinkedIn Content Funnel?",
+          "confidence": 1,
+          "start_char": 105,
+          "end_char": 139
+        },
+        {
+          "box": [
+            0.1259259258251256,
+            0.6977777777804453,
+            0.7351851851851852,
+            0.01925925925925931
+          ],
+          "text": "A LinkedIn Content Funnel is a strategy that guides your audience",
+          "confidence": 1,
+          "start_char": 140,
+          "end_char": 205
+        },
+        {
+          "box": [
+            0.12396718691450248,
+            0.6774176479048502,
+            0.7391068635163484,
+            0.023557724422878845
+          ],
+          "text": "from awareness to trust to conversion through intentional content.",
+          "confidence": 1,
+          "start_char": 206,
+          "end_char": 272
+        },
+        {
+          "box": [
+            0.3944444443433484,
+            0.6414814814913077,
+            0.2018518518518519,
+            0.019259259259259198
+          ],
+          "text": "Think of it like this:",
+          "confidence": 1,
+          "start_char": 273,
+          "end_char": 295
+        },
+        {
+          "box": [
+            0.11847986498394115,
+            0.615201683134579,
+            0.7593494556568288,
+            0.021935894577591597
+          ],
+          "text": "See your content • Trust your value • Message you • Become a client",
+          "confidence": 1,
+          "start_char": 296,
+          "end_char": 363
+        },
+        {
+          "box": [
+            0.04418748916558686,
+            0.5356309297638535,
+            0.08199539184570313,
+            0.0220714738633897
+          ],
+          "text": "Goal:",
+          "confidence": 1,
+          "start_char": 364,
+          "end_char": 369
+        },
+        {
+          "box": [
+            0.042592593904320956,
+            0.5125925927283951,
+            0.18703703703703703,
+            0.016296296296296253
+          ],
+          "text": "Grab attention &",
+          "confidence": 1,
+          "start_char": 370,
+          "end_char": 386
+        },
+        {
+          "box": [
+            0.42777777768888886,
+            0.499259259362963,
+            0.11481481481481487,
+            0.051851851851851816
+          ],
+          "text": "TO FU",
+          "confidence": 1,
+          "start_char": 387,
+          "end_char": 392
+        },
+        {
+          "box": [
+            0.042252619063866334,
+            0.4900188047271563,
+            0.13759309274178966,
+            0.0200821996618199
+          ],
+          "text": "grow reach.",
+          "confidence": 1,
+          "start_char": 393,
+          "end_char": 404
+        },
+        {
+          "box": [
+            0.03998252143609283,
+            0.44452829972060437,
+            0.2367435455322266,
+            0.033196368747287264
+          ],
+          "text": "Content Types:",
+          "confidence": 1,
+          "start_char": 405,
+          "end_char": 419
+        },
+        {
+          "box": [
+            0.04054872604078536,
+            0.42645304779933113,
+            0.1781605331986039,
+            0.01812705640439627
+          ],
+          "text": "Personal stories",
+          "confidence": 1,
+          "start_char": 420,
+          "end_char": 436
+        },
+        {
+          "box": [
+            0.42777777788720533,
+            0.41777777803367,
+            0.13148148148148148,
+            0.05629629629629629
+          ],
+          "text": "MOFU",
+          "confidence": 0.5,
+          "start_char": 437,
+          "end_char": 441
+        },
+        {
+          "box": [
+            0.6666666665838207,
+            0.4414814814983756,
+            0.12037037037037035,
+            0.019259259259259198
+          ],
+          "text": "→ Goal:",
+          "confidence": 1,
+          "start_char": 442,
+          "end_char": 449
+        },
+        {
+          "box": [
+            0.044444442500000035,
+            0.41037037053703707,
+            0.2111111111111111,
+            0.013333333333333308
+          ],
+          "text": "Behind-the-scenes",
+          "confidence": 1,
+          "start_char": 450,
+          "end_char": 467
+        },
+        {
+          "box": [
+            0.7016933686531633,
+            0.412174701006783,
+            0.2688254744918257,
+            0.020584952742965124
+          ],
+          "text": "Educate, show authority",
+          "confidence": 1,
+          "start_char": 468,
+          "end_char": 491
+        },
+        {
+          "box": [
+            0.0460785275269222,
+            0.3887239134483941,
+            0.21528706020779081,
+            0.020075229362205294
+          ],
+          "text": "Hot takes opinions",
+          "confidence": 1,
+          "start_char": 492,
+          "end_char": 510
+        },
+        {
+          "box": [
+            0.70185185167885,
+            0.398518518539961,
+            0.1425925925925926,
+            0.016296296296296364
+          ],
+          "text": "& build trust.",
+          "confidence": 1,
+          "start_char": 511,
+          "end_char": 525
+        },
+        {
+          "box": [
+            0.04061369666689545,
+            0.36610483169370034,
+            0.315059972692419,
+            0.02085579201027199
+          ],
+          "text": "Viral-style relatable content",
+          "confidence": 1,
+          "start_char": 526,
+          "end_char": 555
+        },
+        {
+          "box": [
+            0.42711565217414843,
+            0.3368213315098533,
+            0.12354647318522133,
+            0.0567277074743201
+          ],
+          "text": "BOFU",
+          "confidence": 0.5,
+          "start_char": 556,
+          "end_char": 560
+        },
+        {
+          "box": [
+            0.6994375301650974,
+            0.34853863647806116,
+            0.23626988728841147,
+            0.03181231463396994
+          ],
+          "text": "Content Types:",
+          "confidence": 1,
+          "start_char": 561,
+          "end_char": 575
+        },
+        {
+          "box": [
+            0.7018518517423057,
+            0.3288888889024516,
+            0.16296296296296298,
+            0.01925925925925931
+          ],
+          "text": "How-tos & tips",
+          "confidence": 1,
+          "start_char": 576,
+          "end_char": 590
+        },
+        {
+          "box": [
+            0.7018518517137752,
+            0.30962962964652363,
+            0.1685185185185185,
+            0.01925925925925931
+          ],
+          "text": "Myths vs truths",
+          "confidence": 1,
+          "start_char": 591,
+          "end_char": 606
+        },
+        {
+          "box": [
+            0.04259259249249249,
+            0.29629629632232235,
+            0.08148148148148149,
+            0.019259259259259198
+          ],
+          "text": "Goal:",
+          "confidence": 1,
+          "start_char": 607,
+          "end_char": 612
+        },
+        {
+          "box": [
+            0.7018518533148148,
+            0.29481481497777773,
+            0.19444444444444442,
+            0.016296296296296253
+          ],
+          "text": "Mistakes to avoid",
+          "confidence": 1,
+          "start_char": 613,
+          "end_char": 630
+        },
+        {
+          "box": [
+            0.040489659219121,
+            0.2680342075272234,
+            0.2172668174461082,
+            0.02412051448115593
+          ],
+          "text": "Prompt action (DM,",
+          "confidence": 1,
+          "start_char": 631,
+          "end_char": 649
+        },
+        {
+          "box": [
+            0.7016734682247435,
+            0.27223332226243324,
+            0.2522075794361256,
+            0.01989150718406385
+          ],
+          "text": "Before-after examples",
+          "confidence": 1,
+          "start_char": 650,
+          "end_char": 671
+        },
+        {
+          "box": [
+            0.04059585827429249,
+            0.24767614970152774,
+            0.261470455593533,
+            0.023504948086208843
+          ],
+          "text": "discovery call, sign-up)",
+          "confidence": 1,
+          "start_char": 672,
+          "end_char": 696
+        },
+        {
+          "box": [
+            0.7018518517430923,
+            0.25481481482774837,
+            0.1444444444444445,
+            0.016296296296296253
+          ],
+          "text": "Case studies",
+          "confidence": 1,
+          "start_char": 697,
+          "end_char": 709
+        },
+        {
+          "box": [
+            0.03995400107968068,
+            0.20513030557306833,
+            0.2348965680157697,
+            0.032468719482421804
+          ],
+          "text": "Content Types:",
+          "confidence": 1,
+          "start_char": 710,
+          "end_char": 724
+        },
+        {
+          "box": [
+            0.04259259247332077,
+            0.18962962964218455,
+            0.14074074074074078,
+            0.014814814814814836
+          ],
+          "text": "Testimonials",
+          "confidence": 1,
+          "start_char": 725,
+          "end_char": 737
+        },
+        {
+          "box": [
+            0.04074074062592592,
+            0.1703703703851852,
+            0.12222222222222223,
+            0.014814814814814836
+          ],
+          "text": "Client wins",
+          "confidence": 1,
+          "start_char": 738,
+          "end_char": 749
+        },
+        {
+          "box": [
+            0.040674428433204395,
+            0.1449088118070717,
+            0.13346595764160155,
+            0.021293488255253568
+          ],
+          "text": "Soft pitches",
+          "confidence": 1,
+          "start_char": 750,
+          "end_char": 762
+        },
+        {
+          "box": [
+            0.40328698902795534,
+            0.14765863622867104,
+            0.16555188496907547,
+            0.02602678369592737
+          ],
+          "text": "Bonus Tips:",
+          "confidence": 1,
+          "start_char": 763,
+          "end_char": 774
+        },
+        {
+          "box": [
+            0.04074074061515539,
+            0.13185185186036608,
+            0.22592592592592595,
+            0.014814814814814836
+          ],
+          "text": "Service breakdowns",
+          "confidence": 1,
+          "start_char": 775,
+          "end_char": 793
+        },
+        {
+          "box": [
+            0.4018518517592592,
+            0.12740740741074408,
+            0.4111111111111111,
+            0.014814814814814836
+          ],
+          "text": "1. Post BOF content at least once a week",
+          "confidence": 1,
+          "start_char": 794,
+          "end_char": 834
+        },
+        {
+          "box": [
+            0.40185185183683675,
+            0.10518518519386044,
+            0.5814814814814815,
+            0.019259259259259198
+          ],
+          "text": "2. Use call-to-actions like: \"DM me 'strotegy' if you wont",
+          "confidence": 1,
+          "start_char": 835,
+          "end_char": 893
+        },
+        {
+          "box": [
+            0.40150075819478737,
+            0.08364238136165991,
+            0.19715622795952692,
+            0.021804227475766713
+          ],
+          "text": "my ex1ct process\"",
+          "confidence": 1,
+          "start_char": 894,
+          "end_char": 911
+        },
+        {
+          "box": [
+            0.4017225996989781,
+            0.06655469486083787,
+            0.5169216579861111,
+            0.02133503525345415
+          ],
+          "text": "3. Your funnel fails if there's noconversion content",
+          "confidence": 1,
+          "start_char": 912,
+          "end_char": 964
+        },
+        {
+          "box": [
+            0.39999999989993495,
+            0.028148148151267094,
+            0.5777777777777777,
+            0.01777777777777767
+          ],
+          "text": "A content funnel brings balance and clarity, so your audience",
+          "confidence": 1,
+          "start_char": 965,
+          "end_char": 1026
+        },
+        {
+          "box": [
+            0.3999999999001141,
+            0.011851851854896012,
+            0.587037037037037,
+            0.01777777777777778
+          ],
+          "text": "knows who you are, why you matter, and how to work with you.",
+          "confidence": 1,
+          "start_char": 1027,
+          "end_char": 1087
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1087
+    },
+    {
+      "text": "Funil de conteúdo para LinkedIn com três níveis e tipos de conteúdo em cada etapa.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1089,
+      "end_char": 1171
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1350
+    ],
+    "ocr_rows": 44,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9772727272727273,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

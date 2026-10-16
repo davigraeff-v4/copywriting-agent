@@ -1,0 +1,560 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/b395c4339b17994646d8a7a0f90d1080.jpg",
+  "source_sha256": "8d579913d429c1dd2aeca238691fbb853538790037a3e3c17407481b8eee3604",
+  "text": "SINGLES SERIES\n@kenny.kenray\nAN OVERVIEW OF THE\nComplete Brand\nBrand Strategy\nTHE WHY\nTHE WHO\nBrand\nPositioning\nSubstance\nStrategy\nー\nPurpose\nVision\nMission\nValues\nAudience Competition Difference\nBrand Expression\nTHE HOW\nTHE WHAT\nBrand\nBrand\nVisual\nPersona\nCommunication\nExpression\nBrand\nCore\ntortelling\nBrand\nBrand\nBrand\nVoice\nMessaging\nramework\nTaglines\nIdentity\nPresence\nKenny Song\n© Ken Ray Communications Sdn Bhd\nSave for\nBrand Designer\nreference\n\nÁrvore de componentes de marca: estratégia, substância, posicionamento, persona, comunicação e expressão visual.",
+  "segments": [
+    {
+      "text": "SINGLES SERIES\n@kenny.kenray\nAN OVERVIEW OF THE\nComplete Brand\nBrand Strategy\nTHE WHY\nTHE WHO\nBrand\nPositioning\nSubstance\nStrategy\nー\nPurpose\nVision\nMission\nValues\nAudience Competition Difference\nBrand Expression\nTHE HOW\nTHE WHAT\nBrand\nBrand\nVisual\nPersona\nCommunication\nExpression\nBrand\nCore\ntortelling\nBrand\nBrand\nBrand\nVoice\nMessaging\nramework\nTaglines\nIdentity\nPresence\nKenny Song\n© Ken Ray Communications Sdn Bhd\nSave for\nBrand Designer\nreference",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "SINGLES SERIES",
+          "confidence": 1,
+          "box": [
+            0.047272727094696966,
+            0.9382352941360295,
+            0.1781818181818182,
+            0.01764705882352935
+          ],
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "text": "@kenny.kenray",
+          "confidence": 1,
+          "box": [
+            0.7963636360654546,
+            0.9352941176882352,
+            0.15636363636363637,
+            0.020588235294117685
+          ],
+          "start_char": 15,
+          "end_char": 28
+        },
+        {
+          "text": "AN OVERVIEW OF THE",
+          "confidence": 1,
+          "box": [
+            0.22909090891032788,
+            0.8411764705972389,
+            0.5381818181818182,
+            0.026470588235294135
+          ],
+          "start_char": 29,
+          "end_char": 47
+        },
+        {
+          "text": "Complete Brand",
+          "confidence": 1,
+          "box": [
+            0.15966025970391498,
+            0.7635887379987671,
+            0.6807923473011364,
+            0.07485264609841746
+          ],
+          "start_char": 48,
+          "end_char": 62
+        },
+        {
+          "text": "Brand Strategy",
+          "confidence": 1,
+          "box": [
+            0.3333016725555895,
+            0.6807391362207116,
+            0.3845951149680398,
+            0.054132315691779676
+          ],
+          "start_char": 63,
+          "end_char": 77
+        },
+        {
+          "text": "THE WHY",
+          "confidence": 1,
+          "box": [
+            0.08722318111547038,
+            0.6733504632288774,
+            0.11282636469060724,
+            0.020946133136749312
+          ],
+          "start_char": 78,
+          "end_char": 85
+        },
+        {
+          "text": "THE WHO",
+          "confidence": 1,
+          "box": [
+            0.08716531908132392,
+            0.6467063679782752,
+            0.11657845237038354,
+            0.024234322940602127
+          ],
+          "start_char": 86,
+          "end_char": 93
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.24724093679093284,
+            0.5734520716352244,
+            0.09824539878151634,
+            0.026625268599566265
+          ],
+          "start_char": 94,
+          "end_char": 99
+        },
+        {
+          "text": "Positioning",
+          "confidence": 1,
+          "box": [
+            0.6615563564446928,
+            0.5719133376642977,
+            0.18262849287553273,
+            0.029457995470832277
+          ],
+          "start_char": 100,
+          "end_char": 111
+        },
+        {
+          "text": "Substance",
+          "confidence": 1,
+          "box": [
+            0.21085881265334014,
+            0.5497859619111731,
+            0.1710096463290128,
+            0.02689866458668433
+          ],
+          "start_char": 112,
+          "end_char": 121
+        },
+        {
+          "text": "Strategy",
+          "confidence": 1,
+          "box": [
+            0.6829146317762943,
+            0.5456216728721468,
+            0.14319728504527696,
+            0.028564046410953337
+          ],
+          "start_char": 122,
+          "end_char": 130
+        },
+        {
+          "text": "ー",
+          "confidence": 1,
+          "box": [
+            0.221818180769387,
+            0.5058823525830827,
+            0.02545454718849874,
+            0.020588236696579942
+          ],
+          "start_char": 131,
+          "end_char": 132
+        },
+        {
+          "text": "Purpose",
+          "confidence": 1,
+          "box": [
+            0.06470960658721016,
+            0.4698910993108618,
+            0.08847129128196023,
+            0.02044692179735963
+          ],
+          "start_char": 133,
+          "end_char": 140
+        },
+        {
+          "text": "Vision",
+          "confidence": 1,
+          "box": [
+            0.19999999965656565,
+            0.4735294118627451,
+            0.06909090909090912,
+            0.01764705882352935
+          ],
+          "start_char": 141,
+          "end_char": 147
+        },
+        {
+          "text": "Mission",
+          "confidence": 1,
+          "box": [
+            0.3163636356,
+            0.4735294119411765,
+            0.08363636363636362,
+            0.01764705882352935
+          ],
+          "start_char": 148,
+          "end_char": 155
+        },
+        {
+          "text": "Values",
+          "confidence": 1,
+          "box": [
+            0.4471502993552227,
+            0.47319349832526214,
+            0.0729721277410334,
+            0.018318885915419636
+          ],
+          "start_char": 156,
+          "end_char": 162
+        },
+        {
+          "text": "Audience Competition Difference",
+          "confidence": 1,
+          "box": [
+            0.5890909088745684,
+            0.47352941177587493,
+            0.3418181818181818,
+            0.01764705882352946
+          ],
+          "start_char": 163,
+          "end_char": 194
+        },
+        {
+          "text": "Brand Expression",
+          "confidence": 1,
+          "box": [
+            0.24665490057620404,
+            0.3678753353387556,
+            0.4449107499556108,
+            0.04863798758562865
+          ],
+          "start_char": 195,
+          "end_char": 211
+        },
+        {
+          "text": "THE HOW",
+          "confidence": 1,
+          "box": [
+            0.7963012832015569,
+            0.37332603804323217,
+            0.11648834228515625,
+            0.023936159470501983
+          ],
+          "start_char": 212,
+          "end_char": 219
+        },
+        {
+          "text": "THE WHAT",
+          "confidence": 1,
+          "box": [
+            0.7854206568894828,
+            0.3498760462156716,
+            0.13097686767578132,
+            0.02377731940325567
+          ],
+          "start_char": 220,
+          "end_char": 228
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.098181818006993,
+            0.25000000005090495,
+            0.09818181818181818,
+            0.026470588235294135
+          ],
+          "start_char": 229,
+          "end_char": 234
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.4181818187272727,
+            0.25294117673529415,
+            0.0981818181818182,
+            0.026470588235294135
+          ],
+          "start_char": 235,
+          "end_char": 240
+        },
+        {
+          "text": "Visual",
+          "confidence": 1,
+          "box": [
+            0.7818181808363637,
+            0.25294117673529415,
+            0.10545454545454547,
+            0.026470588235294135
+          ],
+          "start_char": 241,
+          "end_char": 247
+        },
+        {
+          "text": "Persona",
+          "confidence": 1,
+          "box": [
+            0.07999999893939394,
+            0.22647058843137247,
+            0.13454545454545455,
+            0.02352941176470591
+          ],
+          "start_char": 248,
+          "end_char": 255
+        },
+        {
+          "text": "Communication",
+          "confidence": 1,
+          "box": [
+            0.3418181816012759,
+            0.22647058825851396,
+            0.2545454545454546,
+            0.026470588235294135
+          ],
+          "start_char": 256,
+          "end_char": 269
+        },
+        {
+          "text": "Expression",
+          "confidence": 1,
+          "box": [
+            0.745157248525339,
+            0.22230187447781102,
+            0.17877641157670454,
+            0.03186683935277601
+          ],
+          "start_char": 270,
+          "end_char": 280
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.11999999981818182,
+            0.15294117652249128,
+            0.06181818181818183,
+            0.01764705882352946
+          ],
+          "start_char": 281,
+          "end_char": 286
+        },
+        {
+          "text": "Core",
+          "confidence": 1,
+          "box": [
+            0.2762194458259258,
+            0.15264543021003196,
+            0.05483383525501595,
+            0.018238551476422393
+          ],
+          "start_char": 287,
+          "end_char": 291
+        },
+        {
+          "text": "tortelling",
+          "confidence": 1,
+          "box": [
+            0.42113533546723786,
+            0.15252195918616918,
+            0.09258741205388848,
+            0.02085440439336439
+          ],
+          "start_char": 292,
+          "end_char": 302
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.6036363634431818,
+            0.15294117652573536,
+            0.06181818181818177,
+            0.01764705882352946
+          ],
+          "start_char": 303,
+          "end_char": 308
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.7416731364303345,
+            0.15260308425259272,
+            0.06210827220569959,
+            0.01832324336556823
+          ],
+          "start_char": 309,
+          "end_char": 314
+        },
+        {
+          "text": "Brand",
+          "confidence": 1,
+          "box": [
+            0.8545454539272727,
+            0.15000000023529414,
+            0.06909090909090909,
+            0.02352941176470591
+          ],
+          "start_char": 315,
+          "end_char": 320
+        },
+        {
+          "text": "Voice",
+          "confidence": 1,
+          "box": [
+            0.11999999922727274,
+            0.1352941178676471,
+            0.061818181818181814,
+            0.01764705882352935
+          ],
+          "start_char": 321,
+          "end_char": 326
+        },
+        {
+          "text": "Messaging",
+          "confidence": 1,
+          "box": [
+            0.24663855914689997,
+            0.13224970608092057,
+            0.11395779696377839,
+            0.020060685101677356
+          ],
+          "start_char": 327,
+          "end_char": 336
+        },
+        {
+          "text": "ramework",
+          "confidence": 1,
+          "box": [
+            0.4218181816363637,
+            0.13823529414027136,
+            0.09454545454545454,
+            0.01176470588235301
+          ],
+          "start_char": 337,
+          "end_char": 345
+        },
+        {
+          "text": "Taglines",
+          "confidence": 1,
+          "box": [
+            0.5878252164984816,
+            0.1297367593015687,
+            0.08949270768599071,
+            0.02397627269520486
+          ],
+          "start_char": 346,
+          "end_char": 354
+        },
+        {
+          "text": "Identity",
+          "confidence": 1,
+          "box": [
+            0.7345454542909091,
+            0.1352941177058824,
+            0.0763636363636363,
+            0.01764705882352946
+          ],
+          "start_char": 355,
+          "end_char": 363
+        },
+        {
+          "text": "Presence",
+          "confidence": 1,
+          "box": [
+            0.8362028805571665,
+            0.13476103220401636,
+            0.10213969143954182,
+            0.021654406715841845
+          ],
+          "start_char": 364,
+          "end_char": 372
+        },
+        {
+          "text": "Kenny Song",
+          "confidence": 1,
+          "box": [
+            0.14181818164285714,
+            0.050000000031512615,
+            0.1054545454545455,
+            0.01764705882352946
+          ],
+          "start_char": 373,
+          "end_char": 383
+        },
+        {
+          "text": "© Ken Ray Communications Sdn Bhd",
+          "confidence": 1,
+          "box": [
+            0.40727272709090917,
+            0.04705882354072399,
+            0.2363636363636364,
+            0.014705882352941124
+          ],
+          "start_char": 384,
+          "end_char": 416
+        },
+        {
+          "text": "Save for",
+          "confidence": 1,
+          "box": [
+            0.8181818185454546,
+            0.05294117676470578,
+            0.07999999999999996,
+            0.01764705882352946
+          ],
+          "start_char": 417,
+          "end_char": 425
+        },
+        {
+          "text": "Brand Designer",
+          "confidence": 1,
+          "box": [
+            0.14181818163636364,
+            0.03235294120168064,
+            0.13454545454545455,
+            0.01764705882352946
+          ],
+          "start_char": 426,
+          "end_char": 440
+        },
+        {
+          "text": "reference",
+          "confidence": 1,
+          "box": [
+            0.8036363634204545,
+            0.03235294123161769,
+            0.09818181818181826,
+            0.01764705882352946
+          ],
+          "start_char": 441,
+          "end_char": 450
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 450
+    },
+    {
+      "text": "Árvore de componentes de marca: estratégia, substância, posicionamento, persona, comunicação e expressão visual.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 452,
+      "end_char": 564
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      549,
+      679
+    ],
+    "ocr_rows": 43,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

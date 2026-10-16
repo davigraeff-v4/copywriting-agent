@@ -1,0 +1,332 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ac19ae10bbed5497a7be0b76d59c3c72.jpg",
+  "source_sha256": "83b95855ac47dbd5379b2e83e47edbe373231402419deab04add82064f1dd782",
+  "text": "ON-PAGE SEO TIPS\nUse SEO-friendly URLS\nUse Header Tags: H1, H2, H3, H4, H5, H6\nRespect Content Hierarchy\nUse only one H1 per page\nUse Page Titles\nUse HTML Descriptions\nAdd Visual Content\n8\nUse Social Sharing Buttons\nInclude FAQ Section\nA BLOG on your web is a must\n11\nReadable and well Structured Content\nUse Internal Links\nUse External Links\n14\nOptimize your images: Resize them\n15\nOptimize your images: Name them properly\nOptimize your images: Use the correct Format\nOptimize your images: Use ALT Tags\nUpdate your old content\nwww.affiliatemediaprofit.com\n\nLista de dicas de SEO on-page em faixas horizontais numeradas.",
+  "segments": [
+    {
+      "text": "ON-PAGE SEO TIPS\nUse SEO-friendly URLS\nUse Header Tags: H1, H2, H3, H4, H5, H6\nRespect Content Hierarchy\nUse only one H1 per page\nUse Page Titles\nUse HTML Descriptions\nAdd Visual Content\n8\nUse Social Sharing Buttons\nInclude FAQ Section\nA BLOG on your web is a must\n11\nReadable and well Structured Content\nUse Internal Links\nUse External Links\n14\nOptimize your images: Resize them\n15\nOptimize your images: Name them properly\nOptimize your images: Use the correct Format\nOptimize your images: Use ALT Tags\nUpdate your old content\nwww.affiliatemediaprofit.com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.11104364018405856,
+            0.8389838782336869,
+            0.7806504291036854,
+            0.07657909393310547
+          ],
+          "text": "ON-PAGE SEO TIPS",
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.34239130419730396,
+            0.7753623188512362,
+            0.3233695652173913,
+            0.021739130434782594
+          ],
+          "text": "Use SEO-friendly URLS",
+          "start_char": 17,
+          "end_char": 38
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.24728260855409182,
+            0.7300724637752295,
+            0.5516304347826088,
+            0.02717391304347827
+          ],
+          "text": "Use Header Tags: H1, H2, H3, H4, H5, H6",
+          "start_char": 39,
+          "end_char": 78
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.33943309036286706,
+            0.6919150445656308,
+            0.37006693300993543,
+            0.025263668834299313
+          ],
+          "text": "Respect Content Hierarchy",
+          "start_char": 79,
+          "end_char": 104
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3288043476891559,
+            0.6521739130512625,
+            0.3505434782608695,
+            0.019927536231884035
+          ],
+          "text": "Use only one H1 per page",
+          "start_char": 105,
+          "end_char": 129
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3940217389682024,
+            0.610507246391683,
+            0.2173913043478261,
+            0.019927536231884035
+          ],
+          "text": "Use Page Titles",
+          "start_char": 130,
+          "end_char": 145
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3423913041858806,
+            0.5688405797211242,
+            0.32065217391304346,
+            0.021739130434782705
+          ],
+          "text": "Use HTML Descriptions",
+          "start_char": 146,
+          "end_char": 167
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3641304345724355,
+            0.5307971014634285,
+            0.2798913043478261,
+            0.018115942028985366
+          ],
+          "text": "Add Visual Content",
+          "start_char": 168,
+          "end_char": 186
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.15489130421195654,
+            0.4909420291485507,
+            0.019021739130434756,
+            0.016304347826086918
+          ],
+          "text": "8",
+          "start_char": 187,
+          "end_char": 188
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3200916926700421,
+            0.48359446311045173,
+            0.36524063607920776,
+            0.02706411092177674
+          ],
+          "text": "Use Social Sharing Buttons",
+          "start_char": 189,
+          "end_char": 215
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3614130433192317,
+            0.44746376812623523,
+            0.2798913043478261,
+            0.018115942028985477
+          ],
+          "text": "Include FAQ Section",
+          "start_char": 216,
+          "end_char": 235
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.309541015810503,
+            0.4028559693569559,
+            0.40809614762015967,
+            0.023711249448251093
+          ],
+          "text": "A BLOG on your web is a must",
+          "start_char": 236,
+          "end_char": 264
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1548913041847826,
+            0.3659420291666666,
+            0.021739130434782622,
+            0.018115942028985477
+          ],
+          "text": "11",
+          "start_char": 265,
+          "end_char": 267
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2554347824728261,
+            0.36413043478740126,
+            0.5190217391304346,
+            0.018115942028985477
+          ],
+          "text": "Readable and well Structured Content",
+          "start_char": 268,
+          "end_char": 304
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3940217389587108,
+            0.32427536233142107,
+            0.24728260869565216,
+            0.018115942028985588
+          ],
+          "text": "Use Internal Links",
+          "start_char": 305,
+          "end_char": 323
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.3885869563478261,
+            0.28079710146256043,
+            0.266304347826087,
+            0.019927536231884035
+          ],
+          "text": "Use External Links",
+          "start_char": 324,
+          "end_char": 342
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.15217391290760868,
+            0.2409420291278468,
+            0.02989130434782608,
+            0.019927536231884035
+          ],
+          "text": "14",
+          "start_char": 343,
+          "end_char": 345
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2826086954759681,
+            0.23731884058820207,
+            0.4619565217391305,
+            0.021739130434782594
+          ],
+          "text": "Optimize your images: Resize them",
+          "start_char": 346,
+          "end_char": 379
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.15217391293025362,
+            0.1992753624849034,
+            0.02989130434782608,
+            0.019927536231884035
+          ],
+          "text": "15",
+          "start_char": 380,
+          "end_char": 382
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.23641304308596142,
+            0.19565217392835266,
+            0.5679347826086957,
+            0.021739130434782594
+          ],
+          "text": "Optimize your images: Name them properly",
+          "start_char": 383,
+          "end_char": 423
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.22010869551630438,
+            0.1539855072512729,
+            0.6086956521739131,
+            0.021739130434782705
+          ],
+          "text": "Optimize your images: Use the correct Format",
+          "start_char": 424,
+          "end_char": 468
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2717391302833357,
+            0.11231884058663355,
+            0.4864130434782608,
+            0.021739130434782594
+          ],
+          "text": "Optimize your images: Use ALT Tags",
+          "start_char": 469,
+          "end_char": 503
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.34239130414402175,
+            0.07065217392663026,
+            0.3369565217391304,
+            0.021739130434782705
+          ],
+          "text": "Update your old content",
+          "start_char": 504,
+          "end_char": 527
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.24456521726568906,
+            0.023550724648789934,
+            0.5054347826086957,
+            0.023550724637681153
+          ],
+          "text": "www.affiliatemediaprofit.com",
+          "start_char": 528,
+          "end_char": 556
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 556
+    },
+    {
+      "text": "Lista de dicas de SEO on-page em faixas horizontais numeradas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 558,
+      "end_char": 620
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      1104
+    ],
+    "ocr_rows": 24,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9791666666666666,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

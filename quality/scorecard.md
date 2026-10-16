@@ -31,6 +31,8 @@ Português, sintaxe, registro, ritmo, redundância, entrada, vocabulário e natu
 
 Ambas as médias precisam atingir 8; calculadas pelo código a partir das notas individuais, nunca digitadas como estimativa. Com 8 dimensões de 0/5/10, resultados são múltiplos de 0,625; 8,6 ou 9,1 não são médias possíveis. Scores antigos não são comparáveis diretamente à rubrica v2.
 
+Aplicar `quality/REDUNDANCIA.md` à dimensão redundância: preservar repetição funcional e exigir pares de trechos/efeito para desconto material. A escala 0/5/10 e os mínimos permanecem. A calibração explicita a função da retomada; comparar versões antigas e novas exige reavaliar os mesmos textos sob os mesmos critérios.
+
 ## Evidência da revisão
 
 Cada critério exige campo, trecho literal e justificativa. Referenciar outros campos na justificativa para revisão do conjunto. Conferir inventário de todas as afirmações, inclusive qualitativas e causais; inventário vazio precisa de justificativa verdadeira. Conferir cada restrição semântica.

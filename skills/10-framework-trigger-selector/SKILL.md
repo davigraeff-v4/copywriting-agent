@@ -11,9 +11,12 @@ Ler o SKILL.md integralmente. Modos e checkpoints seguem `CONTRATO-OPERACIONAL-M
 
 - `knowledge/rotas/lp.md` (somente rota LP)
 - `knowledge/narrativa-lp.md` (somente rota LP)
-- `knowledge/rotas/social.md (somente orgânico)`
-- `knowledge/rotas/ads.md (somente anúncio)`
-- `knowledge/rotas/direct.md (somente mensagem direta)`
+- `knowledge/rotas/social.md` (somente orgânico)
+- `knowledge/rotas/ads.md` (somente anúncio)
+- `knowledge/rotas/direct.md` (somente mensagem direta)
+- `quality/DESENVOLVIMENTO-EDITORIAL.md` (papéis dos campos e desenvolvimento por rota)
+
+- `quality/REDUNDANCIA.md` (contribuição por campo, compressão e julgamento de retomadas)
 
 ## Execução e auto-validação
 

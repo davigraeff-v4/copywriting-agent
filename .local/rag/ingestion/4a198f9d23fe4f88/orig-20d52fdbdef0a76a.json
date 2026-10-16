@@ -1,0 +1,416 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1ba17e6ff9e5362c4d3489617f643da8.png",
+  "source_sha256": "20d52fdbdef0a76aa739a39b7e6720ef8213864ab9c9a31043350de0f73cdf7c",
+  "text": "TIKSLY\n3 LAYERS OF CONTENT\nSTRATEGY\nThis will\nfail without\nI1yers 1 &3\nCONTENT STRATEGY,\nContent Pillars\nContent Plan\nTone of voice\n2.POSITIONING STRATEGY.\nChannels\nFormats\nIdentity\nEnemy\nNarrative\nBUSINESS STRATEGY\nVlaue Proposition\nStory\nKPIs\nUSP\nTarget Market\nICP\nPOV\nProblem\nOffer\nStart\nMessaging\nDifferentiation\nHere\nPositioning Statement\n\nCírculos concêntricos relacionam estratégia de negócio, posicionamento e conteúdo.",
+  "segments": [
+    {
+      "text": "TIKSLY\n3 LAYERS OF CONTENT\nSTRATEGY\nThis will\nfail without\nI1yers 1 &3\nCONTENT STRATEGY,\nContent Pillars\nContent Plan\nTone of voice\n2.POSITIONING STRATEGY.\nChannels\nFormats\nIdentity\nEnemy\nNarrative\nBUSINESS STRATEGY\nVlaue Proposition\nStory\nKPIs\nUSP\nTarget Market\nICP\nPOV\nProblem\nOffer\nStart\nMessaging\nDifferentiation\nHere\nPositioning Statement",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 0.5,
+          "text": "TIKSLY",
+          "box": [
+            0.46511628123909393,
+            0.9274149057548636,
+            0.1351744141241517,
+            0.020323826963567583
+          ],
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "confidence": 1,
+          "text": "3 LAYERS OF CONTENT",
+          "box": [
+            0.0986492438065665,
+            0.8481067176560634,
+            0.8056033869785091,
+            0.0416546504951882
+          ],
+          "start_char": 7,
+          "end_char": 26
+        },
+        {
+          "confidence": 1,
+          "text": "STRATEGY",
+          "box": [
+            0.3110465115555342,
+            0.7919227313467441,
+            0.375,
+            0.03871204891199482
+          ],
+          "start_char": 27,
+          "end_char": 35
+        },
+        {
+          "confidence": 1,
+          "text": "This will",
+          "box": [
+            0.10755813851219853,
+            0.7948261345794065,
+            0.07267442054620094,
+            0.010674847868631088
+          ],
+          "start_char": 36,
+          "end_char": 45
+        },
+        {
+          "confidence": 1,
+          "text": "fail without",
+          "box": [
+            0.09156976927439862,
+            0.7793413146561117,
+            0.10465115890759812,
+            0.010723237672817052
+          ],
+          "start_char": 46,
+          "end_char": 58
+        },
+        {
+          "confidence": 1,
+          "text": "I1yers 1 &3",
+          "box": [
+            0.09287000757352742,
+            0.7605865222257956,
+            0.09919838953499843,
+            0.013101925717422622
+          ],
+          "start_char": 59,
+          "end_char": 70
+        },
+        {
+          "confidence": 1,
+          "text": "CONTENT STRATEGY,",
+          "box": [
+            0.27761627422317897,
+            0.7125630279511148,
+            0.4491279165351431,
+            0.0464544604074209
+          ],
+          "start_char": 71,
+          "end_char": 88
+        },
+        {
+          "confidence": 1,
+          "text": "Content Pillars",
+          "box": [
+            0.18313954018217504,
+            0.6061048905837917,
+            0.19186045585658013,
+            0.015562243786816378
+          ],
+          "start_char": 89,
+          "end_char": 104
+        },
+        {
+          "confidence": 1,
+          "text": "Content Plan",
+          "box": [
+            0.5741279078528383,
+            0.6070726913592291,
+            0.17151162760827687,
+            0.014594442885209063
+          ],
+          "start_char": 105,
+          "end_char": 117
+        },
+        {
+          "confidence": 1,
+          "text": "Tone of voice",
+          "box": [
+            0.033430236764163866,
+            0.49383994537137615,
+            0.17732557303174978,
+            0.01451701834199808
+          ],
+          "start_char": 118,
+          "end_char": 131
+        },
+        {
+          "confidence": 1,
+          "text": "2.POSITIONING STRATEGY.",
+          "box": [
+            0.25554124539698336,
+            0.4570238547696583,
+            0.49017154166995475,
+            0.06348053458163216
+          ],
+          "start_char": 132,
+          "end_char": 155
+        },
+        {
+          "confidence": 1,
+          "text": "Channels",
+          "box": [
+            0.8181903854681385,
+            0.48173279921872547,
+            0.12670062286685202,
+            0.015504080627595578
+          ],
+          "start_char": 156,
+          "end_char": 164
+        },
+        {
+          "confidence": 1,
+          "text": "Formats",
+          "box": [
+            0.015895668684909298,
+            0.3793155614867457,
+            0.11210401130445075,
+            0.015164690341569404
+          ],
+          "start_char": 165,
+          "end_char": 172
+        },
+        {
+          "confidence": 1,
+          "text": "Identity",
+          "box": [
+            0.20578637329483285,
+            0.3780531900921468,
+            0.10448304250184132,
+            0.01829546367121719
+          ],
+          "start_char": 173,
+          "end_char": 181
+        },
+        {
+          "confidence": 1,
+          "text": "Enemy",
+          "box": [
+            0.6819254392464599,
+            0.37601272189868684,
+            0.09410055398138284,
+            0.019755065558233028
+          ],
+          "start_char": 182,
+          "end_char": 187
+        },
+        {
+          "confidence": 1,
+          "text": "Narrative",
+          "box": [
+            0.8661285127756831,
+            0.38002297416443004,
+            0.12239413791232634,
+            0.015685467716016806
+          ],
+          "start_char": 188,
+          "end_char": 197
+        },
+        {
+          "confidence": 1,
+          "text": "BUSINESS STRATEGY",
+          "box": [
+            0.34607675630967943,
+            0.3315860150197469,
+            0.3363696525393913,
+            0.06717793873913531
+          ],
+          "start_char": 198,
+          "end_char": 215
+        },
+        {
+          "confidence": 1,
+          "text": "Vlaue Proposition",
+          "box": [
+            0.3851744134442417,
+            0.28866607939314504,
+            0.2311046613185896,
+            0.018388224089711098
+          ],
+          "start_char": 216,
+          "end_char": 233
+        },
+        {
+          "confidence": 1,
+          "text": "Story",
+          "box": [
+            0.009695832857399656,
+            0.24667234119677672,
+            0.0737379440153488,
+            0.021717727836718072
+          ],
+          "start_char": 234,
+          "end_char": 239
+        },
+        {
+          "confidence": 0.5,
+          "text": "KPIs",
+          "box": [
+            0.9287790690396811,
+            0.2528574330031048,
+            0.05232558266482368,
+            0.01354921797571172
+          ],
+          "start_char": 240,
+          "end_char": 244
+        },
+        {
+          "confidence": 1,
+          "text": "USP",
+          "box": [
+            0.17005813942487183,
+            0.22769460088173993,
+            0.05087209309793081,
+            0.014517018341998028
+          ],
+          "start_char": 245,
+          "end_char": 248
+        },
+        {
+          "confidence": 1,
+          "text": "Target Market",
+          "box": [
+            0.32267441553614756,
+            0.2286624017500659,
+            0.19476744783446448,
+            0.018388224089711046
+          ],
+          "start_char": 249,
+          "end_char": 262
+        },
+        {
+          "confidence": 0.5,
+          "text": "ICP",
+          "box": [
+            0.5843023256984455,
+            0.2325336071603245,
+            0.04651162760827687,
+            0.014517018341998028
+          ],
+          "start_char": 263,
+          "end_char": 266
+        },
+        {
+          "confidence": 1,
+          "text": "POV",
+          "box": [
+            0.7776162781756681,
+            0.22575899837439434,
+            0.05668604815447764,
+            0.014517018341998028
+          ],
+          "start_char": 267,
+          "end_char": 270
+        },
+        {
+          "confidence": 1,
+          "text": "Problem",
+          "box": [
+            0.37921381763087647,
+            0.17008917135167467,
+            0.10930492259837965,
+            0.015527329617526259
+          ],
+          "start_char": 271,
+          "end_char": 278
+        },
+        {
+          "confidence": 1,
+          "text": "Offer",
+          "box": [
+            0.5595930245535148,
+            0.17059432700081464,
+            0.0668604622786294,
+            0.01451701834199808
+          ],
+          "start_char": 279,
+          "end_char": 284
+        },
+        {
+          "confidence": 1,
+          "text": "Start",
+          "box": [
+            0.08798962369856804,
+            0.08417637781311303,
+            0.06833331432406749,
+            0.013362091433968857
+          ],
+          "start_char": 285,
+          "end_char": 290
+        },
+        {
+          "confidence": 1,
+          "text": "Messaging",
+          "box": [
+            0.21659914756060122,
+            0.06632211622608489,
+            0.15430170438105012,
+            0.02259652176270984
+          ],
+          "start_char": 291,
+          "end_char": 300
+        },
+        {
+          "confidence": 1,
+          "text": "Differentiation",
+          "box": [
+            0.6161040097461977,
+            0.07140425859886526,
+            0.19279501815436273,
+            0.020823574375015745
+          ],
+          "start_char": 301,
+          "end_char": 316
+        },
+        {
+          "confidence": 1,
+          "text": "Here",
+          "box": [
+            0.0898385561287006,
+            0.05953860991420087,
+            0.06364632937241883,
+            0.013916979929803843
+          ],
+          "start_char": 317,
+          "end_char": 321
+        },
+        {
+          "confidence": 1,
+          "text": "Positioning Statement",
+          "box": [
+            0.3538799703045393,
+            0.020591192953870692,
+            0.29413961802267463,
+            0.020339245403568462
+          ],
+          "start_char": 322,
+          "end_char": 343
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 343
+    },
+    {
+      "text": "Círculos concêntricos relacionam estratégia de negócio, posicionamento e conteúdo.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 345,
+      "end_char": 427
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      2375,
+      3563
+    ],
+    "ocr_rows": 31,
+    "low_confidence_rows": 3,
+    "ocr_mean_confidence": 0.9516129032258065,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

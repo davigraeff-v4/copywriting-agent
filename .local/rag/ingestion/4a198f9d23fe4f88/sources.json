@@ -1,0 +1,4866 @@
+[
+  {
+    "id": "orig-94211e766522b503",
+    "path": ".local/repertorio/originais/scientific-advertising-1923.pdf",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "pdf",
+      "histórico"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Scientific Advertising — Claude C. Hopkins, 1923",
+    "title": "Scientific Advertising — Claude C. Hopkins, 1923",
+    "sha256": "94211e766522b503fb33a27596b7c7bc8e0b41aa61dd23afc16bdf2f2e0130e4",
+    "source_urls": [
+      "https://www.scientificadvertising.com/ScientificAdvertising.pdf"
+    ],
+    "source_ids": [
+      "orig-94211e766522b503"
+    ],
+    "authority": "historical_original",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-94211e766522b503.json",
+    "extraction_sha256": "0133f965513cb5ebcd31a46a37a531c3b6167199f7898f18714caa63095d2f05",
+    "format": ".pdf",
+    "aliases": [
+      {
+        "path": ".local/repertorio/originais/scientific-advertising-1923.txt",
+        "sha256": "27bb68f9ce0a47256d5a9ddb8c155d4b9127ee47b7f8a4f24867432f6cd5cd17",
+        "reason": "alternative_page_marked_text_extraction"
+      }
+    ],
+    "quality": {
+      "page_count": 116,
+      "pages_with_text": 116,
+      "empty_pages": [],
+      "security_flags": [],
+      "ocr_crosschecked_pages": 116,
+      "native_words_seen_in_ocr_min": 0.951,
+      "ocr_words_seen_in_native_min": 0.9775,
+      "visual_review": "All page layouts inspected in rendered contact sheets; pages 1 and 116 inspected individually.",
+      "visual_descriptions": 2
+    }
+  },
+  {
+    "id": "orig-506066d9b886f438",
+    "path": ".local/repertorio/originais/history-of-advertising-1874-gutenberg.txt",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "txt",
+      "histórico"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "A History of Advertising — Henry Sampson, 1874",
+    "title": "A History of Advertising — Henry Sampson, 1874",
+    "sha256": "506066d9b886f43840a33e325cba222c2ef6cdcd2fb60319e650fe07b949ae98",
+    "source_urls": [
+      "https://www.gutenberg.org/cache/epub/54149/pg54149.txt"
+    ],
+    "source_ids": [
+      "orig-506066d9b886f438"
+    ],
+    "authority": "historical_original",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-506066d9b886f438.json",
+    "extraction_sha256": "f1e069e3aa73a4dcddfb3df85e6da0ddb952cc0633fb60b0b31816e9b0398736",
+    "format": ".txt",
+    "aliases": [],
+    "quality": {
+      "page_count": null,
+      "physical_pages_available": false,
+      "security_flags": []
+    }
+  },
+  {
+    "id": "orig-a2beaa87c4484fc5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/001a313630bc3d239e80723b03f6f8a3.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "3 prompts para você",
+    "title": "3 prompts para você",
+    "sha256": "a2beaa87c4484fc5eec5e50a65d1e8f0a42071159b1ad5d8bab0113898d47933",
+    "source_urls": [],
+    "source_ids": [
+      "orig-a2beaa87c4484fc5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-a2beaa87c4484fc5.json",
+    "extraction_sha256": "d0566b5cc98639081282226fb559325d3abbeef1aa5fda3e1723e90b1033c63f",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        593
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-1"
+  },
+  {
+    "id": "orig-73d6f49610c1821f",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00312154441471b2f0bca32ff9c96c2c.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SEO for Dummies",
+    "title": "SEO for Dummies",
+    "sha256": "73d6f49610c1821fcff60d75e51858db8a32c21b5dd4f96287c5f49023b9dc70",
+    "source_urls": [],
+    "source_ids": [
+      "orig-73d6f49610c1821f"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-73d6f49610c1821f.json",
+    "extraction_sha256": "0e9a7344104ccf4ca064391037e2c9011dfd4d7dfa72e04e03b6b300a1a47cfb",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 60,
+      "low_confidence_rows": 4,
+      "ocr_mean_confidence": 0.9666666666666667,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-2"
+  },
+  {
+    "id": "orig-f67238bdc1b82af8",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00410ac50afbf09ce87a09eafe38ea23.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Prompt para a introdução do e-book",
+    "title": "Prompt para a introdução do e-book",
+    "sha256": "f67238bdc1b82af8de658f4b05373e59159992097dcfce09bbab431a61bec06c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-f67238bdc1b82af8"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-f67238bdc1b82af8.json",
+    "extraction_sha256": "07f8dd87f531dfb0de37d924ff24e1f2a4e350d02b5e2d6d2813a731855edd2b",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1256,
+        1651
+      ],
+      "ocr_rows": 15,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-3"
+  },
+  {
+    "id": "orig-75665c8e52bace4a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/005cd71a9291cdd2ce353800ca38ae56.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ChatGPT Prompts That Don't",
+    "title": "ChatGPT Prompts That Don't",
+    "sha256": "75665c8e52bace4ada497434cfd0a6fee24b26ab3f19ced94c4061ed2f4a38ef",
+    "source_urls": [],
+    "source_ids": [
+      "orig-75665c8e52bace4a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-75665c8e52bace4a.json",
+    "extraction_sha256": "61c2ba4576d1a66114bca9c42747fdd77456d0080cf0de148dcbf1d7100f0bcd",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        2200
+      ],
+      "ocr_rows": 43,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-4"
+  },
+  {
+    "id": "orig-890636cc8e84a38b",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "12 copywriting rules",
+    "title": "12 copywriting rules",
+    "sha256": "890636cc8e84a38bb8e7efbd015169cd3267864b100fd1bc8fd2c898ec6a7fed",
+    "source_urls": [],
+    "source_ids": [
+      "orig-890636cc8e84a38b"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-890636cc8e84a38b.json",
+    "extraction_sha256": "2ab832722dd2403a0af049dab71d49359daa025c3a9896050c07a12dc08a27de",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 102,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-5"
+  },
+  {
+    "id": "orig-509ef12527c8a9b4",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "12 copywriting rules",
+    "title": "12 copywriting rules",
+    "sha256": "509ef12527c8a9b4e973fba1647d7ea2f1a7c4350c103a4fc029c09b16f58fa5",
+    "source_urls": [],
+    "source_ids": [
+      "orig-509ef12527c8a9b4"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-509ef12527c8a9b4.json",
+    "extraction_sha256": "9f4a4495d00ad2eae2899b55c26a253ec4b19d63b7922d7cc3c19b2b674dc10f",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        593
+      ],
+      "ocr_rows": 96,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9895833333333334,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-5"
+  },
+  {
+    "id": "orig-3b8e972a985bf408",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/022868989c2a6d88807ffa2b01420434.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TOF VS MOF VS BOF",
+    "title": "TOF VS MOF VS BOF",
+    "sha256": "3b8e972a985bf408c2b8af8bd76b62f3388a3c72891bafb45f667ce4ffad2001",
+    "source_urls": [],
+    "source_ids": [
+      "orig-3b8e972a985bf408"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-3b8e972a985bf408.json",
+    "extraction_sha256": "602563aaa6370fbb49fc878fcf7445bc173b7cb603609f1220700a5042bcd4f6",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        920
+      ],
+      "ocr_rows": 67,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-7"
+  },
+  {
+    "id": "orig-7f4ad7912c2c7d1c",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/028b9b7b2b2438a046674a7f1d4d9e89.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ChatGPT for Marketing",
+    "title": "ChatGPT for Marketing",
+    "sha256": "7f4ad7912c2c7d1c11f3150abc513821ea18c2f9886144e4a5abc603ddbe6041",
+    "source_urls": [],
+    "source_ids": [
+      "orig-7f4ad7912c2c7d1c"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-7f4ad7912c2c7d1c.json",
+    "extraction_sha256": "94949e6db745cfe6903092e4658fc9ac6a99da6e327f5ea4cfa9724af15713bc",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        1100
+      ],
+      "ocr_rows": 52,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-8"
+  },
+  {
+    "id": "orig-babcf8f2aa6ddf17",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/02fe6dcfcf96c14746b852f7a68d80f4.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Viral ChatGPT",
+    "title": "Viral ChatGPT",
+    "sha256": "babcf8f2aa6ddf171f107ebd5b932902673cc71da6a652cc97e169b5bc28517a",
+    "source_urls": [],
+    "source_ids": [
+      "orig-babcf8f2aa6ddf17"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-babcf8f2aa6ddf17.json",
+    "extraction_sha256": "87292282078c26722da6c126c2856844ebd7c61a5f6546fcd9fb88ee07f2f9a1",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        1308
+      ],
+      "ocr_rows": 36,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-9"
+  },
+  {
+    "id": "orig-a5ad0ae2dddb265d",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/032f1c005dc55a4e0fd756cb54455463.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Fotografia de anel com pedra sobre tecido claro; reflexos e transparência da luz participam da composição. Não há texto visível.",
+    "title": "Fotografia de anel com pedra sobre tecido claro; reflexos e transparência da luz participam da composição. Não há texto visível.",
+    "sha256": "a5ad0ae2dddb265dd3ff839c2a613724bc464a81fe8fac3be3c2318b6a73bda9",
+    "source_urls": [],
+    "source_ids": [
+      "orig-a5ad0ae2dddb265d"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-a5ad0ae2dddb265d.json",
+    "extraction_sha256": "998cad04be891ce66fc08f3cf64096a373eb9e547a7183e67cecb17f8be4fe9e",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        841
+      ],
+      "ocr_rows": 0,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": null,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": true
+    },
+    "ranking_group": "visual-10"
+  },
+  {
+    "id": "orig-5f55200288c151cc",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/033ed88ab176e5d01f639e9eb866649e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "BRAND IDENTITY",
+    "title": "BRAND IDENTITY",
+    "sha256": "5f55200288c151cc47d75671f8352ca11a886bd8fd74d0cf4aae227d0d69f7dc",
+    "source_urls": [],
+    "source_ids": [
+      "orig-5f55200288c151cc"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-5f55200288c151cc.json",
+    "extraction_sha256": "798d2450ad632902ab2d7804ab90381bcc0b0f7da852db2db1121f3dfbb4de11",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        609
+      ],
+      "ocr_rows": 44,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.984090909090909,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-11"
+  },
+  {
+    "id": "orig-12967a9a42d55dcd",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/035e0010c16aa3a0948a70b29fd16742.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "REMEMBER: Always",
+    "title": "REMEMBER: Always",
+    "sha256": "12967a9a42d55dcde95b4bdfaf25d3a336e71063cc312a4f07ccc580d780226e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-12967a9a42d55dcd"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-12967a9a42d55dcd.json",
+    "extraction_sha256": "d68008c080eec14613ec58be404611449df08a7a551eda1e79b21c4d2bd51f09",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1920
+      ],
+      "ocr_rows": 2,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-12"
+  },
+  {
+    "id": "orig-f6a57608177b88b5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0521c061e684b13edb695384e52d37bb.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "D Save this post for later",
+    "title": "D Save this post for later",
+    "sha256": "f6a57608177b88b529818b1c641365c050ba093f7abbfaa769501ac1fbc34e9e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-f6a57608177b88b5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-f6a57608177b88b5.json",
+    "extraction_sha256": "a03e44e9cb1e14efdc3d69dde1220ccfd9f3c562d2af71f055414f990803fc9f",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1024,
+        1536
+      ],
+      "ocr_rows": 64,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.984375,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-13"
+  },
+  {
+    "id": "orig-d61ccb22ed7b7bfc",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/056d94fcf97d8d260552195216e8513a.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Como criar um",
+    "title": "Como criar um",
+    "sha256": "d61ccb22ed7b7bfc8c7a97102f4cf41be8b9e9ae4d7171b36c1fc5109da964b7",
+    "source_urls": [],
+    "source_ids": [
+      "orig-d61ccb22ed7b7bfc"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-d61ccb22ed7b7bfc.json",
+    "extraction_sha256": "2a395fa18520604d3fbd2f2304d9fac5841d2342c2d70d11ba7e0f9faa9a3023",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        828,
+        980
+      ],
+      "ocr_rows": 46,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9847826086956522,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-14"
+  },
+  {
+    "id": "orig-3b38b9a69e20dfeb",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05b47e08e1241041e327f9838e41c3d5.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "THE ULTIMATE",
+    "title": "THE ULTIMATE",
+    "sha256": "3b38b9a69e20dfebce5ee26badd9b8b651b9ffbb09ec2bcd1fa7cafa00aa4cf3",
+    "source_urls": [],
+    "source_ids": [
+      "orig-3b38b9a69e20dfeb"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-3b38b9a69e20dfeb.json",
+    "extraction_sha256": "4c41cf0a590ffb5a55af17f520f5d902b69b0740b38f40c9fa89d5e8ff75c75e",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        711
+      ],
+      "ocr_rows": 110,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.989090909090909,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-15"
+  },
+  {
+    "id": "orig-eae97f5ab0d8c122",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05f7bca924c320d79f5316408fa84379.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Abhimanyu Choithramani",
+    "title": "Abhimanyu Choithramani",
+    "sha256": "eae97f5ab0d8c122278050ea59d8baa2ecc90cc74b9dd81d9f906cd4645fa493",
+    "source_urls": [],
+    "source_ids": [
+      "orig-eae97f5ab0d8c122"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-eae97f5ab0d8c122.json",
+    "extraction_sha256": "9ce3d267b06fb7188c3c6da1bc98081682701e416dd0ad044171b7219ab9502a",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1080
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9588235294117647,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-16"
+  },
+  {
+    "id": "orig-51839e0cd1046674",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/07dae897f3be0d4f09b60d5bfb92734c.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TOFU",
+    "title": "TOFU",
+    "sha256": "51839e0cd10466745a8813255ef8f1b806b7523160b343db86374fdf080464f1",
+    "source_urls": [],
+    "source_ids": [
+      "orig-51839e0cd1046674"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-51839e0cd1046674.json",
+    "extraction_sha256": "713c0ea34db71f559082b29d8ab607d026d92ced52a7d6af29562a27f762e910",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        470,
+        421
+      ],
+      "ocr_rows": 33,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9545454545454546,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-17"
+  },
+  {
+    "id": "orig-5fc95c431d251e76",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/09b9b9168f78c2484715f62e2be2c2f9.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Branding",
+    "title": "Branding",
+    "sha256": "5fc95c431d251e76b7a48a4d5428b70345f66ec68de5a5ae6f14f7c500f2ee36",
+    "source_urls": [],
+    "source_ids": [
+      "orig-5fc95c431d251e76"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-5fc95c431d251e76.json",
+    "extraction_sha256": "f7668ea0574cbf85a8ea5741a2f079989d5d0e7a5631f2b09673b80b763d9553",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 16,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-18"
+  },
+  {
+    "id": "orig-22dde06ff7b0c014",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0a638ebe89438fd6d187f798096b0352.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Website Proposal - Buyer Behavior Model",
+    "title": "Website Proposal - Buyer Behavior Model",
+    "sha256": "22dde06ff7b0c0148034a09f856d95f3bc5a22123a5d379814a9e1a50704e346",
+    "source_urls": [],
+    "source_ids": [
+      "orig-22dde06ff7b0c014"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-22dde06ff7b0c014.json",
+    "extraction_sha256": "e76257caf1b57cc3a8c6737b97ce867aef633a93e6da78f9bcb581a97e0102ae",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        960,
+        720
+      ],
+      "ocr_rows": 60,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9833333333333333,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-19"
+  },
+  {
+    "id": "orig-383d46dca94eec3a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e210c9bac18d7040d623a35829e1308.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "On-Page SEO Cheat Sheet 2026",
+    "title": "On-Page SEO Cheat Sheet 2026",
+    "sha256": "383d46dca94eec3a235c496c8595246bab4d9f864999b808370c5a4ef142f75c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-383d46dca94eec3a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-383d46dca94eec3a.json",
+    "extraction_sha256": "096f25b5798f6b3edf02379a0b04befce7416816894210287c178fa1de0a328c",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        4000,
+        5000
+      ],
+      "ocr_rows": 66,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9924242424242424,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-20"
+  },
+  {
+    "id": "orig-c26fa64b96ac52fd",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e254195eab60cf80af0fe71a75b65f6.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Shoots",
+    "title": "Shoots",
+    "sha256": "c26fa64b96ac52fdddcd95200b8ebb1e0ec1e97af01b29c641dfd0d62c0577b1",
+    "source_urls": [],
+    "source_ids": [
+      "orig-c26fa64b96ac52fd"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-c26fa64b96ac52fd.json",
+    "extraction_sha256": "6e073d22db82ee256022cf9817b46194deeb3715792559d416da3113db864655",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        843
+      ],
+      "ocr_rows": 8,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-21"
+  },
+  {
+    "id": "orig-382bf4773a191a12",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/15cf0d6c43d043d2c69ddf1bb332ac25.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "FREE",
+    "title": "FREE",
+    "sha256": "382bf4773a191a1207142dac1e648c87fa94f14aad41bf594439d1134c17f8c7",
+    "source_urls": [],
+    "source_ids": [
+      "orig-382bf4773a191a12"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-382bf4773a191a12.json",
+    "extraction_sha256": "69a5567de4921f24fea6dab6c8acbbba817a660c1af6ea7e4a7dbf707ffd47b2",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        841
+      ],
+      "ocr_rows": 11,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-22"
+  },
+  {
+    "id": "orig-44107d0390e1387f",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/161a443daa151d5853395d12429dafe9.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Content Marketing",
+    "title": "Content Marketing",
+    "sha256": "44107d0390e1387fd5b57afdd856432e91f296168479d32b8a5ba2c4d385799a",
+    "source_urls": [],
+    "source_ids": [
+      "orig-44107d0390e1387f"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-44107d0390e1387f.json",
+    "extraction_sha256": "50a0877d25a3cd4578e2d9409a830f3d8df3adccd1e8655f7c74bbfdca3181da",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1038,
+        1200
+      ],
+      "ocr_rows": 93,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9946236559139785,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-23"
+  },
+  {
+    "id": "orig-ea9ccac366bd6a1f",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/165ccbd531f63976c94230333c3eeb93.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "@joaofurlan.autor",
+    "title": "@joaofurlan.autor",
+    "sha256": "ea9ccac366bd6a1faedef008d54eb186c275a243ff6c0d27e0062e869546a41d",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ea9ccac366bd6a1f"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ea9ccac366bd6a1f.json",
+    "extraction_sha256": "c93ea1d964ffd8e16b8d45071191a2e5400a5b22082a34e6617c215a337dc445",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        828,
+        1003
+      ],
+      "ocr_rows": 64,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9921875,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-24"
+  },
+  {
+    "id": "orig-20d52fdbdef0a76a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1ba17e6ff9e5362c4d3489617f643da8.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TIKSLY",
+    "title": "TIKSLY",
+    "sha256": "20d52fdbdef0a76aa739a39b7e6720ef8213864ab9c9a31043350de0f73cdf7c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-20d52fdbdef0a76a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-20d52fdbdef0a76a.json",
+    "extraction_sha256": "89712643a0950f28f5acf922762295eda6944131cee74132577775684324e5a6",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2375,
+        3563
+      ],
+      "ocr_rows": 31,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9516129032258065,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-25"
+  },
+  {
+    "id": "orig-45d46e29d89ac783",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1f8d9461f78b062c1061cf1aa7ef46c4.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "CONVERSATIONAL",
+    "title": "CONVERSATIONAL",
+    "sha256": "45d46e29d89ac783942d392f6b86b22d55a6c3e72e50cef4710fdf924cfb074e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-45d46e29d89ac783"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-45d46e29d89ac783.json",
+    "extraction_sha256": "f1f749480b6d4533e1e4182463f3ced6ae272e8d5287ccf58fe92420a62181e2",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 19,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-26"
+  },
+  {
+    "id": "orig-7be30f82da0b81f2",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2b6fe9f836191e2eaa4222873783dca5.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Comando:",
+    "title": "Comando:",
+    "sha256": "7be30f82da0b81f228173d263b96774f8c0813a2883a7291343fe5a8759a1fc9",
+    "source_urls": [],
+    "source_ids": [
+      "orig-7be30f82da0b81f2"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-7be30f82da0b81f2.json",
+    "extraction_sha256": "df9d0f6c1260a5d8bdf0b4da9f61d24c814703dffe9a35114ba5986ac3c7e712",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1440
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-27"
+  },
+  {
+    "id": "orig-badaceb7bf2e171c",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2da74b067ca961186877024cdbdb9b88.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TIKSLY",
+    "title": "TIKSLY",
+    "sha256": "badaceb7bf2e171c3c3db3ffd32dad23c118c29b5ba391f846c52bfeaa50936f",
+    "source_urls": [],
+    "source_ids": [
+      "orig-badaceb7bf2e171c"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-badaceb7bf2e171c.json",
+    "extraction_sha256": "27a83a25cd2ff897aeb41f424332a01504696a233218a8a60fc5634ade7e05ee",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2625,
+        3938
+      ],
+      "ocr_rows": 87,
+      "low_confidence_rows": 4,
+      "ocr_mean_confidence": 0.9770114942528736,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-28"
+  },
+  {
+    "id": "orig-aa7d24bb03ae20b3",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3113f5a389e328a29aad5809eafbd7ee.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Content Marketing Funnel",
+    "title": "Content Marketing Funnel",
+    "sha256": "aa7d24bb03ae20b3c01d305b9db08f3ae09975475226c7b9d2cc611437d1458b",
+    "source_urls": [],
+    "source_ids": [
+      "orig-aa7d24bb03ae20b3"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-aa7d24bb03ae20b3.json",
+    "extraction_sha256": "c18915bc61e6fc4b2576586d31753f0935be7357c39072b7db548cfba099d12e",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        1000
+      ],
+      "ocr_rows": 65,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9923076923076923,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-29"
+  },
+  {
+    "id": "orig-69823c4ad0fd3591",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/325bcb031752751ffb137ed78c3c549a.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "A estrutura perfeita para um",
+    "title": "A estrutura perfeita para um",
+    "sha256": "69823c4ad0fd359115e75e289bbbff1b57bdfdefbf3a687098e30d341fe1847f",
+    "source_urls": [],
+    "source_ids": [
+      "orig-69823c4ad0fd3591"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-69823c4ad0fd3591.json",
+    "extraction_sha256": "7395fda8e129af995798c85737abfb546952811221bad8ac5131a071b6767799",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        920
+      ],
+      "ocr_rows": 31,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-30"
+  },
+  {
+    "id": "orig-b3598b3273ca5095",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/381adf91836272ac7a68cb820ba21f10.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "< Notas",
+    "title": "< Notas",
+    "sha256": "b3598b3273ca50955944d6cd8fc6a7346c6b3cce0baf2759228b0a65b88786d9",
+    "source_urls": [],
+    "source_ids": [
+      "orig-b3598b3273ca5095"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-b3598b3273ca5095.json",
+    "extraction_sha256": "6415ad9e9229fecb2118bc1531cf4285762c1f4eb8e7e5117cb9d1e7e43c6556",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        960,
+        1200
+      ],
+      "ocr_rows": 19,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9736842105263158,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-31"
+  },
+  {
+    "id": "orig-ee057cd15f4cee66",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3e610232968fd57c1b02f1634205ed99.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "GOOGLE ADS",
+    "title": "GOOGLE ADS",
+    "sha256": "ee057cd15f4cee66bdb03f2c3df60ac93e01a5cf502267383d7e8aaf38eaaf16",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ee057cd15f4cee66"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ee057cd15f4cee66.json",
+    "extraction_sha256": "b0d764e7f604dfeb7df4c6163e5627eadb2dda7a5519c6d9b596f9b96646dd25",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1024,
+        1536
+      ],
+      "ocr_rows": 50,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-32"
+  },
+  {
+    "id": "orig-4b4104bef484dfb0",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f4273d8cc9399e607f281a5982e2a19.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "CHAT GPT PROMPTS FOR",
+    "title": "CHAT GPT PROMPTS FOR",
+    "sha256": "4b4104bef484dfb0501517107b63dbf195356df33831916096d994193823531c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-4b4104bef484dfb0"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-4b4104bef484dfb0.json",
+    "extraction_sha256": "d414abb48765bc209ab2d513428d39c6dd0152cb5f6cfcdfcc6af063e5eacd67",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        927,
+        1200
+      ],
+      "ocr_rows": 14,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-33"
+  },
+  {
+    "id": "orig-618e96e8f7ad572b",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f6d93961a6cb7cc41aa8ba8a8a7a8d2.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TIKSLY",
+    "title": "TIKSLY",
+    "sha256": "618e96e8f7ad572bbee09aabeacdccde4ccc829ef9afb3e2a61f1bc55f3a7e43",
+    "source_urls": [],
+    "source_ids": [
+      "orig-618e96e8f7ad572b"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-618e96e8f7ad572b.json",
+    "extraction_sha256": "e6bcffa4dbfff077cbc2e05f1293aaab649016a00bcb1066add4d9719bf666c0",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2125,
+        3188
+      ],
+      "ocr_rows": 47,
+      "low_confidence_rows": 4,
+      "ocr_mean_confidence": 0.9531914893617021,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-34"
+  },
+  {
+    "id": "orig-f55b8e36dc678448",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4d171a658887081958bc451f44a846c3.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "< Marketing Solved",
+    "title": "< Marketing Solved",
+    "sha256": "f55b8e36dc678448ab0bd80121d5186c234101df5733a16f6e592d24e31ea01b",
+    "source_urls": [],
+    "source_ids": [
+      "orig-f55b8e36dc678448"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-f55b8e36dc678448.json",
+    "extraction_sha256": "72e4f22daf0c54b37133148461c9d36020cc926ee3871462fabde2be0bf7700c",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        236,
+        393
+      ],
+      "ocr_rows": 19,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-35"
+  },
+  {
+    "id": "orig-47cf648cca42f755",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ea15665e2e91735920a91d41d735acb.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "CHATGPT",
+    "title": "CHATGPT",
+    "sha256": "47cf648cca42f755c439c69a4aeccb4463d9585e50278a5dea3fca185caa9517",
+    "source_urls": [],
+    "source_ids": [
+      "orig-47cf648cca42f755"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-47cf648cca42f755.json",
+    "extraction_sha256": "6e05e4f46095bdcf027095004651bbf95370a6de77a71a505cee1b13b20120a8",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1440,
+        1800
+      ],
+      "ocr_rows": 10,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.95,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-36"
+  },
+  {
+    "id": "orig-437ab0c67c7ab253",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ed150155f231974c24e8649126eac66.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Call to action cheat sheet",
+    "title": "Call to action cheat sheet",
+    "sha256": "437ab0c67c7ab253fd0d8b7c4506ad75ce8da32a0407ed4553a610894dfe785f",
+    "source_urls": [],
+    "source_ids": [
+      "orig-437ab0c67c7ab253"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-437ab0c67c7ab253.json",
+    "extraction_sha256": "e9d4fd4ebece6f648f56c5df6964a4fa9a8b5fa72d5eedc13a733738932c1c5d",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1400,
+        3151
+      ],
+      "ocr_rows": 47,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9893617021276596,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-37"
+  },
+  {
+    "id": "orig-babc031ec3465ee3",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/50419ab24a7e18c5443f3abc87d9c290.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "The Anatomy",
+    "title": "The Anatomy",
+    "sha256": "babc031ec3465ee36cfab6e6372eb3325cdbbedbbdee4b1989a158a2453cf4cc",
+    "source_urls": [],
+    "source_ids": [
+      "orig-babc031ec3465ee3"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-babc031ec3465ee3.json",
+    "extraction_sha256": "2f10822ad77fb56862363e3e051f1a49ea19a200deeff03b248a57038c0ebba2",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        734,
+        1304
+      ],
+      "ocr_rows": 28,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9642857142857143,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-38"
+  },
+  {
+    "id": "orig-ad20a0ca30dc3a58",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/51c11d802092ce1d5cb55dfc235a1264.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Content Creation",
+    "title": "Content Creation",
+    "sha256": "ad20a0ca30dc3a589bcc85fddc080c41a6e774dba993bbfe0dfd90ca837c8eaf",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ad20a0ca30dc3a58"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ad20a0ca30dc3a58.json",
+    "extraction_sha256": "bd690ce4e6b825de6ebb318a3b326468734be45a12bf10cbe5ccb97b34e232f0",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        880,
+        1000
+      ],
+      "ocr_rows": 36,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-39"
+  },
+  {
+    "id": "orig-55e6336de8e8a32e",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5275e5374b5132a918a0fe79b849d119.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "*Enewsletter Content Strategy *",
+    "title": "*Enewsletter Content Strategy *",
+    "sha256": "55e6336de8e8a32eb9ef9e541129573b659999fe592919c8a59824f6b867b863",
+    "source_urls": [],
+    "source_ids": [
+      "orig-55e6336de8e8a32e"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-55e6336de8e8a32e.json",
+    "extraction_sha256": "88bae4aacff24ec3cb659fc407895b7a6a2e230695ad871ab22facaa42d42924",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        630,
+        771
+      ],
+      "ocr_rows": 37,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-40"
+  },
+  {
+    "id": "orig-f18a9073c4d5445a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5619cb0c3d85b652442c2a8c0591028f.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "FACELESS REELS",
+    "title": "FACELESS REELS",
+    "sha256": "f18a9073c4d5445a2f7dc84c82420cc9d135523a53776272a294dc50d2c21f14",
+    "source_urls": [],
+    "source_ids": [
+      "orig-f18a9073c4d5445a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-f18a9073c4d5445a.json",
+    "extraction_sha256": "920f7acb7fd902467f7562b4b4bfcd2110195ffe4f91dd777d44da0c8a3e746a",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        1104
+      ],
+      "ocr_rows": 39,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-41"
+  },
+  {
+    "id": "orig-50e7c19a804990ae",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5be0f916fbb87d4f049a28e356a309cd.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "CHATGPT",
+    "title": "CHATGPT",
+    "sha256": "50e7c19a804990ae062ea17cd3b419c3884d62ca4e1bea092116654fd2974254",
+    "source_urls": [],
+    "source_ids": [
+      "orig-50e7c19a804990ae"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-50e7c19a804990ae.json",
+    "extraction_sha256": "597df9f4111b33e85f35fc76dba0c6d66cd4afc783f970bb60ff44aa9f8c7997",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1440,
+        1800
+      ],
+      "ocr_rows": 11,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9090909090909091,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-42"
+  },
+  {
+    "id": "orig-8789d00122238178",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5ed7a359c91c472f2528f30becdc37c0.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Fatima Masood",
+    "title": "Fatima Masood",
+    "sha256": "8789d001222381781c445773d4225967d403cc659dd27fb74612ae37050b8b2c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-8789d00122238178"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-8789d00122238178.json",
+    "extraction_sha256": "1ed555ba08f699ede08fdb2560f93ad04494bb604066ef3091ce145b60f44d80",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 44,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9772727272727273,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-43"
+  },
+  {
+    "id": "orig-6896231c9716dc09",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5f43da9fe254cb110fcf6ee9a835fbe6.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Prompt 02 - Reels com Alto",
+    "title": "Prompt 02 - Reels com Alto",
+    "sha256": "6896231c9716dc09f554dabfd11bd92c75d41b573192415c5be51e47942ce3e8",
+    "source_urls": [],
+    "source_ids": [
+      "orig-6896231c9716dc09"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-6896231c9716dc09.json",
+    "extraction_sha256": "559bd63cebd3603fc6e4646b5687694f3487a785e90e3fcb97564f789c1f0ce3",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1346
+      ],
+      "ocr_rows": 16,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-44"
+  },
+  {
+    "id": "orig-79283e1d16d50ea5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62469dccdf00a19a3661417f25396636.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "9 COPYWRITING RULES",
+    "title": "9 COPYWRITING RULES",
+    "sha256": "79283e1d16d50ea58572c367eb621d98f4faef5988d1bc45a31fdc589c96302e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-79283e1d16d50ea5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-79283e1d16d50ea5.json",
+    "extraction_sha256": "23d75d95aa65f746332910969dd9aa977dc61e6fba5732a133b014525fc907f2",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        920
+      ],
+      "ocr_rows": 84,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-45"
+  },
+  {
+    "id": "orig-e05d8ed12cabc231",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62b19601069dd7b835454a4be41cd3d7.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Problem-Solving hooks",
+    "title": "Problem-Solving hooks",
+    "sha256": "e05d8ed12cabc231be29d12e4f0814e65e5a6f903e968e9342ddc1f9105c5d04",
+    "source_urls": [],
+    "source_ids": [
+      "orig-e05d8ed12cabc231"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-e05d8ed12cabc231.json",
+    "extraction_sha256": "873ea9d911ee908842a3b3e094a420990bfde4cf3c33c9c8c550e30c2c82328f",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 10,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-46"
+  },
+  {
+    "id": "orig-799c90e98bdee871",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/63d40267f1d866afb8bfcc1182278f4e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Fotografia de anel metálico com inscrição caligráfica não latina, segurado entre dedos. A inscrição está parcialmente ocultada; não há transcrição confiável.",
+    "title": "Fotografia de anel metálico com inscrição caligráfica não latina, segurado entre dedos. A inscrição está parcialmente ocultada; não há transcrição confiável.",
+    "sha256": "799c90e98bdee87131acae02b98a0bc33ce0830d08e01b1066dc327c6b349b65",
+    "source_urls": [],
+    "source_ids": [
+      "orig-799c90e98bdee871"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-799c90e98bdee871.json",
+    "extraction_sha256": "5ef7041f2f76ad61e8ca9569bdb5a3b82ab7408d2af7cb1b41a3508c885f02bc",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1920
+      ],
+      "ocr_rows": 0,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": null,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": true
+    },
+    "ranking_group": "visual-47"
+  },
+  {
+    "id": "orig-424f648f251a99f9",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/6753ecd0a4fbd8ce3a974afeafa48786.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "COPYWRITING FRAMEWORKS",
+    "title": "COPYWRITING FRAMEWORKS",
+    "sha256": "424f648f251a99f9434476cd6a99601932ac32f253b0afec44546f2897e3410f",
+    "source_urls": [],
+    "source_ids": [
+      "orig-424f648f251a99f9"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-424f648f251a99f9.json",
+    "extraction_sha256": "ed7433b312b3b0db4e5d32b83c6f873a513dfa636cbf15a21bab911f3065ee8d",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1170,
+        1467
+      ],
+      "ocr_rows": 35,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-48"
+  },
+  {
+    "id": "orig-52c28f357070fa48",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/69a9ac6f12ce8a519e940996d3cd208c.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "30 Trigger Words/Phrases",
+    "title": "30 Trigger Words/Phrases",
+    "sha256": "52c28f357070fa482a846d4723e26cca481acdb3bf44690523dd81e18c31a6ed",
+    "source_urls": [],
+    "source_ids": [
+      "orig-52c28f357070fa48"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-52c28f357070fa48.json",
+    "extraction_sha256": "d64a70e2879985943907b7860b87c19da43d9a7b987dc5bd752f0a5fe6cdb83d",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1340
+      ],
+      "ocr_rows": 48,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9645833333333332,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-49"
+  },
+  {
+    "id": "orig-ba2768ac38fb3901",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7069c7e7280ef3f2e3d1bea2409b5653.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "How to reframe",
+    "title": "How to reframe",
+    "sha256": "ba2768ac38fb390170432dbbd47bf4a55a38e960f4f0881c4d4373426de645d1",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ba2768ac38fb3901"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ba2768ac38fb3901.json",
+    "extraction_sha256": "eef5e457f2b9906b8f55ebfc3046d715c23f21ec3a2419d1668db26dd552469b",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        236,
+        419
+      ],
+      "ocr_rows": 31,
+      "low_confidence_rows": 7,
+      "ocr_mean_confidence": 0.8806451612903226,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-50"
+  },
+  {
+    "id": "orig-e3e6a050af51cef9",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/70f8051a38b8d1700512b996aed6bbd0.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SEMRUSH",
+    "title": "SEMRUSH",
+    "sha256": "e3e6a050af51cef957ff5c60a3c8989bbe2449d549ac369a9d18c2b4cadac8fe",
+    "source_urls": [],
+    "source_ids": [
+      "orig-e3e6a050af51cef9"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-e3e6a050af51cef9.json",
+    "extraction_sha256": "4c1815bf7418a9ecf36385e5c8f15983ffd7d0d34c7b1eb2e17b6f54014696cd",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1744,
+        2048
+      ],
+      "ocr_rows": 39,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9871794871794872,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-51"
+  },
+  {
+    "id": "orig-acf7b1d39590d89d",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/732e0c1380c2a1b6de633b796e732618.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "THE ULTIMATE",
+    "title": "THE ULTIMATE",
+    "sha256": "acf7b1d39590d89d1b5b6b505ef4106b7e656fb02186209ecdd84a57516ffd41",
+    "source_urls": [],
+    "source_ids": [
+      "orig-acf7b1d39590d89d"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-acf7b1d39590d89d.json",
+    "extraction_sha256": "f6d4d43f7e64043484dc05c976eb2bc68e838fbc2e826220079513dc4dafe9c1",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1514
+      ],
+      "ocr_rows": 62,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-52"
+  },
+  {
+    "id": "orig-b2ea9c1a7f14d1ef",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/73304c876e095cb215decfa37696c42e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Comando ChatGPT",
+    "title": "Comando ChatGPT",
+    "sha256": "b2ea9c1a7f14d1ef8b6c645a1e88bcafde22302e3516a83fe868cb53a2e7721c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-b2ea9c1a7f14d1ef"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-b2ea9c1a7f14d1ef.json",
+    "extraction_sha256": "41266a04330490e56949deef2cd7bd2affd2ce1d3959d28e466180a226d9a42c",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1440
+      ],
+      "ocr_rows": 16,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-53"
+  },
+  {
+    "id": "orig-7c195b0c6b1e9dcb",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7475cd4516008a00dbcf7f26718062b0.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "5 PERSUASIVE COPYWRITING LESSONS",
+    "title": "5 PERSUASIVE COPYWRITING LESSONS",
+    "sha256": "7c195b0c6b1e9dcbc1ea2eecce71b269f84173adaa3fb45a6ab2ef39c5cd6aed",
+    "source_urls": [],
+    "source_ids": [
+      "orig-7c195b0c6b1e9dcb"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-7c195b0c6b1e9dcb.json",
+    "extraction_sha256": "fbc7ebe54978a07608847652841226b2df4b9e45dc4c606ba859f7cef89005d4",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1088,
+        1360
+      ],
+      "ocr_rows": 56,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9821428571428571,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-54"
+  },
+  {
+    "id": "orig-9dfe0aea9619be69",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/77341292975419631fb3ec2252c01dcb.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ESTRUTURAS DE",
+    "title": "ESTRUTURAS DE",
+    "sha256": "9dfe0aea9619be6927432b34139a94f61c764155ae423e8d5f5f2e03223731a2",
+    "source_urls": [],
+    "source_ids": [
+      "orig-9dfe0aea9619be69"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-9dfe0aea9619be69.json",
+    "extraction_sha256": "3e2e31052b17fbbed3922559b749b059bff80f674251b92008a900ae51628386",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 49,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-55"
+  },
+  {
+    "id": "orig-e53a99b3d168f318",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/78a29e32114de00600a1bf31c195bb1a.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TOF VS MOF VS BOF",
+    "title": "TOF VS MOF VS BOF",
+    "sha256": "e53a99b3d168f318d123522045619608633833d2db811ca6ae5f3d12cc352173",
+    "source_urls": [],
+    "source_ids": [
+      "orig-e53a99b3d168f318"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-e53a99b3d168f318.json",
+    "extraction_sha256": "068c84c28fbd7df62c50f2ea75d78e13edcaf5afed8677b676b2fae8c33e8d58",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        920
+      ],
+      "ocr_rows": 66,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-7"
+  },
+  {
+    "id": "orig-825bbf5e145fb2d3",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7e7d6076f1280ec075afa8813db4e94e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "VIRAL HOOKS TO",
+    "title": "VIRAL HOOKS TO",
+    "sha256": "825bbf5e145fb2d39aefac00702c49dcf5d82e83797a97d800cc3068f3f70cdd",
+    "source_urls": [],
+    "source_ids": [
+      "orig-825bbf5e145fb2d3"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-825bbf5e145fb2d3.json",
+    "extraction_sha256": "1f26c0eb950af8b08f87dc47427665c2bd67122f0cb797d8649e5b9f05f95823",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 29,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9827586206896551,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-57"
+  },
+  {
+    "id": "orig-7a41274dccb1085e",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/812b2a24f4138204b6cda969f07129ee.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Anatomy of a high-converting landing page",
+    "title": "Anatomy of a high-converting landing page",
+    "sha256": "7a41274dccb1085e4d0673e68f627a8eec8bf29d3238332225537876ff3185fa",
+    "source_urls": [],
+    "source_ids": [
+      "orig-7a41274dccb1085e"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-7a41274dccb1085e.json",
+    "extraction_sha256": "c4cc79a9ed28683e34377fcfc2dd5b62fbdc03b7a72044e1991d1be64e529b8f",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1484,
+        2048
+      ],
+      "ocr_rows": 81,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9851851851851852,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-58"
+  },
+  {
+    "id": "orig-52e92c32ed001145",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/81e8a9d8d00f312cbeeeda630dbb36e9.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "5 QUICK COPYWRITING TIPS",
+    "title": "5 QUICK COPYWRITING TIPS",
+    "sha256": "52e92c32ed001145e94b7fcc50f19dd01b648d65515abae3b5d55f744d572b34",
+    "source_urls": [],
+    "source_ids": [
+      "orig-52e92c32ed001145"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-52e92c32ed001145.json",
+    "extraction_sha256": "4063814f50facc3c4cd8db161948a1812f8113d9c00c7babb5820f6d173deb37",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        512,
+        640
+      ],
+      "ocr_rows": 50,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.98,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-59"
+  },
+  {
+    "id": "orig-dca8de58fe50233a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/862dceec4f8536e5205f98b7d064289e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "The Anatomy of a Top",
+    "title": "The Anatomy of a Top",
+    "sha256": "dca8de58fe50233a9d8158166d364c7b2d5fa2a7526228ff9285e97e458b8718",
+    "source_urls": [],
+    "source_ids": [
+      "orig-dca8de58fe50233a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-dca8de58fe50233a.json",
+    "extraction_sha256": "3b65d9cf8b46be9f0272a7ad1e4492b39d5cb9ccb95f81c3f8dccdb106766e61",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1280,
+        1600
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-60"
+  },
+  {
+    "id": "orig-b0612f232c4e6d01",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/89a9b530baa4b868cd0f3ebe7d332ff2.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Nick Broekema",
+    "title": "Nick Broekema",
+    "sha256": "b0612f232c4e6d01487d203979d97df9c4515aabf8548d53cd70aec0dce85d21",
+    "source_urls": [],
+    "source_ids": [
+      "orig-b0612f232c4e6d01"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-b0612f232c4e6d01.json",
+    "extraction_sha256": "4225dfba39cc4f14cda1075efa423e5e7dbbcef4cfe5249bb97b457b92672f5c",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        736
+      ],
+      "ocr_rows": 26,
+      "low_confidence_rows": 6,
+      "ocr_mean_confidence": 0.8846153846153846,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-61"
+  },
+  {
+    "id": "orig-a00421895932c48a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9a636ebabc6336ef780bf0ecee1b535e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Caio Inteligência Artificial © 2025",
+    "title": "Caio Inteligência Artificial © 2025",
+    "sha256": "a00421895932c48af39cc0743d71c177b27a2a37a01ce70f43fef0d48f41e87d",
+    "source_urls": [],
+    "source_ids": [
+      "orig-a00421895932c48a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-a00421895932c48a.json",
+    "extraction_sha256": "71a4e2e33ec047f7bc572113c43fa40f66b1e5c8af4bf5eb588ed08f8d7be338",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 35,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-62"
+  },
+  {
+    "id": "orig-d72a9e7abee38e9d",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9ab83690c3f0131a0809248dcc001283.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "You don't need to",
+    "title": "You don't need to",
+    "sha256": "d72a9e7abee38e9d28f0c825fe463278c46e2be652adff575aaf2ddae868ce4c",
+    "source_urls": [],
+    "source_ids": [
+      "orig-d72a9e7abee38e9d"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-d72a9e7abee38e9d.json",
+    "extraction_sha256": "e294661f62e5c81cdc3643b6a6956c06626121115c8fffb2e49c45af822bc78c",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        593
+      ],
+      "ocr_rows": 15,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-63"
+  },
+  {
+    "id": "orig-ce7f1b6db9ff3cd5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9baf07e8b656f0fc34e7775b427a7079.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TIKSLY",
+    "title": "TIKSLY",
+    "sha256": "ce7f1b6db9ff3cd5fa662e051bf829ad1aa8e003783dcf15aedcb1429d075b87",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ce7f1b6db9ff3cd5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ce7f1b6db9ff3cd5.json",
+    "extraction_sha256": "b49aecdd0d537c65e64b61dc02a9d1f714ccca900b30a490ce22bf789a11d310",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2125,
+        3188
+      ],
+      "ocr_rows": 57,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9736842105263158,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-64"
+  },
+  {
+    "id": "orig-5fdfdc33624d9281",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9bf8f27760eaef4c5b8894fe05edd57d.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Product",
+    "title": "Product",
+    "sha256": "5fdfdc33624d92815abddf91efc4011c8d983c8d4a921eca71a73a18e1ae9122",
+    "source_urls": [],
+    "source_ids": [
+      "orig-5fdfdc33624d9281"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-5fdfdc33624d9281.json",
+    "extraction_sha256": "213c96c9ddedfcd054c9b8335083408ed19e16caaf758b4c8e568e03a80167b8",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        564,
+        1002
+      ],
+      "ocr_rows": 29,
+      "low_confidence_rows": 7,
+      "ocr_mean_confidence": 0.8655172413793104,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-65"
+  },
+  {
+    "id": "orig-defbccfc68457c28",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9f03ad0c6c3b2f4c266224845e2b6d47.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Google Ads",
+    "title": "Google Ads",
+    "sha256": "defbccfc68457c28791473ff7b1fc0f1541c9898743a976a325afe6be1630031",
+    "source_urls": [],
+    "source_ids": [
+      "orig-defbccfc68457c28"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-defbccfc68457c28.json",
+    "extraction_sha256": "9327e4b975ac7e232fd1f959c3ab05e5f633bdc24b0d48f9dc4380b89bd0ae7e",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1024,
+        1536
+      ],
+      "ocr_rows": 25,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-66"
+  },
+  {
+    "id": "orig-482edf57ff0f61a9",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a72635151eb7a4fefefdeda647a16543.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Justin Welsh",
+    "title": "Justin Welsh",
+    "sha256": "482edf57ff0f61a950a7cd2d8167d62b710d54fdb48175fe49a2fa7729bc3de9",
+    "source_urls": [],
+    "source_ids": [
+      "orig-482edf57ff0f61a9"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-482edf57ff0f61a9.json",
+    "extraction_sha256": "9165cb895c57534c53a85f926781e47d623116816db628382c7f4761d3a1ed78",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2200,
+        3600
+      ],
+      "ocr_rows": 41,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-67"
+  },
+  {
+    "id": "orig-22c1855d6fd59df2",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a96180609887cb592b1d2cc1f01e1fe8.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ANATOMÍA DE LA LANDING PAGE",
+    "title": "ANATOMÍA DE LA LANDING PAGE",
+    "sha256": "22c1855d6fd59df220c7748c3e9015478248fada38a49712a32eda082f7474fb",
+    "source_urls": [],
+    "source_ids": [
+      "orig-22c1855d6fd59df2"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-22c1855d6fd59df2.json",
+    "extraction_sha256": "f7e7f3f2a5c5bc26ada3cf3b6a2f92faceda154636626df927f09998af5c2232",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1800,
+        3300
+      ],
+      "ocr_rows": 191,
+      "low_confidence_rows": 25,
+      "ocr_mean_confidence": 0.9293193717277487,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-68"
+  },
+  {
+    "id": "orig-83b95855ac47dbd5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ac19ae10bbed5497a7be0b76d59c3c72.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ON-PAGE SEO TIPS",
+    "title": "ON-PAGE SEO TIPS",
+    "sha256": "83b95855ac47dbd5379b2e83e47edbe373231402419deab04add82064f1dd782",
+    "source_urls": [],
+    "source_ids": [
+      "orig-83b95855ac47dbd5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-83b95855ac47dbd5.json",
+    "extraction_sha256": "bf3876a7908bedb5d2dbeb5cc31f2a79f7260f50fc3a0954007c2d4b0cb050d2",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        1104
+      ],
+      "ocr_rows": 24,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9791666666666666,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-69"
+  },
+  {
+    "id": "orig-a4f8c0ca67d8cd66",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ae44c001886352f4d6a35bef9c309d4d.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "3 prompts para você",
+    "title": "3 prompts para você",
+    "sha256": "a4f8c0ca67d8cd663236f40b84cdf2eee8ce85e241cac25f9cc6c0a6f10c7d42",
+    "source_urls": [],
+    "source_ids": [
+      "orig-a4f8c0ca67d8cd66"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-a4f8c0ca67d8cd66.json",
+    "extraction_sha256": "781e107bbb1d4a6f2b9b190b57f73c91561c1057d4928fd3ae8a195b61013dee",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 21,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-70"
+  },
+  {
+    "id": "orig-83f41845f7875e82",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/aea2856bf49005b29a846b1c3b68a353.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Caio Inteligência Artificial © 2025",
+    "title": "Caio Inteligência Artificial © 2025",
+    "sha256": "83f41845f7875e8278894fe52ccfcb005d8ca1bb9fdedc17c4de6dc28941fff0",
+    "source_urls": [],
+    "source_ids": [
+      "orig-83f41845f7875e82"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-83f41845f7875e82.json",
+    "extraction_sha256": "435ca291126a21ebb8c6f5c4fbc9c9837388319574238fdf964ee33b30cbaec9",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 33,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-71"
+  },
+  {
+    "id": "orig-8d579913d429c1dd",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/b395c4339b17994646d8a7a0f90d1080.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SINGLES SERIES",
+    "title": "SINGLES SERIES",
+    "sha256": "8d579913d429c1dd2aeca238691fbb853538790037a3e3c17407481b8eee3604",
+    "source_urls": [],
+    "source_ids": [
+      "orig-8d579913d429c1dd"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-8d579913d429c1dd.json",
+    "extraction_sha256": "689f40a36b0ccb6402eb28640e5daae5c7efb99d5e878d08a8137b6f1c5abd24",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        549,
+        679
+      ],
+      "ocr_rows": 43,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-72"
+  },
+  {
+    "id": "orig-2bbbf2900aeb3ab6",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c2f3829c855f28db058ad712814d2d8e.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Middle",
+    "title": "Middle",
+    "sha256": "2bbbf2900aeb3ab6db9df48b833f29e24ce73f4248b28e3c0d118ddaedc19bd2",
+    "source_urls": [],
+    "source_ids": [
+      "orig-2bbbf2900aeb3ab6"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-2bbbf2900aeb3ab6.json",
+    "extraction_sha256": "4f52eb96644dde152b6fd525b1dac6d02b913c61b2c6e6cfcbb4299d1d600ded",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        873
+      ],
+      "ocr_rows": 28,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9464285714285714,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-73"
+  },
+  {
+    "id": "orig-f9c6ebd1ae92fbd2",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c3c6f20be536d4e6c43d0b110a8e4a69.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "7 Psychology Triggers",
+    "title": "7 Psychology Triggers",
+    "sha256": "f9c6ebd1ae92fbd2b989244025b70d20f33519b607ef93fdab2ad056ceefc0e5",
+    "source_urls": [],
+    "source_ids": [
+      "orig-f9c6ebd1ae92fbd2"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-f9c6ebd1ae92fbd2.json",
+    "extraction_sha256": "c72d50e64ece14f84e00299fc24b29e9146669b8a7fc49c0c15307defefeaff8",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 16,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-74"
+  },
+  {
+    "id": "orig-9859e81ca2b54c7e",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c82fa5db8b0f95cfedfdf55925a582f9.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "TIKSLY",
+    "title": "TIKSLY",
+    "sha256": "9859e81ca2b54c7ed126420b70ac2e4ff6cae0159b5ab5e0a0213325d391f21a",
+    "source_urls": [],
+    "source_ids": [
+      "orig-9859e81ca2b54c7e"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-9859e81ca2b54c7e.json",
+    "extraction_sha256": "59ea24d61a583a6a3014c91bfd336b96645d3327446d2fffcf8a3364e186322a",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2375,
+        3563
+      ],
+      "ocr_rows": 28,
+      "low_confidence_rows": 5,
+      "ocr_mean_confidence": 0.9035714285714286,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-75"
+  },
+  {
+    "id": "orig-3c75c0851c57ca1b",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c92a542ae0920245e2ec2965febf0031.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "9 Brand Touchpoints of",
+    "title": "9 Brand Touchpoints of",
+    "sha256": "3c75c0851c57ca1b53890bb8b46ef850265110b120ac121a307b1897e4461091",
+    "source_urls": [],
+    "source_ids": [
+      "orig-3c75c0851c57ca1b"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-3c75c0851c57ca1b.json",
+    "extraction_sha256": "56da2775f6109858aa7edae53d03215da1f71a5182d59ee08cc617d2982dffa9",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 57,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-76"
+  },
+  {
+    "id": "orig-d9e2804b8bf47f98",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ca35a9636d418dba92df0c8bf983df78.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Google AdWords",
+    "title": "Google AdWords",
+    "sha256": "d9e2804b8bf47f98e2e22c0d59247c10c8becc3201a5ba687986d50395622912",
+    "source_urls": [],
+    "source_ids": [
+      "orig-d9e2804b8bf47f98"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-d9e2804b8bf47f98.json",
+    "extraction_sha256": "654dd402e5f534247bdb34bea8d6edbd9d9cf0923e2cb54cb06749965ea133ab",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        750,
+        2086
+      ],
+      "ocr_rows": 85,
+      "low_confidence_rows": 7,
+      "ocr_mean_confidence": 0.9494117647058824,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-77"
+  },
+  {
+    "id": "orig-117fd175123839e6",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ce4ea994d1b9d90fbee3498154582ea2.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "STEAL OUR",
+    "title": "STEAL OUR",
+    "sha256": "117fd175123839e610084d72b42adf0123f6815eafb11cd7b849d7d2b92779c7",
+    "source_urls": [],
+    "source_ids": [
+      "orig-117fd175123839e6"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-117fd175123839e6.json",
+    "extraction_sha256": "b77c7a6062ab2f0408378465980886b9bf81d1f4ccb83ce78ba45de8a9b19b39",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-78"
+  },
+  {
+    "id": "orig-0e9fad78740cf6ba",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d4b5b4fabef024c3d392fb26e4d416e8.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "4-Step Copywriting Process",
+    "title": "4-Step Copywriting Process",
+    "sha256": "0e9fad78740cf6baf2e639ed08741e4d69d3e200b32533894d7f6b0c4599148e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-0e9fad78740cf6ba"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-0e9fad78740cf6ba.json",
+    "extraction_sha256": "41f8c4ca0b8a95433b8f8ca2cd88b56d8696ecf12ece8e5fe28cfc2dc4b4dbde",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        1000
+      ],
+      "ocr_rows": 24,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-79"
+  },
+  {
+    "id": "orig-ca45a74487e7bd60",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d6370682fd46b7b5c95b0777dc426ba6.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "BRAND",
+    "title": "BRAND",
+    "sha256": "ca45a74487e7bd6060f6dd3f4f3bd5851025e9d4bbc143ccd62e2e40b6ad0bc0",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ca45a74487e7bd60"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ca45a74487e7bd60.json",
+    "extraction_sha256": "d78fee55ddf8c0478129e8144ddeb5227d7d7c26ec9fd4044d49b7b71c7741dd",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        735,
+        886
+      ],
+      "ocr_rows": 49,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9693877551020408,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-80"
+  },
+  {
+    "id": "orig-789f2cf3f82c62c6",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/da8a427fec0a341f772e1e975a45887f.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SOCIAL MEDIA",
+    "title": "SOCIAL MEDIA",
+    "sha256": "789f2cf3f82c62c6dfcc40d7cbfa8e1b962356319dcd3492532cc90667291022",
+    "source_urls": [],
+    "source_ids": [
+      "orig-789f2cf3f82c62c6"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-789f2cf3f82c62c6.json",
+    "extraction_sha256": "4b59c20258bba4de2a70e57a723a30656c95c2518162be0d7c2e804371ba9920",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 29,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-81"
+  },
+  {
+    "id": "orig-eae3d3b8fd94a442",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/df8c6f339b4f6196d44704e75bf378bd.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "15 ChatGPT Prompts",
+    "title": "15 ChatGPT Prompts",
+    "sha256": "eae3d3b8fd94a4421388db890faf0a5f1d20ecf04301c0ad64d73e73910475b1",
+    "source_urls": [],
+    "source_ids": [
+      "orig-eae3d3b8fd94a442"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-eae3d3b8fd94a442.json",
+    "extraction_sha256": "b793b2a309a414fdfbd06de9d3f42c2e046672fe7596ad840f4998a9b485482b",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1639,
+        2048
+      ],
+      "ocr_rows": 87,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9862068965517241,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-82"
+  },
+  {
+    "id": "orig-daeab7fb04a14af8",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e44b09089166862a41c505a69a223dc1.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "How to Make Linkedin a Landing Page",
+    "title": "How to Make Linkedin a Landing Page",
+    "sha256": "daeab7fb04a14af8c4a905975681af0c26a537135c37823f55383730c4c7a0cc",
+    "source_urls": [],
+    "source_ids": [
+      "orig-daeab7fb04a14af8"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-daeab7fb04a14af8.json",
+    "extraction_sha256": "274681ecd8910f343d175b09b3eab927b8b37be488ef4ee13799dc4a638bc019",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        1000
+      ],
+      "ocr_rows": 101,
+      "low_confidence_rows": 3,
+      "ocr_mean_confidence": 0.9831683168316832,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-83"
+  },
+  {
+    "id": "orig-00ba2087bfe84596",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e6c531e612beacce04a9f2654b8d8848.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "23 Types",
+    "title": "23 Types",
+    "sha256": "00ba2087bfe845962d80af07bb8947cd9ebf11547505f4bbba09e0947bc65314",
+    "source_urls": [],
+    "source_ids": [
+      "orig-00ba2087bfe84596"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-00ba2087bfe84596.json",
+    "extraction_sha256": "f4456a6eadb63fa337cb1fc4faf08e7cbad14e92d48c6641d32e41324297f5a0",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        919
+      ],
+      "ocr_rows": 31,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-84"
+  },
+  {
+    "id": "orig-b3190d3f91805eb3",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e808f878645b9e7186b2ed8445451e26.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "●●●",
+    "title": "●●●",
+    "sha256": "b3190d3f91805eb30c50a9bee45291c95725d9a8e381ee8fbbf273dfbe784031",
+    "source_urls": [],
+    "source_ids": [
+      "orig-b3190d3f91805eb3"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-b3190d3f91805eb3.json",
+    "extraction_sha256": "48d7d5af9e75203911d2a99a1b496d48c153a98dfeb4a7dbae9a2dd78b0e1f1f",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1440
+      ],
+      "ocr_rows": 14,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9500000000000001,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-85"
+  },
+  {
+    "id": "orig-ddc7f6ac282041a5",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e820cc4c4939b267c3eb235a380a6cf8.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "ELAYNE OLIVEIRA",
+    "title": "ELAYNE OLIVEIRA",
+    "sha256": "ddc7f6ac282041a5c53125c8ac43bf7cbe5ff64b3bbc59c93c6366db64b6eb67",
+    "source_urls": [],
+    "source_ids": [
+      "orig-ddc7f6ac282041a5"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-ddc7f6ac282041a5.json",
+    "extraction_sha256": "b771ac298185eb63ff414887b84963d9a0fee8db020e3b8eecde5a0611f39526",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 14,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-86"
+  },
+  {
+    "id": "orig-a34dcf83458f3767",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e954a9bba3651680ab55a51208b3e382.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SEO Analysis Checklist",
+    "title": "SEO Analysis Checklist",
+    "sha256": "a34dcf83458f37671349ccece44ab06f345bf59dc1ea3b70dac70c8afd73c75b",
+    "source_urls": [],
+    "source_ids": [
+      "orig-a34dcf83458f3767"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-a34dcf83458f3767.json",
+    "extraction_sha256": "a11dec2a94cf114f450c690b6d1321face370f144f3433736441ba9295626ac5",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        924
+      ],
+      "ocr_rows": 112,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9955357142857143,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-87"
+  },
+  {
+    "id": "orig-98103aa8a3e2993c",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee44a1b4e207b584aeced96c70321d7b.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Email Marketing",
+    "title": "Email Marketing",
+    "sha256": "98103aa8a3e2993c248c8f619e175b37c0974826c3400bb7fe69da6799b1746b",
+    "source_urls": [],
+    "source_ids": [
+      "orig-98103aa8a3e2993c"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-98103aa8a3e2993c.json",
+    "extraction_sha256": "3e8ed6ee0f3e2c130975168825b8749678f4ce2c9239a876444e6cd7c20495b3",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        675,
+        1200
+      ],
+      "ocr_rows": 34,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9705882352941176,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-88"
+  },
+  {
+    "id": "orig-d5e53eff91ffa861",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee9c05ec19b510af4c55b2f3ae406649.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "C-A-R-E",
+    "title": "C-A-R-E",
+    "sha256": "d5e53eff91ffa8615c4b585f276d8809d58a55b63f93a637e4bda9ec9a33ef70",
+    "source_urls": [],
+    "source_ids": [
+      "orig-d5e53eff91ffa861"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-d5e53eff91ffa861.json",
+    "extraction_sha256": "7af436e26e0c0a524b0891269476650ca911902a65a179faf8d096de30d56457",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1346
+      ],
+      "ocr_rows": 17,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-89"
+  },
+  {
+    "id": "orig-1b4d557b502d2dfb",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f27acaa84b0cd335d2996f187de12cc0.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "SaIn",
+    "title": "SaIn",
+    "sha256": "1b4d557b502d2dfb15bc0af5add2a4f7c1e8a870d5d30b3cfe4ef074de56940a",
+    "source_urls": [],
+    "source_ids": [
+      "orig-1b4d557b502d2dfb"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-1b4d557b502d2dfb.json",
+    "extraction_sha256": "25de3d0b7705f0756dd202e071368f723009b5d9ba23861eee17a5f241c95de8",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2292,
+        2250
+      ],
+      "ocr_rows": 90,
+      "low_confidence_rows": 4,
+      "ocr_mean_confidence": 0.9777777777777777,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-90"
+  },
+  {
+    "id": "orig-0a7fa783acd2113d",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f43269cc25ecd3e3b73e7873ffac9fb6.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "7 EMAIL MARKETING METRIC",
+    "title": "7 EMAIL MARKETING METRIC",
+    "sha256": "0a7fa783acd2113d4bf3c6d54a8d14b3a204b997deb248fb8536420c5f845e09",
+    "source_urls": [],
+    "source_ids": [
+      "orig-0a7fa783acd2113d"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-0a7fa783acd2113d.json",
+    "extraction_sha256": "e3a9979c8abe3797073a5329aa83801c151e4429a1ebe928aa91e2c5284b4aeb",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 32,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-91"
+  },
+  {
+    "id": "orig-21b4e451846cf730",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5b511c35e52667b65c2590ad16e806c.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "MARKETING FUNNEL",
+    "title": "MARKETING FUNNEL",
+    "sha256": "21b4e451846cf730dd8a1806c87497b80f7b18ca5b8278b71be1bf763440eafb",
+    "source_urls": [],
+    "source_ids": [
+      "orig-21b4e451846cf730"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-21b4e451846cf730.json",
+    "extraction_sha256": "3ce8df75637aad47bffd3f8883f54b8eff18c9e74f4b6ac4a1e5e149e3634c78",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1000,
+        1500
+      ],
+      "ocr_rows": 39,
+      "low_confidence_rows": 1,
+      "ocr_mean_confidence": 0.9871794871794872,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-92"
+  },
+  {
+    "id": "orig-dff5050049870f5f",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5ef2fe4c404411055e225d90fdd5061.png",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "png",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Google",
+    "title": "Google",
+    "sha256": "dff5050049870f5f70e442522cd243f675609df5cb8ac24a476716fa214d15fd",
+    "source_urls": [],
+    "source_ids": [
+      "orig-dff5050049870f5f"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-dff5050049870f5f.json",
+    "extraction_sha256": "1a5f7fdf2025e4b7ec6a0e98ab6bb1e6769bd8274005d7d2f17a00c4a45b84b8",
+    "format": ".png",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1080,
+        1350
+      ],
+      "ocr_rows": 21,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-93"
+  },
+  {
+    "id": "orig-87a53bed3459d085",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f81e8d310af194e83241b2a2ce859a32.webp",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "webp",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "80+",
+    "title": "80+",
+    "sha256": "87a53bed3459d085dd690bb38d6dd2c55454eaa61b1ce1233686ee613a3008e7",
+    "source_urls": [],
+    "source_ids": [
+      "orig-87a53bed3459d085"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-87a53bed3459d085.json",
+    "extraction_sha256": "3dbe104b3fee89605ca1bc3613beabae1d866392279d2a7c81d12b92a8f7ebee",
+    "format": ".webp",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        474,
+        3302
+      ],
+      "ocr_rows": 563,
+      "low_confidence_rows": 11,
+      "ocr_mean_confidence": 0.9880994671403196,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-94"
+  },
+  {
+    "id": "orig-c05c4cfb89b83617",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fb1045a1003f993fdb3208d24d6dfe64.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Facebook Ads",
+    "title": "Facebook Ads",
+    "sha256": "c05c4cfb89b836175cc0f127b66f31593a597452c280b3b81f3ddcba9a3e3bd1",
+    "source_urls": [],
+    "source_ids": [
+      "orig-c05c4cfb89b83617"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-c05c4cfb89b83617.json",
+    "extraction_sha256": "a3f6b4c46b51c2c943d6a9bbe957c9a81ff69e28139ff3ee488669c60bfdf7fb",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        2305,
+        4097
+      ],
+      "ocr_rows": 44,
+      "low_confidence_rows": 2,
+      "ocr_mean_confidence": 0.9772727272727273,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-95"
+  },
+  {
+    "id": "orig-2c6f1b7879c3e129",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fc14a323ec1a4524235a25d2d9e6a500.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "The Framing Effect.",
+    "title": "The Framing Effect.",
+    "sha256": "2c6f1b7879c3e129a2987567297a11d93dd873bbe3838f2d741702c302a44f7a",
+    "source_urls": [],
+    "source_ids": [
+      "orig-2c6f1b7879c3e129"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-2c6f1b7879c3e129.json",
+    "extraction_sha256": "60ab4dc3fe5bec52f3e3c986316c7fef876ba9c05dd5520a8693039c509bf40a",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1200,
+        1800
+      ],
+      "ocr_rows": 35,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-96"
+  },
+  {
+    "id": "orig-b1a3d2a56497e951",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fdaf6cec9dd62a756ba45835ae26b016.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "Rapha Falcão",
+    "title": "Rapha Falcão",
+    "sha256": "b1a3d2a56497e95162cb71459e6a42517a6922e34e1cbb8770268e6fadf6d730",
+    "source_urls": [],
+    "source_ids": [
+      "orig-b1a3d2a56497e951"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-b1a3d2a56497e951.json",
+    "extraction_sha256": "002decb040b3cc4d28db76708da393076539956d5df38acde249a5135a3aeb5d",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        736,
+        920
+      ],
+      "ocr_rows": 26,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-97"
+  },
+  {
+    "id": "orig-959a4a0b2cd6892a",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fe52f209511cbfaaa35fab9799c9e756.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "URGENCY HOOK",
+    "title": "URGENCY HOOK",
+    "sha256": "959a4a0b2cd6892a05baf9c8cf2dfb152fec9e1a24ae1238933a2c8b39a3b2d6",
+    "source_urls": [],
+    "source_ids": [
+      "orig-959a4a0b2cd6892a"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-959a4a0b2cd6892a.json",
+    "extraction_sha256": "23c28e015649c97fdea0d20640cc2ca3b04d594aa2ebd479734232e9978a7d2c",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        1440,
+        1799
+      ],
+      "ocr_rows": 12,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-98"
+  },
+  {
+    "id": "orig-8e1f5db7cd2d7159",
+    "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/feb2bb099704d9f58e8c0649b96ddc1a.jpg",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "jpg",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "2024 © Victor Wendt",
+    "title": "2024 © Victor Wendt",
+    "sha256": "8e1f5db7cd2d715998b07edf952f3e061a6506f39d95a40698f8fa0f3f4080cb",
+    "source_urls": [],
+    "source_ids": [
+      "orig-8e1f5db7cd2d7159"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-8e1f5db7cd2d7159.json",
+    "extraction_sha256": "a54e2358fdbbc94cd6a52efba837a9110470ff29c2f2b029902d269b8b0d8705",
+    "format": ".jpg",
+    "aliases": [],
+    "quality": {
+      "image_dimensions": [
+        800,
+        1000
+      ],
+      "ocr_rows": 66,
+      "low_confidence_rows": 0,
+      "ocr_mean_confidence": 1.0,
+      "visual_review": "agent_visual_inspection_contact_sheet",
+      "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+      "empty_ocr": false
+    },
+    "ranking_group": "visual-99"
+  },
+  {
+    "id": "orig-19b19be2ad997756",
+    "path": "knowledge/repertorio/catalogo.json",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "json",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "catalogo",
+    "title": "catalogo",
+    "sha256": "19b19be2ad9977564e2dea165c637ea70c3c504f3186a5f9f46bab1a5a523186",
+    "source_urls": [],
+    "source_ids": [
+      "orig-19b19be2ad997756"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-19b19be2ad997756.json",
+    "extraction_sha256": "8c1c774d737742cdf27ce55c593a1fc5defd98e108e0057e605ee9f0a410a548",
+    "format": ".json",
+    "aliases": [],
+    "quality": {
+      "page_count": null,
+      "physical_pages_available": false,
+      "security_flags": []
+    }
+  },
+  {
+    "id": "orig-c51e4483a74a7df8",
+    "path": "knowledge/repertorio/fontes.json",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "json",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "fontes",
+    "title": "fontes",
+    "sha256": "c51e4483a74a7df8c78379fc955ac946a5293f8d456e5583027d707ee3c2a58e",
+    "source_urls": [],
+    "source_ids": [
+      "orig-c51e4483a74a7df8"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-c51e4483a74a7df8.json",
+    "extraction_sha256": "811ad1e78dd370b794906aa711ea1dcafcab078604172f9396354072f2549778",
+    "format": ".json",
+    "aliases": [],
+    "quality": {
+      "page_count": null,
+      "physical_pages_available": false,
+      "security_flags": []
+    }
+  },
+  {
+    "id": "orig-3ea22b3f6fbf8afe",
+    "path": "knowledge/retrieval-index.json",
+    "client": "*",
+    "routes": [
+      "ads",
+      "lp",
+      "social",
+      "direct"
+    ],
+    "tags": [
+      "original",
+      "json",
+      "referência"
+    ],
+    "status": "active",
+    "use": "original",
+    "summary": "retrieval-index",
+    "title": "retrieval-index",
+    "sha256": "3ea22b3f6fbf8afee56445c28ae01cd873c06055015939b461160ea8a79272a9",
+    "source_urls": [],
+    "source_ids": [
+      "orig-3ea22b3f6fbf8afe"
+    ],
+    "authority": "local_source_unverified",
+    "evidence_kind": "local_original_with_extraction_audit",
+    "human_approved": false,
+    "performance_verified": false,
+    "synthetic": false,
+    "extraction_path": ".local/rag/ingestion/4a198f9d23fe4f88/orig-3ea22b3f6fbf8afe.json",
+    "extraction_sha256": "921c70154cf1d6be101d1a996a70dab5592ef96ebed60a43d8511b845609220e",
+    "format": ".json",
+    "aliases": [],
+    "quality": {
+      "page_count": null,
+      "physical_pages_available": false,
+      "security_flags": []
+    }
+  }
+]

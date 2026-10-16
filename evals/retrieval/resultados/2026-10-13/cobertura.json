@@ -1,0 +1,5109 @@
+{
+  "status": "passed",
+  "documents": 239,
+  "chunks": 8089,
+  "by_format": {
+    ".md": 135,
+    ".pdf": 1,
+    ".txt": 1,
+    ".webp": 7,
+    ".jpg": 72,
+    ".png": 20,
+    ".json": 3
+  },
+  "all_extracted_text_indexed": true,
+  "errors": [],
+  "rows": [
+    {
+      "id": "rotas-lp",
+      "path": "knowledge/rotas/lp.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2809,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 4,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rotas-social",
+      "path": "knowledge/rotas/social.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1924,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rotas-ads",
+      "path": "knowledge/rotas/ads.md",
+      "format": ".md",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 1411,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rotas-direct",
+      "path": "knowledge/rotas/direct.md",
+      "format": ".md",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 747,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "provas-e-claims",
+      "path": "knowledge/provas-e-claims.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3257,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 9,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "politica-editorial",
+      "path": "knowledge/politica-editorial.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2124,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "calibracao-editorial",
+      "path": "knowledge/calibracao-editorial.md",
+      "format": ".md",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1694,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 4,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "memoria-clientes",
+      "path": "knowledge/memoria-clientes.md",
+      "format": ".md",
+      "chunks": 16,
+      "extracted_nonwhitespace_characters": 3548,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "ajustes-incrementais",
+      "path": "knowledge/ajustes-incrementais.md",
+      "format": ".md",
+      "chunks": 20,
+      "extracted_nonwhitespace_characters": 3710,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "banco-de-angulos",
+      "path": "knowledge/banco-de-angulos.md",
+      "format": ".md",
+      "chunks": 14,
+      "extracted_nonwhitespace_characters": 2995,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 6,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "banco-de-ctas",
+      "path": "knowledge/banco-de-ctas.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 2919,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "banco-de-ganchos",
+      "path": "knowledge/banco-de-ganchos.md",
+      "format": ".md",
+      "chunks": 14,
+      "extracted_nonwhitespace_characters": 3225,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "banco-de-headlines",
+      "path": "knowledge/banco-de-headlines.md",
+      "format": ".md",
+      "chunks": 16,
+      "extracted_nonwhitespace_characters": 3484,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "canais-por-modelo-de-negocio",
+      "path": "knowledge/canais-por-modelo-de-negocio.md",
+      "format": ".md",
+      "chunks": 18,
+      "extracted_nonwhitespace_characters": 4230,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "erros-comuns",
+      "path": "knowledge/erros-comuns.md",
+      "format": ".md",
+      "chunks": 25,
+      "extracted_nonwhitespace_characters": 5571,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 9,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "estrategia-de-marca",
+      "path": "knowledge/estrategia-de-marca.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3136,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "exemplos-de-estruturas",
+      "path": "knowledge/exemplos-de-estruturas.md",
+      "format": ".md",
+      "chunks": 33,
+      "extracted_nonwhitespace_characters": 6755,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "frameworks-copy",
+      "path": "knowledge/frameworks-copy.md",
+      "format": ".md",
+      "chunks": 16,
+      "extracted_nonwhitespace_characters": 3592,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "funil-e-jornada",
+      "path": "knowledge/funil-e-jornada.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3169,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "gatilhos-psicologicos",
+      "path": "knowledge/gatilhos-psicologicos.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3504,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "matriz-de-variacoes-e-testes",
+      "path": "knowledge/matriz-de-variacoes-e-testes.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3188,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 9,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "metodologia-thamy",
+      "path": "knowledge/metodologia-thamy.md",
+      "format": ".md",
+      "chunks": 30,
+      "extracted_nonwhitespace_characters": 6480,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 11,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "narrativa-lp",
+      "path": "knowledge/narrativa-lp.md",
+      "format": ".md",
+      "chunks": 17,
+      "extracted_nonwhitespace_characters": 4666,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "objecoes-e-mecanismos",
+      "path": "knowledge/objecoes-e-mecanismos.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2923,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 9,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "pacote-contexto",
+      "path": "knowledge/pacote-contexto.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2428,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 4,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "pesquisa-voz-do-cliente",
+      "path": "knowledge/pesquisa-voz-do-cliente.md",
+      "format": ".md",
+      "chunks": 15,
+      "extracted_nonwhitespace_characters": 3041,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "processo-de-copy",
+      "path": "knowledge/processo-de-copy.md",
+      "format": ".md",
+      "chunks": 17,
+      "extracted_nonwhitespace_characters": 3589,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "processo-kickoff-cliente",
+      "path": "knowledge/processo-kickoff-cliente.md",
+      "format": ".md",
+      "chunks": 17,
+      "extracted_nonwhitespace_characters": 3583,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "regras-por-canal",
+      "path": "knowledge/regras-por-canal.md",
+      "format": ".md",
+      "chunks": 23,
+      "extracted_nonwhitespace_characters": 5857,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 13,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "termos-a-evitar",
+      "path": "knowledge/termos-a-evitar.md",
+      "format": ".md",
+      "chunks": 18,
+      "extracted_nonwhitespace_characters": 4057,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "use-case-map-exemplos",
+      "path": "knowledge/use-case-map-exemplos.md",
+      "format": ".md",
+      "chunks": 19,
+      "extracted_nonwhitespace_characters": 4597,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "vicios-ia-humanizacao",
+      "path": "knowledge/vicios-ia-humanizacao.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 3139,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 5,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "kb-41a69e538058c43d",
+      "path": "knowledge/padroes-copy-v4.md",
+      "format": ".md",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 619,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "kb-9f8c9c47e6568bbf",
+      "path": "knowledge/prompts-de-apoio.md",
+      "format": ".md",
+      "chunks": 14,
+      "extracted_nonwhitespace_characters": 2855,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "kb-cab73605b95ef47b",
+      "path": "knowledge/recuperacao-contexto.md",
+      "format": ".md",
+      "chunks": 33,
+      "extracted_nonwhitespace_characters": 7928,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m01",
+      "path": "knowledge/repertorio/metodos/m01-pesquisa-que-termina-em-uma-decisao-de-mensagem.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2326,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m02",
+      "path": "knowledge/repertorio/metodos/m02-avaliacoes-publicas-como-mapa-de-expectativas.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2309,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m03",
+      "path": "knowledge/repertorio/metodos/m03-da-pesquisa-dispersa-ao-argumento-sustentado.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2266,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m04",
+      "path": "knowledge/repertorio/metodos/m04-posicionamento-antes-da-frase-de-efeito.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2197,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m05",
+      "path": "knowledge/repertorio/metodos/m05-a-alternativa-atual-tambem-compete.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2131,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m06",
+      "path": "knowledge/repertorio/metodos/m06-proposta-de-valor-com-utilidade-e-prova.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2202,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m07",
+      "path": "knowledge/repertorio/metodos/m07-entrada-de-lp-compativel-com-a-consciencia.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2193,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m08",
+      "path": "knowledge/repertorio/metodos/m08-respostas-de-pesquisa-viram-hierarquia-de-lp.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2165,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m09",
+      "path": "knowledge/repertorio/metodos/m09-headline-que-faz-sentido-fora-do-contexto.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2170,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m10",
+      "path": "knowledge/repertorio/metodos/m10-compressao-que-preserva-o-argumento.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2111,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m11",
+      "path": "knowledge/repertorio/metodos/m11-precisao-tecnica-em-linguagem-compreensivel.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2211,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m12",
+      "path": "knowledge/repertorio/metodos/m12-voz-consistente-com-tom-adequado-ao-momento.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2109,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m13",
+      "path": "knowledge/repertorio/metodos/m13-pauta-social-com-valor-antes-do-pedido-de-interacao.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2151,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m14",
+      "path": "knowledge/repertorio/metodos/m14-assunto-preheader-e-corpo-cumprem-a-mesma-promessa.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2142,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m15",
+      "path": "knowledge/repertorio/metodos/m15-sequencia-de-e-mails-organizada-por-decisao.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2194,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m16",
+      "path": "knowledge/repertorio/metodos/m16-problema-de-copy-ou-problema-da-experiencia.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2193,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m17",
+      "path": "knowledge/repertorio/metodos/m17-validacao-de-mensagem-com-o-publico.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2157,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m18",
+      "path": "knowledge/repertorio/metodos/m18-hopkins-especificidade-e-teste-com-contexto-historico.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2329,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m19",
+      "path": "knowledge/repertorio/metodos/m19-situacoes-de-compra-para-variar-angulos.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2274,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-m20",
+      "path": "knowledge/repertorio/metodos/m20-video-mensagem-imagem-e-acao-em-conjunto.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2182,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e01",
+      "path": "knowledge/repertorio/exemplos/lp/e01-basecamp-mostrar-a-tarefa-dentro-do-produto.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2103,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e02",
+      "path": "knowledge/repertorio/exemplos/lp/e02-hey-uma-funcao-explicada-por-uma-escolha-cotidiana.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1945,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e03",
+      "path": "knowledge/repertorio/exemplos/lp/e03-shopify-expansao-comercial-por-contextos-de-venda.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2021,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e04",
+      "path": "knowledge/repertorio/exemplos/lp/e04-notion-casos-de-uso-tornam-ia-mais-concreta.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2011,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e05",
+      "path": "knowledge/repertorio/exemplos/lp/e05-conta-azul-colaboracao-descrita-por-dados-e-destinatario.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2034,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e06",
+      "path": "knowledge/repertorio/exemplos/lp/e06-rd-station-crm-contexto-de-trabalho-e-acao-reconhecivel.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2005,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e07",
+      "path": "knowledge/repertorio/exemplos/lp/e07-nuvemshop-caminhos-diferentes-por-ponto-de-partida.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1987,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e08",
+      "path": "knowledge/repertorio/exemplos/lp/e08-airbnb-comecar-decidir-e-entender-condicoes.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2008,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e09",
+      "path": "knowledge/repertorio/exemplos/lp/e09-quintoandar-entregavel-tangivel-perto-do-cadastro.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2024,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e10",
+      "path": "knowledge/repertorio/exemplos/lp/e10-sumup-escolhas-por-modalidade-de-recebimento.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1960,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e11",
+      "path": "knowledge/repertorio/exemplos/lp/e11-wise-utilidade-descrita-por-operacoes.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1943,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e12",
+      "path": "knowledge/repertorio/exemplos/lp/e12-slack-recurso-apresentado-por-uma-situacao-de-ausencia.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1951,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e13",
+      "path": "knowledge/repertorio/exemplos/lp/e13-dropbox-replay-nome-do-produto-com-tarefa-identificada.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1985,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e14",
+      "path": "knowledge/repertorio/exemplos/lp/e14-apple-acessibilidade-acao-especifica-com-opcoes-e-limites.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1965,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e15",
+      "path": "knowledge/repertorio/exemplos/lp/e15-netflix-acao-de-cadastro-explicada-ao-lado-do-campo.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1918,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e16",
+      "path": "knowledge/repertorio/exemplos/lp/e16-hotmart-portfolio-distinguido-por-objeto-de-venda.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1933,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e17",
+      "path": "knowledge/repertorio/exemplos/lp/e17-ikea-planejamento-preparativos-tornam-o-servico-concreto.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1940,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e18",
+      "path": "knowledge/repertorio/exemplos/ads/e18-patagonia-provocacao-sustentada-por-acoes-concretas.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2092,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e19",
+      "path": "knowledge/repertorio/exemplos/ads/e19-dove-sketches-insight-transformado-em-construcao-visual.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 1975,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e20",
+      "path": "knowledge/repertorio/exemplos/ads/e20-mercedes-benz-traducao-de-um-assunto-tecnico-para-outro-publico.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2073,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e21",
+      "path": "knowledge/repertorio/exemplos/ads/e21-ades-eixo-criativo-ligado-ao-objeto-da-oferta.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 1959,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e22",
+      "path": "knowledge/repertorio/exemplos/ads/e22-spotify-wrapped-dado-pessoal-convertido-em-historia.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2071,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e23",
+      "path": "knowledge/repertorio/exemplos/ads/e23-shot-on-iphone-resultado-visivel-sustenta-uma-capacidade.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2035,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e24",
+      "path": "knowledge/repertorio/exemplos/social/e24-lego-ideas-participacao-com-objetivo-e-condicao-definidos.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1943,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e25",
+      "path": "knowledge/repertorio/exemplos/social/e25-ikea-ideias-pauta-editorial-por-uma-tarefa-domestica.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1917,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e26",
+      "path": "knowledge/repertorio/exemplos/social/e26-nubank-explica-pix-pergunta-que-organiza-conteudo.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1973,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e27",
+      "path": "knowledge/repertorio/exemplos/social/e27-duolingo-objetivo-de-habito-com-acoes-executaveis.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1999,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e28",
+      "path": "knowledge/repertorio/exemplos/direct/e28-boas-vindas-freckle-contexto-da-conta-e-primeiro-uso.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1922,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e29",
+      "path": "knowledge/repertorio/exemplos/direct/e29-friend-streak-lembrete-ligado-a-um-compromisso-aceito.md",
+      "format": ".md",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1948,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-e30",
+      "path": "knowledge/repertorio/exemplos/direct/e30-verve-wine-suporte-dentro-de-uma-mensagem-transacional.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 1986,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 7,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r01",
+      "path": "knowledge/repertorio/revisoes/r01-compatibilidade-organiza-um-anuncio-tecnico.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2326,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r02",
+      "path": "knowledge/repertorio/revisoes/r02-retirar-causalidade-inventada-de-uma-caracteristica.md",
+      "format": ".md",
+      "chunks": 11,
+      "extracted_nonwhitespace_characters": 2348,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r03",
+      "path": "knowledge/repertorio/revisoes/r03-arte-e-texto-de-plataforma-cumprem-funcoes-diferentes.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2314,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r04",
+      "path": "knowledge/repertorio/revisoes/r04-intencao-de-busca-pede-objeto-e-acao-pertinentes.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2248,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r05",
+      "path": "knowledge/repertorio/revisoes/r05-lp-com-tese-e-progressao-entre-titulos.md",
+      "format": ".md",
+      "chunks": 11,
+      "extracted_nonwhitespace_characters": 2391,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r06",
+      "path": "knowledge/repertorio/revisoes/r06-lp-de-desejo-sem-inventar-sofrimento.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2299,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r07",
+      "path": "knowledge/repertorio/revisoes/r07-formulario-explica-o-contato-sem-inventar-prazo.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2204,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r08",
+      "path": "knowledge/repertorio/revisoes/r08-prova-mostra-o-recurso-sem-ampliar-o-resultado.md",
+      "format": ".md",
+      "chunks": 9,
+      "extracted_nonwhitespace_characters": 2278,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r09",
+      "path": "knowledge/repertorio/revisoes/r09-carrossel-desenvolve-uma-pauta-com-informacao-nova.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2384,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-01-r10",
+      "path": "knowledge/repertorio/revisoes/r10-follow-up-mantem-a-funcao-de-avaliar-e-esclarecer.md",
+      "format": ".md",
+      "chunks": 10,
+      "extracted_nonwhitespace_characters": 2301,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 8,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a01",
+      "path": "knowledge/repertorio/lote-02/artes/a01-amarok-visao-embaixo-como-uma-cena-reconhecivel.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2874,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a02",
+      "path": "knowledge/repertorio/lote-02/artes/a02-mcdonald-s-desejo-mostrado-antes-da-refeicao.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2798,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a03",
+      "path": "knowledge/repertorio/lote-02/artes/a03-humphree-metafora-acompanhada-de-mecanismo-e-destino.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2841,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a04",
+      "path": "knowledge/repertorio/lote-02/artes/a04-printmakers-voz-construida-com-uma-palavra-do-oficio.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2751,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a05",
+      "path": "knowledge/repertorio/lote-02/artes/a05-mazda-referencia-cultural-ancorada-num-atributo.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2724,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a06",
+      "path": "knowledge/repertorio/lote-02/artes/a06-gaudium-tipografia-demonstra-o-movimento.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2701,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a07",
+      "path": "knowledge/repertorio/lote-02/artes/a07-monchis-imagem-desenvolve-o-significado-da-chamada.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2643,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a08",
+      "path": "knowledge/repertorio/lote-02/artes/a08-fasac-materia-prima-e-resultado-na-mesma-imagem.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2721,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a09",
+      "path": "knowledge/repertorio/lote-02/artes/a09-six-burgers-teaser-com-um-indicio-do-produto.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2668,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a10",
+      "path": "knowledge/repertorio/lote-02/artes/a10-sitrak-utilidade-pequena-traduz-um-territorio-industrial.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2612,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a11",
+      "path": "knowledge/repertorio/lote-02/artes/a11-panutti-linguagem-familiar-ganha-uma-virada-visual.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2639,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a12",
+      "path": "knowledge/repertorio/lote-02/artes/a12-alimiau-pertencimento-com-uma-acao-coerente.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2693,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a13",
+      "path": "knowledge/repertorio/lote-02/artes/a13-gatorade-o-formato-da-marca-organiza-a-cena-esportiva.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2644,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a14",
+      "path": "knowledge/repertorio/lote-02/artes/a14-novacart-mostrar-o-material-antes-de-declarar-um-valor.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2674,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a15",
+      "path": "knowledge/repertorio/lote-02/artes/a15-brute-tipografia-reconhecivel-com-ressalva-de-contraste.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2771,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a16",
+      "path": "knowledge/repertorio/lote-02/artes/a16-agua-a-humor-oportuno-depende-de-uma-referencia-temporal.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2658,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a17",
+      "path": "knowledge/repertorio/lote-02/artes/a17-pindamonhangaba-impacto-visual-seguido-de-orientacao.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2799,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a18",
+      "path": "knowledge/repertorio/lote-02/artes/a18-dra-linguagem-do-setor-organiza-uma-homenagem.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2723,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a19",
+      "path": "knowledge/repertorio/lote-02/artes/a19-levex-uma-historia-conhecida-recebe-um-mecanismo-concreto.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2724,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-a20",
+      "path": "knowledge/repertorio/lote-02/artes/a20-micam-a-tese-visual-e-os-dados-do-evento-convivem.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2726,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l01",
+      "path": "knowledge/repertorio/lote-02/paginas/l01-insider-beneficios-de-uso-ligados-a-condicoes-concretas.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 3098,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l02",
+      "path": "knowledge/repertorio/lote-02/paginas/l02-alura-mobile-caminhos-por-ponto-de-partida.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2970,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l03",
+      "path": "knowledge/repertorio/lote-02/paginas/l03-hostinger-facilidade-explicada-como-sequencia-de-acoes.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2940,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l04",
+      "path": "knowledge/repertorio/lote-02/paginas/l04-omie-uma-categoria-tecnica-explicada-pelo-trabalho-cotidiano.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2909,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l05",
+      "path": "knowledge/repertorio/lote-02/paginas/l05-pipedrive-proxima-acao-como-beneficio-operacional.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2888,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l06",
+      "path": "knowledge/repertorio/lote-02/paginas/l06-docusign-distinguir-quem-assina-de-quem-organiza-assinaturas.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2998,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l07",
+      "path": "knowledge/repertorio/lote-02/paginas/l07-intelbras-fr101-uma-duvida-cotidiana-ligada-a-funcao.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2865,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l08",
+      "path": "knowledge/repertorio/lote-02/paginas/l08-ifood-oportunidade-de-venda-acompanhada-de-operacao-e-entrada.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2953,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l09",
+      "path": "knowledge/repertorio/lote-02/paginas/l09-leroy-merlin-instala-o-que-acontece-depois-da-compra.md",
+      "format": ".md",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 2804,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l10",
+      "path": "knowledge/repertorio/lote-02/paginas/l10-aeron-criterios-de-escolha-antes-de-uma-promessa-universal.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 3022,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l11",
+      "path": "knowledge/repertorio/lote-02/paginas/l11-nespresso-prime-recorrencia-explicada-por-controle-da-escolha.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2875,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-l12",
+      "path": "knowledge/repertorio/lote-02/paginas/l12-smart-fit-plano-escolhido-por-uso-e-compromisso.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2897,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d01",
+      "path": "knowledge/repertorio/lote-02/emails/d01-figma-boas-vindas-que-levam-a-primeira-acao.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2931,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d02",
+      "path": "knowledge/repertorio/lote-02/emails/d02-headspace-apoio-com-utilidade-e-limite-explicitos.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2989,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d03",
+      "path": "knowledge/repertorio/lote-02/emails/d03-alltrails-novidade-vinculada-a-uma-atividade-sazonal.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2943,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d04",
+      "path": "knowledge/repertorio/lote-02/emails/d04-athletic-brewing-participacao-com-regras-e-acao-concreta.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2911,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d05",
+      "path": "knowledge/repertorio/lote-02/emails/d05-motorola-recursos-apresentados-por-situacoes-de-uso.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 3001,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d06",
+      "path": "knowledge/repertorio/lote-02/emails/d06-new-york-magazine-valor-de-assinatura-mostrado-por-entregas.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 3031,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d07",
+      "path": "knowledge/repertorio/lote-02/emails/d07-vacation-voz-sensorial-acompanhada-de-dois-tipos-de-prova.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2976,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "rep-02-d08",
+      "path": "knowledge/repertorio/lote-02/emails/d08-team17-lancamento-futuro-com-acoes-disponiveis-agora.md",
+      "format": ".md",
+      "chunks": 13,
+      "extracted_nonwhitespace_characters": 2989,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 10,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {},
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-94211e766522b503",
+      "path": ".local/repertorio/originais/scientific-advertising-1923.pdf",
+      "format": ".pdf",
+      "chunks": 380,
+      "extracted_nonwhitespace_characters": 104628,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 118,
+      "pages_with_text": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "indexed_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "quality": {
+        "empty_pages": [],
+        "native_words_seen_in_ocr_min": 0.951,
+        "ocr_crosschecked_pages": 116,
+        "ocr_words_seen_in_native_min": 0.9775,
+        "page_count": 116,
+        "pages_with_text": 116,
+        "security_flags": [],
+        "visual_descriptions": 2,
+        "visual_review": "All page layouts inspected in rendered contact sheets; pages 1 and 116 inspected individually."
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-506066d9b886f438",
+      "path": ".local/repertorio/originais/history-of-advertising-1874-gutenberg.txt",
+      "format": ".txt",
+      "chunks": 4270,
+      "extracted_nonwhitespace_characters": 1203408,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 21,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {
+        "page_count": null,
+        "physical_pages_available": false,
+        "security_flags": []
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-a2beaa87c4484fc5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/001a313630bc3d239e80723b03f6f8a3.webp",
+      "format": ".webp",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 552,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          593
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-73d6f49610c1821f",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00312154441471b2f0bca32ff9c96c2c.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1830,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 4,
+        "ocr_mean_confidence": 0.9666666666666667,
+        "ocr_rows": 60,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-f67238bdc1b82af8",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/00410ac50afbf09ce87a09eafe38ea23.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 556,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1256,
+          1651
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 15,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-75665c8e52bace4a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/005cd71a9291cdd2ce353800ca38ae56.png",
+      "format": ".png",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1733,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          2200
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 43,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-890636cc8e84a38b",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.jpg",
+      "format": ".jpg",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2005,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 102,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-509ef12527c8a9b4",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/01f0c43b1e644c96e67577164f2450bf.webp",
+      "format": ".webp",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1931,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          593
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9895833333333334,
+        "ocr_rows": 96,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-3b8e972a985bf408",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/022868989c2a6d88807ffa2b01420434.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1444,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 67,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-7f4ad7912c2c7d1c",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/028b9b7b2b2438a046674a7f1d4d9e89.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 2113,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          1100
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 52,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-babcf8f2aa6ddf17",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/02fe6dcfcf96c14746b852f7a68d80f4.jpg",
+      "format": ".jpg",
+      "chunks": 6,
+      "extracted_nonwhitespace_characters": 1503,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          1308
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 36,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-a5ad0ae2dddb265d",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/032f1c005dc55a4e0fd756cb54455463.webp",
+      "format": ".webp",
+      "chunks": 1,
+      "extracted_nonwhitespace_characters": 109,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": true,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          841
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": null,
+        "ocr_rows": 0,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-5f55200288c151cc",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/033ed88ab176e5d01f639e9eb866649e.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 455,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          609
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.984090909090909,
+        "ocr_rows": 44,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-12967a9a42d55dcd",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/035e0010c16aa3a0948a70b29fd16742.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 109,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 2,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-f6a57608177b88b5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0521c061e684b13edb695384e52d37bb.png",
+      "format": ".png",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1302,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1024,
+          1536
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.984375,
+        "ocr_rows": 64,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-d61ccb22ed7b7bfc",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/056d94fcf97d8d260552195216e8513a.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 896,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          828,
+          980
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9847826086956522,
+        "ocr_rows": 46,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-3b38b9a69e20dfeb",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05b47e08e1241041e327f9838e41c3d5.jpg",
+      "format": ".jpg",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 1993,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          711
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.989090909090909,
+        "ocr_rows": 110,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-eae97f5ab0d8c122",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/05f7bca924c320d79f5316408fa84379.png",
+      "format": ".png",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 364,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1080
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9588235294117647,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-51839e0cd1046674",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/07dae897f3be0d4f09b60d5bfb92734c.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 426,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          470,
+          421
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9545454545454546,
+        "ocr_rows": 33,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-5fc95c431d251e76",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/09b9b9168f78c2484715f62e2be2c2f9.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 346,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 16,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-22dde06ff7b0c014",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0a638ebe89438fd6d187f798096b0352.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 854,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          960,
+          720
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9833333333333333,
+        "ocr_rows": 60,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-383d46dca94eec3a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e210c9bac18d7040d623a35829e1308.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 944,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          4000,
+          5000
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9924242424242424,
+        "ocr_rows": 66,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-c26fa64b96ac52fd",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0e254195eab60cf80af0fe71a75b65f6.webp",
+      "format": ".webp",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 125,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          843
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 8,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-382bf4773a191a12",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/15cf0d6c43d043d2c69ddf1bb332ac25.webp",
+      "format": ".webp",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 160,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          841
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 11,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-44107d0390e1387f",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/161a443daa151d5853395d12429dafe9.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 2084,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1038,
+          1200
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9946236559139785,
+        "ocr_rows": 93,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ea9ccac366bd6a1f",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/165ccbd531f63976c94230333c3eeb93.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1086,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          828,
+          1003
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9921875,
+        "ocr_rows": 64,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-20d52fdbdef0a76a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1ba17e6ff9e5362c4d3489617f643da8.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 370,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2375,
+          3563
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9516129032258065,
+        "ocr_rows": 31,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-45d46e29d89ac783",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/1f8d9461f78b062c1061cf1aa7ef46c4.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 635,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 19,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-7be30f82da0b81f2",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2b6fe9f836191e2eaa4222873783dca5.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 638,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1440
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-badaceb7bf2e171c",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2da74b067ca961186877024cdbdb9b88.png",
+      "format": ".png",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 717,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2625,
+          3938
+        ],
+        "low_confidence_rows": 4,
+        "ocr_mean_confidence": 0.9770114942528736,
+        "ocr_rows": 87,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-aa7d24bb03ae20b3",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3113f5a389e328a29aad5809eafbd7ee.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1089,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          1000
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9923076923076923,
+        "ocr_rows": 65,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-69823c4ad0fd3591",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/325bcb031752751ffb137ed78c3c549a.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 596,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 31,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-b3598b3273ca5095",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/381adf91836272ac7a68cb820ba21f10.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 662,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          960,
+          1200
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9736842105263158,
+        "ocr_rows": 19,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ee057cd15f4cee66",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3e610232968fd57c1b02f1634205ed99.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 863,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1024,
+          1536
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 50,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-4b4104bef484dfb0",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f4273d8cc9399e607f281a5982e2a19.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 462,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          927,
+          1200
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 14,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-618e96e8f7ad572b",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f6d93961a6cb7cc41aa8ba8a8a7a8d2.png",
+      "format": ".png",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 531,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2125,
+          3188
+        ],
+        "low_confidence_rows": 4,
+        "ocr_mean_confidence": 0.9531914893617021,
+        "ocr_rows": 47,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-f55b8e36dc678448",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4d171a658887081958bc451f44a846c3.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 455,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          236,
+          393
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 19,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-47cf648cca42f755",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ea15665e2e91735920a91d41d735acb.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 272,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1440,
+          1800
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.95,
+        "ocr_rows": 10,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-437ab0c67c7ab253",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ed150155f231974c24e8649126eac66.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 658,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1400,
+          3151
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9893617021276596,
+        "ocr_rows": 47,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-babc031ec3465ee3",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/50419ab24a7e18c5443f3abc87d9c290.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 352,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          734,
+          1304
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9642857142857143,
+        "ocr_rows": 28,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ad20a0ca30dc3a58",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/51c11d802092ce1d5cb55dfc235a1264.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 703,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          880,
+          1000
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 36,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-55e6336de8e8a32e",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5275e5374b5132a918a0fe79b849d119.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 618,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          630,
+          771
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 37,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-f18a9073c4d5445a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5619cb0c3d85b652442c2a8c0591028f.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 820,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          1104
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 39,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-50e7c19a804990ae",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5be0f916fbb87d4f049a28e356a309cd.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 252,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1440,
+          1800
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9090909090909091,
+        "ocr_rows": 11,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-8789d00122238178",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5ed7a359c91c472f2528f30becdc37c0.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 982,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9772727272727273,
+        "ocr_rows": 44,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-6896231c9716dc09",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/5f43da9fe254cb110fcf6ee9a835fbe6.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 448,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1346
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 16,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-79283e1d16d50ea5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62469dccdf00a19a3661417f25396636.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1535,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 84,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-e05d8ed12cabc231",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/62b19601069dd7b835454a4be41cd3d7.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 347,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 10,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-799c90e98bdee871",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/63d40267f1d866afb8bfcc1182278f4e.jpg",
+      "format": ".jpg",
+      "chunks": 1,
+      "extracted_nonwhitespace_characters": 137,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": true,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": null,
+        "ocr_rows": 0,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-424f648f251a99f9",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/6753ecd0a4fbd8ce3a974afeafa48786.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 855,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1170,
+          1467
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 35,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-52c28f357070fa48",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/69a9ac6f12ce8a519e940996d3cd208c.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 553,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1340
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9645833333333332,
+        "ocr_rows": 48,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ba2768ac38fb3901",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7069c7e7280ef3f2e3d1bea2409b5653.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 462,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          236,
+          419
+        ],
+        "low_confidence_rows": 7,
+        "ocr_mean_confidence": 0.8806451612903226,
+        "ocr_rows": 31,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-e3e6a050af51cef9",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/70f8051a38b8d1700512b996aed6bbd0.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 790,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1744,
+          2048
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9871794871794872,
+        "ocr_rows": 39,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-acf7b1d39590d89d",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/732e0c1380c2a1b6de633b796e732618.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 967,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1514
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 62,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-b2ea9c1a7f14d1ef",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/73304c876e095cb215decfa37696c42e.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 687,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1440
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 16,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-7c195b0c6b1e9dcb",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7475cd4516008a00dbcf7f26718062b0.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1045,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1088,
+          1360
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9821428571428571,
+        "ocr_rows": 56,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-9dfe0aea9619be69",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/77341292975419631fb3ec2252c01dcb.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 801,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 49,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-e53a99b3d168f318",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/78a29e32114de00600a1bf31c195bb1a.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1428,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 66,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-825bbf5e145fb2d3",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7e7d6076f1280ec075afa8813db4e94e.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1011,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9827586206896551,
+        "ocr_rows": 29,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-7a41274dccb1085e",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/812b2a24f4138204b6cda969f07129ee.jpg",
+      "format": ".jpg",
+      "chunks": 6,
+      "extracted_nonwhitespace_characters": 1220,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1484,
+          2048
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9851851851851852,
+        "ocr_rows": 81,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-52e92c32ed001145",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/81e8a9d8d00f312cbeeeda630dbb36e9.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 847,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          512,
+          640
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.98,
+        "ocr_rows": 50,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-dca8de58fe50233a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/862dceec4f8536e5205f98b7d064289e.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 346,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1280,
+          1600
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-b0612f232c4e6d01",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/89a9b530baa4b868cd0f3ebe7d332ff2.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 479,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          736
+        ],
+        "low_confidence_rows": 6,
+        "ocr_mean_confidence": 0.8846153846153846,
+        "ocr_rows": 26,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-a00421895932c48a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9a636ebabc6336ef780bf0ecee1b535e.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1713,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 35,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-d72a9e7abee38e9d",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9ab83690c3f0131a0809248dcc001283.webp",
+      "format": ".webp",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 349,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          593
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 15,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ce7f1b6db9ff3cd5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9baf07e8b656f0fc34e7775b427a7079.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 839,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2125,
+          3188
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9736842105263158,
+        "ocr_rows": 57,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-5fdfdc33624d9281",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9bf8f27760eaef4c5b8894fe05edd57d.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 311,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          564,
+          1002
+        ],
+        "low_confidence_rows": 7,
+        "ocr_mean_confidence": 0.8655172413793104,
+        "ocr_rows": 29,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-defbccfc68457c28",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/9f03ad0c6c3b2f4c266224845e2b6d47.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 371,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1024,
+          1536
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 25,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-482edf57ff0f61a9",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a72635151eb7a4fefefdeda647a16543.png",
+      "format": ".png",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 1096,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2200,
+          3600
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 41,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-22c1855d6fd59df2",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/a96180609887cb592b1d2cc1f01e1fe8.png",
+      "format": ".png",
+      "chunks": 14,
+      "extracted_nonwhitespace_characters": 2584,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1800,
+          3300
+        ],
+        "low_confidence_rows": 25,
+        "ocr_mean_confidence": 0.9293193717277487,
+        "ocr_rows": 191,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-83b95855ac47dbd5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ac19ae10bbed5497a7be0b76d59c3c72.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 518,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          1104
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9791666666666666,
+        "ocr_rows": 24,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-a4f8c0ca67d8cd66",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ae44c001886352f4d6a35bef9c309d4d.png",
+      "format": ".png",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 605,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 21,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-83f41845f7875e82",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/aea2856bf49005b29a846b1c3b68a353.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1522,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 33,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-8d579913d429c1dd",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/b395c4339b17994646d8a7a0f90d1080.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 487,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          549,
+          679
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 43,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-2bbbf2900aeb3ab6",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c2f3829c855f28db058ad712814d2d8e.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 621,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          873
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9464285714285714,
+        "ocr_rows": 28,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-f9c6ebd1ae92fbd2",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c3c6f20be536d4e6c43d0b110a8e4a69.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 477,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 16,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-9859e81ca2b54c7e",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c82fa5db8b0f95cfedfdf55925a582f9.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 381,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2375,
+          3563
+        ],
+        "low_confidence_rows": 5,
+        "ocr_mean_confidence": 0.9035714285714286,
+        "ocr_rows": 28,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-3c75c0851c57ca1b",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c92a542ae0920245e2ec2965febf0031.jpg",
+      "format": ".jpg",
+      "chunks": 5,
+      "extracted_nonwhitespace_characters": 1285,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 57,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-d9e2804b8bf47f98",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ca35a9636d418dba92df0c8bf983df78.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1666,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          750,
+          2086
+        ],
+        "low_confidence_rows": 7,
+        "ocr_mean_confidence": 0.9494117647058824,
+        "ocr_rows": 85,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-117fd175123839e6",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ce4ea994d1b9d90fbee3498154582ea2.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 547,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-0e9fad78740cf6ba",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d4b5b4fabef024c3d392fb26e4d416e8.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 422,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          1000
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 24,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ca45a74487e7bd60",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/d6370682fd46b7b5c95b0777dc426ba6.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 577,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          735,
+          886
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9693877551020408,
+        "ocr_rows": 49,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-789f2cf3f82c62c6",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/da8a427fec0a341f772e1e975a45887f.png",
+      "format": ".png",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 651,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 29,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-eae3d3b8fd94a442",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/df8c6f339b4f6196d44704e75bf378bd.jpg",
+      "format": ".jpg",
+      "chunks": 7,
+      "extracted_nonwhitespace_characters": 1398,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1639,
+          2048
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9862068965517241,
+        "ocr_rows": 87,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-daeab7fb04a14af8",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e44b09089166862a41c505a69a223dc1.jpg",
+      "format": ".jpg",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2004,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          1000
+        ],
+        "low_confidence_rows": 3,
+        "ocr_mean_confidence": 0.9831683168316832,
+        "ocr_rows": 101,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-00ba2087bfe84596",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e6c531e612beacce04a9f2654b8d8848.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 406,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          919
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 31,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-b3190d3f91805eb3",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e808f878645b9e7186b2ed8445451e26.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 494,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1440
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9500000000000001,
+        "ocr_rows": 14,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-ddc7f6ac282041a5",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e820cc4c4939b267c3eb235a380a6cf8.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 360,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 14,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-a34dcf83458f3767",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e954a9bba3651680ab55a51208b3e382.jpg",
+      "format": ".jpg",
+      "chunks": 8,
+      "extracted_nonwhitespace_characters": 2377,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          924
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9955357142857143,
+        "ocr_rows": 112,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-98103aa8a3e2993c",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee44a1b4e207b584aeced96c70321d7b.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 459,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          675,
+          1200
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9705882352941176,
+        "ocr_rows": 34,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-d5e53eff91ffa861",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee9c05ec19b510af4c55b2f3ae406649.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 505,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1346
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 17,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-1b4d557b502d2dfb",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f27acaa84b0cd335d2996f187de12cc0.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 867,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2292,
+          2250
+        ],
+        "low_confidence_rows": 4,
+        "ocr_mean_confidence": 0.9777777777777777,
+        "ocr_rows": 90,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-0a7fa783acd2113d",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f43269cc25ecd3e3b73e7873ffac9fb6.jpg",
+      "format": ".jpg",
+      "chunks": 6,
+      "extracted_nonwhitespace_characters": 1442,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 32,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-21b4e451846cf730",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5b511c35e52667b65c2590ad16e806c.jpg",
+      "format": ".jpg",
+      "chunks": 3,
+      "extracted_nonwhitespace_characters": 493,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1000,
+          1500
+        ],
+        "low_confidence_rows": 1,
+        "ocr_mean_confidence": 0.9871794871794872,
+        "ocr_rows": 39,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-dff5050049870f5f",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f5ef2fe4c404411055e225d90fdd5061.png",
+      "format": ".png",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 381,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1080,
+          1350
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 21,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-87a53bed3459d085",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/f81e8d310af194e83241b2a2ce859a32.webp",
+      "format": ".webp",
+      "chunks": 42,
+      "extracted_nonwhitespace_characters": 16212,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          474,
+          3302
+        ],
+        "low_confidence_rows": 11,
+        "ocr_mean_confidence": 0.9880994671403196,
+        "ocr_rows": 563,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-c05c4cfb89b83617",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fb1045a1003f993fdb3208d24d6dfe64.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 1042,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          2305,
+          4097
+        ],
+        "low_confidence_rows": 2,
+        "ocr_mean_confidence": 0.9772727272727273,
+        "ocr_rows": 44,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-2c6f1b7879c3e129",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fc14a323ec1a4524235a25d2d9e6a500.jpg",
+      "format": ".jpg",
+      "chunks": 4,
+      "extracted_nonwhitespace_characters": 845,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1200,
+          1800
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 35,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-b1a3d2a56497e951",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fdaf6cec9dd62a756ba45835ae26b016.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 370,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          736,
+          920
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 26,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-959a4a0b2cd6892a",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fe52f209511cbfaaa35fab9799c9e756.jpg",
+      "format": ".jpg",
+      "chunks": 2,
+      "extracted_nonwhitespace_characters": 323,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          1440,
+          1799
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 12,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-8e1f5db7cd2d7159",
+      "path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/feb2bb099704d9f58e8c0649b96ddc1a.jpg",
+      "format": ".jpg",
+      "chunks": 6,
+      "extracted_nonwhitespace_characters": 1399,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 2,
+      "pages_with_text": [
+        1
+      ],
+      "indexed_pages": [
+        1
+      ],
+      "quality": {
+        "empty_ocr": false,
+        "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+        "image_dimensions": [
+          800,
+          1000
+        ],
+        "low_confidence_rows": 0,
+        "ocr_mean_confidence": 1.0,
+        "ocr_rows": 66,
+        "visual_review": "agent_visual_inspection_contact_sheet"
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-19b19be2ad997756",
+      "path": "knowledge/repertorio/catalogo.json",
+      "format": ".json",
+      "chunks": 733,
+      "extracted_nonwhitespace_characters": 111452,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {
+        "page_count": null,
+        "physical_pages_available": false,
+        "security_flags": []
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-c51e4483a74a7df8",
+      "path": "knowledge/repertorio/fontes.json",
+      "format": ".json",
+      "chunks": 685,
+      "extracted_nonwhitespace_characters": 96497,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {
+        "page_count": null,
+        "physical_pages_available": false,
+        "security_flags": []
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    },
+    {
+      "id": "orig-3ea22b3f6fbf8afe",
+      "path": "knowledge/retrieval-index.json",
+      "format": ".json",
+      "chunks": 12,
+      "extracted_nonwhitespace_characters": 1978,
+      "missing_nonwhitespace_characters": 0,
+      "coverage": 1.0,
+      "source_segments": 1,
+      "pages_with_text": [],
+      "indexed_pages": [],
+      "quality": {
+        "page_count": null,
+        "physical_pages_available": false,
+        "security_flags": []
+      },
+      "fidelity": "Coverage is over extracted text/observed descriptions; not proof of exact OCR or full visual semantics."
+    }
+  ]
+}

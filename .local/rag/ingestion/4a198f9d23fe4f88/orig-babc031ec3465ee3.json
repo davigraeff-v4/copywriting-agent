@@ -1,0 +1,380 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/50419ab24a7e18c5443f3abc87d9c290.jpg",
+  "source_sha256": "babc031ec3465ee36cfab6e6372eb3325cdbbedbbdee4b1989a158a2453cf4cc",
+  "text": "The Anatomy\nof a Brand\nYour brand core\nYour target\nbeliefs, your\naudience, and\ndriving force,\nyour value\nyour mission\nproposition. How\nand values.\ndo you provide\nvalue to them?\nVISION\nVALUE\nBRAND\nSTASIA\nF0101\nYour visual\nThe tone of\nidentity: the\nyour brand. The\nlook and feel of\noverall mood:\nthe brand.\nedgy, fun,\nserious.\nmore at kendralebo. com\n\nDiagrama circular de marca conecta visão, valor, voz e identidade visual.",
+  "segments": [
+    {
+      "text": "The Anatomy\nof a Brand\nYour brand core\nYour target\nbeliefs, your\naudience, and\ndriving force,\nyour value\nyour mission\nproposition. How\nand values.\ndo you provide\nvalue to them?\nVISION\nVALUE\nBRAND\nSTASIA\nF0101\nYour visual\nThe tone of\nidentity: the\nyour brand. The\nlook and feel of\noverall mood:\nthe brand.\nedgy, fun,\nserious.\nmore at kendralebo. com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "box": [
+            0.19217647158446619,
+            0.8826978215929921,
+            0.6209103950687586,
+            0.05922585469813435
+          ],
+          "text": "The Anatomy",
+          "start_char": 0,
+          "end_char": 11
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.2519773435249555,
+            0.788141727471711,
+            0.5123940865415318,
+            0.0801582628963915
+          ],
+          "text": "of a Brand",
+          "start_char": 12,
+          "end_char": 22
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17711171642446258,
+            0.7116564417311813,
+            0.2588555858310627,
+            0.016871165644171793
+          ],
+          "text": "Your brand core",
+          "start_char": 23,
+          "end_char": 38
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6728085612650758,
+            0.7094559267415554,
+            0.1884428226980266,
+            0.02127219562881555
+          ],
+          "text": "Your target",
+          "start_char": 39,
+          "end_char": 50
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17911125158225064,
+            0.6841912500525427,
+            0.199924042829051,
+            0.02112026448630122
+          ],
+          "text": "beliefs, your",
+          "start_char": 51,
+          "end_char": 64
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6729547878921082,
+            0.6853562132885186,
+            0.21812312154743907,
+            0.02192560953596623
+          ],
+          "text": "audience, and",
+          "start_char": 65,
+          "end_char": 78
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17598374278795484,
+            0.6606604659512177,
+            0.21822826998760006,
+            0.027201934826154628
+          ],
+          "text": "driving force,",
+          "start_char": 79,
+          "end_char": 93
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6698319633448847,
+            0.6669821708485593,
+            0.16690544731285661,
+            0.016348708626682695
+          ],
+          "text": "your value",
+          "start_char": 94,
+          "end_char": 104
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17673261856932257,
+            0.6423385188862805,
+            0.2048449815131663,
+            0.01801501461333288
+          ],
+          "text": "your mission",
+          "start_char": 105,
+          "end_char": 117
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6724247335370528,
+            0.6417729975216733,
+            0.2762404813428665,
+            0.022833707142461357
+          ],
+          "text": "proposition. How",
+          "start_char": 118,
+          "end_char": 134
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1795678829210006,
+            0.6207711467564265,
+            0.180600595084458,
+            0.016889032410697835
+          ],
+          "text": "and values.",
+          "start_char": 135,
+          "end_char": 146
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.672684676062091,
+            0.6190823457019066,
+            0.2296503051425196,
+            0.020942676286755946
+          ],
+          "text": "do you provide",
+          "start_char": 147,
+          "end_char": 161
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6730245231136031,
+            0.6012269938797783,
+            0.2343324250681199,
+            0.015337423312883347
+          ],
+          "text": "value to them?",
+          "start_char": 162,
+          "end_char": 176
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.283622506562447,
+            0.5029694853001168,
+            0.12391290482773115,
+            0.06672023702984209
+          ],
+          "text": "VISION",
+          "start_char": 177,
+          "end_char": 183
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6025221057587912,
+            0.5022668355139115,
+            0.10974302993483365,
+            0.06362903922613405
+          ],
+          "text": "VALUE",
+          "start_char": 184,
+          "end_char": 189
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4468034592185082,
+            0.4369366542127894,
+            0.10911787693117231,
+            0.012629759092272486
+          ],
+          "text": "BRAND",
+          "start_char": 190,
+          "end_char": 195
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.2696603928042314,
+            0.31689959350873076,
+            0.13776035984465468,
+            0.08037408583003314
+          ],
+          "text": "STASIA",
+          "start_char": 196,
+          "end_char": 202
+        },
+        {
+          "confidence": 0.5,
+          "box": [
+            0.5994668234797019,
+            0.32834024149470253,
+            0.10859415121884053,
+            0.05972475508239372
+          ],
+          "text": "F0101",
+          "start_char": 203,
+          "end_char": 208
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17983651212534058,
+            0.2500000000121725,
+            0.1771117166212534,
+            0.015337423312883458
+          ],
+          "text": "Your visual",
+          "start_char": 209,
+          "end_char": 220
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6730245230265873,
+            0.2500000000127812,
+            0.1880108991825613,
+            0.016871165644171793
+          ],
+          "text": "The tone of",
+          "start_char": 221,
+          "end_char": 232
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1740681020789606,
+            0.2236356704166942,
+            0.20220807982400588,
+            0.019841797512733184
+          ],
+          "text": "identity: the",
+          "start_char": 233,
+          "end_char": 246
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6697105842884945,
+            0.22303681077755744,
+            0.25452830551105887,
+            0.021538715421056454
+          ],
+          "text": "your brand. The",
+          "start_char": 247,
+          "end_char": 262
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17166212540319614,
+            0.2039877300841484,
+            0.25340599455040874,
+            0.016871165644171793
+          ],
+          "text": "look and feel of",
+          "start_char": 263,
+          "end_char": 279
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6727632977815663,
+            0.20388298606773536,
+            0.21316540793437067,
+            0.018487494416032035
+          ],
+          "text": "overall mood:",
+          "start_char": 280,
+          "end_char": 293
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.17703661787121205,
+            0.17922688702351597,
+            0.1690875269086874,
+            0.018846840214875593
+          ],
+          "text": "the brand.",
+          "start_char": 294,
+          "end_char": 304
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6725549547474343,
+            0.17799817299519283,
+            0.1568319855983641,
+            0.021203731466656106
+          ],
+          "text": "edgy, fun,",
+          "start_char": 305,
+          "end_char": 315
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.6727501530159107,
+            0.15846486120155756,
+            0.12604970698135742,
+            0.01652610521375031
+          ],
+          "text": "serious.",
+          "start_char": 316,
+          "end_char": 324
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.28327166113327634,
+            0.05334304522183397,
+            0.4253620282830594,
+            0.018645665396942013
+          ],
+          "text": "more at kendralebo. com",
+          "start_char": 325,
+          "end_char": 348
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 348
+    },
+    {
+      "text": "Diagrama circular de marca conecta visão, valor, voz e identidade visual.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 350,
+      "end_char": 423
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      734,
+      1304
+    ],
+    "ocr_rows": 28,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9642857142857143,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/73304c876e095cb215decfa37696c42e.jpg",
+  "source_sha256": "b2ea9c1a7f14d1ef8b6c645a1e88bcafde22302e3516a83fe868cb53a2e7721c",
+  "text": "Comando ChatGPT\nAndlise meu perfil do Instagram (vou colar minha bio e\nexemplos de postagens) e me mostre por que meu\nengajamento está baixo, quais erros de\nposicionomento e comunicação estão me impedindo\nde atrair empreendedores que compram, e o que\npreciso mudar na linguagem, nos temas e no tipo de\nconteúdo para destravar o alcance e começar a atrair\npessoas com perfil comprador. Quero que você me\ndiga quais são os 3 principais ajustes que devo fazer na\nminha estratégia de conteúdo, os gatilhos mentais\nmois eficazes para esse público, quais formatos de post\ne Reels têm mais chance de gerar conexão e vendas, e\nme entregue 5 ideias de Reels e 3 legendas virais que\nconversem diretamente com empreendedores prontos\npara investir em soluções.\n\nCaptura de prompt para análise de perfil e direção de conteúdo de Instagram.",
+  "segments": [
+    {
+      "text": "Comando ChatGPT\nAndlise meu perfil do Instagram (vou colar minha bio e\nexemplos de postagens) e me mostre por que meu\nengajamento está baixo, quais erros de\nposicionomento e comunicação estão me impedindo\nde atrair empreendedores que compram, e o que\npreciso mudar na linguagem, nos temas e no tipo de\nconteúdo para destravar o alcance e começar a atrair\npessoas com perfil comprador. Quero que você me\ndiga quais são os 3 principais ajustes que devo fazer na\nminha estratégia de conteúdo, os gatilhos mentais\nmois eficazes para esse público, quais formatos de post\ne Reels têm mais chance de gerar conexão e vendas, e\nme entregue 5 ideias de Reels e 3 legendas virais que\nconversem diretamente com empreendedores prontos\npara investir em soluções.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Comando ChatGPT",
+          "box": [
+            0.12790697150395733,
+            0.6902777789809784,
+            0.7461240415219907,
+            0.07152777777777775
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 15
+        },
+        {
+          "text": "Andlise meu perfil do Instagram (vou colar minha bio e",
+          "box": [
+            0.1218939677332209,
+            0.6090825752685602,
+            0.787226641619647,
+            0.032757303449842734
+          ],
+          "confidence": 1,
+          "start_char": 16,
+          "end_char": 70
+        },
+        {
+          "text": "exemplos de postagens) e me mostre por que meu",
+          "box": [
+            0.14728683117492833,
+            0.5826388883672871,
+            0.736434088812934,
+            0.026388888888888906
+          ],
+          "confidence": 1,
+          "start_char": 71,
+          "end_char": 117
+        },
+        {
+          "text": "engajamento está baixo, quais erros de",
+          "box": [
+            0.2325581466485205,
+            0.5506944444207893,
+            0.5678294429072628,
+            0.026388888888889017
+          ],
+          "confidence": 1,
+          "start_char": 118,
+          "end_char": 156
+        },
+        {
+          "text": "posicionomento e comunicação estão me impedindo",
+          "box": [
+            0.12984496443203788,
+            0.5229166665779889,
+            0.7732558073820891,
+            0.02504844930436878
+          ],
+          "confidence": 1,
+          "start_char": 157,
+          "end_char": 204
+        },
+        {
+          "text": "de atrair empreendedores que compram, e o que",
+          "box": [
+            0.16062492322809915,
+            0.4903203967060298,
+            0.7096994470666956,
+            0.027925335036383725
+          ],
+          "confidence": 1,
+          "start_char": 205,
+          "end_char": 250
+        },
+        {
+          "text": "preciso mudar na linguagem, nos temas e no tipo de",
+          "box": [
+            0.1375968892755553,
+            0.4636627904697902,
+            0.7635659111870661,
+            0.021802326043446896
+          ],
+          "confidence": 1,
+          "start_char": 251,
+          "end_char": 301
+        },
+        {
+          "text": "conteúdo para destravar o alcance e começar a atrair",
+          "box": [
+            0.12397111735536209,
+            0.4332270780384675,
+            0.7830555103443286,
+            0.02482576900058331
+          ],
+          "confidence": 1,
+          "start_char": 302,
+          "end_char": 354
+        },
+        {
+          "text": "pessoas com perfil comprador. Quero que você me",
+          "box": [
+            0.14728683413614665,
+            0.40406976720062393,
+            0.7383720680519387,
+            0.023255814446343392
+          ],
+          "confidence": 1,
+          "start_char": 355,
+          "end_char": 402
+        },
+        {
+          "text": "diga quais são os 3 principais ajustes que devo fazer na",
+          "box": [
+            0.11627907879995215,
+            0.37500000040586345,
+            0.7984495940031829,
+            0.025000000000000022
+          ],
+          "confidence": 1,
+          "start_char": 403,
+          "end_char": 459
+        },
+        {
+          "text": "minha estratégia de conteúdo, os gatilhos mentais",
+          "box": [
+            0.15310077447110904,
+            0.3430232555415319,
+            0.7286821718569155,
+            0.026421189308166504
+          ],
+          "confidence": 1,
+          "start_char": 460,
+          "end_char": 509
+        },
+        {
+          "text": "mois eficazes para esse público, quais formatos de post",
+          "box": [
+            0.11619349703472513,
+            0.31108789418465577,
+            0.804469073260272,
+            0.029881562127007433
+          ],
+          "confidence": 1,
+          "start_char": 510,
+          "end_char": 565
+        },
+        {
+          "text": "e Reels têm mais chance de gerar conexão e vendas, e",
+          "box": [
+            0.1219735622212034,
+            0.28328097290649246,
+            0.7870607164171007,
+            0.02647792233361146
+          ],
+          "confidence": 1,
+          "start_char": 566,
+          "end_char": 618
+        },
+        {
+          "text": "me entregue 5 ideias de Reels e 3 legendas virais que",
+          "box": [
+            0.13372092555827655,
+            0.2541666663324248,
+            0.7674418696650752,
+            0.023611111111111138
+          ],
+          "confidence": 1,
+          "start_char": 619,
+          "end_char": 672
+        },
+        {
+          "text": "conversem diretamente com empreendedores prontos",
+          "box": [
+            0.12005636664134095,
+            0.22418541251584445,
+            0.7908832691333911,
+            0.025043344497680642
+          ],
+          "confidence": 1,
+          "start_char": 673,
+          "end_char": 721
+        },
+        {
+          "text": "para investir em soluções.",
+          "box": [
+            0.32945736294174116,
+            0.19444444405287598,
+            0.37403101038049774,
+            0.023611111111111138
+          ],
+          "confidence": 1,
+          "start_char": 722,
+          "end_char": 748
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 748
+    },
+    {
+      "text": "Captura de prompt para análise de perfil e direção de conteúdo de Instagram.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 750,
+      "end_char": 826
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1440
+    ],
+    "ocr_rows": 16,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

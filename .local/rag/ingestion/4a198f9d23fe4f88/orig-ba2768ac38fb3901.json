@@ -1,0 +1,416 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7069c7e7280ef3f2e3d1bea2409b5653.jpg",
+  "source_sha256": "ba2768ac38fb390170432dbbd47bf4a55a38e960f4f0881c4d4373426de645d1",
+  "text": "How to reframe\nCTA's to influence\nengagement.\nINSTEAD OF THES...\nSAY THIS...\n• Jan rock number shoutyen\nSIGN UP / SUBSCRIBE\n- Cat startind today\n• Be port of the comersunty\n- Change i around the corre\nBUY NOW\nحمر 0 مطريع\nCall yinal Fred\nDOWNLOAD\nInstant Aches\n- Change you Me here\nLEARN MORE\n- Find of Fre\nEng the posite\nCONTACT\nBeaty for a chok\nGet the toll rolling\n• Continue dig\nREAD MORE\nUncover the full story\nBind me\nJoin our cere\nJOIN NOW\nMake a chang\nFletch Co.\nMARKETINO MENTOR FOR SMAL\n\nComparação de CTAs em duas colunas, com botões e alternativas de redação.",
+  "segments": [
+    {
+      "text": "How to reframe\nCTA's to influence\nengagement.\nINSTEAD OF THES...\nSAY THIS...\n• Jan rock number shoutyen\nSIGN UP / SUBSCRIBE\n- Cat startind today\n• Be port of the comersunty\n- Change i around the corre\nBUY NOW\nحمر 0 مطريع\nCall yinal Fred\nDOWNLOAD\nInstant Aches\n- Change you Me here\nLEARN MORE\n- Find of Fre\nEng the posite\nCONTACT\nBeaty for a chok\nGet the toll rolling\n• Continue dig\nREAD MORE\nUncover the full story\nBind me\nJoin our cere\nJOIN NOW\nMake a chang\nFletch Co.\nMARKETINO MENTOR FOR SMAL",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "How to reframe",
+          "box": [
+            0.16384180893361583,
+            0.9046104930743244,
+            0.6779661016949152,
+            0.03656597774244841
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "text": "CTA's to influence",
+          "box": [
+            0.12711864163527942,
+            0.8600953897367956,
+            0.7542372881355933,
+            0.04133545310015907
+          ],
+          "confidence": 1,
+          "start_char": 15,
+          "end_char": 33
+        },
+        {
+          "text": "engagement.",
+          "box": [
+            0.2259887023658191,
+            0.8060413356253312,
+            0.5621468926553672,
+            0.04133545310015896
+          ],
+          "confidence": 1,
+          "start_char": 34,
+          "end_char": 45
+        },
+        {
+          "text": "INSTEAD OF THES...",
+          "box": [
+            0.15536723149350654,
+            0.7583465818852848,
+            0.25141242937853103,
+            0.014308426073131986
+          ],
+          "confidence": 1,
+          "start_char": 46,
+          "end_char": 64
+        },
+        {
+          "text": "SAY THIS...",
+          "box": [
+            0.6410966843622226,
+            0.7574626249724844,
+            0.1501281544313594,
+            0.015821899632391778
+          ],
+          "confidence": 1,
+          "start_char": 65,
+          "end_char": 76
+        },
+        {
+          "text": "• Jan rock number shoutyen",
+          "box": [
+            0.5621468939265537,
+            0.707472178245893,
+            0.307909604519774,
+            0.0111287758346581
+          ],
+          "confidence": 0.5,
+          "start_char": 77,
+          "end_char": 103
+        },
+        {
+          "text": "SIGN UP / SUBSCRIBE",
+          "box": [
+            0.12429378495762708,
+            0.6883942766977061,
+            0.31355932203389836,
+            0.019077901430842537
+          ],
+          "confidence": 1,
+          "start_char": 104,
+          "end_char": 123
+        },
+        {
+          "text": "- Cat startind today",
+          "box": [
+            0.5590256422658749,
+            0.6881717013493063,
+            0.1871212458206435,
+            0.015979944996310724
+          ],
+          "confidence": 1,
+          "start_char": 124,
+          "end_char": 144
+        },
+        {
+          "text": "• Be port of the comersunty",
+          "box": [
+            0.567796610024845,
+            0.6740858505641005,
+            0.2570621468926554,
+            0.012718600953895098
+          ],
+          "confidence": 1,
+          "start_char": 145,
+          "end_char": 172
+        },
+        {
+          "text": "- Change i around the corre",
+          "box": [
+            0.5590116133465193,
+            0.6099209016396927,
+            0.2858784346930725,
+            0.016808065587272658
+          ],
+          "confidence": 1,
+          "start_char": 173,
+          "end_char": 200
+        },
+        {
+          "text": "BUY NOW",
+          "box": [
+            0.2088590776076419,
+            0.595671340805285,
+            0.15290331436415852,
+            0.0185142351826727
+          ],
+          "confidence": 1,
+          "start_char": 201,
+          "end_char": 208
+        },
+        {
+          "text": "حمر 0 مطريع",
+          "box": [
+            0.575458930643416,
+            0.5961895002271017,
+            0.12870705599165233,
+            0.016969985537384935
+          ],
+          "confidence": 0.3,
+          "start_char": 209,
+          "end_char": 220
+        },
+        {
+          "text": "Call yinal Fred",
+          "box": [
+            0.5790960450322841,
+            0.5166931637724279,
+            0.12146892655367236,
+            0.014308426073131873
+          ],
+          "confidence": 1,
+          "start_char": 221,
+          "end_char": 236
+        },
+        {
+          "text": "DOWNLOAD",
+          "box": [
+            0.18926553658419903,
+            0.5007949125724396,
+            0.18361581920903952,
+            0.015898251192368873
+          ],
+          "confidence": 1,
+          "start_char": 237,
+          "end_char": 245
+        },
+        {
+          "text": "Instant Aches",
+          "box": [
+            0.5819209039749799,
+            0.5039745628889394,
+            0.13276836158192085,
+            0.012718600953895098
+          ],
+          "confidence": 1,
+          "start_char": 246,
+          "end_char": 259
+        },
+        {
+          "text": "- Change you Me here",
+          "box": [
+            0.5593220337476459,
+            0.42448330684817165,
+            0.22033898305084754,
+            0.014308426073131986
+          ],
+          "confidence": 1,
+          "start_char": 260,
+          "end_char": 280
+        },
+        {
+          "text": "LEARN MORE",
+          "box": [
+            0.18361581904976557,
+            0.4085850556607922,
+            0.18926553672316385,
+            0.015898251192368762
+          ],
+          "confidence": 1,
+          "start_char": 281,
+          "end_char": 291
+        },
+        {
+          "text": "- Find of Fre",
+          "box": [
+            0.5593220337494275,
+            0.4101748807824518,
+            0.14406779661016955,
+            0.014308426073131986
+          ],
+          "confidence": 0.5,
+          "start_char": 292,
+          "end_char": 305
+        },
+        {
+          "text": "Eng the posite",
+          "box": [
+            0.5762711861543747,
+            0.3958664547071714,
+            0.211864406779661,
+            0.012718600953895098
+          ],
+          "confidence": 0.5,
+          "start_char": 306,
+          "end_char": 320
+        },
+        {
+          "text": "CONTACT",
+          "box": [
+            0.2089403819166339,
+            0.3161074421740935,
+            0.14709098729710118,
+            0.01802358945716165
+          ],
+          "confidence": 1,
+          "start_char": 321,
+          "end_char": 328
+        },
+        {
+          "text": "Beaty for a chok",
+          "box": [
+            0.5762711863857503,
+            0.3163751987480127,
+            0.1694915254237288,
+            0.014308426073131986
+          ],
+          "confidence": 0.5,
+          "start_char": 329,
+          "end_char": 345
+        },
+        {
+          "text": "Get the toll rolling",
+          "box": [
+            0.575723650305911,
+            0.30019282679297954,
+            0.17907787042822554,
+            0.016833136305331342
+          ],
+          "confidence": 1,
+          "start_char": 346,
+          "end_char": 366
+        },
+        {
+          "text": "• Continue dig",
+          "box": [
+            0.5677966100199402,
+            0.24006359301568,
+            0.17514124293785305,
+            0.0111287758346581
+          ],
+          "confidence": 0.5,
+          "start_char": 367,
+          "end_char": 381
+        },
+        {
+          "text": "READ MORE",
+          "box": [
+            0.18926553658416287,
+            0.2225755167045196,
+            0.18079096045197743,
+            0.014308426073131986
+          ],
+          "confidence": 1,
+          "start_char": 382,
+          "end_char": 391
+        },
+        {
+          "text": "Uncover the full story",
+          "box": [
+            0.5759580870558865,
+            0.2223744857779707,
+            0.2040366479905985,
+            0.01703195314149597
+          ],
+          "confidence": 1,
+          "start_char": 392,
+          "end_char": 414
+        },
+        {
+          "text": "Bind me",
+          "box": [
+            0.5762711861268048,
+            0.2098569158099276,
+            0.0847457627118644,
+            0.012718600953895098
+          ],
+          "confidence": 1,
+          "start_char": 415,
+          "end_char": 422
+        },
+        {
+          "text": "Join our cere",
+          "box": [
+            0.5762711862590799,
+            0.14626391098569158,
+            0.13276836158192096,
+            0.011128775834658211
+          ],
+          "confidence": 0.5,
+          "start_char": 423,
+          "end_char": 436
+        },
+        {
+          "text": "JOIN NOW",
+          "box": [
+            0.2003783962784791,
+            0.12816502825859621,
+            0.15856524106472902,
+            0.01711986402259913
+          ],
+          "confidence": 1,
+          "start_char": 437,
+          "end_char": 445
+        },
+        {
+          "text": "Make a chang",
+          "box": [
+            0.5752849507492921,
+            0.12798687000018627,
+            0.14326471662790763,
+            0.018031232497271343
+          ],
+          "confidence": 1,
+          "start_char": 446,
+          "end_char": 458
+        },
+        {
+          "text": "Fletch Co.",
+          "box": [
+            0.13276836141377454,
+            0.02543720192166965,
+            0.21186440677966104,
+            0.01748807631160576
+          ],
+          "confidence": 1,
+          "start_char": 459,
+          "end_char": 469
+        },
+        {
+          "box": [
+            0.3841807907949092,
+            0.025437201915482932,
+            0.364406779661017,
+            0.014308426073131873
+          ],
+          "confidence": 1,
+          "text": "MARKETINO MENTOR FOR SMAL",
+          "start_char": 470,
+          "end_char": 495
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 495
+    },
+    {
+      "text": "Comparação de CTAs em duas colunas, com botões e alternativas de redação.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 497,
+      "end_char": 570
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      236,
+      419
+    ],
+    "ocr_rows": 31,
+    "low_confidence_rows": 7,
+    "ocr_mean_confidence": 0.8806451612903226,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

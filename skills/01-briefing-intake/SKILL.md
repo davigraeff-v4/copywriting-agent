@@ -23,3 +23,5 @@ Ler visão atual do cliente e ficha histórica antes de perguntar. Definir rota 
 Saída: briefing estruturado no pacote; encaminhar à 02. Não pedir aprovação da mera organização. Não acionar para manutenção técnica do agent.
 
 Se já existe versão e o gestor pede ajuste, não tratar como novo briefing. Ler `knowledge/ajustes-incrementais.md`, declarar o alvo e o conteúdo preservado e encaminhar somente às skills afetadas.
+
+Selecionar as próximas capacidades conforme demanda e dependências de `quality/AUTONOMIA-E-REPERTORIO.md`; ler o SKILL.md escolhido e registrar a decisão produzida. Briefing completo não dispensa repertório proativo na produção nova. Não carregar as 14 skills por padrão.

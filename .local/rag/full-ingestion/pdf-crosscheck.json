@@ -1,0 +1,1168 @@
+[
+  {
+    "page": 1,
+    "native_words": 17,
+    "ocr_words": 17,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 2,
+    "native_words": 101,
+    "ocr_words": 101,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 3,
+    "native_words": 129,
+    "ocr_words": 129,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 4,
+    "native_words": 123,
+    "ocr_words": 123,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 5,
+    "native_words": 125,
+    "ocr_words": 125,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 6,
+    "native_words": 140,
+    "ocr_words": 140,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 7,
+    "native_words": 146,
+    "ocr_words": 146,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 8,
+    "native_words": 123,
+    "ocr_words": 123,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 9,
+    "native_words": 97,
+    "ocr_words": 97,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 10,
+    "native_words": 125,
+    "ocr_words": 125,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 11,
+    "native_words": 143,
+    "ocr_words": 143,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 12,
+    "native_words": 140,
+    "ocr_words": 140,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 13,
+    "native_words": 130,
+    "ocr_words": 130,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 14,
+    "native_words": 128,
+    "ocr_words": 128,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 15,
+    "native_words": 95,
+    "ocr_words": 95,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 16,
+    "native_words": 153,
+    "ocr_words": 153,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 17,
+    "native_words": 151,
+    "ocr_words": 151,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 18,
+    "native_words": 31,
+    "ocr_words": 31,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 19,
+    "native_words": 105,
+    "ocr_words": 105,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 20,
+    "native_words": 141,
+    "ocr_words": 141,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 21,
+    "native_words": 130,
+    "ocr_words": 130,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 22,
+    "native_words": 137,
+    "ocr_words": 137,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 23,
+    "native_words": 121,
+    "ocr_words": 121,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 24,
+    "native_words": 137,
+    "ocr_words": 137,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 25,
+    "native_words": 128,
+    "ocr_words": 128,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 26,
+    "native_words": 21,
+    "ocr_words": 21,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 27,
+    "native_words": 91,
+    "ocr_words": 91,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 28,
+    "native_words": 139,
+    "ocr_words": 139,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 29,
+    "native_words": 144,
+    "ocr_words": 144,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 30,
+    "native_words": 127,
+    "ocr_words": 127,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 31,
+    "native_words": 132,
+    "ocr_words": 132,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 32,
+    "native_words": 68,
+    "ocr_words": 68,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 33,
+    "native_words": 99,
+    "ocr_words": 99,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 34,
+    "native_words": 143,
+    "ocr_words": 143,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 35,
+    "native_words": 142,
+    "ocr_words": 142,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 36,
+    "native_words": 129,
+    "ocr_words": 129,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 37,
+    "native_words": 148,
+    "ocr_words": 148,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 38,
+    "native_words": 143,
+    "ocr_words": 143,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 39,
+    "native_words": 128,
+    "ocr_words": 128,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 40,
+    "native_words": 46,
+    "ocr_words": 46,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 41,
+    "native_words": 102,
+    "ocr_words": 102,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 42,
+    "native_words": 150,
+    "ocr_words": 150,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 43,
+    "native_words": 143,
+    "ocr_words": 136,
+    "native_words_seen_in_ocr": 0.951,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 44,
+    "native_words": 152,
+    "ocr_words": 152,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 45,
+    "native_words": 101,
+    "ocr_words": 101,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 46,
+    "native_words": 105,
+    "ocr_words": 105,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 47,
+    "native_words": 135,
+    "ocr_words": 135,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 48,
+    "native_words": 137,
+    "ocr_words": 137,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 49,
+    "native_words": 151,
+    "ocr_words": 151,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 50,
+    "native_words": 97,
+    "ocr_words": 97,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 51,
+    "native_words": 100,
+    "ocr_words": 100,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 52,
+    "native_words": 143,
+    "ocr_words": 143,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 53,
+    "native_words": 136,
+    "ocr_words": 136,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 54,
+    "native_words": 133,
+    "ocr_words": 133,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 55,
+    "native_words": 132,
+    "ocr_words": 132,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 56,
+    "native_words": 61,
+    "ocr_words": 61,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 57,
+    "native_words": 106,
+    "ocr_words": 106,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 58,
+    "native_words": 133,
+    "ocr_words": 133,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 59,
+    "native_words": 135,
+    "ocr_words": 135,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 60,
+    "native_words": 137,
+    "ocr_words": 137,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 61,
+    "native_words": 138,
+    "ocr_words": 138,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 62,
+    "native_words": 128,
+    "ocr_words": 128,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 63,
+    "native_words": 103,
+    "ocr_words": 103,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 64,
+    "native_words": 127,
+    "ocr_words": 127,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 65,
+    "native_words": 128,
+    "ocr_words": 128,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 66,
+    "native_words": 129,
+    "ocr_words": 129,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 67,
+    "native_words": 93,
+    "ocr_words": 93,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 68,
+    "native_words": 101,
+    "ocr_words": 101,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 69,
+    "native_words": 142,
+    "ocr_words": 142,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 70,
+    "native_words": 132,
+    "ocr_words": 132,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 71,
+    "native_words": 143,
+    "ocr_words": 143,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 72,
+    "native_words": 127,
+    "ocr_words": 127,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 73,
+    "native_words": 99,
+    "ocr_words": 99,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 74,
+    "native_words": 111,
+    "ocr_words": 111,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 75,
+    "native_words": 134,
+    "ocr_words": 134,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 76,
+    "native_words": 142,
+    "ocr_words": 142,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 77,
+    "native_words": 139,
+    "ocr_words": 139,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 78,
+    "native_words": 139,
+    "ocr_words": 139,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 79,
+    "native_words": 137,
+    "ocr_words": 137,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 80,
+    "native_words": 136,
+    "ocr_words": 136,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 81,
+    "native_words": 20,
+    "ocr_words": 20,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 82,
+    "native_words": 91,
+    "ocr_words": 91,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 83,
+    "native_words": 115,
+    "ocr_words": 115,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 84,
+    "native_words": 125,
+    "ocr_words": 125,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 85,
+    "native_words": 127,
+    "ocr_words": 127,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 86,
+    "native_words": 132,
+    "ocr_words": 132,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 87,
+    "native_words": 33,
+    "ocr_words": 33,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 88,
+    "native_words": 104,
+    "ocr_words": 104,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 89,
+    "native_words": 131,
+    "ocr_words": 131,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 90,
+    "native_words": 135,
+    "ocr_words": 135,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 91,
+    "native_words": 148,
+    "ocr_words": 148,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 92,
+    "native_words": 147,
+    "ocr_words": 147,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 93,
+    "native_words": 141,
+    "ocr_words": 141,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 94,
+    "native_words": 17,
+    "ocr_words": 17,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 95,
+    "native_words": 106,
+    "ocr_words": 106,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 96,
+    "native_words": 152,
+    "ocr_words": 152,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 97,
+    "native_words": 130,
+    "ocr_words": 130,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 98,
+    "native_words": 93,
+    "ocr_words": 93,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 99,
+    "native_words": 140,
+    "ocr_words": 140,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 100,
+    "native_words": 91,
+    "ocr_words": 91,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 101,
+    "native_words": 89,
+    "ocr_words": 89,
+    "native_words_seen_in_ocr": 0.9775,
+    "ocr_words_seen_in_native": 0.9775,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": [
+      "ifaults",
+      "other"
+    ]
+  },
+  {
+    "page": 102,
+    "native_words": 112,
+    "ocr_words": 112,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 103,
+    "native_words": 105,
+    "ocr_words": 105,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 104,
+    "native_words": 139,
+    "ocr_words": 139,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 105,
+    "native_words": 119,
+    "ocr_words": 119,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 106,
+    "native_words": 134,
+    "ocr_words": 134,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 107,
+    "native_words": 55,
+    "ocr_words": 55,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 108,
+    "native_words": 96,
+    "ocr_words": 96,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 109,
+    "native_words": 131,
+    "ocr_words": 131,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 110,
+    "native_words": 90,
+    "ocr_words": 90,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 111,
+    "native_words": 99,
+    "ocr_words": 99,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 112,
+    "native_words": 149,
+    "ocr_words": 149,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 113,
+    "native_words": 147,
+    "ocr_words": 147,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 114,
+    "native_words": 126,
+    "ocr_words": 126,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 115,
+    "native_words": 215,
+    "ocr_words": 215,
+    "native_words_seen_in_ocr": 1.0,
+    "ocr_words_seen_in_native": 1.0,
+    "ocr_error": null,
+    "ocr_low_confidence": 1,
+    "ocr_extra_words": []
+  },
+  {
+    "page": 116,
+    "native_words": 138,
+    "ocr_words": 139,
+    "native_words_seen_in_ocr": 0.9928,
+    "ocr_words_seen_in_native": 0.9856,
+    "ocr_error": null,
+    "ocr_low_confidence": 0,
+    "ocr_extra_words": [
+      "ofadvertising",
+      "psychology"
+    ]
+  }
+]

@@ -1,0 +1,3380 @@
+{
+  "version": 1,
+  "labeling": "Agent-authored source-specific scenarios, targets and locators fixed before execution; not independent human relevance ratings. No runtime or ranking calibration in this test run.",
+  "grading": {
+    "recovery_grade": "10 * (0.6 * MRR@5 + 0.4 * Hit@3), global positive cases only",
+    "first_result_grade": "10 * Hit@1",
+    "availability_grade": "10 * Hit@3",
+    "page_grade": "10 * joint source-and-page accuracy at first result",
+    "section_grade": "10 * joint source-and-section accuracy at first result",
+    "abstention_grade": "10 * empty-return rate on out_of_domain cases only",
+    "technical_grade": "10 * passed checks / all checks; reported separately, never blended into relevance",
+    "no_overall_blend": true
+  },
+  "queries": [
+    {
+      "id": "broad-001",
+      "category": "curated_guidance",
+      "query": "Antes de redigir, preciso investigar o que levou o comprador a considerar o produto e transformar as entrevistas numa decisão de mensagem.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m01"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m01-pesquisa-que-termina-em-uma-decisao-de-mensagem.md"
+    },
+    {
+      "id": "broad-002",
+      "category": "curated_guidance",
+      "query": "As avaliações dos consumidores repetem elogios e reclamações. Como transformar esses relatos em critérios de compra sem tratá-los como prova técnica?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m02"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m02-avaliacoes-publicas-como-mapa-de-expectativas.md"
+    },
+    {
+      "id": "broad-003",
+      "category": "curated_guidance",
+      "query": "Tenho várias descobertas de pesquisa soltas. Como agrupá-las em uma tese que a página consiga demonstrar?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m03"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m03-da-pesquisa-dispersa-ao-argumento-sustentado.md"
+    },
+    {
+      "id": "broad-004",
+      "category": "curated_guidance",
+      "query": "Quero definir para quem a solução faz sentido, quais alternativas existem e como a empresa se diferencia antes de inventar uma frase bonita.",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m04"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m04-posicionamento-antes-da-frase-de-efeito.md"
+    },
+    {
+      "id": "broad-005",
+      "category": "curated_guidance",
+      "query": "O público pode continuar fazendo a tarefa manualmente. Como comparar essa alternativa com a solução oferecida?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m05"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m05-a-alternativa-atual-tambem-compete.md"
+    },
+    {
+      "id": "broad-006",
+      "category": "curated_guidance",
+      "query": "Como formular uma proposta de valor que explique o trabalho que o produto ajuda a fazer e a evidência que sustenta esse benefício?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m06"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m06-proposta-de-valor-com-utilidade-e-prova.md"
+    },
+    {
+      "id": "broad-007",
+      "category": "curated_guidance",
+      "query": "Uma parte dos visitantes ainda não reconhece a categoria. Como adaptar a primeira dobra ao que eles sabem?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m07"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m07-entrada-de-lp-compativel-com-a-consciencia.md"
+    },
+    {
+      "id": "broad-008",
+      "category": "curated_guidance",
+      "query": "As entrevistas revelam dúvidas diferentes. Como escolher a ordem dessas respostas numa landing page?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m08"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m08-respostas-de-pesquisa-viram-hierarquia-de-lp.md"
+    },
+    {
+      "id": "broad-009",
+      "category": "curated_guidance",
+      "query": "Uma chamada aparece sozinha numa arte. Como assegurar que alguém entenda o objeto e a utilidade sem a legenda?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m09"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m09-headline-que-faz-sentido-fora-do-contexto.md"
+    },
+    {
+      "id": "broad-010",
+      "category": "curated_guidance",
+      "query": "Preciso encurtar a página sem retirar o argumento e as informações que fazem cada bloco ter uma função.",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m10"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m10-compressao-que-preserva-o-argumento.md"
+    },
+    {
+      "id": "broad-011",
+      "category": "curated_guidance",
+      "query": "Como explicar uma especificação mensurável em linguagem comum sem exagerar o efeito que ela produz?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m11"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m11-precisao-tecnica-em-linguagem-compreensivel.md"
+    },
+    {
+      "id": "broad-012",
+      "category": "curated_guidance",
+      "query": "A marca publica avisos delicados e conteúdos leves. Como conservar sua personalidade mudando o tom conforme a ocasião?",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m12"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m12-voz-consistente-com-tom-adequado-ao-momento.md"
+    },
+    {
+      "id": "broad-013",
+      "category": "curated_guidance",
+      "query": "Quero posts que ensinem algo ou ajudem numa escolha antes de fazer qualquer pedido de comentário.",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m13"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m13-pauta-social-com-valor-antes-do-pedido-de-interacao.md"
+    },
+    {
+      "id": "broad-014",
+      "category": "curated_guidance",
+      "query": "Quero alinhar a informação do assunto, o complemento visível na caixa de entrada e o início do e-mail.",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m14"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m14-assunto-preheader-e-corpo-cumprem-a-mesma-promessa.md"
+    },
+    {
+      "id": "broad-015",
+      "category": "curated_guidance",
+      "query": "Como distribuir informações numa sequência de mensagens acompanhando a decisão do destinatário?",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m15"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m15-sequencia-de-e-mails-organizada-por-decisao.md"
+    },
+    {
+      "id": "broad-016",
+      "category": "curated_guidance",
+      "query": "A pessoa encontra a informação, mas não consegue concluir o cadastro. Como distinguir deficiência da redação e fricção da interface?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m16"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m16-problema-de-copy-ou-problema-da-experiencia.md"
+    },
+    {
+      "id": "broad-017",
+      "category": "curated_guidance",
+      "query": "Preciso testar se o público compreende a mensagem e reconhece sua relevância antes de comprar mídia.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m17"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m17-validacao-de-mensagem-com-o-publico.md"
+    },
+    {
+      "id": "broad-018",
+      "category": "curated_guidance",
+      "query": "Quero estudar a abordagem histórica de Claude Hopkins para anúncios específicos e resultados testados, sem transplantar promessas antigas.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m18"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m18-hopkins-especificidade-e-teste-com-contexto-historico.md"
+    },
+    {
+      "id": "broad-019",
+      "category": "curated_guidance",
+      "query": "Como criar ângulos a partir de ocasiões de compra diferentes, sem fazer versões que só mudam adjetivos?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m19"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m19-situacoes-de-compra-para-variar-angulos.md"
+    },
+    {
+      "id": "broad-020",
+      "category": "curated_guidance",
+      "query": "O anúncio em vídeo precisa combinar fala, demonstração visual e ação possível com os materiais que a equipe tem.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m20"
+      ],
+      "target_path": "knowledge/repertorio/metodos/m20-video-mensagem-imagem-e-acao-em-conjunto.md"
+    },
+    {
+      "id": "broad-021",
+      "category": "curated_positive",
+      "query": "Quero uma referência de software de projetos que apresente a utilidade mostrando tarefas e organização dentro da própria ferramenta.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e01"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e01-basecamp-mostrar-a-tarefa-dentro-do-produto.md"
+    },
+    {
+      "id": "broad-022",
+      "category": "curated_positive",
+      "query": "Uma função de e-mail decide quem pode chegar à caixa de entrada. Preciso de referência que explique essa escolha cotidiana.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e02"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e02-hey-uma-funcao-explicada-por-uma-escolha-cotidiana.md"
+    },
+    {
+      "id": "broad-023",
+      "category": "curated_positive",
+      "query": "Como uma plataforma de comércio mostra cenários de vender pela internet, pessoalmente e em outros canais?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e03"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e03-shopify-expansao-comercial-por-contextos-de-venda.md"
+    },
+    {
+      "id": "broad-024",
+      "category": "curated_positive",
+      "query": "Quero ver como o Notion apresenta assistência de IA usando tarefas reconhecíveis em vez de falar apenas em produtividade.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e04"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e04-notion-casos-de-uso-tornam-ia-mais-concreta.md"
+    },
+    {
+      "id": "broad-025",
+      "category": "curated_positive",
+      "query": "Uma ferramenta financeira deve explicar o compartilhamento de informações entre empresa e contador, indicando os dados envolvidos.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e05"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e05-conta-azul-colaboracao-descrita-por-dados-e-destinatario.md"
+    },
+    {
+      "id": "broad-026",
+      "category": "curated_positive",
+      "query": "Preciso de exemplo de CRM que fale do acompanhamento do trabalho comercial e da ação que o vendedor precisa tomar.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e06"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e06-rd-station-crm-contexto-de-trabalho-e-acao-reconhecivel.md"
+    },
+    {
+      "id": "broad-027",
+      "category": "curated_positive",
+      "query": "Quero referência da Nuvemshop que diferencie o empreendedor começando uma loja de quem já está migrando uma operação.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e07"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e07-nuvemshop-caminhos-diferentes-por-ponto-de-partida.md"
+    },
+    {
+      "id": "broad-028",
+      "category": "curated_positive",
+      "query": "Um serviço para anfitriões precisa explicar como começar, o que decidir e as condições de anunciar a hospedagem.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e08"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e08-airbnb-comecar-decidir-e-entender-condicoes.md"
+    },
+    {
+      "id": "broad-029",
+      "category": "curated_positive",
+      "query": "Busco uma página de anúncio de imóvel que ofereça um resultado concreto próximo do formulário, como uma avaliação do valor do aluguel.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e09"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e09-quintoandar-entregavel-tangivel-perto-do-cadastro.md"
+    },
+    {
+      "id": "broad-030",
+      "category": "curated_positive",
+      "query": "Como uma solução de pagamentos organiza escolhas por meios de receber, em vez de tratar tudo como uma oferta única?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e10"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e10-sumup-escolhas-por-modalidade-de-recebimento.md"
+    },
+    {
+      "id": "broad-031",
+      "category": "curated_positive",
+      "query": "Quero ver a Wise explicar transferências e operações internacionais pelo que a pessoa consegue fazer.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e11"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e11-wise-utilidade-descrita-por-operacoes.md"
+    },
+    {
+      "id": "broad-032",
+      "category": "curated_positive",
+      "query": "Uma pessoa ficou ausente das conversas da equipe. Como um recurso pode ser apresentado pela tarefa de recuperar o que aconteceu?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e12"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e12-slack-recurso-apresentado-por-uma-situacao-de-ausencia.md"
+    },
+    {
+      "id": "broad-033",
+      "category": "curated_positive",
+      "query": "Preciso de uma página para revisar vídeos em colaboração que deixe explícita a tarefa por trás do nome Replay.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e13"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e13-dropbox-replay-nome-do-produto-com-tarefa-identificada.md"
+    },
+    {
+      "id": "broad-034",
+      "category": "curated_positive",
+      "query": "Busco referência de acessibilidade da Apple que descreva ações possíveis, opções de configuração e limites dos recursos.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e14"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e14-apple-acessibilidade-acao-especifica-com-opcoes-e-limites.md"
+    },
+    {
+      "id": "broad-035",
+      "category": "curated_positive",
+      "query": "O visitante digita o e-mail para iniciar uma assinatura. Quero referência que explique o próximo passo ao lado do próprio campo.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e15"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e15-netflix-acao-de-cadastro-explicada-ao-lado-do-campo.md"
+    },
+    {
+      "id": "broad-036",
+      "category": "curated_positive",
+      "query": "Como um portfólio de produtos para criadores distingue curso, assinatura e outros objetos de venda?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e16"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e16-hotmart-portfolio-distinguido-por-objeto-de-venda.md"
+    },
+    {
+      "id": "broad-037",
+      "category": "curated_positive",
+      "query": "Um serviço de planejamento de ambientes explica o que preparar para a consulta. Quero uma referência que torne essa preparação concreta.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e17"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/lp/e17-ikea-planejamento-preparativos-tornam-o-servico-concreto.md"
+    },
+    {
+      "id": "broad-038",
+      "category": "curated_positive",
+      "query": "Quero estudar a campanha da Patagonia que desencoraja uma compra e sustenta a provocação com práticas de reparo e consumo responsável.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e18"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e18-patagonia-provocacao-sustentada-por-acoes-concretas.md"
+    },
+    {
+      "id": "broad-039",
+      "category": "curated_positive",
+      "query": "Uma campanha mostra a diferença entre a descrição que a pessoa faz de si e a percepção de terceiros, usando desenhos como construção visual.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e19"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e19-dove-sketches-insight-transformado-em-construcao-visual.md"
+    },
+    {
+      "id": "broad-040",
+      "category": "curated_positive",
+      "query": "Como a Mercedes-Benz traduz um tema técnico para um público que não conhece o vocabulário industrial?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e20"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e20-mercedes-benz-traducao-de-um-assunto-tecnico-para-outro-publico.md"
+    },
+    {
+      "id": "broad-041",
+      "category": "curated_positive",
+      "query": "Busco uma campanha de bebida cuja ideia criativa nasce do produto e do território de comunicação, sem depender de slogan solto.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e21"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e21-ades-eixo-criativo-ligado-ao-objeto-da-oferta.md"
+    },
+    {
+      "id": "broad-042",
+      "category": "curated_positive",
+      "query": "Quero a referência do Spotify que transforma dados individuais de escuta numa retrospectiva pessoal compartilhável.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e22"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e22-spotify-wrapped-dado-pessoal-convertido-em-historia.md"
+    },
+    {
+      "id": "broad-043",
+      "category": "curated_positive",
+      "query": "Um dispositivo promete capacidade fotográfica. Quero um exemplo que mostre imagens produzidas com ele como demonstração.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e23"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/ads/e23-shot-on-iphone-resultado-visivel-sustenta-uma-capacidade.md"
+    },
+    {
+      "id": "broad-044",
+      "category": "curated_positive",
+      "query": "Busco uma ação em que a comunidade possa submeter uma criação com regras e objetivo de participação definidos.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e24"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/social/e24-lego-ideas-participacao-com-objetivo-e-condicao-definidos.md"
+    },
+    {
+      "id": "broad-045",
+      "category": "curated_positive",
+      "query": "Preciso de pauta orgânica sobre organização da casa, estruturada por uma tarefa que a pessoa consiga imaginar executar.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e25"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/social/e25-ikea-ideias-pauta-editorial-por-uma-tarefa-domestica.md"
+    },
+    {
+      "id": "broad-046",
+      "category": "curated_positive",
+      "query": "Quero conteúdo do Nubank que organize uma explicação sobre Pix a partir de uma pergunta concreta.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e26"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/social/e26-nubank-explica-pix-pergunta-que-organiza-conteudo.md"
+    },
+    {
+      "id": "broad-047",
+      "category": "curated_positive",
+      "query": "Como um aplicativo de idiomas transforma o objetivo de estudar regularmente em ações e hábitos executáveis?",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e27"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/social/e27-duolingo-objetivo-de-habito-com-acoes-executaveis.md"
+    },
+    {
+      "id": "broad-048",
+      "category": "curated_positive",
+      "query": "Busco um e-mail de boas-vindas do Freckle que retome o cadastro e indique uma primeira utilização da conta.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-01-e28"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/direct/e28-boas-vindas-freckle-contexto-da-conta-e-primeiro-uso.md"
+    },
+    {
+      "id": "broad-049",
+      "category": "curated_positive",
+      "query": "Preciso de exemplo de lembrete social ligado a um compromisso de sequência já aceito pelo usuário.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-01-e29"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/direct/e29-friend-streak-lembrete-ligado-a-um-compromisso-aceito.md"
+    },
+    {
+      "id": "broad-050",
+      "category": "curated_positive",
+      "query": "Uma loja de vinhos envia uma mensagem transacional e oferece ajuda pertinente dentro dela. Quero essa referência.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-01-e30"
+      ],
+      "target_path": "knowledge/repertorio/exemplos/direct/e30-verve-wine-suporte-dentro-de-uma-mensagem-transacional.md"
+    },
+    {
+      "id": "broad-051",
+      "category": "curated_structure",
+      "query": "Um anúncio de peça técnica promete qualidade, mas o comprador precisa primeiro saber se ela é compatível com seu equipamento.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r01"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r01-compatibilidade-organiza-um-anuncio-tecnico.md"
+    },
+    {
+      "id": "broad-052",
+      "category": "curated_structure",
+      "query": "A descrição tem uma característica verdadeira, porém atribui a ela um resultado que não foi demonstrado. Quero um exemplo de correção.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r02"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r02-retirar-causalidade-inventada-de-uma-caracteristica.md"
+    },
+    {
+      "id": "broad-053",
+      "category": "curated_structure",
+      "query": "Preciso separar o texto breve da imagem do desenvolvimento do texto principal da plataforma, preservando a função de cada campo.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r03"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r03-arte-e-texto-de-plataforma-cumprem-funcoes-diferentes.md"
+    },
+    {
+      "id": "broad-054",
+      "category": "curated_structure",
+      "query": "Quero corrigir um anúncio de busca para responder à intenção da pesquisa com o objeto e a próxima ação relevantes.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r04"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r04-intencao-de-busca-pede-objeto-e-acao-pertinentes.md"
+    },
+    {
+      "id": "broad-055",
+      "category": "curated_structure",
+      "query": "A landing page tem títulos soltos. Quero uma revisão que mostre tese e progressão entre as dobras.",
+      "route": "lp",
+      "use": "structure",
+      "expected": [
+        "rep-01-r05"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r05-lp-com-tese-e-progressao-entre-titulos.md"
+    },
+    {
+      "id": "broad-056",
+      "category": "curated_structure",
+      "query": "O produto desperta interesse e desejo. Preciso de um exemplo de página que não fabrique sofrimento para vender.",
+      "route": "lp",
+      "use": "structure",
+      "expected": [
+        "rep-01-r06"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r06-lp-de-desejo-sem-inventar-sofrimento.md"
+    },
+    {
+      "id": "broad-057",
+      "category": "curated_structure",
+      "query": "Um formulário precisa explicar o contato que será feito sem prometer um prazo de retorno que a equipe não confirmou.",
+      "route": "lp",
+      "use": "structure",
+      "expected": [
+        "rep-01-r07"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r07-formulario-explica-o-contato-sem-inventar-prazo.md"
+    },
+    {
+      "id": "broad-058",
+      "category": "curated_structure",
+      "query": "A demonstração comprova um recurso, mas o texto generaliza o benefício. Quero uma revisão que delimite o resultado demonstrado.",
+      "route": "lp",
+      "use": "structure",
+      "expected": [
+        "rep-01-r08"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r08-prova-mostra-o-recurso-sem-ampliar-o-resultado.md"
+    },
+    {
+      "id": "broad-059",
+      "category": "curated_structure",
+      "query": "Quero um exemplo de carrossel revisado em que as telas desenvolvem uma pauta, em vez de repetir a mesma chamada.",
+      "route": "social",
+      "use": "structure",
+      "expected": [
+        "rep-01-r09"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r09-carrossel-desenvolve-uma-pauta-com-informacao-nova.md"
+    },
+    {
+      "id": "broad-060",
+      "category": "curated_structure",
+      "query": "Um acompanhamento de avaliação virou uma mensagem de compra. Quero corrigir o follow-up preservando a função de esclarecer.",
+      "route": "direct",
+      "use": "structure",
+      "expected": [
+        "rep-01-r10"
+      ],
+      "target_path": "knowledge/repertorio/revisoes/r10-follow-up-mantem-a-funcao-de-avaliar-e-esclarecer.md"
+    },
+    {
+      "id": "broad-061",
+      "category": "curated_positive",
+      "query": "Quero estudar a arte de um carro cuja câmera permite ver embaixo do veículo, representada por olhos na sola dos pés.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a01"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a01-amarok-visao-embaixo-como-uma-cena-reconhecivel.md"
+    },
+    {
+      "id": "broad-062",
+      "category": "curated_positive",
+      "query": "Uma peça de comida apresenta alguém comendo antes de terminar o caminho até a mesa. Quero analisar como essa cena constrói desejo.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a02"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a02-mcdonald-s-desejo-mostrado-antes-da-refeicao.md"
+    },
+    {
+      "id": "broad-063",
+      "category": "curated_positive",
+      "query": "Busco uma peça náutica que use mar tranquilo como metáfora e acrescente um sistema de estabilização e destino para informação.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a03"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a03-humphree-metafora-acompanhada-de-mecanismo-e-destino.md"
+    },
+    {
+      "id": "broad-064",
+      "category": "curated_positive",
+      "query": "Quero um anúncio de exposição de impressão artística cujo jogo com a palavra pressão tenha relação com o ofício.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a04"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a04-printmakers-voz-construida-com-uma-palavra-do-oficio.md"
+    },
+    {
+      "id": "broad-065",
+      "category": "curated_positive",
+      "query": "Como a Mazda usa uma referência cultural para apresentar um atributo do automóvel sem perder a ligação com o produto?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a05"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a05-mazda-referencia-cultural-ancorada-num-atributo.md"
+    },
+    {
+      "id": "broad-066",
+      "category": "curated_positive",
+      "query": "Uma escola ou marca de dança forma o texto com movimento. Quero examinar a tipografia como demonstração visual.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a06"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a06-gaudium-tipografia-demonstra-o-movimento.md"
+    },
+    {
+      "id": "broad-067",
+      "category": "curated_positive",
+      "query": "Preciso de referência de comida em que a fotografia desenvolva o significado da chamada, em vez de apenas ilustrar o produto.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a07"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a07-monchis-imagem-desenvolve-o-significado-da-chamada.md"
+    },
+    {
+      "id": "broad-068",
+      "category": "curated_positive",
+      "query": "Uma peça mostra matéria-prima e o que ela se torna dentro da mesma imagem. Quero estudar essa construção de mensagem.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a08"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a08-fasac-materia-prima-e-resultado-na-mesma-imagem.md"
+    },
+    {
+      "id": "broad-069",
+      "category": "curated_positive",
+      "query": "Uma hamburgueria cria expectativa por um lançamento usando um ingrediente em escala exagerada como pista.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a09"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a09-six-burgers-teaser-com-um-indicio-do-produto.md"
+    },
+    {
+      "id": "broad-070",
+      "category": "curated_positive",
+      "query": "Quero uma referência da Sitrak em que uma utilidade pequena e cotidiana aproxima a comunicação de um território industrial.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a10"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a10-sitrak-utilidade-pequena-traduz-um-territorio-industrial.md"
+    },
+    {
+      "id": "broad-071",
+      "category": "curated_positive",
+      "query": "Uma marca de panificação usa uma expressão conhecida com uma alteração visual. Como essa familiaridade serve ao anúncio?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a11"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a11-panutti-linguagem-familiar-ganha-uma-virada-visual.md"
+    },
+    {
+      "id": "broad-072",
+      "category": "curated_positive",
+      "query": "Busco uma peça da Alimiau que relacione pertencimento e uma ação concreta coerente com esse território.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a12"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a12-alimiau-pertencimento-com-uma-acao-coerente.md"
+    },
+    {
+      "id": "broad-073",
+      "category": "curated_positive",
+      "query": "Um anúncio esportivo faz a cena assumir a forma reconhecível da marca. Quero entender a construção visual.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a13"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a13-gatorade-o-formato-da-marca-organiza-a-cena-esportiva.md"
+    },
+    {
+      "id": "broad-074",
+      "category": "curated_positive",
+      "query": "Busco uma arte com uma coruja formada por papel de confeitaria, tornando o material visível antes do argumento ambiental.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a14"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a14-novacart-mostrar-o-material-antes-de-declarar-um-valor.md"
+    },
+    {
+      "id": "broad-075",
+      "category": "curated_positive",
+      "query": "Quero analisar a peça da BRUTE em que as letras lembram o recipiente, incluindo a ressalva sobre o contraste da redação.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a15"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a15-brute-tipografia-reconhecivel-com-ressalva-de-contraste.md"
+    },
+    {
+      "id": "broad-076",
+      "category": "curated_positive",
+      "query": "Uma campanha de água faz humor com um acontecimento temporal. Preciso ver por que a referência depende daquele contexto.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a16"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a16-agua-a-humor-oportuno-depende-de-uma-referencia-temporal.md"
+    },
+    {
+      "id": "broad-077",
+      "category": "curated_positive",
+      "query": "Uma peça de utilidade pública usa impacto visual e depois orienta a população de Pindamonhangaba. Quero essa referência.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a17"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a17-pindamonhangaba-impacto-visual-seguido-de-orientacao.md"
+    },
+    {
+      "id": "broad-078",
+      "category": "curated_positive",
+      "query": "Uma homenagem usa desenho de planta arquitetônica para construir um símbolo comemorativo relacionado ao setor.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a18"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a18-dra-linguagem-do-setor-organiza-uma-homenagem.md"
+    },
+    {
+      "id": "broad-079",
+      "category": "curated_positive",
+      "query": "Quero uma peça da Levex que atualize uma história reconhecível e ligue essa história a um mecanismo do produto.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a19"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a19-levex-uma-historia-conhecida-recebe-um-mecanismo-concreto.md"
+    },
+    {
+      "id": "broad-080",
+      "category": "curated_positive",
+      "query": "Um anúncio de feira de calçados tem uma ideia visual e informações para visitar o evento. Quero analisar como convivem.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a20"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/artes/a20-micam-a-tese-visual-e-os-dados-do-evento-convivem.md"
+    },
+    {
+      "id": "broad-081",
+      "category": "curated_positive",
+      "query": "Busco uma página de roupas que explique benefícios durante o uso e delimite as condições de conservação e lavagem.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l01-insider-beneficios-de-uso-ligados-a-condicoes-concretas.md"
+    },
+    {
+      "id": "broad-082",
+      "category": "curated_positive",
+      "query": "Quero uma referência de cursos de desenvolvimento mobile que organize caminhos de estudo por experiência e tecnologia.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l02"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l02-alura-mobile-caminhos-por-ponto-de-partida.md"
+    },
+    {
+      "id": "broad-083",
+      "category": "curated_positive",
+      "query": "Uma página para criar sites deve explicar a sequência de escolher um modelo, editar e publicar, com as condições de contratação.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l03"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l03-hostinger-facilidade-explicada-como-sequencia-de-acoes.md"
+    },
+    {
+      "id": "broad-084",
+      "category": "curated_positive",
+      "query": "Preciso de referência de sistema de gestão que mostre trabalho fiscal, caixa e estoque em situações compreensíveis.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l04"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l04-omie-uma-categoria-tecnica-explicada-pelo-trabalho-cotidiano.md"
+    },
+    {
+      "id": "broad-085",
+      "category": "curated_positive",
+      "query": "Quero ver o Pipedrive tornar a próxima atividade comercial e o acompanhamento de oportunidades benefícios concretos.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l05"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l05-pipedrive-proxima-acao-como-beneficio-operacional.md"
+    },
+    {
+      "id": "broad-086",
+      "category": "curated_positive",
+      "query": "Busco uma página de assinaturas eletrônicas que diferencie a pessoa assinando de quem organiza o processo da empresa.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l06"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l06-docusign-distinguir-quem-assina-de-quem-organiza-assinaturas.md"
+    },
+    {
+      "id": "broad-087",
+      "category": "curated_positive",
+      "query": "A pessoa quer saber se deixou a porta destrancada. Busco referência de fechadura que relacione essa dúvida a um sensor e à configuração.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l07"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l07-intelbras-fr101-uma-duvida-cotidiana-ligada-a-funcao.md"
+    },
+    {
+      "id": "broad-088",
+      "category": "curated_positive",
+      "query": "Quero uma página do iFood voltada a estabelecimentos que explique a oportunidade de vender junto dos requisitos para operar.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l08"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l08-ifood-oportunidade-de-venda-acompanhada-de-operacao-e-entrada.md"
+    },
+    {
+      "id": "broad-089",
+      "category": "curated_positive",
+      "query": "Depois de comprar um produto, o consumidor precisa de instalação. Busco uma página que explique visita, agendamento e cobertura do serviço.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l09"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l09-leroy-merlin-instala-o-que-acontece-depois-da-compra.md"
+    },
+    {
+      "id": "broad-090",
+      "category": "curated_positive",
+      "query": "Uma cadeira tem três tamanhos e diferentes ajustes. Quero uma página que ensine a escolha antes de prometer adequação universal.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l10"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l10-aeron-criterios-de-escolha-antes-de-uma-promessa-universal.md"
+    },
+    {
+      "id": "broad-091",
+      "category": "curated_positive",
+      "query": "Quero referência de café recorrente que apresente alteração da frequência, pausa ou cancelamento como controle da assinatura.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l11"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l11-nespresso-prime-recorrencia-explicada-por-controle-da-escolha.md"
+    },
+    {
+      "id": "broad-092",
+      "category": "curated_positive",
+      "query": "Como uma academia mostra as diferenças de acesso, unidades e compromisso entre planos, deixando claras as condições?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l12"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/paginas/l12-smart-fit-plano-escolhido-por-uso-e-compromisso.md"
+    },
+    {
+      "id": "broad-093",
+      "category": "curated_positive",
+      "query": "Uma ferramenta de design recebe o novo usuário. Busco um e-mail que oriente a criar o primeiro arquivo antes de apresentar toda a ajuda.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d01"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d01-figma-boas-vindas-que-levam-a-primeira-acao.md"
+    },
+    {
+      "id": "broad-094",
+      "category": "curated_positive",
+      "query": "Quero uma mensagem de meditação que ofereça utilidade num momento difícil e reconheça os limites do que um aplicativo resolve.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d02"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d02-headspace-apoio-com-utilidade-e-limite-explicitos.md"
+    },
+    {
+      "id": "broad-095",
+      "category": "curated_positive",
+      "query": "Um aplicativo de trilhas comunica a época das folhagens. Quero ver como mapas e previsão sazonal tornam a novidade útil.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d03"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d03-alltrails-novidade-vinculada-a-uma-atividade-sazonal.md"
+    },
+    {
+      "id": "broad-096",
+      "category": "curated_positive",
+      "query": "Uma marca chama a comunidade para votar. A mensagem deve explicar frequência, prazo e regras de participação antes de vender.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d04"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d04-athletic-brewing-participacao-com-regras-e-acao-concreta.md"
+    },
+    {
+      "id": "broad-097",
+      "category": "curated_positive",
+      "query": "Quero referência de lançamento de celular que desenvolva assistência em tarefas, tela externa e jogos com notas de configuração.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d05"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d05-motorola-recursos-apresentados-por-situacoes-de-uso.md"
+    },
+    {
+      "id": "broad-098",
+      "category": "curated_positive",
+      "query": "Uma assinatura de revista justifica seu valor com benefícios entregues anteriormente. Quero analisar sem inferir disponibilidade futura.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d06"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d06-new-york-magazine-valor-de-assinatura-mostrado-por-entregas.md"
+    },
+    {
+      "id": "broad-099",
+      "category": "curated_positive",
+      "query": "Busco um e-mail de cosmético com escrita sensorial e apoio de depoimentos e imprensa, respeitando os limites dessas evidências.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d07"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d07-vacation-voz-sensorial-acompanhada-de-dois-tipos-de-prova.md"
+    },
+    {
+      "id": "broad-100",
+      "category": "curated_positive",
+      "query": "Um jogo ainda não foi lançado. Quero uma mensagem que use seu universo narrativo e convide a lista de interesse ou teste disponível.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d08"
+      ],
+      "target_path": "knowledge/repertorio/lote-02/emails/d08-team17-lancamento-futuro-com-acoes-disponiveis-agora.md"
+    },
+    {
+      "id": "broad-101",
+      "category": "situational_method",
+      "query": "Fechei o conteúdo da página, mas cada título volta ao mesmo benefício. Preciso de uma tese e perguntas novas a cada dobra.",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "narrativa-lp",
+        "rep-01-m10"
+      ]
+    },
+    {
+      "id": "broad-102",
+      "category": "situational_method",
+      "query": "Um dado sobre composição foi usado para prometer um resultado. Como organizar provas e limites do que o texto pode afirmar?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "provas-e-claims",
+        "rep-01-m11"
+      ]
+    },
+    {
+      "id": "broad-103",
+      "category": "situational_method",
+      "query": "Tenho voz, briefing, fatos e restrições em documentos separados. O que precisa estar no pacote antes da produção?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "pacote-contexto"
+      ]
+    },
+    {
+      "id": "broad-104",
+      "category": "situational_method",
+      "query": "A pessoa encontra o botão, mas o formulário e os próximos passos não são claros. Isso exige mudar a copy ou a experiência?",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m16",
+        "rotas-lp"
+      ]
+    },
+    {
+      "id": "broad-105",
+      "category": "situational_method",
+      "query": "O briefing só informa o perfil demográfico. Quero investigar ocasiões de compra e alternativas consideradas.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m01",
+        "rep-01-m19",
+        "pesquisa-voz-do-cliente"
+      ]
+    },
+    {
+      "id": "broad-106",
+      "category": "situational_method",
+      "query": "Como variar mensagens por situações de uso e comparar alternativas, em vez de mudar sinônimos da mesma frase?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "banco-de-angulos",
+        "rep-01-m19"
+      ]
+    },
+    {
+      "id": "broad-107",
+      "category": "situational_method",
+      "query": "A redação usa frases picadas e promessas vagas. Preciso de critérios para retirar essa cadência artificial.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "vicios-ia-humanizacao",
+        "termos-a-evitar"
+      ]
+    },
+    {
+      "id": "broad-108",
+      "category": "situational_method",
+      "query": "Preciso preparar hipóteses e variações de mensagem para testar sem confundir opinião interna com compreensão do público.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "matriz-de-variacoes-e-testes",
+        "rep-01-m17"
+      ]
+    },
+    {
+      "id": "broad-109",
+      "category": "situational_method",
+      "query": "Quero uma sequência de mensagens em que cada contato responda a uma decisão diferente do destinatário.",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m15",
+        "rotas-direct"
+      ]
+    },
+    {
+      "id": "broad-110",
+      "category": "situational_method",
+      "query": "A chamada final do WhatsApp pede várias coisas de uma vez. Como deixar uma ação pertinente e um compromisso claro?",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "banco-de-ctas",
+        "rotas-direct"
+      ]
+    },
+    {
+      "id": "broad-111",
+      "category": "situational_method",
+      "query": "Só devo cortar um campo do e-mail aprovado, sem refazer todos os fatos e a direção.",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "ajustes-incrementais"
+      ]
+    },
+    {
+      "id": "broad-112",
+      "category": "situational_method",
+      "query": "A mensagem promete uma garantia que ninguém documentou. Como separar afirmação, prova e hipótese?",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "provas-e-claims"
+      ]
+    },
+    {
+      "id": "broad-113",
+      "category": "situational_method",
+      "query": "Quero variar assuntos no calendário orgânico e dar utilidade em cada postagem sem inserir uma promoção em tudo.",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rotas-social",
+        "rep-01-m13"
+      ]
+    },
+    {
+      "id": "broad-114",
+      "category": "situational_method",
+      "query": "A comunicação deve manter a identidade da marca, mas responder com sensibilidade quando a ocasião muda.",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m12",
+        "estrategia-de-marca"
+      ]
+    },
+    {
+      "id": "broad-115",
+      "category": "situational_method",
+      "query": "Como separar fala, texto na tela e imagem num conteúdo em vídeo e respeitar os materiais realmente disponíveis?",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "regras-por-canal",
+        "rotas-social"
+      ]
+    },
+    {
+      "id": "broad-116",
+      "category": "situational_method",
+      "query": "Quando o conteúdo já entrega a informação necessária, preciso pedir comentário em toda postagem?",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m13",
+        "banco-de-ctas"
+      ]
+    },
+    {
+      "id": "broad-117",
+      "category": "pdf_chapter",
+      "query": "Quero saber como testes de respostas e acompanhamento de resultados ajudaram a estabelecer princípios de publicidade.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "expected_sections": [
+        "Chapter 1:"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "broad-118",
+      "category": "pdf_chapter",
+      "query": "How can keyed responses and comparisons establish advertising principles instead of relying on opinion?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "expected_sections": [
+        "Chapter 1:"
+      ],
+      "chapter": 1
+    },
+    {
+      "id": "broad-119",
+      "category": "pdf_chapter",
+      "query": "Como comparar um anúncio ao trabalho de um vendedor e julgar se ele realmente ajuda a vender?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "expected_sections": [
+        "Chapter 2:"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "broad-120",
+      "category": "pdf_chapter",
+      "query": "Advertising as salesmanship: evaluate a message by how it sells, not how entertaining it sounds.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "expected_sections": [
+        "Chapter 2:"
+      ],
+      "chapter": 2
+    },
+    {
+      "id": "broad-121",
+      "category": "pdf_chapter",
+      "query": "Por que apresentar um serviço ou informação útil ao público pode funcionar melhor que exigir uma compra?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "expected_sections": [
+        "Chapter 3:"
+      ],
+      "chapter": 3
+    },
+    {
+      "id": "broad-122",
+      "category": "pdf_chapter",
+      "query": "Why offer useful service to self-interested readers rather than ask them simply to buy?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "expected_sections": [
+        "Chapter 3:"
+      ],
+      "chapter": 3
+    },
+    {
+      "id": "broad-123",
+      "category": "pdf_chapter",
+      "query": "O que anúncios de venda pelo correio ensinam sobre cupons, resposta e desperdício de espaço?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "expected_sections": [
+        "Chapter 4:"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "broad-124",
+      "category": "pdf_chapter",
+      "query": "Lessons from mail order: coupons, measurable replies and the cost of advertising space.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "expected_sections": [
+        "Chapter 4:"
+      ],
+      "chapter": 4
+    },
+    {
+      "id": "broad-125",
+      "category": "pdf_chapter",
+      "query": "Como a abertura do anúncio seleciona o leitor pertinente e faz a pessoa certa continuar a leitura?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "expected_sections": [
+        "Chapter 5:"
+      ],
+      "chapter": 5
+    },
+    {
+      "id": "broad-126",
+      "category": "pdf_chapter",
+      "query": "How does a headline attract the intended reader and select the people interested in the offer?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "expected_sections": [
+        "Chapter 5:"
+      ],
+      "chapter": 5
+    },
+    {
+      "id": "broad-127",
+      "category": "pdf_chapter",
+      "query": "Quero entender curiosidade, percepção de preço e experimentação no interesse por uma oferta.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "expected_sections": [
+        "Chapter 6:"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "broad-128",
+      "category": "pdf_chapter",
+      "query": "How do curiosity and price perception affect demand and the interest in an offer?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "expected_sections": [
+        "Chapter 6:"
+      ],
+      "chapter": 6
+    },
+    {
+      "id": "broad-129",
+      "category": "pdf_chapter",
+      "query": "Uma frase fala que o produto é excelente. Como substituir esse elogio por informação exata e específica?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "expected_sections": [
+        "Chapter 7:"
+      ],
+      "chapter": 7
+    },
+    {
+      "id": "broad-130",
+      "category": "pdf_chapter",
+      "query": "Why do definite facts and precise numbers make a stronger impression than general claims of excellence?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "expected_sections": [
+        "Chapter 7:"
+      ],
+      "chapter": 7
+    },
+    {
+      "id": "broad-131",
+      "category": "pdf_chapter",
+      "query": "É melhor contar toda a história de venda numa peça ou esperar que o leitor encontre outros anúncios com o restante?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "expected_sections": [
+        "Chapter 8:"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "broad-132",
+      "category": "pdf_chapter",
+      "query": "Should an advertisement tell the complete selling story rather than depend on the reader seeing later messages?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "expected_sections": [
+        "Chapter 8:"
+      ],
+      "chapter": 8
+    },
+    {
+      "id": "broad-133",
+      "category": "pdf_chapter",
+      "query": "A imagem chamou atenção, mas não contribuiu para vender. Como avaliar a função da ilustração no anúncio?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "expected_sections": [
+        "Chapter 9:"
+      ],
+      "chapter": 9
+    },
+    {
+      "id": "broad-134",
+      "category": "pdf_chapter",
+      "query": "Assess illustrations by their contribution to selling rather than amusement or curiosity alone.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "expected_sections": [
+        "Chapter 9:"
+      ],
+      "chapter": 9
+    },
+    {
+      "id": "broad-135",
+      "category": "pdf_chapter",
+      "query": "Quais escolhas de mensagem e espaço podem tornar a publicidade desnecessariamente cara?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "expected_sections": [
+        "Chapter 10:"
+      ],
+      "chapter": 10
+    },
+    {
+      "id": "broad-136",
+      "category": "pdf_chapter",
+      "query": "What makes advertising too costly, including wasted space and trying to change habits?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "expected_sections": [
+        "Chapter 10:"
+      ],
+      "chapter": 10
+    },
+    {
+      "id": "broad-137",
+      "category": "pdf_chapter",
+      "query": "Quero estudar a necessidade de conhecer profundamente produto e público antes de preparar a argumentação publicitária.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "expected_sections": [
+        "Chapter 11:"
+      ],
+      "chapter": 11
+    },
+    {
+      "id": "broad-138",
+      "category": "pdf_chapter",
+      "query": "Why must an advertising writer investigate the product and acquire full information before planning a campaign?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "expected_sections": [
+        "Chapter 11:"
+      ],
+      "chapter": 11
+    },
+    {
+      "id": "broad-139",
+      "category": "pdf_chapter",
+      "query": "Como planejar a campanha considerando a concorrência, os hábitos existentes e os obstáculos à decisão?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "expected_sections": [
+        "Chapter 12:"
+      ],
+      "chapter": 12
+    },
+    {
+      "id": "broad-140",
+      "category": "pdf_chapter",
+      "query": "Planning advertising strategy around competition, established habits and obstacles to adoption.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "expected_sections": [
+        "Chapter 12:"
+      ],
+      "chapter": 12
+    },
+    {
+      "id": "broad-141",
+      "category": "pdf_chapter",
+      "query": "Qual papel uma amostra tem na venda e por que ela precisa vir acompanhada de informações para experimentar?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "expected_sections": [
+        "Chapter 13:"
+      ],
+      "chapter": 13
+    },
+    {
+      "id": "broad-142",
+      "category": "pdf_chapter",
+      "query": "What information and mental impressions should accompany a sample that acts as the best salesman?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "expected_sections": [
+        "Chapter 13:"
+      ],
+      "chapter": 13
+    },
+    {
+      "id": "broad-143",
+      "category": "pdf_chapter",
+      "query": "Como fazer o público procurar o produto e construir distribuição sem depender apenas da oferta aos lojistas?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "expected_sections": [
+        "Chapter 14:"
+      ],
+      "chapter": 14
+    },
+    {
+      "id": "broad-144",
+      "category": "pdf_chapter",
+      "query": "How can consumer demand help obtain product distribution and support access through dealers?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "expected_sections": [
+        "Chapter 14:"
+      ],
+      "chapter": 14
+    },
+    {
+      "id": "broad-145",
+      "category": "pdf_chapter",
+      "query": "Como fazer pequenos testes de campanha antes de investir em expansão para mais lugares?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "expected_sections": [
+        "Chapter 15:"
+      ],
+      "chapter": 15
+    },
+    {
+      "id": "broad-146",
+      "category": "pdf_chapter",
+      "query": "Use limited test campaigns and measured results before expanding advertising expenditure.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "expected_sections": [
+        "Chapter 15:"
+      ],
+      "chapter": 15
+    },
+    {
+      "id": "broad-147",
+      "category": "pdf_chapter",
+      "query": "Quais são os riscos de esperar que o revendedor faça sozinho a recomendação da marca?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        95,
+        96,
+        97
+      ],
+      "expected_sections": [
+        "Chapter 16:"
+      ],
+      "chapter": 16
+    },
+    {
+      "id": "broad-148",
+      "category": "pdf_chapter",
+      "query": "Why is leaning on dealers risky when manufacturers expect them to recommend their brand?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        95,
+        96,
+        97
+      ],
+      "expected_sections": [
+        "Chapter 16:"
+      ],
+      "chapter": 16
+    },
+    {
+      "id": "broad-149",
+      "category": "pdf_chapter",
+      "query": "Como conservar uma personalidade reconhecível nos anúncios sem criar excentricidade que atrapalhe a venda?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        98,
+        99,
+        100
+      ],
+      "expected_sections": [
+        "Chapter 17:"
+      ],
+      "chapter": 17
+    },
+    {
+      "id": "broad-150",
+      "category": "pdf_chapter",
+      "query": "How can advertising maintain a distinctive personality without unnecessary eccentricity?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        98,
+        99,
+        100
+      ],
+      "expected_sections": [
+        "Chapter 17:"
+      ],
+      "chapter": 17
+    },
+    {
+      "id": "broad-151",
+      "category": "pdf_chapter",
+      "query": "Quero estudar a recomendação de apresentar sucesso e possibilidades, evitando ataques e imagens negativas.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        101,
+        102
+      ],
+      "expected_sections": [
+        "Chapter 18:"
+      ],
+      "chapter": 18
+    },
+    {
+      "id": "broad-152",
+      "category": "pdf_chapter",
+      "query": "Why prefer happiness, success and attractive possibilities over gloomy attacks on competitors?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        101,
+        102
+      ],
+      "expected_sections": [
+        "Chapter 18:"
+      ],
+      "chapter": 18
+    },
+    {
+      "id": "broad-153",
+      "category": "pdf_chapter",
+      "query": "Como uma carta comercial prende atenção, vende e permite comparar versões por suas respostas?",
+      "route": "direct",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "expected_sections": [
+        "Chapter 19:"
+      ],
+      "chapter": 19
+    },
+    {
+      "id": "broad-154",
+      "category": "pdf_chapter",
+      "query": "How should a sales letter get attention and be tested as a substitute for personal salesmanship?",
+      "route": "direct",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "expected_sections": [
+        "Chapter 19:"
+      ],
+      "chapter": 19
+    },
+    {
+      "id": "broad-155",
+      "category": "pdf_chapter",
+      "query": "Como escolher um nome comercial que ajude a explicar o produto e conte algo compreensível sobre ele?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        108,
+        109,
+        110
+      ],
+      "expected_sections": [
+        "Chapter 20:"
+      ],
+      "chapter": 20
+    },
+    {
+      "id": "broad-156",
+      "category": "pdf_chapter",
+      "query": "Choosing names that tell a useful story instead of coined names that require expensive explanation.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        108,
+        109,
+        110
+      ],
+      "expected_sections": [
+        "Chapter 20:"
+      ],
+      "chapter": 20
+    },
+    {
+      "id": "broad-157",
+      "category": "pdf_chapter",
+      "query": "Como assegurar que a prática de negócio sustente a promessa do anúncio e a relação com quem compra?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "expected_sections": [
+        "Chapter 21:"
+      ],
+      "chapter": 21
+    },
+    {
+      "id": "broad-158",
+      "category": "pdf_chapter",
+      "query": "Why must good business practice and treatment of customers support what advertising promises?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "language": "en",
+      "expected_pages": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "expected_sections": [
+        "Chapter 21:"
+      ],
+      "chapter": 21
+    },
+    {
+      "id": "broad-159",
+      "category": "txt_chapter",
+      "query": "Ancient public notices, criers and inscriptions as early forms of advertising.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER III."
+      ]
+    },
+    {
+      "id": "broad-160",
+      "category": "txt_chapter",
+      "query": "Quero estudar formas antigas de divulgar ofertas por inscrições públicas e pessoas anunciando nas ruas.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "pt",
+      "expected_sections": [
+        "CHAPTER III."
+      ]
+    },
+    {
+      "id": "broad-161",
+      "category": "txt_chapter",
+      "query": "Advertising in medieval societies after the fall of Rome, when writing was largely confined to clergy.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER IV."
+      ]
+    },
+    {
+      "id": "broad-162",
+      "category": "txt_chapter",
+      "query": "Houghton and the first development of advertising in printed newspapers.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER V."
+      ]
+    },
+    {
+      "id": "broad-163",
+      "category": "txt_chapter",
+      "query": "Examples of curious and eccentric advertising notices collected in historical newspapers.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XI."
+      ]
+    },
+    {
+      "id": "broad-164",
+      "category": "txt_chapter",
+      "query": "Fraudulent schemes and hoaxes promoted through historical advertisements.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XII."
+      ]
+    },
+    {
+      "id": "broad-165",
+      "category": "txt_chapter",
+      "query": "The London entertainment hoax that promised an impossible performance with a bottle in 1749.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XIII."
+      ]
+    },
+    {
+      "id": "broad-166",
+      "category": "txt_chapter",
+      "query": "Advertising for patent medicines, quack doctors and impostors in earlier centuries.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XIV."
+      ]
+    },
+    {
+      "id": "broad-167",
+      "category": "txt_chapter",
+      "query": "James Graham and his celestial bed as a historical medical advertising spectacle.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XV."
+      ]
+    },
+    {
+      "id": "broad-168",
+      "category": "txt_chapter",
+      "query": "Publicity around lotteries and lottery insurance notices before and after drawings.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XVI."
+      ]
+    },
+    {
+      "id": "broad-169",
+      "category": "txt_chapter",
+      "query": "Historical agencies and newspaper notices aimed at finding a marriage partner.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XVII."
+      ]
+    },
+    {
+      "id": "broad-170",
+      "category": "txt_chapter",
+      "query": "Differences in American and colonial newspaper advertising compared with English examples.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en",
+      "expected_sections": [
+        "CHAPTER XIX."
+      ]
+    },
+    {
+      "id": "broad-171",
+      "category": "image_reference",
+      "query": "Quero um cartão que organize roteiros de storytelling de experiência pessoal para conteúdo.",
+      "route": "social",
+      "use": "original",
+      "expected": [
+        "orig-a2beaa87c4484fc5"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 1
+    },
+    {
+      "id": "broad-172",
+      "category": "image_reference",
+      "query": "Show an infographic with seven groups of search engine optimization tasks and keyword research.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-73d6f49610c1821f"
+      ],
+      "language": "en",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 2
+    },
+    {
+      "id": "broad-173",
+      "category": "image_reference",
+      "query": "Find the visual list of twelve copywriting rules, including one big idea, one offer and benefits.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-890636cc8e84a38b",
+        "orig-509ef12527c8a9b4"
+      ],
+      "language": "en",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 5
+    },
+    {
+      "id": "broad-174",
+      "category": "image_reference",
+      "query": "Preciso do comparativo visual entre topo, meio e fundo do funil no LinkedIn, com objetivos de cada estágio.",
+      "route": "social",
+      "use": "original",
+      "expected": [
+        "orig-3b8e972a985bf408",
+        "orig-e53a99b3d168f318"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 7
+    },
+    {
+      "id": "broad-175",
+      "category": "image_reference",
+      "query": "Busco um retrato com uma frase em inglês sobre sempre ser uma pessoa boa, nas cores preta, branca e vermelha.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-12967a9a42d55dcd"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 12
+    },
+    {
+      "id": "broad-176",
+      "category": "image_reference",
+      "query": "I want the nine-card visual checklist of on-page SEO topics and page title requirements.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-383d46dca94eec3a"
+      ],
+      "language": "en",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 20
+    },
+    {
+      "id": "broad-177",
+      "category": "image_reference",
+      "query": "Preciso do esboço de Reels em quadrantes que distingue gancho, problema, solução e ação.",
+      "route": "social",
+      "use": "original",
+      "expected": [
+        "orig-69823c4ad0fd3591"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 30
+    },
+    {
+      "id": "broad-178",
+      "category": "image_reference",
+      "query": "Find a table that proposes alternatives to ordinary call-to-action buttons such as learn more and buy now.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-437ab0c67c7ab253"
+      ],
+      "language": "en",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 37
+    },
+    {
+      "id": "broad-179",
+      "category": "image_reference",
+      "query": "Quero um wireframe de página de conversão com setas e comentários sobre benefícios, preço e perguntas frequentes.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-7a41274dccb1085e"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 58
+    },
+    {
+      "id": "broad-180",
+      "category": "image_reference",
+      "query": "Busco telas sobrepostas de uma loja de moda com coleção, produtos e depoimentos.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-5fdfdc33624d9281"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 65
+    },
+    {
+      "id": "broad-181",
+      "category": "image_reference",
+      "query": "Find the connected brand planning diagram with research, creative direction, marketing plans and channels.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-ca45a74487e7bd60"
+      ],
+      "language": "en",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 80
+    },
+    {
+      "id": "broad-182",
+      "category": "image_reference",
+      "query": "Quero o cartaz alto com dezenas de padrões de modelos de negócios e explicações curtas.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-87a53bed3459d085"
+      ],
+      "language": "pt",
+      "expected_pages": [
+        1
+      ],
+      "image_number": 94
+    },
+    {
+      "id": "broad-183",
+      "category": "out_of_domain",
+      "query": "Quais são os mecanismos de replicação do DNA mitocondrial e os genes que codificam suas enzimas?",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-184",
+      "category": "out_of_domain",
+      "query": "Demonstre o cálculo do momento angular de uma partícula num potencial quântico.",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-185",
+      "category": "out_of_domain",
+      "query": "Como identificar a composição de um meteorito por difração de raios X?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-186",
+      "category": "out_of_domain",
+      "query": "Escreva a solução de uma equação diferencial de Navier-Stokes para turbulência.",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-187",
+      "category": "out_of_domain",
+      "query": "Como compilar um módulo do kernel FreeBSD para controlar uma placa de rede?",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-188",
+      "category": "out_of_domain",
+      "query": "Explique o algoritmo de multiplicação de matrizes usado em criptografia homomórfica.",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-189",
+      "category": "out_of_domain",
+      "query": "Quais são as camadas geológicas de Marte e sua cronologia de formação?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-190",
+      "category": "out_of_domain",
+      "query": "Como executar uma redução de fratura de rádio e escolher a analgesia do paciente?",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-191",
+      "category": "out_of_domain",
+      "query": "Como afinar um cravo histórico usando temperamento mesotônico?",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-192",
+      "category": "out_of_domain",
+      "query": "Quero calcular cargas e dimensionar pilares de concreto para uma ponte ferroviária.",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-193",
+      "category": "out_of_domain",
+      "query": "O que distingue a defesa Caro-Kann da variante Paulsen no xadrez?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-194",
+      "category": "out_of_domain",
+      "query": "Como calcular a velocidade de escape na superfície de uma estrela de nêutrons?",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-195",
+      "category": "out_of_domain",
+      "query": "Determine a fórmula estrutural e o peso molecular de uma proteína ribossomal.",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-196",
+      "category": "out_of_domain",
+      "query": "Como atualizar o firmware de uma placa-mãe para corrigir o barramento PCI Express?",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-197",
+      "category": "out_of_domain",
+      "query": "Como diferenciar fungos basidiomicetos por microscopia de suas estruturas reprodutivas?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-198",
+      "category": "out_of_domain",
+      "query": "Quero provar a convergência de uma série de Fourier em um intervalo limitado.",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-199",
+      "category": "out_of_domain",
+      "query": "Como uma turbina aeronáutica controla a temperatura dos gases de combustão?",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-200",
+      "category": "out_of_domain",
+      "query": "Explique a troca de chaves por curvas elípticas em um protocolo criptográfico.",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-201",
+      "category": "out_of_domain",
+      "query": "Como calcular o deslocamento Doppler de uma galáxia e sua distância cosmológica?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-202",
+      "category": "out_of_domain",
+      "query": "Determine a dose de um anestésico numa cirurgia cardíaca a partir do peso do paciente.",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_empty": true
+    },
+    {
+      "id": "broad-203",
+      "category": "robustness",
+      "query": "Antes de redigir, preciso investigar o que levou o comprador a considerar o produto e transformar as entrevistas numa decisao de mensagem.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m01"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-001",
+      "base_query": "Antes de redigir, preciso investigar o que levou o comprador a considerar o produto e transformar as entrevistas numa decisão de mensagem."
+    },
+    {
+      "id": "broad-204",
+      "category": "robustness",
+      "query": "UMA CHAMADA APARECE SOZINHA NUMA ARTE. COMO ASSEGURAR QUE ALGUÉM ENTENDA O OBJETO E A UTILIDADE SEM A LEGENDA !!!",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m09"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-009",
+      "base_query": "Uma chamada aparece sozinha numa arte. Como assegurar que alguém entenda o objeto e a utilidade sem a legenda?"
+    },
+    {
+      "id": "broad-205",
+      "category": "robustness",
+      "query": "Como criar ângulos a partir de ocaiões de compra diferentes, sem fazer versões que só mudam adjetivos?",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m19"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-019",
+      "base_query": "Como criar ângulos a partir de ocasiões de compra diferentes, sem fazer versões que só mudam adjetivos?"
+    },
+    {
+      "id": "broad-206",
+      "category": "robustness",
+      "query": "Quero uma referencia de software de projetos que apresente a utilidade mostrando tarefas e organizacao dentro da propria ferramenta.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e01"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-021",
+      "base_query": "Quero uma referência de software de projetos que apresente a utilidade mostrando tarefas e organização dentro da própria ferramenta."
+    },
+    {
+      "id": "broad-207",
+      "category": "robustness",
+      "query": "UMA FUNÇÃO DE E-MAIL DECIDE QUEM PODE CHEGAR À CAIXA DE ENTRADA. PRECISO DE REFERÊNCIA QUE EXPLIQUE ESSA ESCOLHA COTIDIANA !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e02"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-022",
+      "base_query": "Uma função de e-mail decide quem pode chegar à caixa de entrada. Preciso de referência que explique essa escolha cotidiana."
+    },
+    {
+      "id": "broad-208",
+      "category": "robustness",
+      "query": "Preciso de exemplo de CRM que fale do acopanhamento do trabalho comercial e da ação que o vendedor precisa tomar.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e06"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-026",
+      "base_query": "Preciso de exemplo de CRM que fale do acompanhamento do trabalho comercial e da ação que o vendedor precisa tomar."
+    },
+    {
+      "id": "broad-209",
+      "category": "robustness",
+      "query": "Quero ver a Wise explicar transferencias e operacoes internacionais pelo que a pessoa consegue fazer.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e11"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-031",
+      "base_query": "Quero ver a Wise explicar transferências e operações internacionais pelo que a pessoa consegue fazer."
+    },
+    {
+      "id": "broad-210",
+      "category": "robustness",
+      "query": "O VISITANTE DIGITA O E-MAIL PARA INICIAR UMA ASSINATURA. QUERO REFERÊNCIA QUE EXPLIQUE O PRÓXIMO PASSO AO LADO DO PRÓPRIO CAMPO !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-01-e15"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-035",
+      "base_query": "O visitante digita o e-mail para iniciar uma assinatura. Quero referência que explique o próximo passo ao lado do próprio campo."
+    },
+    {
+      "id": "broad-211",
+      "category": "robustness",
+      "query": "Busco uma camanha de bebida cuja ideia criativa nasce do produto e do território de comunicação, sem depender de slogan solto.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-01-e21"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-041",
+      "base_query": "Busco uma campanha de bebida cuja ideia criativa nasce do produto e do território de comunicação, sem depender de slogan solto."
+    },
+    {
+      "id": "broad-212",
+      "category": "robustness",
+      "query": "Busco uma acao em que a comunidade possa submeter uma criacao com regras e objetivo de participacao definidos.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e24"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-044",
+      "base_query": "Busco uma ação em que a comunidade possa submeter uma criação com regras e objetivo de participação definidos."
+    },
+    {
+      "id": "broad-213",
+      "category": "robustness",
+      "query": "UM ANÚNCIO DE PEÇA TÉCNICA PROMETE QUALIDADE, MAS O COMPRADOR PRECISA PRIMEIRO SABER SE ELA É COMPATÍVEL COM SEU EQUIPAMENTO !!!",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r01"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-051",
+      "base_query": "Um anúncio de peça técnica promete qualidade, mas o comprador precisa primeiro saber se ela é compatível com seu equipamento."
+    },
+    {
+      "id": "broad-214",
+      "category": "robustness",
+      "query": "Preciso separar o texto breve da imagem do desnvolvimento do texto principal da plataforma, preservando a função de cada campo.",
+      "route": "ads",
+      "use": "structure",
+      "expected": [
+        "rep-01-r03"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-053",
+      "base_query": "Preciso separar o texto breve da imagem do desenvolvimento do texto principal da plataforma, preservando a função de cada campo."
+    },
+    {
+      "id": "broad-215",
+      "category": "robustness",
+      "query": "O produto desperta interesse e desejo. Preciso de um exemplo de pagina que nao fabrique sofrimento para vender.",
+      "route": "lp",
+      "use": "structure",
+      "expected": [
+        "rep-01-r06"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-056",
+      "base_query": "O produto desperta interesse e desejo. Preciso de um exemplo de página que não fabrique sofrimento para vender."
+    },
+    {
+      "id": "broad-216",
+      "category": "robustness",
+      "query": "QUERO UM EXEMPLO DE CARROSSEL REVISADO EM QUE AS TELAS DESENVOLVEM UMA PAUTA, EM VEZ DE REPETIR A MESMA CHAMADA !!!",
+      "route": "social",
+      "use": "structure",
+      "expected": [
+        "rep-01-r09"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-059",
+      "base_query": "Quero um exemplo de carrossel revisado em que as telas desenvolvem uma pauta, em vez de repetir a mesma chamada."
+    },
+    {
+      "id": "broad-217",
+      "category": "robustness",
+      "query": "Quero estudar a arte de um carro cuja câmera permite ver embaixo do veíulo, representada por olhos na sola dos pés.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a01"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-061",
+      "base_query": "Quero estudar a arte de um carro cuja câmera permite ver embaixo do veículo, representada por olhos na sola dos pés."
+    },
+    {
+      "id": "broad-218",
+      "category": "robustness",
+      "query": "Quero um anuncio de exposicao de impressao artistica cujo jogo com a palavra pressao tenha relacao com o oficio.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a04"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-064",
+      "base_query": "Quero um anúncio de exposição de impressão artística cujo jogo com a palavra pressão tenha relação com o ofício."
+    },
+    {
+      "id": "broad-219",
+      "category": "robustness",
+      "query": "QUERO UMA REFERÊNCIA DA SITRAK EM QUE UMA UTILIDADE PEQUENA E COTIDIANA APROXIMA A COMUNICAÇÃO DE UM TERRITÓRIO INDUSTRIAL !!!",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a10"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-070",
+      "base_query": "Quero uma referência da Sitrak em que uma utilidade pequena e cotidiana aproxima a comunicação de um território industrial."
+    },
+    {
+      "id": "broad-220",
+      "category": "robustness",
+      "query": "Um anúncio esprtivo faz a cena assumir a forma reconhecível da marca. Quero entender a construção visual.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a13"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-073",
+      "base_query": "Um anúncio esportivo faz a cena assumir a forma reconhecível da marca. Quero entender a construção visual."
+    },
+    {
+      "id": "broad-221",
+      "category": "robustness",
+      "query": "Uma homenagem usa desenho de planta arquitetonica para construir um simbolo comemorativo relacionado ao setor.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a18"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-078",
+      "base_query": "Uma homenagem usa desenho de planta arquitetônica para construir um símbolo comemorativo relacionado ao setor."
+    },
+    {
+      "id": "broad-222",
+      "category": "robustness",
+      "query": "BUSCO UMA PÁGINA DE ROUPAS QUE EXPLIQUE BENEFÍCIOS DURANTE O USO E DELIMITE AS CONDIÇÕES DE CONSERVAÇÃO E LAVAGEM !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-081",
+      "base_query": "Busco uma página de roupas que explique benefícios durante o uso e delimite as condições de conservação e lavagem."
+    },
+    {
+      "id": "broad-223",
+      "category": "robustness",
+      "query": "Quero ver o Pipdrive tornar a próxima atividade comercial e o acompanhamento de oportunidades benefícios concretos.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l05"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-085",
+      "base_query": "Quero ver o Pipedrive tornar a próxima atividade comercial e o acompanhamento de oportunidades benefícios concretos."
+    },
+    {
+      "id": "broad-224",
+      "category": "robustness",
+      "query": "Depois de comprar um produto, o consumidor precisa de instalacao. Busco uma pagina que explique visita, agendamento e cobertura do servico.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l09"
+      ],
+      "variant": "accents_removed",
+      "base_case": "broad-089",
+      "base_query": "Depois de comprar um produto, o consumidor precisa de instalação. Busco uma página que explique visita, agendamento e cobertura do serviço."
+    },
+    {
+      "id": "broad-225",
+      "category": "robustness",
+      "query": "COMO UMA ACADEMIA MOSTRA AS DIFERENÇAS DE ACESSO, UNIDADES E COMPROMISSO ENTRE PLANOS, DEIXANDO CLARAS AS CONDIÇÕES !!!",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l12"
+      ],
+      "variant": "case_punctuation",
+      "base_case": "broad-092",
+      "base_query": "Como uma academia mostra as diferenças de acesso, unidades e compromisso entre planos, deixando claras as condições?"
+    },
+    {
+      "id": "broad-226",
+      "category": "robustness",
+      "query": "Um aplcativo de trilhas comunica a época das folhagens. Quero ver como mapas e previsão sazonal tornam a novidade útil.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d03"
+      ],
+      "variant": "light_typo",
+      "base_case": "broad-095",
+      "base_query": "Um aplicativo de trilhas comunica a época das folhagens. Quero ver como mapas e previsão sazonal tornam a novidade útil."
+    },
+    {
+      "id": "broad-227",
+      "category": "short_query",
+      "query": "alternativa atual e concorrência",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m05"
+      ]
+    },
+    {
+      "id": "broad-228",
+      "category": "short_query",
+      "query": "compressão de página",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m10"
+      ]
+    },
+    {
+      "id": "broad-229",
+      "category": "short_query",
+      "query": "assunto preheader corpo",
+      "route": "direct",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m14"
+      ]
+    },
+    {
+      "id": "broad-230",
+      "category": "short_query",
+      "query": "tom de voz conforme ocasião",
+      "route": "social",
+      "use": "guidance",
+      "expected": [
+        "rep-01-m12"
+      ]
+    },
+    {
+      "id": "broad-231",
+      "category": "short_query",
+      "query": "Aeron três tamanhos",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l10"
+      ]
+    },
+    {
+      "id": "broad-232",
+      "category": "short_query",
+      "query": "olhos na sola Amarok",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a01"
+      ]
+    },
+    {
+      "id": "broad-233",
+      "category": "short_query",
+      "query": "Headspace limites apoio",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d02"
+      ]
+    },
+    {
+      "id": "broad-234",
+      "category": "short_query",
+      "query": "LEGO submissão de ideias",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e24"
+      ]
+    },
+    {
+      "id": "broad-235",
+      "category": "authority_limits",
+      "query": "Qual é o CPL real do cliente fictício Alfa na campanha deste mês?",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "expect_guarded": true
+    },
+    {
+      "id": "broad-236",
+      "category": "authority_limits",
+      "query": "Existe estoque confirmado hoje e qual desconto o cliente fictício Beta autorizou?",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "expect_guarded": true
+    },
+    {
+      "id": "broad-237",
+      "category": "authority_limits",
+      "query": "Qual aumento de vendas comprovado cada exemplo dessa base gerou?",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "expect_guarded": true
+    },
+    {
+      "id": "broad-238",
+      "category": "authority_limits",
+      "query": "A mensagem recuperada já tem aprovação humana e pode ser enviada ao cliente fictício Gama?",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "expect_guarded": true
+    },
+    {
+      "id": "broad-239",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a01"
+      ],
+      "source_filter": [
+        "rep-02-a01"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-240",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a04"
+      ],
+      "source_filter": [
+        "rep-02-a04"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-241",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a14"
+      ],
+      "source_filter": [
+        "rep-02-a14"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-242",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a18"
+      ],
+      "source_filter": [
+        "rep-02-a18"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-243",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ],
+      "source_filter": [
+        "rep-02-l01"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-244",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l04"
+      ],
+      "source_filter": [
+        "rep-02-l04"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-245",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l05"
+      ],
+      "source_filter": [
+        "rep-02-l05"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-246",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l07"
+      ],
+      "source_filter": [
+        "rep-02-l07"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-247",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d01"
+      ],
+      "source_filter": [
+        "rep-02-d01"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-248",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d02"
+      ],
+      "source_filter": [
+        "rep-02-d02"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-249",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d04"
+      ],
+      "source_filter": [
+        "rep-02-d04"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    },
+    {
+      "id": "broad-250",
+      "category": "known_source_section",
+      "query": "Na análise desta referência, qual é o argumento e como a mensagem avança entre os componentes da peça?",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d08"
+      ],
+      "source_filter": [
+        "rep-02-d08"
+      ],
+      "expected_sections": [
+        "Argumento e progressão"
+      ]
+    }
+  ]
+}

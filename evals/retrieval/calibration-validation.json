@@ -1,0 +1,423 @@
+{
+  "labeling": "Agent-authored new queries and source/page labels frozen before calibration. Evaluated only after ranking parameters are frozen; no independent human relevance validation.",
+  "queries": [
+    {
+      "id": "fresh01",
+      "query": "Quero mostrar o fechamento automático da porta, mas preciso deixar clara a configuração do sensor e o que depende de instalação.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l07"
+      ]
+    },
+    {
+      "id": "fresh02",
+      "query": "Como desenvolver uma vitrine de planos de exercícios que permita comparar fidelidade, locais disponíveis e preço?",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l12"
+      ]
+    },
+    {
+      "id": "fresh03",
+      "query": "Preciso de referência para vender uma ferramenta de acompanhamento comercial pela organização de oportunidades e das próximas atividades.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l05"
+      ]
+    },
+    {
+      "id": "fresh04",
+      "query": "Um produto de vestuário promete manter a cor. Quero ver como ligar isso a lavagem, exceções e uso cotidiano.",
+      "route": "lp",
+      "use": "positive",
+      "expected": [
+        "rep-02-l01"
+      ]
+    },
+    {
+      "id": "fresh05",
+      "query": "Campanha usa um ingrediente em tamanhos diferentes como pista de um lançamento de sanduíche; falta entender a condição da oferta.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a09"
+      ]
+    },
+    {
+      "id": "fresh06",
+      "query": "Um trocadilho com pressão ganha sentido num evento de xilogravura, acompanhado de informações para visitar.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a04"
+      ]
+    },
+    {
+      "id": "fresh07",
+      "query": "O veículo consegue enxergar o chão por câmera e a imagem do anúncio mostra olhos nos pés.",
+      "route": "ads",
+      "use": "positive",
+      "expected": [
+        "rep-02-a01"
+      ]
+    },
+    {
+      "id": "fresh08",
+      "query": "A homenagem desenhada com uma planta baixa depende do vínculo entre construção e símbolo comemorativo.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-02-a18"
+      ]
+    },
+    {
+      "id": "fresh09",
+      "query": "Como pedir participação em votação sem perder as regras de prazo, limite diário e elegibilidade?",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d04"
+      ]
+    },
+    {
+      "id": "fresh10",
+      "query": "Uma newsletter de revista usa entregas dos meses passados para tornar a assinatura tangível; preciso separar histórico de disponibilidade.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d06"
+      ]
+    },
+    {
+      "id": "fresh11",
+      "query": "Mensagem de boas-vindas leva o novo usuário a abrir um projeto de design e só depois apresenta suporte.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d01"
+      ]
+    },
+    {
+      "id": "fresh12",
+      "query": "Um cosmético é apresentado pelo prazer de uso e por depoimentos, sem considerar essas opiniões prova médica.",
+      "route": "direct",
+      "use": "positive",
+      "expected": [
+        "rep-02-d07"
+      ]
+    },
+    {
+      "id": "fresh13",
+      "query": "Quero orientar a criação de uma proposta pelos seguidores, com critérios e submissão definidos.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e24"
+      ]
+    },
+    {
+      "id": "fresh14",
+      "query": "Organizar conteúdo sobre soluções para tarefas dentro de casa, com ambientes e escolhas observáveis.",
+      "route": "social",
+      "use": "positive",
+      "expected": [
+        "rep-01-e25"
+      ]
+    },
+    {
+      "id": "fresh15",
+      "query": "Só devo alterar um trecho do anúncio validado, reaproveitando os campos intactos e sua revisão.",
+      "route": "ads",
+      "use": "guidance",
+      "expected": [
+        "ajustes-incrementais"
+      ]
+    },
+    {
+      "id": "fresh16",
+      "query": "A página parece um catálogo de tópicos desconectados: preciso fechar tese, progressão dos títulos e retirar redundâncias.",
+      "route": "lp",
+      "use": "guidance",
+      "expected": [
+        "narrativa-lp"
+      ]
+    },
+    {
+      "id": "fresh17",
+      "query": "Como estabelecer princípios de publicidade usando resultados rastreáveis, códigos e comparação de respostas?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "expected_section": "Chapter 1:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh18",
+      "query": "Por que curiosidade, preço percebido e uma experiência grátis podem alterar o interesse de compra?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "expected_section": "Chapter 6:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh19",
+      "query": "Como afirmar a característica com números concretos em vez de elogios amplos que ninguém acredita?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "expected_section": "Chapter 7:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh20",
+      "query": "Devo contar a história de venda toda num anúncio ou distribuir pedaços que só fazem sentido quando vistos juntos?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "expected_section": "Chapter 8:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh21",
+      "query": "Como o desperdício de espaço e mudanças de hábito difíceis tornam a publicidade cara?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62
+      ],
+      "expected_section": "Chapter 10:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh22",
+      "query": "Como comparar concorrentes, obstáculos e alternativas antes de escolher a estratégia de venda?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "expected_section": "Chapter 12:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh23",
+      "query": "Como levar consumidores a localizar o produto no comércio sem depender só de persuadir o lojista?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+      ],
+      "expected_section": "Chapter 14:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh24",
+      "query": "Quando depender do revendedor para recomendar a marca enfraquece a criação de demanda do consumidor?",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-94211e766522b503"
+      ],
+      "expected_pages": [
+        95,
+        96,
+        97
+      ],
+      "expected_section": "Chapter 16:",
+      "language": "pt"
+    },
+    {
+      "id": "fresh25",
+      "query": "Historical examples of newspaper advertisements seeking missing people and lost property.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en"
+    },
+    {
+      "id": "fresh26",
+      "query": "How advertising for tea and coffee first appeared in English periodicals.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en"
+    },
+    {
+      "id": "fresh27",
+      "query": "Old English theatrical notices, entertainment announcements and newspaper advertising.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "en"
+    },
+    {
+      "id": "fresh28",
+      "query": "História dos classificados de jornais e do crescimento dos anúncios de comércio na Inglaterra.",
+      "route": "ads",
+      "use": "original",
+      "expected": [
+        "orig-506066d9b886f438"
+      ],
+      "language": "pt"
+    },
+    {
+      "id": "fresh29",
+      "query": "Diagrama da anatomia de uma landing page com prova, comparação, benefícios, preço e perguntas frequentes.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-7a41274dccb1085e"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "language": "pt"
+    },
+    {
+      "id": "fresh30",
+      "query": "Cartaz que apresenta dezenas de padrões de modelos de negócios, com nome e explicação de cada um.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-87a53bed3459d085"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "language": "pt"
+    },
+    {
+      "id": "fresh31",
+      "query": "Referência visual de joia: anel com pedra apoiado em tecido de cor clara.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-a5ad0ae2dddb265d"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "language": "pt"
+    },
+    {
+      "id": "fresh32",
+      "query": "Joia fotografada entre dedos, com letras caligráficas parcialmente escondidas na superfície.",
+      "route": "lp",
+      "use": "original",
+      "expected": [
+        "orig-799c90e98bdee871"
+      ],
+      "expected_pages": [
+        1
+      ],
+      "language": "pt"
+    },
+    {
+      "id": "fresh33",
+      "query": "Demonstre a equação de Schrödinger para um elétron num poço quântico.",
+      "route": "ads",
+      "use": null,
+      "expected": [],
+      "type": "no_coverage"
+    },
+    {
+      "id": "fresh34",
+      "query": "Como afinar um piano acústico e corrigir sua escala de temperamento?",
+      "route": "lp",
+      "use": null,
+      "expected": [],
+      "type": "no_coverage"
+    },
+    {
+      "id": "fresh35",
+      "query": "Determine a velocidade de um trem por uma equação diferencial de resistência aerodinâmica.",
+      "route": "social",
+      "use": null,
+      "expected": [],
+      "type": "no_coverage"
+    },
+    {
+      "id": "fresh36",
+      "query": "Calcule a tensão numa ponte de aço pela análise matricial de elementos finitos.",
+      "route": "direct",
+      "use": null,
+      "expected": [],
+      "type": "no_coverage"
+    }
+  ]
+}

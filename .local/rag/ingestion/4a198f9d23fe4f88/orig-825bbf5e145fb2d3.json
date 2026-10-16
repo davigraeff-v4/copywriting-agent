@@ -1,0 +1,392 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/7e7d6076f1280ec075afa8813db4e94e.jpg",
+  "source_sha256": "825bbf5e145fb2d39aefac00702c49dcf5d82e83797a97d800cc3068f3f70cdd",
+  "text": "VIRAL HOOKS TO\nSTOP YOUR AUDIENCE SCROLL\n1.\nStop doing X and try this instead\n2. 3 things I wish I knew before X\n3. Let's settle the age-old debate\n4. This is my best kept secret for X\n5. I tried X so you don't have to and here are the results\n6. Don't buy X, buy this instead\n7. My number one X hack for 2023\n8. Here's one product that makes X so much easier\n9. What I ordered vs what I got: X edition\n10. Love doing X but struggle with x? Let me introduce you to X\n11. Getting My Daily X Hits Different With...\n12. Calling all X. Are you tired of spending hundreds of dollars on x?\n13. I wish I knew about this sooner because I am obsessed!\n14. Things in my X (car, kitchen, office etc) that just make sense\n15. Unique gift ideas for x\n16. This is my number 1 hack for x\n17. 3 reasons why X\n18. Spilling the tea on x\n19. If you're like me and do x, then this is for you\n20. How to NOT X... (use the product as the solution to the problem)\n21. Remember this the next time you're X\n22. I don't know who needs to hear this but X (Strong statement)\n23. actually can't believe this only costs x\n24. Here's one product that makes X so much easier\n25. I just found X that does x\nwww.learnwithej.com\n\nLista numerada de vinte e cinco ganchos para conteúdo, com linhas horizontais.",
+  "segments": [
+    {
+      "text": "VIRAL HOOKS TO\nSTOP YOUR AUDIENCE SCROLL\n1.\nStop doing X and try this instead\n2. 3 things I wish I knew before X\n3. Let's settle the age-old debate\n4. This is my best kept secret for X\n5. I tried X so you don't have to and here are the results\n6. Don't buy X, buy this instead\n7. My number one X hack for 2023\n8. Here's one product that makes X so much easier\n9. What I ordered vs what I got: X edition\n10. Love doing X but struggle with x? Let me introduce you to X\n11. Getting My Daily X Hits Different With...\n12. Calling all X. Are you tired of spending hundreds of dollars on x?\n13. I wish I knew about this sooner because I am obsessed!\n14. Things in my X (car, kitchen, office etc) that just make sense\n15. Unique gift ideas for x\n16. This is my number 1 hack for x\n17. 3 reasons why X\n18. Spilling the tea on x\n19. If you're like me and do x, then this is for you\n20. How to NOT X... (use the product as the solution to the problem)\n21. Remember this the next time you're X\n22. I don't know who needs to hear this but X (Strong statement)\n23. actually can't believe this only costs x\n24. Here's one product that makes X so much easier\n25. I just found X that does x\nwww.learnwithej.com",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "VIRAL HOOKS TO",
+          "box": [
+            0.07625271130085491,
+            0.91133333416873,
+            0.8779956665039063,
+            0.05668992106119786
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "text": "STOP YOUR AUDIENCE SCROLL",
+          "box": [
+            0.07407406073022718,
+            0.8531976749846338,
+            0.8867102661132813,
+            0.032135658264160094
+          ],
+          "confidence": 1,
+          "start_char": 15,
+          "end_char": 40
+        },
+        {
+          "text": "1.",
+          "box": [
+            0.07189542458044647,
+            0.7848837216068617,
+            0.037037036895751954,
+            0.020348836263020753
+          ],
+          "confidence": 1,
+          "start_char": 41,
+          "end_char": 43
+        },
+        {
+          "text": "Stop doing X and try this instead",
+          "box": [
+            0.10457516016905646,
+            0.7863372094401881,
+            0.42047930908203135,
+            0.01766279029846196
+          ],
+          "confidence": 1,
+          "start_char": 44,
+          "end_char": 77
+        },
+        {
+          "text": "2. 3 things I wish I knew before X",
+          "box": [
+            0.06736228098424772,
+            0.7539973739290273,
+            0.42733456420898436,
+            0.022234026590983058
+          ],
+          "confidence": 1,
+          "start_char": 78,
+          "end_char": 112
+        },
+        {
+          "text": "3. Let's settle the age-old debate",
+          "box": [
+            0.06753812176411401,
+            0.7266666669542803,
+            0.4270152587890625,
+            0.018972867965698192
+          ],
+          "confidence": 1,
+          "start_char": 113,
+          "end_char": 147
+        },
+        {
+          "text": "4. This is my best kept secret for X",
+          "box": [
+            0.06724823367948375,
+            0.6933450017775625,
+            0.4427355651855469,
+            0.02479780832926437
+          ],
+          "confidence": 1,
+          "start_char": 148,
+          "end_char": 184
+        },
+        {
+          "text": "5. I tried X so you don't have to and here are the results",
+          "box": [
+            0.06745546690274455,
+            0.6654324865993717,
+            0.701689208984375,
+            0.022117168426513567
+          ],
+          "confidence": 1,
+          "start_char": 185,
+          "end_char": 243
+        },
+        {
+          "text": "6. Don't buy X, buy this instead",
+          "box": [
+            0.06738925293355845,
+            0.6366281916568798,
+            0.4054773559570312,
+            0.021876694997151724
+          ],
+          "confidence": 1,
+          "start_char": 244,
+          "end_char": 276
+        },
+        {
+          "text": "7. My number one X hack for 2023",
+          "box": [
+            0.06753811913408844,
+            0.6090116278970863,
+            0.44662310791015625,
+            0.018988372166951484
+          ],
+          "confidence": 1,
+          "start_char": 277,
+          "end_char": 309
+        },
+        {
+          "text": "8. Here's one product that makes X so much easier",
+          "box": [
+            0.06971676797334515,
+            0.579941860453634,
+            0.6492374877929689,
+            0.01889534886678057
+          ],
+          "confidence": 1,
+          "start_char": 310,
+          "end_char": 359
+        },
+        {
+          "text": "9. What I ordered vs what I got: X edition",
+          "box": [
+            0.06742800527548036,
+            0.5478781964949688,
+            0.5252544555664063,
+            0.0219494349161784
+          ],
+          "confidence": 1,
+          "start_char": 360,
+          "end_char": 402
+        },
+        {
+          "text": "10. Love doing X but struggle with x? Let me introduce you to X",
+          "box": [
+            0.058742830745351055,
+            0.5188995618946931,
+            0.8018796997070313,
+            0.021864545186360718
+          ],
+          "confidence": 1,
+          "start_char": 403,
+          "end_char": 466
+        },
+        {
+          "text": "11. Getting My Daily X Hits Different With...",
+          "box": [
+            0.06318083655042847,
+            0.49127906960905676,
+            0.542483642578125,
+            0.020348837534586606
+          ],
+          "confidence": 1,
+          "start_char": 467,
+          "end_char": 512
+        },
+        {
+          "text": "12. Calling all X. Are you tired of spending hundreds of dollars on x?",
+          "box": [
+            0.05859795921116387,
+            0.46035586361853087,
+            0.8501195068359376,
+            0.027246668497721394
+          ],
+          "confidence": 1,
+          "start_char": 513,
+          "end_char": 583
+        },
+        {
+          "text": "13. I wish I knew about this sooner because I am obsessed!",
+          "box": [
+            0.058539709970172736,
+            0.43124686909724563,
+            0.7456019897460937,
+            0.027503709157307932
+          ],
+          "confidence": 1,
+          "start_char": 584,
+          "end_char": 642
+        },
+        {
+          "text": "14. Things in my X (car, kitchen, office etc) that just make sense",
+          "box": [
+            0.05868195607419011,
+            0.4023935782197745,
+            0.7976465454101562,
+            0.02466417185465497
+          ],
+          "confidence": 1,
+          "start_char": 643,
+          "end_char": 709
+        },
+        {
+          "text": "15. Unique gift ideas for x",
+          "box": [
+            0.05820267496123884,
+            0.37252643036801925,
+            0.3387704162597656,
+            0.027515780131022183
+          ],
+          "confidence": 1,
+          "start_char": 710,
+          "end_char": 737
+        },
+        {
+          "text": "16. This is my number 1 hack for x",
+          "box": [
+            0.058077861814385186,
+            0.34038369207738906,
+            0.43722076416015626,
+            0.03290370178222657
+          ],
+          "confidence": 1,
+          "start_char": 738,
+          "end_char": 772
+        },
+        {
+          "text": "17. 3 reasons why X",
+          "box": [
+            0.05882353486264944,
+            0.3139534887075651,
+            0.26361654663085937,
+            0.022046511332194152
+          ],
+          "confidence": 1,
+          "start_char": 773,
+          "end_char": 792
+        },
+        {
+          "text": "18. Spilling the tea on x",
+          "box": [
+            0.05830523169702045,
+            0.2840223320372588,
+            0.3125945739746093,
+            0.02612079366048181
+          ],
+          "confidence": 1,
+          "start_char": 793,
+          "end_char": 818
+        },
+        {
+          "text": "19. If you're like me and do x, then this is for you",
+          "box": [
+            0.05861040260319754,
+            0.25552357918919977,
+            0.6125747680664063,
+            0.025083853403727208
+          ],
+          "confidence": 1,
+          "start_char": 819,
+          "end_char": 871
+        },
+        {
+          "text": "20. How to NOT X... (use the product as the solution to the problem)",
+          "box": [
+            0.05625029025484747,
+            0.22467560006095477,
+            0.8547431030273437,
+            0.03354894002278652
+          ],
+          "confidence": 1,
+          "start_char": 872,
+          "end_char": 940
+        },
+        {
+          "text": "21. Remember this the next time you're X",
+          "box": [
+            0.06065832567393017,
+            0.19569307004645498,
+            0.5301295776367189,
+            0.02745975494384767
+          ],
+          "confidence": 1,
+          "start_char": 941,
+          "end_char": 981
+        },
+        {
+          "text": "22. I don't know who needs to hear this but X (Strong statement)",
+          "box": [
+            0.058608253900608705,
+            0.16684015074037473,
+            0.8195930786132812,
+            0.0275281168619792
+          ],
+          "confidence": 1,
+          "start_char": 982,
+          "end_char": 1046
+        },
+        {
+          "text": "23. actually can't believe this only costs x",
+          "box": [
+            0.05863067656212712,
+            0.13776030712772047,
+            0.5385516357421873,
+            0.023821047465006573
+          ],
+          "confidence": 1,
+          "start_char": 1047,
+          "end_char": 1091
+        },
+        {
+          "text": "24. Here's one product that makes X so much easier",
+          "box": [
+            0.05630723011370759,
+            0.10841397316563173,
+            0.667262451171875,
+            0.02792315419514979
+          ],
+          "confidence": 1,
+          "start_char": 1092,
+          "end_char": 1142
+        },
+        {
+          "text": "25. I just found X that does x",
+          "box": [
+            0.05571009486651684,
+            0.07683337264018453,
+            0.3765895080566406,
+            0.03539831288655604
+          ],
+          "confidence": 1,
+          "start_char": 1143,
+          "end_char": 1173
+        },
+        {
+          "text": "www.learnwithej.com",
+          "box": [
+            0.2505446744775582,
+            0.008720930826389472,
+            0.5206971435546874,
+            0.03197674306233722
+          ],
+          "confidence": 0.5,
+          "start_char": 1174,
+          "end_char": 1193
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 1193
+    },
+    {
+      "text": "Lista numerada de vinte e cinco ganchos para conteúdo, com linhas horizontais.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 1195,
+      "end_char": 1273
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1000,
+      1500
+    ],
+    "ocr_rows": 29,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9827586206896551,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

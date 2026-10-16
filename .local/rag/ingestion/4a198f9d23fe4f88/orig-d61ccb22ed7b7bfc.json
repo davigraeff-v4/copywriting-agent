@@ -1,0 +1,596 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/056d94fcf97d8d260552195216e8513a.jpg",
+  "source_sha256": "d61ccb22ed7b7bfc8c7a97102f4cf41be8b9e9ae4d7171b36c1fc5109da964b7",
+  "text": "Como criar um\nprompt perteito\nContexto →\nComece dizendo quem voce\n\"Sou nutricionista e preciso de\n→\né, para quem será o conteúdo\num texto para postar no\ne onde ele será usado.\nInstagram sobre alimentação\ninfantil.\nExplique o que voce espera\n\"Quero que o conteúdo ajude\ndo texto: atrair clientes,\nObjetivo →\nensinar, motivar, vender ou\n→\nas mães a perceberem a\nimportância de montar\ngerar engajamento.\nlancheiras mais saudáveis.\"\nMostre como o conteúdo\n\"Quero um texto leve e\nTom de voz →\ndeve soar: acolhedor, técnico,\nsimples, inspirador ou\n→ próximo, como se fosse uma\ndivertido.\nconversa entre amigas.\"\nAvise em qual tipo de material\nẠPreciso de um roteiro curto\nEstrutura →\no texto deve ser usado:\nlegenda, roteiro, e-mail, artigo\npara Reels, com frases\nou anúncio.\nrápidas e diretasiạ\nInclua informações\n\"Use a frase 'lancheira\nInstruções →\nobrigatórias, como palavras-\nnutritiva' e inclua pelo menos\nchave, dados, links ou\ntrês dicas práticasạ\nexpressões que devem\naparecer.\n\nEstrutura de prompt em cinco linhas: contexto, objetivo, voz, estrutura e instruções.",
+  "segments": [
+    {
+      "text": "Como criar um\nprompt perteito\nContexto →\nComece dizendo quem voce\n\"Sou nutricionista e preciso de\n→\né, para quem será o conteúdo\num texto para postar no\ne onde ele será usado.\nInstagram sobre alimentação\ninfantil.\nExplique o que voce espera\n\"Quero que o conteúdo ajude\ndo texto: atrair clientes,\nObjetivo →\nensinar, motivar, vender ou\n→\nas mães a perceberem a\nimportância de montar\ngerar engajamento.\nlancheiras mais saudáveis.\"\nMostre como o conteúdo\n\"Quero um texto leve e\nTom de voz →\ndeve soar: acolhedor, técnico,\nsimples, inspirador ou\n→ próximo, como se fosse uma\ndivertido.\nconversa entre amigas.\"\nAvise em qual tipo de material\nẠPreciso de um roteiro curto\nEstrutura →\no texto deve ser usado:\nlegenda, roteiro, e-mail, artigo\npara Reels, com frases\nou anúncio.\nrápidas e diretasiạ\nInclua informações\n\"Use a frase 'lancheira\nInstruções →\nobrigatórias, como palavras-\nnutritiva' e inclua pelo menos\nchave, dados, links ou\ntrês dicas práticasạ\nexpressões que devem\naparecer.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "Como criar um",
+          "box": [
+            0.30917874205582396,
+            0.8897959186054422,
+            0.36714975845410625,
+            0.04285714285714293
+          ],
+          "start_char": 0,
+          "end_char": 13
+        },
+        {
+          "confidence": 1,
+          "text": "prompt perteito",
+          "box": [
+            0.19267136573813826,
+            0.788558551290593,
+            0.6049954326832353,
+            0.08410738730917167
+          ],
+          "start_char": 14,
+          "end_char": 29
+        },
+        {
+          "confidence": 1,
+          "text": "Contexto →",
+          "box": [
+            0.062480075740104,
+            0.6686324629492468,
+            0.22527029433688106,
+            0.03379758523435017
+          ],
+          "start_char": 30,
+          "end_char": 40
+        },
+        {
+          "confidence": 1,
+          "text": "Comece dizendo quem voce",
+          "box": [
+            0.3234593499529628,
+            0.6838156987489172,
+            0.2588097392648891,
+            0.02242777493535264
+          ],
+          "start_char": 41,
+          "end_char": 65
+        },
+        {
+          "confidence": 1,
+          "text": "\"Sou nutricionista e preciso de",
+          "box": [
+            0.6686721724844844,
+            0.688222060133145,
+            0.268860581992329,
+            0.024426001918559148
+          ],
+          "start_char": 66,
+          "end_char": 97
+        },
+        {
+          "confidence": 1,
+          "text": "→",
+          "box": [
+            0.6231884056763284,
+            0.6775510204866562,
+            0.04106280193236722,
+            0.020408163265306145
+          ],
+          "start_char": 98,
+          "end_char": 99
+        },
+        {
+          "confidence": 1,
+          "text": "é, para quem será o conteúdo",
+          "box": [
+            0.31642512064757305,
+            0.6632653061321672,
+            0.26811594202898553,
+            0.020408163265306145
+          ],
+          "start_char": 100,
+          "end_char": 128
+        },
+        {
+          "confidence": 1,
+          "text": "um texto para postar no",
+          "box": [
+            0.6908212559114044,
+            0.6693877551184403,
+            0.21980676328502413,
+            0.01836734693877551
+          ],
+          "start_char": 129,
+          "end_char": 152
+        },
+        {
+          "confidence": 1,
+          "text": "e onde ele será usado.",
+          "box": [
+            0.3500909827553324,
+            0.644796253250501,
+            0.20568683642696067,
+            0.019335308853460798
+          ],
+          "start_char": 153,
+          "end_char": 175
+        },
+        {
+          "confidence": 1,
+          "text": "Instagram sobre alimentação",
+          "box": [
+            0.6714975866425121,
+            0.6469387757346938,
+            0.2632850241545893,
+            0.022448979591836782
+          ],
+          "start_char": 176,
+          "end_char": 203
+        },
+        {
+          "confidence": 1,
+          "text": "infantil.",
+          "box": [
+            0.7657004829667011,
+            0.6265306122813411,
+            0.0748792270531401,
+            0.020408163265306034
+          ],
+          "start_char": 204,
+          "end_char": 213
+        },
+        {
+          "confidence": 1,
+          "text": "Explique o que voce espera",
+          "box": [
+            0.3281681686069254,
+            0.5491609509001198,
+            0.2469805289005887,
+            0.02448802870147082
+          ],
+          "start_char": 214,
+          "end_char": 240
+        },
+        {
+          "confidence": 1,
+          "text": "\"Quero que o conteúdo ajude",
+          "box": [
+            0.6736759817845337,
+            0.5514126646250903,
+            0.2612761714032307,
+            0.022139171678192793
+          ],
+          "start_char": 241,
+          "end_char": 268
+        },
+        {
+          "confidence": 1,
+          "text": "do texto: atrair clientes,",
+          "box": [
+            0.3499910318762411,
+            0.530453247212416,
+            0.20345334039218183,
+            0.02218329565865662
+          ],
+          "start_char": 269,
+          "end_char": 295
+        },
+        {
+          "confidence": 1,
+          "text": "Objetivo →",
+          "box": [
+            0.07127258273230354,
+            0.5089376576842836,
+            0.21706703665175875,
+            0.04078837024922277
+          ],
+          "start_char": 296,
+          "end_char": 306
+        },
+        {
+          "confidence": 1,
+          "text": "ensinar, motivar, vender ou",
+          "box": [
+            0.32850241532704044,
+            0.5081632653195489,
+            0.2487922705314009,
+            0.020408163265306145
+          ],
+          "start_char": 307,
+          "end_char": 334
+        },
+        {
+          "confidence": 0.3,
+          "text": "→",
+          "box": [
+            0.6256038646269457,
+            0.520408163367347,
+            0.033816425120772986,
+            0.01836734693877551
+          ],
+          "start_char": 335,
+          "end_char": 336
+        },
+        {
+          "confidence": 1,
+          "text": "as mães a perceberem a",
+          "box": [
+            0.6904994987728944,
+            0.5282629442785791,
+            0.2253542176767248,
+            0.023863187128183805
+          ],
+          "start_char": 337,
+          "end_char": 359
+        },
+        {
+          "confidence": 1,
+          "text": "importância de montar",
+          "box": [
+            0.7004830914417792,
+            0.5102040816678395,
+            0.20531400966183566,
+            0.020408163265306145
+          ],
+          "start_char": 360,
+          "end_char": 381
+        },
+        {
+          "confidence": 1,
+          "text": "gerar engajamento.",
+          "box": [
+            0.36231884045368623,
+            0.487755102054126,
+            0.17874396135265702,
+            0.01836734693877551
+          ],
+          "start_char": 382,
+          "end_char": 400
+        },
+        {
+          "confidence": 1,
+          "text": "lancheiras mais saudáveis.\"",
+          "box": [
+            0.6787439631843799,
+            0.4897959185544217,
+            0.2536231884057971,
+            0.022448979591836782
+          ],
+          "start_char": 401,
+          "end_char": 428
+        },
+        {
+          "confidence": 1,
+          "text": "Mostre como o conteúdo",
+          "box": [
+            0.3402941350628817,
+            0.4127825670283054,
+            0.22274697345236077,
+            0.02435379028320317
+          ],
+          "start_char": 429,
+          "end_char": 451
+        },
+        {
+          "confidence": 1,
+          "text": "\"Quero um texto leve e",
+          "box": [
+            0.7028985495974236,
+            0.40408163276643994,
+            0.2028985507246377,
+            0.020408163265306145
+          ],
+          "start_char": 452,
+          "end_char": 474
+        },
+        {
+          "confidence": 1,
+          "text": "Tom de voz →",
+          "box": [
+            0.04306974846719357,
+            0.3771765581096185,
+            0.24472652195732375,
+            0.03415444432472692
+          ],
+          "start_char": 475,
+          "end_char": 487
+        },
+        {
+          "confidence": 1,
+          "text": "deve soar: acolhedor, técnico,",
+          "box": [
+            0.3188405795602199,
+            0.3918367347056063,
+            0.26570048309178745,
+            0.020408163265306145
+          ],
+          "start_char": 488,
+          "end_char": 518
+        },
+        {
+          "confidence": 1,
+          "text": "simples, inspirador ou",
+          "box": [
+            0.3522970062367708,
+            0.36805808075680024,
+            0.19877154585244,
+            0.025774438040597092
+          ],
+          "start_char": 519,
+          "end_char": 541
+        },
+        {
+          "confidence": 1,
+          "text": "→ próximo, como se fosse uma",
+          "box": [
+            0.6256038645701026,
+            0.3816326530726897,
+            0.3067632850241546,
+            0.020408163265306145
+          ],
+          "start_char": 542,
+          "end_char": 570
+        },
+        {
+          "confidence": 1,
+          "text": "divertido.",
+          "box": [
+            0.4057971013207107,
+            0.35102040819289004,
+            0.08937198067632846,
+            0.01836734693877551
+          ],
+          "start_char": 571,
+          "end_char": 581
+        },
+        {
+          "confidence": 1,
+          "text": "conversa entre amigas.\"",
+          "box": [
+            0.6950490738645385,
+            0.3538021537492212,
+            0.2213052943132926,
+            0.03037827160893658
+          ],
+          "start_char": 582,
+          "end_char": 605
+        },
+        {
+          "confidence": 1,
+          "text": "Avise em qual tipo de material",
+          "box": [
+            0.318840579589372,
+            0.2816326530718537,
+            0.26570048309178745,
+            0.020408163265306145
+          ],
+          "start_char": 606,
+          "end_char": 636
+        },
+        {
+          "confidence": 1,
+          "text": "ẠPreciso de um roteiro curto",
+          "box": [
+            0.6811594173007247,
+            0.2734693879846939,
+            0.2439613526570048,
+            0.01836734693877551
+          ],
+          "start_char": 637,
+          "end_char": 665
+        },
+        {
+          "confidence": 1,
+          "text": "Estrutura →",
+          "box": [
+            0.0671800834729886,
+            0.24552370587717587,
+            0.21576946829828086,
+            0.029038001079948583
+          ],
+          "start_char": 666,
+          "end_char": 677
+        },
+        {
+          "confidence": 1,
+          "text": "o texto deve ser usado:",
+          "box": [
+            0.3427577316046973,
+            0.25701752230007413,
+            0.21547868516710073,
+            0.024614198840394397
+          ],
+          "start_char": 678,
+          "end_char": 701
+        },
+        {
+          "confidence": 1,
+          "text": "legenda, roteiro, e-mail, artigo",
+          "box": [
+            0.3164251206725642,
+            0.2367346938921282,
+            0.26570048309178745,
+            0.022448979591836782
+          ],
+          "start_char": 702,
+          "end_char": 734
+        },
+        {
+          "confidence": 1,
+          "text": "para Reels, com frases",
+          "box": [
+            0.6980676327346079,
+            0.24693877553408594,
+            0.21014492753623182,
+            0.022448979591836782
+          ],
+          "start_char": 735,
+          "end_char": 757
+        },
+        {
+          "confidence": 1,
+          "text": "ou anúncio.",
+          "box": [
+            0.39581474269700917,
+            0.2164903362002123,
+            0.11191430759890647,
+            0.023245581802056714
+          ],
+          "start_char": 758,
+          "end_char": 769
+        },
+        {
+          "confidence": 1,
+          "text": "rápidas e diretasiạ",
+          "box": [
+            0.7222222230223431,
+            0.22857142871173475,
+            0.16666666666666663,
+            0.02244897959183667
+          ],
+          "start_char": 770,
+          "end_char": 789
+        },
+        {
+          "confidence": 1,
+          "text": "Inclua informações",
+          "box": [
+            0.3647343008152174,
+            0.15306122477040818,
+            0.1714975845410628,
+            0.022448979591836782
+          ],
+          "start_char": 790,
+          "end_char": 808
+        },
+        {
+          "confidence": 1,
+          "text": "\"Use a frase 'lancheira",
+          "box": [
+            0.7028985505318655,
+            0.14693877552786494,
+            0.20048309178743962,
+            0.01836734693877551
+          ],
+          "start_char": 809,
+          "end_char": 832
+        },
+        {
+          "confidence": 1,
+          "text": "Instruções →",
+          "box": [
+            0.05063760906430074,
+            0.11590192972157831,
+            0.23447357398876248,
+            0.03554308171174969
+          ],
+          "start_char": 833,
+          "end_char": 845
+        },
+        {
+          "confidence": 1,
+          "text": "obrigatórias, como palavras-",
+          "box": [
+            0.326086956057971,
+            0.13061224494285717,
+            0.2560386473429952,
+            0.02244897959183667
+          ],
+          "start_char": 846,
+          "end_char": 874
+        },
+        {
+          "confidence": 1,
+          "text": "nutritiva' e inclua pelo menos",
+          "box": [
+            0.673913042945439,
+            0.12448979597839138,
+            0.25845410628019316,
+            0.020408163265306034
+          ],
+          "start_char": 875,
+          "end_char": 905
+        },
+        {
+          "confidence": 1,
+          "text": "chave, dados, links ou",
+          "box": [
+            0.35024154571997623,
+            0.10816326532581455,
+            0.2028985507246377,
+            0.02244897959183667
+          ],
+          "start_char": 906,
+          "end_char": 928
+        },
+        {
+          "confidence": 1,
+          "text": "três dicas práticasạ",
+          "box": [
+            0.714975846884058,
+            0.1020408165714285,
+            0.1811594202898551,
+            0.02448979591836742
+          ],
+          "start_char": 929,
+          "end_char": 949
+        },
+        {
+          "confidence": 1,
+          "text": "expressões que devem",
+          "box": [
+            0.3454106279246638,
+            0.08979591839492551,
+            0.21014492753623182,
+            0.020408163265306145
+          ],
+          "start_char": 950,
+          "end_char": 970
+        },
+        {
+          "confidence": 1,
+          "text": "aparecer.",
+          "box": [
+            0.40564912057215846,
+            0.06686102228259538,
+            0.0920834011501736,
+            0.021379996319206396
+          ],
+          "start_char": 971,
+          "end_char": 980
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 980
+    },
+    {
+      "text": "Estrutura de prompt em cinco linhas: contexto, objetivo, voz, estrutura e instruções.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 982,
+      "end_char": 1067
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      828,
+      980
+    ],
+    "ocr_rows": 46,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9847826086956522,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

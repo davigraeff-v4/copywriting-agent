@@ -1,0 +1,416 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/e6c531e612beacce04a9f2654b8d8848.jpg",
+  "source_sha256": "00ba2087bfe845962d80af07bb8947cd9ebf11547505f4bbba09e0947bc65314",
+  "text": "23 Types\nof SEO Content\nDifficult\nFree Tool\nInterview\nInfographic\nCase Study\nPress Release\nTemplates Page\nUltimate Guide\nPillar Page\nBest-Of Post\nTrending Content\nTraffic\nFocused\nAlternatives Post\nConversion\nFocused\nComparison Post\nBeginner's Guide\nReview Post\nHow- To Guide\nList Post\nSteps Post\nTips/ Best Practices\nLanding Page\nFAQ Post\nChecklist Post\nProduct Page\nDefinition Post\nEasy\n\nMapa de tipos de conteúdo SEO em eixos de dificuldade e orientação a tráfego ou conversão.",
+  "segments": [
+    {
+      "text": "23 Types\nof SEO Content\nDifficult\nFree Tool\nInterview\nInfographic\nCase Study\nPress Release\nTemplates Page\nUltimate Guide\nPillar Page\nBest-Of Post\nTrending Content\nTraffic\nFocused\nAlternatives Post\nConversion\nFocused\nComparison Post\nBeginner's Guide\nReview Post\nHow- To Guide\nList Post\nSteps Post\nTips/ Best Practices\nLanding Page\nFAQ Post\nChecklist Post\nProduct Page\nDefinition Post\nEasy",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "23 Types",
+          "box": [
+            0.05537018817683879,
+            0.8560723658179838,
+            0.4020313594652259,
+            0.07502918243408208
+          ],
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "text": "of SEO Content",
+          "box": [
+            0.05669268373037323,
+            0.7789292929050146,
+            0.7155080048934273,
+            0.07477807169375217
+          ],
+          "confidence": 1,
+          "start_char": 9,
+          "end_char": 23
+        },
+        {
+          "text": "Difficult",
+          "box": [
+            0.4564900758193392,
+            0.7151187099504034,
+            0.08430245648259704,
+            0.017588667247606327
+          ],
+          "confidence": 1,
+          "start_char": 24,
+          "end_char": 33
+        },
+        {
+          "text": "Free Tool",
+          "box": [
+            0.4864130433423913,
+            0.6586956522003525,
+            0.10597826086956519,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 34,
+          "end_char": 43
+        },
+        {
+          "text": "Interview",
+          "box": [
+            0.36952188621830334,
+            0.621577369869694,
+            0.10063013823136041,
+            0.017714825920436716
+          ],
+          "confidence": 1,
+          "start_char": 44,
+          "end_char": 53
+        },
+        {
+          "text": "Infographic",
+          "box": [
+            0.2010373134881761,
+            0.604156289953677,
+            0.11694711187611456,
+            0.019948289705359334
+          ],
+          "confidence": 1,
+          "start_char": 54,
+          "end_char": 65
+        },
+        {
+          "text": "Case Study",
+          "box": [
+            0.6766007471200571,
+            0.6042428350198131,
+            0.11962459398352576,
+            0.021949113970217593
+          ],
+          "confidence": 1,
+          "start_char": 66,
+          "end_char": 76
+        },
+        {
+          "text": "Press Release",
+          "box": [
+            0.4184782607336956,
+            0.5847826087137682,
+            0.1358695652173913,
+            0.017391304347825987
+          ],
+          "confidence": 1,
+          "start_char": 77,
+          "end_char": 90
+        },
+        {
+          "text": "Templates Page",
+          "box": [
+            0.5815217401041667,
+            0.554347826268116,
+            0.16032608695652162,
+            0.021739130434782594
+          ],
+          "confidence": 1,
+          "start_char": 91,
+          "end_char": 105
+        },
+        {
+          "text": "Ultimate Guide",
+          "box": [
+            0.3967391302989131,
+            0.5282608695816242,
+            0.14402173913043476,
+            0.01739130434782621
+          ],
+          "confidence": 1,
+          "start_char": 106,
+          "end_char": 120
+        },
+        {
+          "text": "Pillar Page",
+          "box": [
+            0.22272779098718107,
+            0.4953146447586715,
+            0.1034574612327244,
+            0.020240275756172488
+          ],
+          "confidence": 1,
+          "start_char": 121,
+          "end_char": 132
+        },
+        {
+          "text": "Best-Of Post",
+          "box": [
+            0.6277173904309007,
+            0.47391304361801245,
+            0.13858695652173914,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 133,
+          "end_char": 145
+        },
+        {
+          "text": "Trending Content",
+          "box": [
+            0.2038043476057579,
+            0.4456521739424206,
+            0.16847826086956522,
+            0.021739130434782594
+          ],
+          "confidence": 1,
+          "start_char": 146,
+          "end_char": 162
+        },
+        {
+          "text": "Traffic",
+          "box": [
+            0.048733625829463105,
+            0.4278013687635003,
+            0.06829361811928128,
+            0.018310306383215846
+          ],
+          "confidence": 1,
+          "start_char": 163,
+          "end_char": 170
+        },
+        {
+          "text": "Focused",
+          "box": [
+            0.05163043394021742,
+            0.4108695654130434,
+            0.08967391304347826,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 171,
+          "end_char": 178
+        },
+        {
+          "text": "Alternatives Post",
+          "box": [
+            0.6249999997282609,
+            0.415217391548913,
+            0.16304347826086962,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 179,
+          "end_char": 196
+        },
+        {
+          "text": "Conversion",
+          "box": [
+            0.8450295923454776,
+            0.42578000299770213,
+            0.11700603236322815,
+            0.02017912450044057
+          ],
+          "confidence": 1,
+          "start_char": 197,
+          "end_char": 207
+        },
+        {
+          "text": "Focused",
+          "box": [
+            0.8477451065807466,
+            0.41062929032245654,
+            0.0898358718208645,
+            0.02004576765972632
+          ],
+          "confidence": 1,
+          "start_char": 208,
+          "end_char": 215
+        },
+        {
+          "text": "Comparison Post",
+          "box": [
+            0.6032608693946576,
+            0.3673913043686402,
+            0.1657608695652174,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 216,
+          "end_char": 231
+        },
+        {
+          "text": "Beginner's Guide",
+          "box": [
+            0.2173913042119565,
+            0.33913043479891314,
+            0.16847826086956522,
+            0.019565217391304346
+          ],
+          "confidence": 1,
+          "start_char": 232,
+          "end_char": 248
+        },
+        {
+          "text": "Review Post",
+          "box": [
+            0.630434782472826,
+            0.33260869567239637,
+            0.11684782608695643,
+            0.017391304347826098
+          ],
+          "confidence": 1,
+          "start_char": 249,
+          "end_char": 260
+        },
+        {
+          "text": "How- To Guide",
+          "box": [
+            0.4972573467560816,
+            0.29119143180807283,
+            0.13592008922411047,
+            0.01979104954263433
+          ],
+          "confidence": 1,
+          "start_char": 261,
+          "end_char": 274
+        },
+        {
+          "text": "List Post",
+          "box": [
+            0.20377321068504528,
+            0.27164839458940293,
+            0.07886662172234576,
+            0.01757277613100794
+          ],
+          "confidence": 1,
+          "start_char": 275,
+          "end_char": 284
+        },
+        {
+          "text": "Steps Post",
+          "box": [
+            0.4266304346431636,
+            0.25434782610983986,
+            0.10597826086956524,
+            0.017391304347826098
+          ],
+          "confidence": 1,
+          "start_char": 285,
+          "end_char": 295
+        },
+        {
+          "text": "Tips/ Best Practices",
+          "box": [
+            0.304347825949059,
+            0.22826086957819602,
+            0.18478260869565216,
+            0.017391304347826098
+          ],
+          "confidence": 1,
+          "start_char": 296,
+          "end_char": 316
+        },
+        {
+          "text": "Landing Page",
+          "box": [
+            0.684750271738527,
+            0.21507554056371836,
+            0.1332168475441311,
+            0.01984891787819243
+          ],
+          "confidence": 1,
+          "start_char": 317,
+          "end_char": 329
+        },
+        {
+          "text": "FAQ Post",
+          "box": [
+            0.20644116901106202,
+            0.19753127620279398,
+            0.09798722681791888,
+            0.017980925933174463
+          ],
+          "confidence": 1,
+          "start_char": 330,
+          "end_char": 338
+        },
+        {
+          "text": "Checklist Post",
+          "box": [
+            0.3722826085214604,
+            0.1847826087179486,
+            0.14130434782608697,
+            0.017391304347826098
+          ],
+          "confidence": 1,
+          "start_char": 339,
+          "end_char": 353
+        },
+        {
+          "text": "Product Page",
+          "box": [
+            0.684715649170945,
+            0.18448664212163846,
+            0.13328609259232227,
+            0.02015715060026746
+          ],
+          "confidence": 1,
+          "start_char": 354,
+          "end_char": 366
+        },
+        {
+          "text": "Definition Post",
+          "box": [
+            0.18206521722146737,
+            0.15869565219021742,
+            0.13586956521739132,
+            0.013043478260869601
+          ],
+          "confidence": 1,
+          "start_char": 367,
+          "end_char": 382
+        },
+        {
+          "text": "Easy",
+          "box": [
+            0.4682721151520099,
+            0.12433283407894302,
+            0.057290103124535585,
+            0.022578710058461127
+          ],
+          "confidence": 1,
+          "start_char": 383,
+          "end_char": 387
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 387
+    },
+    {
+      "text": "Mapa de tipos de conteúdo SEO em eixos de dificuldade e orientação a tráfego ou conversão.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 389,
+      "end_char": 479
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      919
+    ],
+    "ocr_rows": 31,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

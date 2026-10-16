@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ee9c05ec19b510af4c55b2f3ae406649.jpg",
+  "source_sha256": "d5e53eff91ffa8615c4b585f276d8809d58a55b63f93a637e4bda9ec9a33ef70",
+  "text": "C-A-R-E\nDar [CONTEXTO]\nDescrever [AÇÃO]\nDefinir [RESULTADO]\nFornecer [EXEMPLO]\nPrompt de Exemplo:\nEstamos lançando uma nova linha de roupas\nsustentáveis. Precisamos de uma campanha\npublicitária segmentada que destaque nosso\ncompromisso ambiental.\nO objetivo é aumentar a conscientização\nsobre nossos produtos sustentáveis e\nimpulsionar as vendas. Crie uma estratégia\nsemelhante à da Patagonia com sua\ncampanha bem-sucedida \"Não Compre Esta\nJaqueta\", que enfatizou a sustentabilidade e\nfortaleceu a imagem da marca?\n\nExemplo do framework CARE com contexto, ação, resultado e referência.",
+  "segments": [
+    {
+      "text": "C-A-R-E\nDar [CONTEXTO]\nDescrever [AÇÃO]\nDefinir [RESULTADO]\nFornecer [EXEMPLO]\nPrompt de Exemplo:\nEstamos lançando uma nova linha de roupas\nsustentáveis. Precisamos de uma campanha\npublicitária segmentada que destaque nosso\ncompromisso ambiental.\nO objetivo é aumentar a conscientização\nsobre nossos produtos sustentáveis e\nimpulsionar as vendas. Crie uma estratégia\nsemelhante à da Patagonia com sua\ncampanha bem-sucedida \"Não Compre Esta\nJaqueta\", que enfatizou a sustentabilidade e\nfortaleceu a imagem da marca?",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "C-A-R-E",
+          "box": [
+            0.3239752873220721,
+            0.8465548851547644,
+            0.3520494249131944,
+            0.05726170079314874
+          ],
+          "start_char": 0,
+          "end_char": 7
+        },
+        {
+          "confidence": 1,
+          "text": "Dar [CONTEXTO]",
+          "box": [
+            0.10370370240740744,
+            0.7667161964020378,
+            0.37037037037037035,
+            0.03714710252600295
+          ],
+          "start_char": 8,
+          "end_char": 22
+        },
+        {
+          "confidence": 1,
+          "text": "Descrever [AÇÃO]",
+          "box": [
+            0.10307622843297305,
+            0.7123644251095202,
+            0.41250825104890054,
+            0.04676312677573302
+          ],
+          "start_char": 23,
+          "end_char": 39
+        },
+        {
+          "confidence": 1,
+          "text": "Definir [RESULTADO]",
+          "box": [
+            0.09326424412953055,
+            0.6625000004965746,
+            0.4611399050112123,
+            0.041809063609606456
+          ],
+          "start_char": 40,
+          "end_char": 59
+        },
+        {
+          "confidence": 1,
+          "text": "Fornecer [EXEMPLO]",
+          "box": [
+            0.10185185184383193,
+            0.6196136701471844,
+            0.4574074074074074,
+            0.034175334323922724
+          ],
+          "start_char": 60,
+          "end_char": 78
+        },
+        {
+          "confidence": 1,
+          "text": "Prompt de Exemplo:",
+          "box": [
+            0.10185185181554102,
+            0.5482912332990997,
+            0.3814814814814815,
+            0.031203566121842607
+          ],
+          "start_char": 79,
+          "end_char": 97
+        },
+        {
+          "confidence": 1,
+          "text": "Estamos lançando uma nova linha de roupas",
+          "box": [
+            0.10360968485459703,
+            0.49414878047683886,
+            0.7724035192418982,
+            0.032504794501974854
+          ],
+          "start_char": 98,
+          "end_char": 139
+        },
+        {
+          "confidence": 1,
+          "text": "sustentáveis. Precisamos de uma campanha",
+          "box": [
+            0.1018518517998336,
+            0.45468053492384153,
+            0.762962962962963,
+            0.029717682020802383
+          ],
+          "start_char": 140,
+          "end_char": 180
+        },
+        {
+          "confidence": 1,
+          "text": "publicitária segmentada que destaque nosso",
+          "box": [
+            0.10370370357142854,
+            0.4145616641962171,
+            0.7814814814814814,
+            0.031203566121842496
+          ],
+          "start_char": 181,
+          "end_char": 223
+        },
+        {
+          "confidence": 1,
+          "text": "compromisso ambiental.",
+          "box": [
+            0.10153060950335725,
+            0.37322580582751685,
+            0.42276065967701093,
+            0.03267322500605818
+          ],
+          "start_char": 224,
+          "end_char": 246
+        },
+        {
+          "confidence": 1,
+          "text": "O objetivo é aumentar a conscientização",
+          "box": [
+            0.10361529277206748,
+            0.3341711275886978,
+            0.7186850088614005,
+            0.030405517850198516
+          ],
+          "start_char": 247,
+          "end_char": 286
+        },
+        {
+          "confidence": 1,
+          "text": "sobre nossos produtos sustentáveis e",
+          "box": [
+            0.10185185174746839,
+            0.2942050520115086,
+            0.6425925925925926,
+            0.029717682020802383
+          ],
+          "start_char": 287,
+          "end_char": 323
+        },
+        {
+          "confidence": 1,
+          "text": "impulsionar as vendas. Crie uma estratégia",
+          "box": [
+            0.09814814738095232,
+            0.254086181479516,
+            0.762962962962963,
+            0.02823179791976227
+          ],
+          "start_char": 324,
+          "end_char": 366
+        },
+        {
+          "confidence": 1,
+          "text": "semelhante à da Patagonia com sua",
+          "box": [
+            0.10148620808239983,
+            0.20998020213733204,
+            0.6340714066116898,
+            0.03796195133657021
+          ],
+          "start_char": 367,
+          "end_char": 400
+        },
+        {
+          "confidence": 1,
+          "text": "campanha bem-sucedida \"Não Compre Esta",
+          "box": [
+            0.10370370436111111,
+            0.1753343240936106,
+            0.7685185185185185,
+            0.034175334323922724
+          ],
+          "start_char": 401,
+          "end_char": 439
+        },
+        {
+          "confidence": 1,
+          "text": "Jaqueta\", que enfatizou a sustentabilidade e",
+          "box": [
+            0.09999999642857137,
+            0.13224368526852048,
+            0.7851851851851852,
+            0.038632986627043064
+          ],
+          "start_char": 440,
+          "end_char": 484
+        },
+        {
+          "confidence": 1,
+          "text": "fortaleceu a imagem da marca?",
+          "box": [
+            0.09814236560131138,
+            0.08920004481182486,
+            0.5705815067997685,
+            0.04020853311841943
+          ],
+          "start_char": 485,
+          "end_char": 514
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 514
+    },
+    {
+      "text": "Exemplo do framework CARE com contexto, ação, resultado e referência.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 516,
+      "end_char": 585
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1346
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

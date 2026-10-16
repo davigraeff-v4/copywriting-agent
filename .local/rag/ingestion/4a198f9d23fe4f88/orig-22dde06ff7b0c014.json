@@ -1,0 +1,764 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/0a638ebe89438fd6d187f798096b0352.jpg",
+  "source_sha256": "22dde06ff7b0c0148034a09f856d95f3bc5a22123a5d379814a9e1a50704e346",
+  "text": "Website Proposal - Buyer Behavior Model\nHow did the concept come up?\n• Compelling Event\n• Word of Mouth\nWhat is important from the\n• Prior relationship\nexperience?\n• Under budget\n• Customer support\nEXPERIENCE\n6\nTRIGGER\n• Sales call\n• Training & education\nẠạiAd/PR\n• Implementation / planning\n• DC program\n• Ongoing account mgmt\n• Direct communications\nHow would you even\nWhat's the buying\nconsider?\nprocess?\n• ROI\n• SOW\nBUY\n5\nCONSIDER\n• Price\n•Contracts\nBudget\n•Signatures\nKey objective\n•Negotiation\nMarket adoption\n•Procurement\nCompetitiveness\nExisting vendor\nrelationship\nWhat is the basis for\nselection?\nWhat would you look for?\n• Cost\n• Ease of use\n• Risk\nCHOOSE\nSEARCH\n• Functionality\n• Vision\n• Analyst reports\n• Technology\nPerceived value\n• Relationship\nSuccess stories\nFinancial viability\n• Domain expertise\nPrior experiences\nCustomer support\nCustomer support\n• Total cost of deployment\n\nDiagrama de decisão de compra de website com ciclo entre gatilho, consideração, busca, escolha, compra e experiência.",
+  "segments": [
+    {
+      "text": "Website Proposal - Buyer Behavior Model\nHow did the concept come up?\n• Compelling Event\n• Word of Mouth\nWhat is important from the\n• Prior relationship\nexperience?\n• Under budget\n• Customer support\nEXPERIENCE\n6\nTRIGGER\n• Sales call\n• Training & education\nẠạiAd/PR\n• Implementation / planning\n• DC program\n• Ongoing account mgmt\n• Direct communications\nHow would you even\nWhat's the buying\nconsider?\nprocess?\n• ROI\n• SOW\nBUY\n5\nCONSIDER\n• Price\n•Contracts\nBudget\n•Signatures\nKey objective\n•Negotiation\nMarket adoption\n•Procurement\nCompetitiveness\nExisting vendor\nrelationship\nWhat is the basis for\nselection?\nWhat would you look for?\n• Cost\n• Ease of use\n• Risk\nCHOOSE\nSEARCH\n• Functionality\n• Vision\n• Analyst reports\n• Technology\nPerceived value\n• Relationship\nSuccess stories\nFinancial viability\n• Domain expertise\nPrior experiences\nCustomer support\nCustomer support\n• Total cost of deployment",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "Website Proposal - Buyer Behavior Model",
+          "box": [
+            0.06032304190052713,
+            0.8755193594579592,
+            0.8835519790649413,
+            0.06740625699361169
+          ],
+          "start_char": 0,
+          "end_char": 39
+        },
+        {
+          "confidence": 1,
+          "text": "How did the concept come up?",
+          "box": [
+            0.7229166665635522,
+            0.8222222222306397,
+            0.20833333333333337,
+            0.01666666666666672
+          ],
+          "start_char": 40,
+          "end_char": 68
+        },
+        {
+          "confidence": 1,
+          "text": "• Compelling Event",
+          "box": [
+            0.7229166665642655,
+            0.7972222222387005,
+            0.125,
+            0.019444444444444486
+          ],
+          "start_char": 69,
+          "end_char": 87
+        },
+        {
+          "confidence": 1,
+          "text": "• Word of Mouth",
+          "box": [
+            0.7229166665694445,
+            0.7777777777962963,
+            0.10833333333333328,
+            0.01666666666666672
+          ],
+          "start_char": 88,
+          "end_char": 103
+        },
+        {
+          "confidence": 1,
+          "text": "What is important from the",
+          "box": [
+            0.0999999998894817,
+            0.7555555555674119,
+            0.18124999999999997,
+            0.019444444444444375
+          ],
+          "start_char": 104,
+          "end_char": 130
+        },
+        {
+          "confidence": 1,
+          "text": "• Prior relationship",
+          "box": [
+            0.7229166665624999,
+            0.7527777777989131,
+            0.12083333333333335,
+            0.019444444444444375
+          ],
+          "start_char": 131,
+          "end_char": 151
+        },
+        {
+          "confidence": 1,
+          "text": "experience?",
+          "box": [
+            0.09982897830163259,
+            0.7330612790606943,
+            0.0858283837636312,
+            0.019515016343858438
+          ],
+          "start_char": 152,
+          "end_char": 163
+        },
+        {
+          "confidence": 1,
+          "text": "• Under budget",
+          "box": [
+            0.7229166665490591,
+            0.7305555555869176,
+            0.1020833333333333,
+            0.019444444444444375
+          ],
+          "start_char": 164,
+          "end_char": 178
+        },
+        {
+          "confidence": 1,
+          "text": "• Customer support",
+          "box": [
+            0.09999999989759886,
+            0.7111111111275894,
+            0.125,
+            0.019444444444444486
+          ],
+          "start_char": 179,
+          "end_char": 197
+        },
+        {
+          "confidence": 1,
+          "text": "EXPERIENCE",
+          "box": [
+            0.28124999989779875,
+            0.7111111111320754,
+            0.11249999999999999,
+            0.022222222222222365
+          ],
+          "start_char": 198,
+          "end_char": 208
+        },
+        {
+          "confidence": 0.5,
+          "text": "6",
+          "box": [
+            0.418749999875,
+            0.7138888891388888,
+            0.016666666666666663,
+            0.025000000000000133
+          ],
+          "start_char": 209,
+          "end_char": 210
+        },
+        {
+          "confidence": 1,
+          "text": "TRIGGER",
+          "box": [
+            0.6187239725371682,
+            0.7137140592243842,
+            0.08338538805643714,
+            0.022571881612142075
+          ],
+          "start_char": 211,
+          "end_char": 218
+        },
+        {
+          "confidence": 1,
+          "text": "• Sales call",
+          "box": [
+            0.7229166665840517,
+            0.7111111111398467,
+            0.07708333333333339,
+            0.01666666666666672
+          ],
+          "start_char": 219,
+          "end_char": 231
+        },
+        {
+          "confidence": 1,
+          "text": "• Training & education",
+          "box": [
+            0.0999999998461174,
+            0.6888888889109849,
+            0.13958333333333334,
+            0.019444444444444486
+          ],
+          "start_char": 232,
+          "end_char": 254
+        },
+        {
+          "confidence": 0.5,
+          "text": "ẠạiAd/PR",
+          "box": [
+            0.7291666665789474,
+            0.6888888889327486,
+            0.04999999999999993,
+            0.01666666666666672
+          ],
+          "start_char": 255,
+          "end_char": 263
+        },
+        {
+          "confidence": 1,
+          "text": "• Implementation / planning",
+          "box": [
+            0.09999999988771645,
+            0.6638888889015151,
+            0.17291666666666666,
+            0.019444444444444486
+          ],
+          "start_char": 264,
+          "end_char": 291
+        },
+        {
+          "confidence": 1,
+          "text": "• DC program",
+          "box": [
+            0.7229166663541666,
+            0.6638888889772727,
+            0.09375,
+            0.019444444444444486
+          ],
+          "start_char": 292,
+          "end_char": 304
+        },
+        {
+          "confidence": 1,
+          "text": "• Ongoing account mgmt",
+          "box": [
+            0.09978578591604578,
+            0.6390591127015393,
+            0.15870532989501954,
+            0.025249918301900154
+          ],
+          "start_char": 305,
+          "end_char": 327
+        },
+        {
+          "confidence": 1,
+          "text": "• Direct communications",
+          "box": [
+            0.09980845740264996,
+            0.6195780845195751,
+            0.1524401823679606,
+            0.02252868943744235
+          ],
+          "start_char": 328,
+          "end_char": 351
+        },
+        {
+          "confidence": 1,
+          "text": "How would you even",
+          "box": [
+            0.7809062512792079,
+            0.5532446666390415,
+            0.1423638025919597,
+            0.027306607034471297
+          ],
+          "start_char": 352,
+          "end_char": 370
+        },
+        {
+          "confidence": 1,
+          "text": "What's the buying",
+          "box": [
+            0.05173984490982163,
+            0.5267217508424821,
+            0.12782578468322753,
+            0.030218760172526005
+          ],
+          "start_char": 371,
+          "end_char": 388
+        },
+        {
+          "confidence": 1,
+          "text": "consider?",
+          "box": [
+            0.7791053017045773,
+            0.5329697146097485,
+            0.07303939660390213,
+            0.02294945981767449
+          ],
+          "start_char": 389,
+          "end_char": 398
+        },
+        {
+          "confidence": 1,
+          "text": "process?",
+          "box": [
+            0.052051437474808566,
+            0.5081619689298853,
+            0.06673045953114828,
+            0.022564951578776027
+          ],
+          "start_char": 399,
+          "end_char": 407
+        },
+        {
+          "confidence": 1,
+          "text": "• ROI",
+          "box": [
+            0.7812499999305555,
+            0.5138888889969135,
+            0.04166666666666674,
+            0.019444444444444486
+          ],
+          "start_char": 408,
+          "end_char": 413
+        },
+        {
+          "confidence": 1,
+          "text": "• SOW",
+          "box": [
+            0.0499999999264706,
+            0.48611111117647066,
+            0.05,
+            0.022222222222222143
+          ],
+          "start_char": 414,
+          "end_char": 419
+        },
+        {
+          "confidence": 1,
+          "text": "BUY",
+          "box": [
+            0.22911110530872555,
+            0.4831678326350557,
+            0.04177778959274295,
+            0.02533100181155734
+          ],
+          "start_char": 420,
+          "end_char": 423
+        },
+        {
+          "confidence": 1,
+          "text": "5",
+          "box": [
+            0.33124999991071424,
+            0.4833333335119048,
+            0.016666666666666663,
+            0.02499999999999991
+          ],
+          "start_char": 424,
+          "end_char": 425
+        },
+        {
+          "confidence": 1,
+          "text": "CONSIDER",
+          "box": [
+            0.6854166657916667,
+            0.4833333335833334,
+            0.09166666666666667,
+            0.02499999999999991
+          ],
+          "start_char": 426,
+          "end_char": 434
+        },
+        {
+          "confidence": 1,
+          "text": "• Price",
+          "box": [
+            0.781249999765625,
+            0.49166666690972216,
+            0.04791666666666661,
+            0.019444444444444486
+          ],
+          "start_char": 435,
+          "end_char": 442
+        },
+        {
+          "confidence": 1,
+          "text": "•Contracts",
+          "box": [
+            0.04998278959007882,
+            0.46378806984285037,
+            0.07295108636220296,
+            0.02242386076185432
+          ],
+          "start_char": 443,
+          "end_char": 453
+        },
+        {
+          "confidence": 1,
+          "text": "Budget",
+          "box": [
+            0.7916666665581596,
+            0.4638888889351852,
+            0.05208333333333337,
+            0.022222222222222143
+          ],
+          "start_char": 454,
+          "end_char": 460
+        },
+        {
+          "confidence": 1,
+          "text": "•Signatures",
+          "box": [
+            0.04979620407086651,
+            0.43790307876528145,
+            0.07952383359273274,
+            0.025089099672105597
+          ],
+          "start_char": 461,
+          "end_char": 472
+        },
+        {
+          "confidence": 1,
+          "text": "Key objective",
+          "box": [
+            0.7916666665487938,
+            0.4416666666959065,
+            0.08958333333333335,
+            0.022222222222222143
+          ],
+          "start_char": 473,
+          "end_char": 486
+        },
+        {
+          "confidence": 1,
+          "text": "•Negotiation",
+          "box": [
+            0.051998992784659255,
+            0.4194555927872212,
+            0.08151519298553467,
+            0.02176062928305733
+          ],
+          "start_char": 487,
+          "end_char": 499
+        },
+        {
+          "confidence": 1,
+          "text": "Market adoption",
+          "box": [
+            0.7895833332122092,
+            0.4194444444702842,
+            0.10833333333333339,
+            0.022222222222222254
+          ],
+          "start_char": 500,
+          "end_char": 515
+        },
+        {
+          "confidence": 1,
+          "text": "•Procurement",
+          "box": [
+            0.05180295067528053,
+            0.3973060535244365,
+            0.09224272569020589,
+            0.02276826169755719
+          ],
+          "start_char": 516,
+          "end_char": 528
+        },
+        {
+          "confidence": 1,
+          "text": "Competitiveness",
+          "box": [
+            0.7892823134834952,
+            0.3966014091269042,
+            0.11316917737325027,
+            0.02623873816596134
+          ],
+          "start_char": 529,
+          "end_char": 544
+        },
+        {
+          "confidence": 1,
+          "text": "Existing vendor",
+          "box": [
+            0.7934351687779817,
+            0.37562109114900144,
+            0.10065054893493652,
+            0.024760131041208888
+          ],
+          "start_char": 545,
+          "end_char": 560
+        },
+        {
+          "confidence": 1,
+          "text": "relationship",
+          "box": [
+            0.7895208039872511,
+            0.35237476565021886,
+            0.07929172515869143,
+            0.023028246561686228
+          ],
+          "start_char": 561,
+          "end_char": 573
+        },
+        {
+          "confidence": 1,
+          "text": "What is the basis for",
+          "box": [
+            0.1624999998832615,
+            0.30277777779214554,
+            0.1395833333333333,
+            0.01666666666666672
+          ],
+          "start_char": 574,
+          "end_char": 595
+        },
+        {
+          "confidence": 1,
+          "text": "selection?",
+          "box": [
+            0.16041666667317708,
+            0.280555555607639,
+            0.07291666666666666,
+            0.016666666666666607
+          ],
+          "start_char": 596,
+          "end_char": 606
+        },
+        {
+          "confidence": 1,
+          "text": "What would you look for?",
+          "box": [
+            0.7249999998958333,
+            0.2750000000118563,
+            0.17083333333333328,
+            0.019444444444444375
+          ],
+          "start_char": 607,
+          "end_char": 631
+        },
+        {
+          "confidence": 1,
+          "text": "• Cost",
+          "box": [
+            0.16041666642361113,
+            0.258333333611111,
+            0.04791666666666666,
+            0.01666666666666672
+          ],
+          "start_char": 632,
+          "end_char": 638
+        },
+        {
+          "confidence": 1,
+          "text": "• Ease of use",
+          "box": [
+            0.7229166665388258,
+            0.25277777782196975,
+            0.08958333333333335,
+            0.019444444444444486
+          ],
+          "start_char": 639,
+          "end_char": 652
+        },
+        {
+          "confidence": 1,
+          "text": "• Risk",
+          "box": [
+            0.16041666661057694,
+            0.233333333397436,
+            0.04374999999999998,
+            0.016666666666666607
+          ],
+          "start_char": 653,
+          "end_char": 659
+        },
+        {
+          "confidence": 1,
+          "text": "CHOOSE",
+          "box": [
+            0.3229166665654762,
+            0.2361111111428572,
+            0.07500000000000001,
+            0.022222222222222254
+          ],
+          "start_char": 660,
+          "end_char": 666
+        },
+        {
+          "confidence": 1,
+          "text": "SEARCH",
+          "box": [
+            0.6186363855019031,
+            0.23538799156792756,
+            0.07731056213378906,
+            0.02366846137576628
+          ],
+          "start_char": 667,
+          "end_char": 673
+        },
+        {
+          "confidence": 1,
+          "text": "• Functionality",
+          "box": [
+            0.7227906066571436,
+            0.2290222931667245,
+            0.09407665729522707,
+            0.02023522588941784
+          ],
+          "start_char": 674,
+          "end_char": 689
+        },
+        {
+          "confidence": 1,
+          "text": "• Vision",
+          "box": [
+            0.1604166665416667,
+            0.21111111119444448,
+            0.05416666666666667,
+            0.01666666666666672
+          ],
+          "start_char": 690,
+          "end_char": 698
+        },
+        {
+          "confidence": 1,
+          "text": "• Analyst reports",
+          "box": [
+            0.7229166665767046,
+            0.20833333335227266,
+            0.10833333333333328,
+            0.016666666666666607
+          ],
+          "start_char": 699,
+          "end_char": 716
+        },
+        {
+          "confidence": 1,
+          "text": "• Technology",
+          "box": [
+            0.16023360991054414,
+            0.18670772298963179,
+            0.083701753616333,
+            0.02112149000167851
+          ],
+          "start_char": 717,
+          "end_char": 729
+        },
+        {
+          "confidence": 1,
+          "text": "Perceived value",
+          "box": [
+            0.7330821866431645,
+            0.18312686355038654,
+            0.104724915822347,
+            0.02284162839253745
+          ],
+          "start_char": 730,
+          "end_char": 745
+        },
+        {
+          "confidence": 1,
+          "text": "• Relationship",
+          "box": [
+            0.16041666659722217,
+            0.16666666699074084,
+            0.0916666666666667,
+            0.019444444444444375
+          ],
+          "start_char": 746,
+          "end_char": 760
+        },
+        {
+          "confidence": 1,
+          "text": "Success stories",
+          "box": [
+            0.7351486487205012,
+            0.16201951977693307,
+            0.10254391829172771,
+            0.021635135014851925
+          ],
+          "start_char": 761,
+          "end_char": 776
+        },
+        {
+          "confidence": 1,
+          "text": "Financial viability",
+          "box": [
+            0.17083333323133681,
+            0.14444444446469906,
+            0.11041666666666666,
+            0.019444444444444375
+          ],
+          "start_char": 777,
+          "end_char": 796
+        },
+        {
+          "confidence": 1,
+          "text": "• Domain expertise",
+          "box": [
+            0.7229166665566038,
+            0.14166666668238992,
+            0.12083333333333335,
+            0.016666666666666607
+          ],
+          "start_char": 797,
+          "end_char": 815
+        },
+        {
+          "confidence": 1,
+          "text": "Prior experiences",
+          "box": [
+            0.17291666655416668,
+            0.11944444446388902,
+            0.11250000000000002,
+            0.019444444444444375
+          ],
+          "start_char": 816,
+          "end_char": 833
+        },
+        {
+          "confidence": 1,
+          "text": "Customer support",
+          "box": [
+            0.7354166653385418,
+            0.11944444468749993,
+            0.11458333333333326,
+            0.019444444444444486
+          ],
+          "start_char": 834,
+          "end_char": 850
+        },
+        {
+          "confidence": 1,
+          "text": "Customer support",
+          "box": [
+            0.17477009122709272,
+            0.09833399924920705,
+            0.11297980944315592,
+            0.02133146855566237
+          ],
+          "start_char": 851,
+          "end_char": 867
+        },
+        {
+          "confidence": 1,
+          "text": "• Total cost of deployment",
+          "box": [
+            0.7249999998085586,
+            0.09722222224849841,
+            0.16666666666666674,
+            0.019444444444444486
+          ],
+          "start_char": 868,
+          "end_char": 894
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 894
+    },
+    {
+      "text": "Diagrama de decisão de compra de website com ciclo entre gatilho, consideração, busca, escolha, compra e experiência.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 896,
+      "end_char": 1013
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      960,
+      720
+    ],
+    "ocr_rows": 60,
+    "low_confidence_rows": 2,
+    "ocr_mean_confidence": 0.9833333333333333,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

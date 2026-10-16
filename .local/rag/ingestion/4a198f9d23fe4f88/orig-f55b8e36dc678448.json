@@ -1,0 +1,272 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4d171a658887081958bc451f44a846c3.jpg",
+  "source_sha256": "f55b8e36dc678448ab0bd80121d5186c234101df5733a16f6e592d24e31ea01b",
+  "text": "< Marketing Solved\n15 Short Email Subject\nLines That Get Opened\nYou're Missing Out on This\nUh-oh, Your [Product] Is Expiring\nI Have a Question\n[First Name], Quick Favor?\nWow, This Actually Works\nYou Won't Believe This\nI Was Wrong About [Topic]\nThis Changes Everything\nDon't Open This Email\nSeriously? [Unexpected Fact]\nYour [Benefit] Is Waiting\nThis Is Embarrassing\nI Have Good News and Bad News\nYou're Not Going to Like This\nOops, We Made a Mistake\nMARKETING SOLVED.\n\nLista de quinze assuntos curtos de e-mail, com marcadores e título dominante.",
+  "segments": [
+    {
+      "text": "< Marketing Solved\n15 Short Email Subject\nLines That Get Opened\nYou're Missing Out on This\nUh-oh, Your [Product] Is Expiring\nI Have a Question\n[First Name], Quick Favor?\nWow, This Actually Works\nYou Won't Believe This\nI Was Wrong About [Topic]\nThis Changes Everything\nDon't Open This Email\nSeriously? [Unexpected Fact]\nYour [Benefit] Is Waiting\nThis Is Embarrassing\nI Have Good News and Bad News\nYou're Not Going to Like This\nOops, We Made a Mistake\nMARKETING SOLVED.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.033898304915254265,
+            0.9389830508601696,
+            0.3502824858757062,
+            0.025423728813559254
+          ],
+          "text": "< Marketing Solved",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 18
+        },
+        {
+          "box": [
+            0.08088489548689448,
+            0.862456705503196,
+            0.8467870162705244,
+            0.05866364947820114
+          ],
+          "text": "15 Short Email Subject",
+          "confidence": 1,
+          "start_char": 19,
+          "end_char": 41
+        },
+        {
+          "box": [
+            0.08192090388491641,
+            0.8152542373009357,
+            0.8389830508474576,
+            0.04915254237288136
+          ],
+          "text": "Lines That Get Opened",
+          "confidence": 1,
+          "start_char": 42,
+          "end_char": 63
+        },
+        {
+          "box": [
+            0.1325009293201582,
+            0.7550015760096578,
+            0.4439880888340836,
+            0.028144587500620762
+          ],
+          "text": "You're Missing Out on This",
+          "confidence": 1,
+          "start_char": 64,
+          "end_char": 90
+        },
+        {
+          "box": [
+            0.1299435027012712,
+            0.7084745762953994,
+            0.5338983050847458,
+            0.027118644067796627
+          ],
+          "text": "Uh-oh, Your [Product] Is Expiring",
+          "confidence": 1,
+          "start_char": 91,
+          "end_char": 124
+        },
+        {
+          "box": [
+            0.12711864411487758,
+            0.6627118646045198,
+            0.2994350282485876,
+            0.023728813559322104
+          ],
+          "text": "I Have a Question",
+          "confidence": 1,
+          "start_char": 125,
+          "end_char": 142
+        },
+        {
+          "box": [
+            0.12711864377370172,
+            0.6118644067982355,
+            0.44067796610169496,
+            0.027118644067796516
+          ],
+          "text": "[First Name], Quick Favor?",
+          "confidence": 1,
+          "start_char": 143,
+          "end_char": 169
+        },
+        {
+          "box": [
+            0.12994350267665314,
+            0.5627118644163285,
+            0.43220338983050854,
+            0.027118644067796627
+          ],
+          "text": "Wow, This Actually Works",
+          "confidence": 1,
+          "start_char": 170,
+          "end_char": 194
+        },
+        {
+          "box": [
+            0.1327683614291007,
+            0.5203389830598777,
+            0.3785310734463277,
+            0.02203389830508473
+          ],
+          "text": "You Won't Believe This",
+          "confidence": 1,
+          "start_char": 195,
+          "end_char": 217
+        },
+        {
+          "box": [
+            0.12958644211650455,
+            0.466210582921946,
+            0.44714721852103195,
+            0.03037732011180816
+          ],
+          "text": "I Was Wrong About [Topic]",
+          "confidence": 1,
+          "start_char": 218,
+          "end_char": 243
+        },
+        {
+          "box": [
+            0.13276836228813563,
+            0.4203389833220339,
+            0.40960451977401136,
+            0.027118644067796627
+          ],
+          "text": "This Changes Everything",
+          "confidence": 1,
+          "start_char": 244,
+          "end_char": 267
+        },
+        {
+          "box": [
+            0.13276836144067802,
+            0.3728813559422922,
+            0.36723163841807904,
+            0.025423728813559365
+          ],
+          "text": "Don't Open This Email",
+          "confidence": 1,
+          "start_char": 268,
+          "end_char": 289
+        },
+        {
+          "box": [
+            0.12994350268531757,
+            0.3237288135674904,
+            0.48022598870056493,
+            0.027118644067796516
+          ],
+          "text": "Seriously? [Unexpected Fact]",
+          "confidence": 1,
+          "start_char": 290,
+          "end_char": 318
+        },
+        {
+          "box": [
+            0.1322739155258741,
+            0.2760529854034751,
+            0.3994563474493511,
+            0.030205196445271087
+          ],
+          "text": "Your [Benefit] Is Waiting",
+          "confidence": 1,
+          "start_char": 319,
+          "end_char": 344
+        },
+        {
+          "box": [
+            0.12922968087242095,
+            0.22607288631246736,
+            0.3574270690228306,
+            0.03090411525661663
+          ],
+          "text": "This Is Embarrassing",
+          "confidence": 1,
+          "start_char": 345,
+          "end_char": 365
+        },
+        {
+          "box": [
+            0.12711864425398048,
+            0.18305084748459166,
+            0.5593220338983051,
+            0.023728813559322104
+          ],
+          "text": "I Have Good News and Bad News",
+          "confidence": 1,
+          "start_char": 366,
+          "end_char": 395
+        },
+        {
+          "box": [
+            0.12994350269407826,
+            0.13220338984055247,
+            0.48305084745762705,
+            0.027118644067796516
+          ],
+          "text": "You're Not Going to Like This",
+          "confidence": 1,
+          "start_char": 396,
+          "end_char": 425
+        },
+        {
+          "box": [
+            0.13276836143475176,
+            0.08474576272075396,
+            0.43220338983050843,
+            0.025423728813559365
+          ],
+          "text": "Oops, We Made a Mistake",
+          "confidence": 1,
+          "start_char": 426,
+          "end_char": 449
+        },
+        {
+          "box": [
+            0.25384504252450163,
+            0.011670061848063962,
+            0.5008990185408941,
+            0.03348745249085505
+          ],
+          "text": "MARKETING SOLVED.",
+          "confidence": 1,
+          "start_char": 450,
+          "end_char": 467
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 467
+    },
+    {
+      "text": "Lista de quinze assuntos curtos de e-mail, com marcadores e título dominante.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 469,
+      "end_char": 546
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      236,
+      393
+    ],
+    "ocr_rows": 19,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

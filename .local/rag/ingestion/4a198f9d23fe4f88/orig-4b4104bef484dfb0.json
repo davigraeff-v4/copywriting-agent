@@ -1,0 +1,212 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/3f4273d8cc9399e607f281a5982e2a19.jpg",
+  "source_sha256": "4b4104bef484dfb0501517107b63dbf195356df33831916096d994193823531c",
+  "text": "CHAT GPT PROMPTS FOR\nCONTENT CREATION\nGive me 5 content ideas about [topic]\nGenerate 5 caption ideas to promote [product/ service] to\n[target demographic/ audience]\nProvide a 3 color combinotion (hex codes) that I can use\nfor a [theme]\nProvide a 3 color combinotion (hex codes) that | can use\nfor a [theme]\nWhat are 5 social media posts I can create for a\n[business] to promote our new\n[promotion/product/service]\nFOLLOW FOR MORE CONTENT!\n® YOURMARNETIWEMAMAGER\n\nCartão de cinco prompts para criação de conteúdo, com hierarquia tipográfica e exemplos.",
+  "segments": [
+    {
+      "text": "CHAT GPT PROMPTS FOR\nCONTENT CREATION\nGive me 5 content ideas about [topic]\nGenerate 5 caption ideas to promote [product/ service] to\n[target demographic/ audience]\nProvide a 3 color combinotion (hex codes) that I can use\nfor a [theme]\nProvide a 3 color combinotion (hex codes) that | can use\nfor a [theme]\nWhat are 5 social media posts I can create for a\n[business] to promote our new\n[promotion/product/service]\nFOLLOW FOR MORE CONTENT!\n® YOURMARNETIWEMAMAGER",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "CHAT GPT PROMPTS FOR",
+          "box": [
+            0.3230799334123875,
+            0.8320116372187022,
+            0.5995484056143925,
+            0.054737847646077475
+          ],
+          "start_char": 0,
+          "end_char": 20
+        },
+        {
+          "confidence": 1,
+          "text": "CONTENT CREATION",
+          "box": [
+            0.4393613350094372,
+            0.7332021713558203,
+            0.481157006888554,
+            0.055244916280110745
+          ],
+          "start_char": 21,
+          "end_char": 37
+        },
+        {
+          "confidence": 1,
+          "text": "Give me 5 content ideas about [topic]",
+          "box": [
+            0.2496673403435395,
+            0.6344505599967273,
+            0.5374043234463395,
+            0.033210995992024706
+          ],
+          "start_char": 38,
+          "end_char": 75
+        },
+        {
+          "confidence": 1,
+          "text": "Generate 5 caption ideas to promote [product/ service] to",
+          "box": [
+            0.10553260011985365,
+            0.5669135028905656,
+            0.8169492524245688,
+            0.030153252283732113
+          ],
+          "start_char": 76,
+          "end_char": 133
+        },
+        {
+          "confidence": 1,
+          "text": "[target demographic/ audience]",
+          "box": [
+            0.29073233053264047,
+            0.5315039193977309,
+            0.45298734204522495,
+            0.030995349884033185
+          ],
+          "start_char": 134,
+          "end_char": 164
+        },
+        {
+          "confidence": 1,
+          "text": "Provide a 3 color combinotion (hex codes) that I can use",
+          "box": [
+            0.1185344827017891,
+            0.4700000000085617,
+            0.7995689655172413,
+            0.025000000000000022
+          ],
+          "start_char": 165,
+          "end_char": 221
+        },
+        {
+          "confidence": 1,
+          "text": "for a [theme]",
+          "box": [
+            0.4244795748848751,
+            0.4329521783345429,
+            0.18767878104900493,
+            0.027428976694742868
+          ],
+          "start_char": 222,
+          "end_char": 235
+        },
+        {
+          "confidence": 1,
+          "text": "Provide a 3 color combinotion (hex codes) that | can use",
+          "box": [
+            0.11835902072251372,
+            0.36470691907064723,
+            0.7999182733996161,
+            0.030410114924113052
+          ],
+          "start_char": 236,
+          "end_char": 292
+        },
+        {
+          "confidence": 1,
+          "text": "for a [theme]",
+          "box": [
+            0.42444629856596083,
+            0.3315305863090413,
+            0.18775775514799975,
+            0.02769820213317864
+          ],
+          "start_char": 293,
+          "end_char": 306
+        },
+        {
+          "confidence": 1,
+          "text": "What are 5 social media posts I can create for a",
+          "box": [
+            0.1723460731163584,
+            0.26230202032754546,
+            0.6919572106723128,
+            0.029545173645019518
+          ],
+          "start_char": 307,
+          "end_char": 355
+        },
+        {
+          "confidence": 1,
+          "text": "[business] to promote our new",
+          "box": [
+            0.30127563907523697,
+            0.22399999917147562,
+            0.4318266243770205,
+            0.03351351420084636
+          ],
+          "start_char": 356,
+          "end_char": 385
+        },
+        {
+          "confidence": 1,
+          "text": "[promotion/product/service]",
+          "box": [
+            0.31249999988273325,
+            0.19333333337745107,
+            0.41163793103448276,
+            0.029999999999999916
+          ],
+          "start_char": 386,
+          "end_char": 413
+        },
+        {
+          "confidence": 1,
+          "text": "FOLLOW FOR MORE CONTENT!",
+          "box": [
+            0.3941686438407447,
+            0.11654372390125367,
+            0.2827498008464945,
+            0.02341507116953534
+          ],
+          "start_char": 414,
+          "end_char": 438
+        },
+        {
+          "confidence": 1,
+          "text": "® YOURMARNETIWEMAMAGER",
+          "box": [
+            0.32714120108503353,
+            0.07663529099648547,
+            0.34618400705271757,
+            0.059850705464680964
+          ],
+          "start_char": 439,
+          "end_char": 461
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 461
+    },
+    {
+      "text": "Cartão de cinco prompts para criação de conteúdo, com hierarquia tipográfica e exemplos.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 463,
+      "end_char": 551
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      927,
+      1200
+    ],
+    "ocr_rows": 14,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

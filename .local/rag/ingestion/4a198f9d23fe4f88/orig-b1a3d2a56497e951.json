@@ -1,0 +1,356 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/fdaf6cec9dd62a756ba45835ae26b016.jpg",
+  "source_sha256": "b1a3d2a56497e95162cb71459e6a42517a6922e34e1cbb8770268e6fadf6d730",
+  "text": "Rapha Falcão\n@raphafalcaof\nPSICOLOGIA\nDOS PREÇOS\nPARA VENDER MAIS\nESTRATÉGIA\nCOMO IMPLEMENTAR\nEvite números\nR$ 200 | R$ 198,99\nredondos\nDestaque os\nAntes:\nAgora:\ndescontos\nR$99,99\nR$74,99\nAdicione\nR$99,99 | 50% de desconto:\nporcentagens\nAGORA POR R$49,99\nAcrescente\nR$99,99 + KIT\nbônus\npersonalizado gratuito\nNÃO ESQUEÇA\nDE SALVAR!\n\nTabela de psicologia de preços, com estratégia e exemplos numéricos; preços são ilustrações da peça.",
+  "segments": [
+    {
+      "text": "Rapha Falcão\n@raphafalcaof\nPSICOLOGIA\nDOS PREÇOS\nPARA VENDER MAIS\nESTRATÉGIA\nCOMO IMPLEMENTAR\nEvite números\nR$ 200 | R$ 198,99\nredondos\nDestaque os\nAntes:\nAgora:\ndescontos\nR$99,99\nR$74,99\nAdicione\nR$99,99 | 50% de desconto:\nporcentagens\nAGORA POR R$49,99\nAcrescente\nR$99,99 + KIT\nbônus\npersonalizado gratuito\nNÃO ESQUEÇA\nDE SALVAR!",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Rapha Falcão",
+          "confidence": 1,
+          "box": [
+            0.13831353828850493,
+            0.9262021372596307,
+            0.14994606764420218,
+            0.021305480210677463
+          ],
+          "start_char": 0,
+          "end_char": 12
+        },
+        {
+          "text": "@raphafalcaof",
+          "confidence": 1,
+          "box": [
+            0.1385869563894451,
+            0.9152173913215103,
+            0.10597826086956522,
+            0.013043478260869601
+          ],
+          "start_char": 13,
+          "end_char": 26
+        },
+        {
+          "text": "PSICOLOGIA",
+          "confidence": 1,
+          "box": [
+            0.12228260855770826,
+            0.7456521739288084,
+            0.7554347826086958,
+            0.08260869565217399
+          ],
+          "start_char": 27,
+          "end_char": 37
+        },
+        {
+          "text": "DOS PREÇOS",
+          "confidence": 1,
+          "box": [
+            0.11377355221874205,
+            0.6198181053520582,
+            0.7806765514871349,
+            0.11070678545081103
+          ],
+          "start_char": 38,
+          "end_char": 48
+        },
+        {
+          "text": "PARA VENDER MAIS",
+          "confidence": 1,
+          "box": [
+            0.20652173897849463,
+            0.5630434782719729,
+            0.5869565217391304,
+            0.04130434782608694
+          ],
+          "start_char": 49,
+          "end_char": 65
+        },
+        {
+          "text": "ESTRATÉGIA",
+          "confidence": 1,
+          "box": [
+            0.10028256584186553,
+            0.49007662924238204,
+            0.2315000865770423,
+            0.035064133353855276
+          ],
+          "start_char": 66,
+          "end_char": 76
+        },
+        {
+          "text": "COMO IMPLEMENTAR",
+          "confidence": 1,
+          "box": [
+            0.5054347824728261,
+            0.49130434783603794,
+            0.3967391304347826,
+            0.02826086956521734
+          ],
+          "start_char": 77,
+          "end_char": 93
+        },
+        {
+          "text": "Evite números",
+          "confidence": 1,
+          "box": [
+            0.10825906318101901,
+            0.44037366104018894,
+            0.2183294503585152,
+            0.028684982009555937
+          ],
+          "start_char": 94,
+          "end_char": 107
+        },
+        {
+          "text": "R$ 200 | R$ 198,99",
+          "confidence": 1,
+          "box": [
+            0.5597826085611146,
+            0.421739130448636,
+            0.28532608695652173,
+            0.02826086956521734
+          ],
+          "start_char": 108,
+          "end_char": 126
+        },
+        {
+          "text": "redondos",
+          "confidence": 1,
+          "box": [
+            0.13832433361744664,
+            0.4112244914741644,
+            0.15279532515484354,
+            0.02262486582217005
+          ],
+          "start_char": 127,
+          "end_char": 135
+        },
+        {
+          "text": "Destaque os",
+          "confidence": 1,
+          "box": [
+            0.11610244857447188,
+            0.3518125350743956,
+            0.19978065076081647,
+            0.02908592016800582
+          ],
+          "start_char": 136,
+          "end_char": 147
+        },
+        {
+          "text": "Antes:",
+          "confidence": 1,
+          "box": [
+            0.5732006246780221,
+            0.3581985847357002,
+            0.09816396754720935,
+            0.022733265420664894
+          ],
+          "start_char": 148,
+          "end_char": 154
+        },
+        {
+          "text": "Agora:",
+          "confidence": 1,
+          "box": [
+            0.7271241839302082,
+            0.3527173620495203,
+            0.10749534938646399,
+            0.027701881657476113
+          ],
+          "start_char": 155,
+          "end_char": 161
+        },
+        {
+          "text": "descontos",
+          "confidence": 1,
+          "box": [
+            0.13586956504607747,
+            0.32826086958648404,
+            0.1630434782608696,
+            0.019565217391304346
+          ],
+          "start_char": 162,
+          "end_char": 171
+        },
+        {
+          "text": "R$99,99",
+          "confidence": 1,
+          "box": [
+            0.5652173911684784,
+            0.3239130435172798,
+            0.11684782608695643,
+            0.0304347826086957
+          ],
+          "start_char": 172,
+          "end_char": 179
+        },
+        {
+          "text": "R$74,99",
+          "confidence": 1,
+          "box": [
+            0.7201086955230978,
+            0.3217391304755436,
+            0.11956521739130443,
+            0.032608695652173836
+          ],
+          "start_char": 180,
+          "end_char": 187
+        },
+        {
+          "text": "Adicione",
+          "confidence": 1,
+          "box": [
+            0.1466373980303996,
+            0.26915068215502436,
+            0.13607302955959155,
+            0.02256820098213519
+          ],
+          "start_char": 188,
+          "end_char": 196
+        },
+        {
+          "text": "R$99,99 | 50% de desconto:",
+          "confidence": 1,
+          "box": [
+            0.49456521702251555,
+            0.2652173913295808,
+            0.4184782608695652,
+            0.02826086956521734
+          ],
+          "start_char": 197,
+          "end_char": 223
+        },
+        {
+          "text": "porcentagens",
+          "confidence": 1,
+          "box": [
+            0.10597826089673915,
+            0.23478260893478253,
+            0.22010869565217392,
+            0.023913043478260843
+          ],
+          "start_char": 224,
+          "end_char": 236
+        },
+        {
+          "text": "AGORA POR R$49,99",
+          "confidence": 1,
+          "box": [
+            0.5434782607336957,
+            0.23043478262023853,
+            0.3179347826086957,
+            0.026086956521739202
+          ],
+          "start_char": 237,
+          "end_char": 254
+        },
+        {
+          "text": "Acrescente",
+          "confidence": 1,
+          "box": [
+            0.1301344280522754,
+            0.1736201619365142,
+            0.17448659565137783,
+            0.023412283607151196
+          ],
+          "start_char": 255,
+          "end_char": 265
+        },
+        {
+          "text": "R$99,99 + KIT",
+          "confidence": 1,
+          "box": [
+            0.6032216029386486,
+            0.17157220842811371,
+            0.20116548952849023,
+            0.0307686266691789
+          ],
+          "start_char": 266,
+          "end_char": 279
+        },
+        {
+          "text": "bônus",
+          "confidence": 1,
+          "box": [
+            0.16847826053511708,
+            0.14347826095317717,
+            0.09782608695652176,
+            0.021739130434782594
+          ],
+          "start_char": 280,
+          "end_char": 285
+        },
+        {
+          "text": "personalizado gratuito",
+          "confidence": 1,
+          "box": [
+            0.5217391302435587,
+            0.14130434787439616,
+            0.3586956521739131,
+            0.026086956521739202
+          ],
+          "start_char": 286,
+          "end_char": 308
+        },
+        {
+          "text": "NÃO ESQUEÇA",
+          "confidence": 1,
+          "box": [
+            0.8067559767004991,
+            0.061314238090537154,
+            0.1283358801966128,
+            0.018675870480744705
+          ],
+          "start_char": 309,
+          "end_char": 320
+        },
+        {
+          "text": "DE SALVAR!",
+          "confidence": 1,
+          "box": [
+            0.8070008027971056,
+            0.047541192328705906,
+            0.10338969852613367,
+            0.015787180092023734
+          ],
+          "start_char": 321,
+          "end_char": 331
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 331
+    },
+    {
+      "text": "Tabela de psicologia de preços, com estratégia e exemplos numéricos; preços são ilustrações da peça.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 333,
+      "end_char": 433
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      736,
+      920
+    ],
+    "ocr_rows": 26,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

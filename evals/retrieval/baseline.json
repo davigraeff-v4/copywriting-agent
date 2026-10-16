@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-13",
+  "labels": "agent-authored, human review pending",
+  "source_fingerprint": "69d25d36fbd9908cf59f0abba8580121c8b01a67d8cb84432d78cf3def1fcf71",
+  "chunk_pipeline_hash": "9addf6364e3c9c8e909f3ccd9045ccb35075a83a4118d85f6414e62c361ae062",
+  "config_sha256": "3c9479f1333ae163aaa229d36c4559c01864e7ff02a35805e16521b287e7f204",
+  "development": {
+    "metadata_original": {
+      "positive_cases": 24,
+      "negative_cases": 4,
+      "hit1": 0.5833,
+      "hit3": 0.7917,
+      "hit5": 0.8333,
+      "mrr5": 0.6771,
+      "ndcg5": 0.6138,
+      "negative_empty": 0.25,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "metadata_expanded": {
+      "positive_cases": 24,
+      "negative_cases": 4,
+      "hit1": 0.5833,
+      "hit3": 0.7917,
+      "hit5": 0.7917,
+      "mrr5": 0.6667,
+      "ndcg5": 0.5978,
+      "negative_empty": 0.25,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "lexical": {
+      "positive_cases": 24,
+      "negative_cases": 4,
+      "hit1": 0.9167,
+      "hit3": 0.9583,
+      "hit5": 1.0,
+      "mrr5": 0.9458,
+      "ndcg5": 0.9134,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "semantic": {
+      "positive_cases": 24,
+      "negative_cases": 4,
+      "hit1": 0.5417,
+      "hit3": 0.8333,
+      "hit5": 0.875,
+      "mrr5": 0.684,
+      "ndcg5": 0.6372,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "hybrid": {
+      "positive_cases": 24,
+      "negative_cases": 4,
+      "hit1": 0.9583,
+      "hit3": 1.0,
+      "hit5": 1.0,
+      "mrr5": 0.9792,
+      "ndcg5": 0.8974,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    }
+  },
+  "validation": {
+    "metadata_original": {
+      "positive_cases": 16,
+      "negative_cases": 4,
+      "hit1": 0.5625,
+      "hit3": 0.6875,
+      "hit5": 0.6875,
+      "mrr5": 0.625,
+      "ndcg5": 0.5929,
+      "negative_empty": 0.25,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "metadata_expanded": {
+      "positive_cases": 16,
+      "negative_cases": 4,
+      "hit1": 0.5625,
+      "hit3": 0.6875,
+      "hit5": 0.6875,
+      "mrr5": 0.625,
+      "ndcg5": 0.5929,
+      "negative_empty": 0.25,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "lexical": {
+      "positive_cases": 16,
+      "negative_cases": 4,
+      "hit1": 0.9375,
+      "hit3": 1.0,
+      "hit5": 1.0,
+      "mrr5": 0.9583,
+      "ndcg5": 0.9325,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "semantic": {
+      "positive_cases": 16,
+      "negative_cases": 4,
+      "hit1": 0.8125,
+      "hit3": 0.875,
+      "hit5": 0.875,
+      "mrr5": 0.8438,
+      "ndcg5": 0.8407,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    },
+    "hybrid": {
+      "positive_cases": 16,
+      "negative_cases": 4,
+      "hit1": 0.9375,
+      "hit3": 1.0,
+      "hit5": 1.0,
+      "mrr5": 0.9583,
+      "ndcg5": 0.9204,
+      "negative_empty": 1.0,
+      "filter_violations": 0,
+      "fallbacks": 0
+    }
+  },
+  "case_hashes": {
+    "development.json": "520c024d2e0c14fe308f66fef8c7152f2bff35c011519ca9d0ac5f0a7f2b3aba",
+    "validation.json": "eef12487340c8e9dc858f6abdc7794c5ff7e1606dbb5faa31f309d921f250421"
+  },
+  "filters_violations": 0,
+  "parameters_not_retuned_on_validation": true,
+  "final_integrity_patch_preserved_chunk_and_vector_hashes": true
+}

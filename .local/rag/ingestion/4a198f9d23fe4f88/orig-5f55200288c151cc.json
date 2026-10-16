@@ -1,0 +1,572 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/033ed88ab176e5d01f639e9eb866649e.jpg",
+  "source_sha256": "5f55200288c151cc47d75671f8352ca11a886bd8fd74d0cf4aae227d0d69f7dc",
+  "text": "BRAND IDENTITY\nTOUCHPOINTS\nWEB PRESENCE\nCOLLATERAL\nCONTENT MKTG\n• WEBSITE\nMENUS\nSOCIAL MEDIA\n• LANDING PAGE'S\n• CATALOGS\n• PROFILES\n• BANNERS\n• FLYERS\nEBOOKS\n• EMAIL\n• BROCHURES\n• BLOG\n• HEADERS\nSIGNAGE\nADVERTISING\n• INFOGRAPHIC\n• OUTDOOR\nONLINE ADS\n• INDOOR\n• OFFLINE ADS\nFOR TEAM USE\n• TRADESHOWS\n• ANNUAL\nSTATIONERY\n• EVENTS\n• REPORTS\n• LETTERHEAD\n• INTERNAL\n• BUSINESS CARDS\nMECHANDISING\n• MEMOS\n• INVOICES\nSTICKERS\n• GUIDELINES\n• SWAG\n+ UNIFORMS\nلها هو\nBei\n@Stallaid\n\nInventário de pontos de contato da identidade de marca, em caixas e colunas.",
+  "segments": [
+    {
+      "text": "BRAND IDENTITY\nTOUCHPOINTS\nWEB PRESENCE\nCOLLATERAL\nCONTENT MKTG\n• WEBSITE\nMENUS\nSOCIAL MEDIA\n• LANDING PAGE'S\n• CATALOGS\n• PROFILES\n• BANNERS\n• FLYERS\nEBOOKS\n• EMAIL\n• BROCHURES\n• BLOG\n• HEADERS\nSIGNAGE\nADVERTISING\n• INFOGRAPHIC\n• OUTDOOR\nONLINE ADS\n• INDOOR\n• OFFLINE ADS\nFOR TEAM USE\n• TRADESHOWS\n• ANNUAL\nSTATIONERY\n• EVENTS\n• REPORTS\n• LETTERHEAD\n• INTERNAL\n• BUSINESS CARDS\nMECHANDISING\n• MEMOS\n• INVOICES\nSTICKERS\n• GUIDELINES\n• SWAG\n+ UNIFORMS\nلها هو\nBei\n@Stallaid",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.04641350189873425,
+            0.9147540983783349,
+            0.9113924050632911,
+            0.07213114754098371
+          ],
+          "text": "BRAND IDENTITY",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 14
+        },
+        {
+          "box": [
+            0.2194092824894515,
+            0.8459016393620536,
+            0.5611814345991563,
+            0.04590163934426228
+          ],
+          "text": "TOUCHPOINTS",
+          "confidence": 1,
+          "start_char": 15,
+          "end_char": 26
+        },
+        {
+          "box": [
+            0.016877636925611245,
+            0.6918032787087357,
+            0.3164556962025316,
+            0.02950819672131144
+          ],
+          "text": "WEB PRESENCE",
+          "confidence": 1,
+          "start_char": 27,
+          "end_char": 39
+        },
+        {
+          "box": [
+            0.36286919807782464,
+            0.691803278715847,
+            0.26160337552742613,
+            0.02950819672131144
+          ],
+          "text": "COLLATERAL",
+          "confidence": 1,
+          "start_char": 40,
+          "end_char": 50
+        },
+        {
+          "box": [
+            0.6708860757383966,
+            0.6918032787090165,
+            0.3122362869198313,
+            0.02950819672131133
+          ],
+          "text": "CONTENT MKTG",
+          "confidence": 1,
+          "start_char": 51,
+          "end_char": 63
+        },
+        {
+          "box": [
+            0.008438818469505172,
+            0.6524590164456037,
+            0.15189873417721517,
+            0.022950819672131084
+          ],
+          "text": "• WEBSITE",
+          "confidence": 1,
+          "start_char": 64,
+          "end_char": 73
+        },
+        {
+          "box": [
+            0.3628691981287837,
+            0.6524590164433357,
+            0.11814345991561181,
+            0.022950819672131084
+          ],
+          "text": "MENUS",
+          "confidence": 1,
+          "start_char": 74,
+          "end_char": 79
+        },
+        {
+          "box": [
+            0.670886075729224,
+            0.6491803278973628,
+            0.21940928270042204,
+            0.02622950819672132
+          ],
+          "text": "SOCIAL MEDIA",
+          "confidence": 1,
+          "start_char": 80,
+          "end_char": 92
+        },
+        {
+          "box": [
+            0.004219411434599095,
+            0.6098360658032786,
+            0.26582278481012656,
+            0.022950819672131195
+          ],
+          "text": "• LANDING PAGE'S",
+          "confidence": 1,
+          "start_char": 93,
+          "end_char": 109
+        },
+        {
+          "box": [
+            0.3544303814345991,
+            0.6098360658606558,
+            0.17721518987341772,
+            0.022950819672131195
+          ],
+          "text": "• CATALOGS",
+          "confidence": 1,
+          "start_char": 110,
+          "end_char": 120
+        },
+        {
+          "box": [
+            0.6580717535182519,
+            0.609139814115496,
+            0.16486915556187365,
+            0.024343322535030243
+          ],
+          "text": "• PROFILES",
+          "confidence": 1,
+          "start_char": 121,
+          "end_char": 131
+        },
+        {
+          "box": [
+            0.004219409071729956,
+            0.5672131147799827,
+            0.1687763713080169,
+            0.01967213114754096
+          ],
+          "text": "• BANNERS",
+          "confidence": 1,
+          "start_char": 132,
+          "end_char": 141
+        },
+        {
+          "box": [
+            0.35443037956962026,
+            0.5672131147934425,
+            0.1308016877637131,
+            0.019672131147541072
+          ],
+          "text": "• FLYERS",
+          "confidence": 1,
+          "start_char": 142,
+          "end_char": 150
+        },
+        {
+          "box": [
+            0.6664191217321659,
+            0.5662989695274017,
+            0.13551618680672306,
+            0.024779110267514115
+          ],
+          "text": "EBOOKS",
+          "confidence": 1,
+          "start_char": 151,
+          "end_char": 157
+        },
+        {
+          "box": [
+            0.004079746091230773,
+            0.5240896639637163,
+            0.11420337660906185,
+            0.020673131942749112
+          ],
+          "text": "• EMAIL",
+          "confidence": 1,
+          "start_char": 158,
+          "end_char": 165
+        },
+        {
+          "box": [
+            0.35443037955549017,
+            0.521311475436523,
+            0.2067510548523207,
+            0.022950819672131195
+          ],
+          "text": "• BROCHURES",
+          "confidence": 1,
+          "start_char": 166,
+          "end_char": 177
+        },
+        {
+          "box": [
+            0.6582278479347103,
+            0.524590163986195,
+            0.10548523206751048,
+            0.01967213114754096
+          ],
+          "text": "• BLOG",
+          "confidence": 1,
+          "start_char": 178,
+          "end_char": 184
+        },
+        {
+          "box": [
+            0.6582278478847435,
+            0.4819672131406385,
+            0.16455696202531644,
+            0.01967213114754096
+          ],
+          "text": "• HEADERS",
+          "confidence": 1,
+          "start_char": 185,
+          "end_char": 194
+        },
+        {
+          "box": [
+            0.01687763691983122,
+            0.4459016393747617,
+            0.18143459915611818,
+            0.02622950819672132
+          ],
+          "text": "SIGNAGE",
+          "confidence": 1,
+          "start_char": 195,
+          "end_char": 202
+        },
+        {
+          "box": [
+            0.3670886073874824,
+            0.4426229508442623,
+            0.26582278481012667,
+            0.029508196721311553
+          ],
+          "text": "ADVERTISING",
+          "confidence": 1,
+          "start_char": 203,
+          "end_char": 214
+        },
+        {
+          "box": [
+            0.658227847913227,
+            0.4360655737954384,
+            0.2236286919831223,
+            0.022950819672131195
+          ],
+          "text": "• INFOGRAPHIC",
+          "confidence": 1,
+          "start_char": 215,
+          "end_char": 228
+        },
+        {
+          "box": [
+            0.004219410864978854,
+            0.4032786888114753,
+            0.17721518987341772,
+            0.022950819672131195
+          ],
+          "text": "• OUTDOOR",
+          "confidence": 1,
+          "start_char": 229,
+          "end_char": 238
+        },
+        {
+          "box": [
+            0.36708860938818566,
+            0.4032786888114753,
+            0.18565400843881852,
+            0.022950819672131195
+          ],
+          "text": "ONLINE ADS",
+          "confidence": 1,
+          "start_char": 239,
+          "end_char": 249
+        },
+        {
+          "box": [
+            0.00831353692901993,
+            0.36010540355394516,
+            0.13949106916596618,
+            0.020772799507516315
+          ],
+          "text": "• INDOOR",
+          "confidence": 1,
+          "start_char": 250,
+          "end_char": 258
+        },
+        {
+          "box": [
+            0.3544303818565401,
+            0.36065573799180317,
+            0.21097046413502107,
+            0.022950819672131195
+          ],
+          "text": "• OFFLINE ADS",
+          "confidence": 1,
+          "start_char": 259,
+          "end_char": 272
+        },
+        {
+          "box": [
+            0.6666666664556963,
+            0.3606557377266153,
+            0.2953586497890295,
+            0.02950819672131144
+          ],
+          "text": "FOR TEAM USE",
+          "confidence": 1,
+          "start_char": 273,
+          "end_char": 285
+        },
+        {
+          "box": [
+            1.5119549831541906e-09,
+            0.3114754100819672,
+            0.24050632911392406,
+            0.02950819672131144
+          ],
+          "text": "• TRADESHOWS",
+          "confidence": 1,
+          "start_char": 286,
+          "end_char": 298
+        },
+        {
+          "box": [
+            0.6624472571729959,
+            0.3213114754557378,
+            0.1392405063291139,
+            0.022950819672131084
+          ],
+          "text": "• ANNUAL",
+          "confidence": 1,
+          "start_char": 299,
+          "end_char": 307
+        },
+        {
+          "box": [
+            0.36708860738396626,
+            0.2885245901898189,
+            0.2489451476793249,
+            0.02950819672131144
+          ],
+          "text": "STATIONERY",
+          "confidence": 1,
+          "start_char": 308,
+          "end_char": 318
+        },
+        {
+          "box": [
+            0.003874444597726049,
+            0.27380884831180186,
+            0.13993043537381328,
+            0.022874106735479627
+          ],
+          "text": "• EVENTS",
+          "confidence": 1,
+          "start_char": 319,
+          "end_char": 327
+        },
+        {
+          "box": [
+            0.6581721163789895,
+            0.27845737664895,
+            0.15622960666060948,
+            0.023413115642109794
+          ],
+          "text": "• REPORTS",
+          "confidence": 1,
+          "start_char": 328,
+          "end_char": 337
+        },
+        {
+          "box": [
+            0.3544303812939521,
+            0.24918032825136605,
+            0.21097046413502107,
+            0.022950819672131195
+          ],
+          "text": "• LETTERHEAD",
+          "confidence": 1,
+          "start_char": 338,
+          "end_char": 350
+        },
+        {
+          "box": [
+            0.6580130257343167,
+            0.23506968845545606,
+            0.16920601567135585,
+            0.02494259036955282
+          ],
+          "text": "• INTERNAL",
+          "confidence": 1,
+          "start_char": 351,
+          "end_char": 361
+        },
+        {
+          "box": [
+            0.3544303795961422,
+            0.20655737707259958,
+            0.2742616033755274,
+            0.022950819672131084
+          ],
+          "text": "• BUSINESS CARDS",
+          "confidence": 1,
+          "start_char": 362,
+          "end_char": 378
+        },
+        {
+          "box": [
+            0.012658227671158257,
+            0.19016393445002644,
+            0.31223628691983124,
+            0.02950819672131144
+          ],
+          "text": "MECHANDISING",
+          "confidence": 1,
+          "start_char": 379,
+          "end_char": 391
+        },
+        {
+          "box": [
+            0.6581329153584634,
+            0.19310053947923855,
+            0.1352109627381659,
+            0.02363498640842132
+          ],
+          "text": "• MEMOS",
+          "confidence": 1,
+          "start_char": 392,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.35443037957669793,
+            0.16393442626123744,
+            0.15611814345991565,
+            0.01967213114754096
+          ],
+          "text": "• INVOICES",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 410
+        },
+        {
+          "box": [
+            0.02531645548523205,
+            0.15081967216188508,
+            0.14345991561181437,
+            0.019672131147541072
+          ],
+          "text": "STICKERS",
+          "confidence": 1,
+          "start_char": 411,
+          "end_char": 419
+        },
+        {
+          "box": [
+            0.6582278479219409,
+            0.15081967215573777,
+            0.19409282700421937,
+            0.01967213114754096
+          ],
+          "text": "• GUIDELINES",
+          "confidence": 1,
+          "start_char": 420,
+          "end_char": 432
+        },
+        {
+          "box": [
+            0.004219409132007229,
+            0.10819672135831382,
+            0.11392405063291139,
+            0.01967213114754096
+          ],
+          "text": "• SWAG",
+          "confidence": 1,
+          "start_char": 433,
+          "end_char": 439
+        },
+        {
+          "box": [
+            0.6540084387570323,
+            0.10491803284153,
+            0.18143459915611815,
+            0.02622950819672132
+          ],
+          "text": "+ UNIFORMS",
+          "confidence": 1,
+          "start_char": 440,
+          "end_char": 450
+        },
+        {
+          "box": [
+            0.36286919808808016,
+            0.01311475414959018,
+            0.07172995780590713,
+            0.016393442622950838
+          ],
+          "text": "لها هو",
+          "confidence": 0.3,
+          "start_char": 451,
+          "end_char": 457
+        },
+        {
+          "box": [
+            0.4852320672732067,
+            0.016393442704917938,
+            0.03797468354430383,
+            0.013114754098360604
+          ],
+          "text": "Bei",
+          "confidence": 1,
+          "start_char": 458,
+          "end_char": 461
+        },
+        {
+          "box": [
+            0.5443037972946141,
+            0.016393442671166714,
+            0.09282700421940926,
+            0.016393442622950838
+          ],
+          "text": "@Stallaid",
+          "confidence": 1,
+          "start_char": 462,
+          "end_char": 471
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 471
+    },
+    {
+      "text": "Inventário de pontos de contato da identidade de marca, em caixas e colunas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 473,
+      "end_char": 549
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      474,
+      609
+    ],
+    "ocr_rows": 44,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.984090909090909,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

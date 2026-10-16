@@ -1,0 +1,608 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/4ed150155f231974c24e8649126eac66.jpg",
+  "source_sha256": "437ab0c67c7ab253fd0d8b7c4506ad75ce8da32a0407ed4553a610894dfe785f",
+  "text": "Call to action cheat sheet\nPopular\nCatchy\nCTAs\nalternatives\n• Get started today\nSign up\n• Join the fun\n• Dive in\n• Discover the secrets\nLearn more\n• Dive deeper\n• Explore further\n• Grab yours today\nBuy now\n• Secure your deal\n• Get it first\n• Stay in the loop\nSubscribe\n• Join the club\n• Be the first to know\n• Get instant access\nDownload\n• Snag your copy\n• Unlock now\n• Let's chat\nContact us\n• Drop us a line\n• We're here to help\n• See what you could save\nGet a quote\n• Get your personalized offer\n• Unlock your quote\n• Explore the collection\nShop now\n• Treat yourself\n• Discover deals\n• Uncover the full story\nRead more\n• See what happens next\n• Continue reading\n• Become a member\nJoin now\n• Hop on board\n• Start your journey\n- zapier\n_zapier\n\nTabela de CTAs comuns e alternativas, com botões coloridos e listas paralelas.",
+  "segments": [
+    {
+      "text": "Call to action cheat sheet\nPopular\nCatchy\nCTAs\nalternatives\n• Get started today\nSign up\n• Join the fun\n• Dive in\n• Discover the secrets\nLearn more\n• Dive deeper\n• Explore further\n• Grab yours today\nBuy now\n• Secure your deal\n• Get it first\n• Stay in the loop\nSubscribe\n• Join the club\n• Be the first to know\n• Get instant access\nDownload\n• Snag your copy\n• Unlock now\n• Let's chat\nContact us\n• Drop us a line\n• We're here to help\n• See what you could save\nGet a quote\n• Get your personalized offer\n• Unlock your quote\n• Explore the collection\nShop now\n• Treat yourself\n• Discover deals\n• Uncover the full story\nRead more\n• See what happens next\n• Continue reading\n• Become a member\nJoin now\n• Hop on board\n• Start your journey\n- zapier\n_zapier",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.19400354611553747,
+            0.9466762120582294,
+            0.613756583077567,
+            0.017251814028377704
+          ],
+          "text": "Call to action cheat sheet",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 26
+        },
+        {
+          "box": [
+            0.2218485415576859,
+            0.887505619854564,
+            0.13464251926967075,
+            0.015749308768623165
+          ],
+          "text": "Popular",
+          "confidence": 1,
+          "start_char": 27,
+          "end_char": 34
+        },
+        {
+          "box": [
+            0.5426716856347702,
+            0.8876549733083539,
+            0.12465069362095427,
+            0.016098779105111097
+          ],
+          "text": "Catchy",
+          "confidence": 1,
+          "start_char": 35,
+          "end_char": 41
+        },
+        {
+          "box": [
+            0.24149533860023728,
+            0.8720017537296165,
+            0.09372889927455355,
+            0.013686926771216633
+          ],
+          "text": "CTAs",
+          "confidence": 0.5,
+          "start_char": 42,
+          "end_char": 46
+        },
+        {
+          "box": [
+            0.5449735436041471,
+            0.8729639173975263,
+            0.20282187325613843,
+            0.012546772958361457
+          ],
+          "text": "alternatives",
+          "confidence": 1,
+          "start_char": 47,
+          "end_char": 59
+        },
+        {
+          "box": [
+            0.5287619267535462,
+            0.8257980555631576,
+            0.26341234479631703,
+            0.013585440812130586
+          ],
+          "text": "• Get started today",
+          "confidence": 1,
+          "start_char": 60,
+          "end_char": 79
+        },
+        {
+          "box": [
+            0.21212120999246797,
+            0.8044271662319501,
+            0.1464646475655692,
+            0.020231672484925467
+          ],
+          "text": "Sign up",
+          "confidence": 1,
+          "start_char": 80,
+          "end_char": 87
+        },
+        {
+          "box": [
+            0.5291005332984131,
+            0.8102189778781269,
+            0.18518517630440845,
+            0.011107584893684564
+          ],
+          "text": "• Join the fun",
+          "confidence": 1,
+          "start_char": 88,
+          "end_char": 102
+        },
+        {
+          "box": [
+            0.5289027098344666,
+            0.7909735827899737,
+            0.11856142316545759,
+            0.011851038035420317
+          ],
+          "text": "• Dive in",
+          "confidence": 1,
+          "start_char": 103,
+          "end_char": 112
+        },
+        {
+          "box": [
+            0.5289083337062537,
+            0.7477490207269628,
+            0.3002557155064175,
+            0.012380666560273233
+          ],
+          "text": "• Discover the secrets",
+          "confidence": 1,
+          "start_char": 113,
+          "end_char": 135
+        },
+        {
+          "box": [
+            0.18805110179578882,
+            0.7294876131039,
+            0.2004774475097656,
+            0.015102518433353258
+          ],
+          "text": "Learn more",
+          "confidence": 1,
+          "start_char": 136,
+          "end_char": 146
+        },
+        {
+          "box": [
+            0.5303609645955853,
+            0.7293442534053739,
+            0.18945648193359377,
+            0.012505023148808197
+          ],
+          "text": "• Dive deeper",
+          "confidence": 1,
+          "start_char": 147,
+          "end_char": 160
+        },
+        {
+          "box": [
+            0.529100533991911,
+            0.7114242061558483,
+            0.22927688598632812,
+            0.012546774168992147
+          ],
+          "text": "• Explore further",
+          "confidence": 1,
+          "start_char": 161,
+          "end_char": 178
+        },
+        {
+          "box": [
+            0.5269684377476707,
+            0.6670953817160832,
+            0.2582532392229353,
+            0.014692893674433435
+          ],
+          "text": "• Grab yours today",
+          "confidence": 1,
+          "start_char": 179,
+          "end_char": 197
+        },
+        {
+          "box": [
+            0.21275525173951287,
+            0.6487614130131522,
+            0.15076692853655133,
+            0.01559380446869548
+          ],
+          "text": "Buy now",
+          "confidence": 1,
+          "start_char": 198,
+          "end_char": 205
+        },
+        {
+          "box": [
+            0.5269683446080733,
+            0.6486617487609428,
+            0.2546821812220982,
+            0.015841031596608383
+          ],
+          "text": "• Secure your deal",
+          "confidence": 1,
+          "start_char": 206,
+          "end_char": 224
+        },
+        {
+          "box": [
+            0.5272825578398803,
+            0.6328653978552568,
+            0.1641297694614956,
+            0.012829720349737025
+          ],
+          "text": "• Get it first",
+          "confidence": 1,
+          "start_char": 225,
+          "end_char": 239
+        },
+        {
+          "box": [
+            0.5288210838037456,
+            0.5883093597605387,
+            0.23509096418108255,
+            0.014216837373017438
+          ],
+          "text": "• Stay in the loop",
+          "confidence": 1,
+          "start_char": 240,
+          "end_char": 258
+        },
+        {
+          "box": [
+            0.19570682125332942,
+            0.5724707237656373,
+            0.18177859715053016,
+            0.014424719003903162
+          ],
+          "text": "Subscribe",
+          "confidence": 1,
+          "start_char": 259,
+          "end_char": 268
+        },
+        {
+          "box": [
+            0.5291005238598112,
+            0.5734096967527496,
+            0.1992945425851005,
+            0.010978426338566254
+          ],
+          "text": "• Join the club",
+          "confidence": 1,
+          "start_char": 269,
+          "end_char": 284
+        },
+        {
+          "box": [
+            0.5273368636768268,
+            0.5545895360086364,
+            0.28924161638532364,
+            0.0118972938123562
+          ],
+          "text": "• Be the first to know",
+          "confidence": 1,
+          "start_char": 285,
+          "end_char": 307
+        },
+        {
+          "box": [
+            0.528796536637624,
+            0.5101840837102145,
+            0.2757523454938615,
+            0.013919571852615885
+          ],
+          "text": "• Get instant access",
+          "confidence": 1,
+          "start_char": 308,
+          "end_char": 328
+        },
+        {
+          "box": [
+            0.1973509884847051,
+            0.49296190749704105,
+            0.17849026271275112,
+            0.015039334407650196
+          ],
+          "text": "Download",
+          "confidence": 1,
+          "start_char": 329,
+          "end_char": 337
+        },
+        {
+          "box": [
+            0.5286815186999609,
+            0.49071958398471455,
+            0.23536821637834815,
+            0.015381210457896526
+          ],
+          "text": "• Snag your copy",
+          "confidence": 1,
+          "start_char": 338,
+          "end_char": 354
+        },
+        {
+          "box": [
+            0.5273368649789856,
+            0.47445255464156005,
+            0.18518517630440845,
+            0.012698073343260641
+          ],
+          "text": "• Unlock now",
+          "confidence": 1,
+          "start_char": 355,
+          "end_char": 367
+        },
+        {
+          "box": [
+            0.5279496243900146,
+            0.43199779244683967,
+            0.16202574593680252,
+            0.013456956963034101
+          ],
+          "text": "• Let's chat",
+          "confidence": 1,
+          "start_char": 368,
+          "end_char": 380
+        },
+        {
+          "box": [
+            0.19011978068612023,
+            0.41399081358005896,
+            0.1944542585100446,
+            0.014793266150823785
+          ],
+          "text": "Contact us",
+          "confidence": 1,
+          "start_char": 381,
+          "end_char": 391
+        },
+        {
+          "box": [
+            0.5280061935398969,
+            0.41205392761203613,
+            0.21151864188058045,
+            0.015366812177351863
+          ],
+          "text": "• Drop us a line",
+          "confidence": 1,
+          "start_char": 392,
+          "end_char": 408
+        },
+        {
+          "box": [
+            0.5283018868936387,
+            0.3960167684685977,
+            0.27101200648716506,
+            0.012946701902962215
+          ],
+          "text": "• We're here to help",
+          "confidence": 1,
+          "start_char": 409,
+          "end_char": 429
+        },
+        {
+          "box": [
+            0.531732419353207,
+            0.3517387156864169,
+            0.35506003243582596,
+            0.013955368333047707
+          ],
+          "text": "• See what you could save",
+          "confidence": 1,
+          "start_char": 430,
+          "end_char": 455
+        },
+        {
+          "box": [
+            0.18646431417614256,
+            0.33481977639464405,
+            0.20503147670200894,
+            0.017690976342301025
+          ],
+          "text": "Get a quote",
+          "confidence": 1,
+          "start_char": 456,
+          "end_char": 467
+        },
+        {
+          "box": [
+            0.5298853808990762,
+            0.3325137999984129,
+            0.37422598702566956,
+            0.015912582578926558
+          ],
+          "text": "• Get your personalized offer",
+          "confidence": 1,
+          "start_char": 468,
+          "end_char": 497
+        },
+        {
+          "box": [
+            0.5283018883698011,
+            0.3158987920038353,
+            0.2727272687639509,
+            0.014622895594907105
+          ],
+          "text": "• Unlock your quote",
+          "confidence": 1,
+          "start_char": 498,
+          "end_char": 517
+        },
+        {
+          "box": [
+            0.5265866167776301,
+            0.27264231360117686,
+            0.3190394592285156,
+            0.014469843516822097
+          ],
+          "text": "• Explore the collection",
+          "confidence": 1,
+          "start_char": 518,
+          "end_char": 542
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.1984767542107535,
+            0.2539758976938622,
+            0.17567230224609376,
+            0.016301905324098927
+          ],
+          "text": "Shop now",
+          "start_char": 543,
+          "end_char": 551
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5283018839592458,
+            0.2550026397994496,
+            0.21612350463867191,
+            0.014593391025925438
+          ],
+          "text": "• Treat yourself",
+          "start_char": 552,
+          "end_char": 568
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5265866197561752,
+            0.23755842932598345,
+            0.22813036237444195,
+            0.013003865946703622
+          ],
+          "text": "• Discover deals",
+          "start_char": 569,
+          "end_char": 585
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5281123908558425,
+            0.19338178797748168,
+            0.31601590837751115,
+            0.01547736659343897
+          ],
+          "text": "• Uncover the full story",
+          "start_char": 586,
+          "end_char": 610
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.19382504391669614,
+            0.17888244881710338,
+            0.1886792428152902,
+            0.013794940717666246
+          ],
+          "text": "Read more",
+          "start_char": 611,
+          "end_char": 620
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5280687074956171,
+            0.17536164983842115,
+            0.3434740774972098,
+            0.015495572531343971
+          ],
+          "text": "• See what happens next",
+          "start_char": 621,
+          "end_char": 644
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5262894731322215,
+            0.15820855760910174,
+            0.27339002336774554,
+            0.015439640163614349
+          ],
+          "text": "• Continue reading",
+          "start_char": 645,
+          "end_char": 663
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5263972521306288,
+            0.11429880291333619,
+            0.28167179652622754,
+            0.01524248065444144
+          ],
+          "text": "• Become a member",
+          "start_char": 664,
+          "end_char": 681
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.20748672092288822,
+            0.10037884889482888,
+            0.159640622820173,
+            0.013243671330361102
+          ],
+          "text": "Join now",
+          "start_char": 682,
+          "end_char": 690
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5248713604128746,
+            0.09737041101191157,
+            0.21440822056361608,
+            0.014589703257277155
+          ],
+          "text": "• Hop on board",
+          "start_char": 691,
+          "end_char": 705
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.5265866210823716,
+            0.0792033537540067,
+            0.2727272687639509,
+            0.014469843516822097
+          ],
+          "text": "• Start your journey",
+          "start_char": 706,
+          "end_char": 726
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.41892370688629105,
+            0.017117552333917985,
+            0.15754396711077007,
+            0.024252251825754932
+          ],
+          "text": "- zapier",
+          "start_char": 727,
+          "end_char": 735
+        },
+        {
+          "confidence": 1,
+          "box": [
+            0.4311684986196084,
+            0.020372309925539192,
+            0.14437122889927456,
+            0.017813380497935634
+          ],
+          "text": "_zapier",
+          "start_char": 736,
+          "end_char": 743
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 743
+    },
+    {
+      "text": "Tabela de CTAs comuns e alternativas, com botões coloridos e listas paralelas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 745,
+      "end_char": 823
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1400,
+      3151
+    ],
+    "ocr_rows": 47,
+    "low_confidence_rows": 1,
+    "ocr_mean_confidence": 0.9893617021276596,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/2b6fe9f836191e2eaa4222873783dca5.jpg",
+  "source_sha256": "7be30f82da0b81f228173d263b96774f8c0813a2883a7291343fe5a8759a1fc9",
+  "text": "Comando:\nAja como uma estrategista de conteúdo e\ncopywriter especialista em gerar conexão\nemocional e desejo de compra.\nQuero que você me ajude a criar conteúdos que\nfaçam minha audiência se sentir compreendida,\nconfiante e motivada a comprar meus\nprodutos serviços.\nConsidere meu público: mulheres empreendedoras\nque estão cansadas de postar e não vender, que\nbuscam leveza e estratégia para crescer no\nInstagram. Crie ideias de posts e legendas com\ngatilhos emocionais, mostrando empatia, histórias\nreais e frases que criem identificação e desejo.\nMe traga 5 ideias de conteúdos (Reels, Stories ou\nCarrossel) que gerem conexão sincera e levem\nnaturalmente à venda.\n\nCaptura de prompt em formato Story com instruções de estratégia de conteúdo e público.",
+  "segments": [
+    {
+      "text": "Comando:\nAja como uma estrategista de conteúdo e\ncopywriter especialista em gerar conexão\nemocional e desejo de compra.\nQuero que você me ajude a criar conteúdos que\nfaçam minha audiência se sentir compreendida,\nconfiante e motivada a comprar meus\nprodutos serviços.\nConsidere meu público: mulheres empreendedoras\nque estão cansadas de postar e não vender, que\nbuscam leveza e estratégia para crescer no\nInstagram. Crie ideias de posts e legendas com\ngatilhos emocionais, mostrando empatia, histórias\nreais e frases que criem identificação e desejo.\nMe traga 5 ideias de conteúdos (Reels, Stories ou\nCarrossel) que gerem conexão sincera e levem\nnaturalmente à venda.",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Comando:",
+          "confidence": 1,
+          "box": [
+            0.2682935348611356,
+            0.7455876613313053,
+            0.4871925071433738,
+            0.09360817803276911
+          ],
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "text": "Aja como uma estrategista de conteúdo e",
+          "confidence": 1,
+          "box": [
+            0.19758326919534125,
+            0.6751477853039344,
+            0.6300181636103876,
+            0.02695806821187341
+          ],
+          "start_char": 9,
+          "end_char": 48
+        },
+        {
+          "text": "copywriter especialista em gerar conexão",
+          "confidence": 1,
+          "box": [
+            0.19961239907744063,
+            0.6451388888629495,
+            0.6220930311414931,
+            0.025000000000000022
+          ],
+          "start_char": 49,
+          "end_char": 89
+        },
+        {
+          "text": "emocional e desejo de compra.",
+          "confidence": 1,
+          "box": [
+            0.27519380387946385,
+            0.615972222172603,
+            0.47286820588288486,
+            0.023611111111111027
+          ],
+          "start_char": 90,
+          "end_char": 119
+        },
+        {
+          "text": "Quero que você me ajude a criar conteúdos que",
+          "confidence": 1,
+          "box": [
+            0.1511627768683933,
+            0.5840277783722553,
+            0.7189922756618924,
+            0.026437338193257554
+          ],
+          "start_char": 120,
+          "end_char": 165
+        },
+        {
+          "text": "façam minha audiência se sentir compreendida,",
+          "confidence": 1,
+          "box": [
+            0.14720960585775344,
+            0.5522965239619819,
+            0.7288532398365162,
+            0.027678512202368832
+          ],
+          "start_char": 166,
+          "end_char": 211
+        },
+        {
+          "text": "confiante e motivada a comprar meus",
+          "confidence": 1,
+          "box": [
+            0.22262709683441728,
+            0.5216826261782466,
+            0.5761181866681134,
+            0.029348974757724355
+          ],
+          "start_char": 212,
+          "end_char": 247
+        },
+        {
+          "text": "produtos serviços.",
+          "confidence": 1,
+          "box": [
+            0.37403100473943734,
+            0.4927325587064352,
+            0.27906977335611977,
+            0.027616278330485078
+          ],
+          "start_char": 248,
+          "end_char": 266
+        },
+        {
+          "text": "Considere meu público: mulheres empreendedoras",
+          "confidence": 1,
+          "box": [
+            0.12790696746461325,
+            0.4636627913040299,
+            0.7655038904260706,
+            0.024709301524692084
+          ],
+          "start_char": 267,
+          "end_char": 313
+        },
+        {
+          "text": "que estão cansadas de postar e não vender, que",
+          "confidence": 1,
+          "box": [
+            0.14715974806277002,
+            0.42990313446929085,
+            0.7270064177336516,
+            0.029286021656460215
+          ],
+          "start_char": 314,
+          "end_char": 360
+        },
+        {
+          "text": "buscam leveza e estratégia para crescer no",
+          "confidence": 1,
+          "box": [
+            0.18410853548435316,
+            0.40261627905589803,
+            0.651162776240596,
+            0.02325581444634328
+          ],
+          "start_char": 361,
+          "end_char": 403
+        },
+        {
+          "text": "Instagram. Crie ideias de posts e legendas com",
+          "confidence": 1,
+          "box": [
+            0.1550387543517341,
+            0.37063953486811796,
+            0.7054263644748264,
+            0.026162791252136164
+          ],
+          "start_char": 404,
+          "end_char": 450
+        },
+        {
+          "text": "gatilhos emocionais, mostrando empatia, histórias",
+          "confidence": 1,
+          "box": [
+            0.1356589172938847,
+            0.3401162787975679,
+            0.7519379792390046,
+            0.026162791252136164
+          ],
+          "start_char": 451,
+          "end_char": 500
+        },
+        {
+          "text": "reais e frases que criem identificação e desejo.",
+          "confidence": 1,
+          "box": [
+            0.16262218657376565,
+            0.30864325757743116,
+            0.6980229130497686,
+            0.029382756021287704
+          ],
+          "start_char": 501,
+          "end_char": 549
+        },
+        {
+          "text": "Me traga 5 ideias de conteúdos (Reels, Stories ou",
+          "confidence": 1,
+          "box": [
+            0.14900531201443126,
+            0.24607625876765227,
+            0.72329751473886,
+            0.033138240708245115
+          ],
+          "start_char": 550,
+          "end_char": 599
+        },
+        {
+          "text": "Carrossel) que gerem conexão sincera e levem",
+          "confidence": 1,
+          "box": [
+            0.15867100570681222,
+            0.21347349587507491,
+            0.7000502409758391,
+            0.032006923357645656
+          ],
+          "start_char": 600,
+          "end_char": 644
+        },
+        {
+          "text": "naturalmente à venda.",
+          "confidence": 1,
+          "box": [
+            0.3409809518153571,
+            0.19179954264254717,
+            0.3413479557743779,
+            0.02142782741122773
+          ],
+          "start_char": 645,
+          "end_char": 666
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 666
+    },
+    {
+      "text": "Captura de prompt em formato Story com instruções de estratégia de conteúdo e público.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 668,
+      "end_char": 754
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1440
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

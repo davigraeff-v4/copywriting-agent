@@ -1,0 +1,68 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/035e0010c16aa3a0948a70b29fd16742.jpg",
+  "source_sha256": "12967a9a42d55dcde95b4bdfaf25d3a336e71063cc312a4f07ccc580d780226e",
+  "text": "REMEMBER: Always\nBe A Good Person\n\nRetrato acompanhado de uma frase sobre conduta pessoal, em contraste preto, branco e vermelho.",
+  "segments": [
+    {
+      "text": "REMEMBER: Always\nBe A Good Person",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.034138896876230944,
+            0.2570753429735336,
+            0.9266474971064814,
+            0.07470484574635816
+          ],
+          "text": "REMEMBER: Always",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 16
+        },
+        {
+          "box": [
+            0.03617570877793425,
+            0.2062499992406257,
+            0.8527131822374132,
+            0.04956395427385962
+          ],
+          "text": "Be A Good Person",
+          "confidence": 1,
+          "start_char": 17,
+          "end_char": 33
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 33
+    },
+    {
+      "text": "Retrato acompanhado de uma frase sobre conduta pessoal, em contraste preto, branco e vermelho.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 35,
+      "end_char": 129
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      1920
+    ],
+    "ocr_rows": 2,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

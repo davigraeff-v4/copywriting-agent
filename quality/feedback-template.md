@@ -10,6 +10,7 @@ Registrar na campanha e na visão atual apenas o que for vigente/aplicável.
 - Feedback literal:
 - Classificação: argumento | evidência | português | voz | formato | redundância | viabilidade | outro
 - Interpretação do agent (separada da fala):
+- Diagnóstico quando pertinente: contexto/evidência | recuperação | direção | escrita | revisão | indeterminada; trecho/observação que sustenta a classificação. Classificação é hipótese causal até haver evidência suficiente.
 - Alteração aplicada:
 - Regra aprendida, escopo e limite:
 - Regra substituída (se houver):

@@ -1,0 +1,380 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/c2f3829c855f28db058ad712814d2d8e.jpg",
+  "source_sha256": "2bbbf2900aeb3ab6db9df48b833f29e24ce73f4248b28e3c0d118ddaedc19bd2",
+  "text": "Middle\nMiddle of Funnel Tactics\nof Funnel\n• Targeted email marketing campaigns\n• Classes or workshops\n• Interactive content (free tools, calculators,\nassessments, quizzes)\nTOFU\n• Demos and free trials\nMiddle of Funnel Content\nMOFU\n• Drip emails to various audience segments\n• Product demo videos\nBOFU\n• White papers and research reports\n• Product comparison guides\n• Online classes\nGoal\nMiddle of Funnel Metrics\nNurture and guide leads toward\nbecoming qualified customers\n• Email campaign engagement rates\n• Landing page engagement metrics\n• Click-through-rate on MoFu content\n• Conversion rates for mid-funnel offers\n(Demos, trials, classes)\nsemrush.com\n• SEMRUSH\n\nInfográfico sobre meio de funil com táticas, formatos e métricas.",
+  "segments": [
+    {
+      "text": "Middle\nMiddle of Funnel Tactics\nof Funnel\n• Targeted email marketing campaigns\n• Classes or workshops\n• Interactive content (free tools, calculators,\nassessments, quizzes)\nTOFU\n• Demos and free trials\nMiddle of Funnel Content\nMOFU\n• Drip emails to various audience segments\n• Product demo videos\nBOFU\n• White papers and research reports\n• Product comparison guides\n• Online classes\nGoal\nMiddle of Funnel Metrics\nNurture and guide leads toward\nbecoming qualified customers\n• Email campaign engagement rates\n• Landing page engagement metrics\n• Click-through-rate on MoFu content\n• Conversion rates for mid-funnel offers\n(Demos, trials, classes)\nsemrush.com\n• SEMRUSH",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "text": "Middle",
+          "confidence": 1,
+          "box": [
+            0.05722783626368516,
+            0.9172424868117863,
+            0.14670383312084057,
+            0.04499516607149234
+          ],
+          "start_char": 0,
+          "end_char": 6
+        },
+        {
+          "text": "Middle of Funnel Tactics",
+          "confidence": 1,
+          "box": [
+            0.43148148135885883,
+            0.9176201373121405,
+            0.2833333333333334,
+            0.027459954233409634
+          ],
+          "start_char": 7,
+          "end_char": 31
+        },
+        {
+          "text": "of Funnel",
+          "confidence": 1,
+          "box": [
+            0.05349487701040008,
+            0.8498076607783136,
+            0.20226950468840427,
+            0.04866843147190536
+          ],
+          "start_char": 32,
+          "end_char": 41
+        },
+        {
+          "text": "• Targeted email marketing campaigns",
+          "confidence": 1,
+          "box": [
+            0.45359658892106314,
+            0.8595142566010295,
+            0.36687794438114874,
+            0.030964266517342298
+          ],
+          "start_char": 42,
+          "end_char": 78
+        },
+        {
+          "text": "• Classes or workshops",
+          "confidence": 1,
+          "box": [
+            0.453546978878153,
+            0.8189415529245186,
+            0.22627150924117478,
+            0.029941744335183262
+          ],
+          "start_char": 79,
+          "end_char": 101
+        },
+        {
+          "text": "• Interactive content (free tools, calculators,",
+          "confidence": 1,
+          "box": [
+            0.45555555545634924,
+            0.7711670480630926,
+            0.4166666666666667,
+            0.029748283752860427
+          ],
+          "start_char": 102,
+          "end_char": 149
+        },
+        {
+          "text": "assessments, quizzes)",
+          "confidence": 1,
+          "box": [
+            0.48123046952405024,
+            0.7306731916271298,
+            0.20251810992205588,
+            0.033967617174580744
+          ],
+          "start_char": 150,
+          "end_char": 171
+        },
+        {
+          "text": "TOFU",
+          "confidence": 1,
+          "box": [
+            0.17017402992581238,
+            0.6903230156909206,
+            0.050392680697970926,
+            0.022099964133116545
+          ],
+          "start_char": 172,
+          "end_char": 176
+        },
+        {
+          "text": "• Demos and free trials",
+          "confidence": 1,
+          "box": [
+            0.45185185004629635,
+            0.6956521741418764,
+            0.22777777777777775,
+            0.027459954233409634
+          ],
+          "start_char": 177,
+          "end_char": 200
+        },
+        {
+          "text": "Middle of Funnel Content",
+          "confidence": 1,
+          "box": [
+            0.4314814813548592,
+            0.6224256293023529,
+            0.30000000000000004,
+            0.027459954233409523
+          ],
+          "start_char": 201,
+          "end_char": 225
+        },
+        {
+          "text": "MOFU",
+          "confidence": 0.5,
+          "box": [
+            0.16851851842923282,
+            0.5881006865356326,
+            0.0537037037037037,
+            0.020594965675057142
+          ],
+          "start_char": 226,
+          "end_char": 230
+        },
+        {
+          "text": "• Drip emails to various audience segments",
+          "confidence": 1,
+          "box": [
+            0.4499999960740741,
+            0.5675057211441648,
+            0.41111111111111115,
+            0.03203661327231122
+          ],
+          "start_char": 231,
+          "end_char": 273
+        },
+        {
+          "text": "• Product demo videos",
+          "confidence": 1,
+          "box": [
+            0.45370370155555556,
+            0.5286041192448513,
+            0.22592592592592592,
+            0.02517162471395873
+          ],
+          "start_char": 274,
+          "end_char": 295
+        },
+        {
+          "text": "BOFU",
+          "confidence": 0.5,
+          "box": [
+            0.1722222221331909,
+            0.48512585816317544,
+            0.04999999999999999,
+            0.020594965675057253
+          ],
+          "start_char": 296,
+          "end_char": 300
+        },
+        {
+          "text": "• White papers and research reports",
+          "confidence": 1,
+          "box": [
+            0.4517101038890664,
+            0.47597289751510585,
+            0.3502978572139034,
+            0.036793523303976894
+          ],
+          "start_char": 301,
+          "end_char": 336
+        },
+        {
+          "text": "• Product comparison guides",
+          "confidence": 1,
+          "box": [
+            0.45340350946786606,
+            0.4322722054466006,
+            0.28578663578739877,
+            0.03714342357364886
+          ],
+          "start_char": 337,
+          "end_char": 364
+        },
+        {
+          "text": "• Online classes",
+          "confidence": 1,
+          "box": [
+            0.4518518506018519,
+            0.3935926775934401,
+            0.1648148148148148,
+            0.029748283752860427
+          ],
+          "start_char": 365,
+          "end_char": 381
+        },
+        {
+          "text": "Goal",
+          "confidence": 1,
+          "box": [
+            0.07777777750000002,
+            0.3684210527745996,
+            0.04814814814814815,
+            0.022883295194508046
+          ],
+          "start_char": 382,
+          "end_char": 386
+        },
+        {
+          "text": "Middle of Funnel Metrics",
+          "confidence": 1,
+          "box": [
+            0.431481481412037,
+            0.32036613274814063,
+            0.2925925925925926,
+            0.03203661327231122
+          ],
+          "start_char": 387,
+          "end_char": 411
+        },
+        {
+          "text": "Nurture and guide leads toward",
+          "confidence": 1,
+          "box": [
+            0.05370370361171237,
+            0.3020594965764213,
+            0.2870370370370371,
+            0.027459954233409634
+          ],
+          "start_char": 412,
+          "end_char": 442
+        },
+        {
+          "text": "becoming qualified customers",
+          "confidence": 1,
+          "box": [
+            0.0534358981400084,
+            0.26344164628513056,
+            0.278306551332827,
+            0.03327583448292182
+          ],
+          "start_char": 443,
+          "end_char": 471
+        },
+        {
+          "text": "• Email campaign engagement rates",
+          "confidence": 1,
+          "box": [
+            0.4535848106699471,
+            0.26378221808118807,
+            0.34652659098307287,
+            0.031550803500945857
+          ],
+          "start_char": 472,
+          "end_char": 505
+        },
+        {
+          "text": "• Landing page engagement metrics",
+          "confidence": 1,
+          "box": [
+            0.45358580914631474,
+            0.220075033088606,
+            0.352057139078776,
+            0.03177725859583114
+          ],
+          "start_char": 506,
+          "end_char": 539
+        },
+        {
+          "text": "• Click-through-rate on MoFu content",
+          "confidence": 1,
+          "box": [
+            0.4517114342737843,
+            0.17618351768029672,
+            0.36880052354600695,
+            0.03454518700082454
+          ],
+          "start_char": 540,
+          "end_char": 576
+        },
+        {
+          "text": "• Conversion rates for mid-funnel offers",
+          "confidence": 1,
+          "box": [
+            0.4537037036041418,
+            0.13729977117442982,
+            0.38148148148148153,
+            0.027459954233409523
+          ],
+          "start_char": 577,
+          "end_char": 617
+        },
+        {
+          "text": "(Demos, trials, classes)",
+          "confidence": 1,
+          "box": [
+            0.4830928769953485,
+            0.09171300483252909,
+            0.20794765331127024,
+            0.03518470746701585
+          ],
+          "start_char": 618,
+          "end_char": 642
+        },
+        {
+          "text": "semrush.com",
+          "confidence": 0.5,
+          "box": [
+            0.053703703641975305,
+            0.016018306864988507,
+            0.0962962962962963,
+            0.013729977116704761
+          ],
+          "start_char": 643,
+          "end_char": 654
+        },
+        {
+          "text": "• SEMRUSH",
+          "confidence": 1,
+          "box": [
+            0.8166666666367982,
+            0.009153318122093412,
+            0.1333333333333333,
+            0.027459954233409634
+          ],
+          "start_char": 655,
+          "end_char": 664
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 664
+    },
+    {
+      "text": "Infográfico sobre meio de funil com táticas, formatos e métricas.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 666,
+      "end_char": 731
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1080,
+      873
+    ],
+    "ocr_rows": 28,
+    "low_confidence_rows": 3,
+    "ocr_mean_confidence": 0.9464285714285714,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/09b9b9168f78c2484715f62e2be2c2f9.png",
+  "source_sha256": "5fc95c431d251e76b7a48a4d5428b70345f66ec68de5a5ae6f14f7c500f2ee36",
+  "text": "Branding\nAudit!\nMission & Values\nCan I clearly explain why I do what I do?\nTarget Audience\nDo I know who I'm speaking to?\nVisual Identity\nDo I have logos, colours, fonts and other\nbrand assets?\nTone of Voice\nDoes my messaging have a unique\npersonality?\nConsistency\nDoes my brand feel the same across all\nplatforms?\nmauka creative\n\nChecklist de auditoria de marca, com missão, público, identidade, voz e consistência.",
+  "segments": [
+    {
+      "text": "Branding\nAudit!\nMission & Values\nCan I clearly explain why I do what I do?\nTarget Audience\nDo I know who I'm speaking to?\nVisual Identity\nDo I have logos, colours, fonts and other\nbrand assets?\nTone of Voice\nDoes my messaging have a unique\npersonality?\nConsistency\nDoes my brand feel the same across all\nplatforms?\nmauka creative",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "confidence": 1,
+          "text": "Branding",
+          "box": [
+            0.09886823020736427,
+            0.8024896321776048,
+            0.5227207031250001,
+            0.08743707275390622
+          ],
+          "start_char": 0,
+          "end_char": 8
+        },
+        {
+          "confidence": 1,
+          "text": "Audit!",
+          "box": [
+            0.09479692734978847,
+            0.7261755047878315,
+            0.3681403503417969,
+            0.09125364176432293
+          ],
+          "start_char": 9,
+          "end_char": 15
+        },
+        {
+          "confidence": 1,
+          "text": "Mission & Values",
+          "box": [
+            0.21350762878525403,
+            0.6146666669152643,
+            0.3769063110351562,
+            0.032135658264160205
+          ],
+          "start_char": 16,
+          "end_char": 32
+        },
+        {
+          "confidence": 1,
+          "text": "Can I clearly explain why I do what I do?",
+          "box": [
+            0.2156862668390013,
+            0.5857558141889705,
+            0.647058837890625,
+            0.024910853068033867
+          ],
+          "start_char": 33,
+          "end_char": 74
+        },
+        {
+          "confidence": 1,
+          "text": "Target Audience",
+          "box": [
+            0.21568626893901102,
+            0.5273333338195008,
+            0.33551199340820315,
+            0.027999999999999914
+          ],
+          "start_char": 75,
+          "end_char": 90
+        },
+        {
+          "confidence": 1,
+          "text": "Do I know who I'm speaking to?",
+          "box": [
+            0.215686276058315,
+            0.5000000000685918,
+            0.5119825744628906,
+            0.026162790934244784
+          ],
+          "start_char": 91,
+          "end_char": 121
+        },
+        {
+          "confidence": 1,
+          "text": "Visual Identity",
+          "box": [
+            0.21277751429109923,
+            0.43703212501994726,
+            0.3198419799804687,
+            0.035931930541992174
+          ],
+          "start_char": 122,
+          "end_char": 137
+        },
+        {
+          "confidence": 1,
+          "text": "Do I have logos, colours, fonts and other",
+          "box": [
+            0.2156862655511343,
+            0.4053333332199447,
+            0.6579520874023437,
+            0.027999999999999914
+          ],
+          "start_char": 138,
+          "end_char": 179
+        },
+        {
+          "confidence": 1,
+          "text": "brand assets?",
+          "box": [
+            0.2135076295008485,
+            0.3851744191116214,
+            0.23311546325683596,
+            0.02180232493082679
+          ],
+          "start_char": 180,
+          "end_char": 193
+        },
+        {
+          "confidence": 1,
+          "text": "Tone of Voice",
+          "box": [
+            0.21310843589997308,
+            0.32232221019164886,
+            0.31445794677734373,
+            0.03105876159667964
+          ],
+          "start_char": 194,
+          "end_char": 207
+        },
+        {
+          "confidence": 1,
+          "text": "Does my messaging have a unique",
+          "box": [
+            0.21568628051768451,
+            0.29200000046862695,
+            0.5599128417968751,
+            0.026313953399658252
+          ],
+          "start_char": 208,
+          "end_char": 239
+        },
+        {
+          "confidence": 1,
+          "text": "personality?",
+          "box": [
+            0.21292893483012273,
+            0.2632011030101298,
+            0.2039090576171875,
+            0.02635742950439457
+          ],
+          "start_char": 240,
+          "end_char": 252
+        },
+        {
+          "confidence": 1,
+          "text": "Consistency",
+          "box": [
+            0.21540002161248992,
+            0.20732751087889123,
+            0.27735885620117184,
+            0.02643220520019529
+          ],
+          "start_char": 253,
+          "end_char": 264
+        },
+        {
+          "confidence": 1,
+          "text": "Does my brand feel the same across all",
+          "box": [
+            0.21547956428850865,
+            0.1750832981543463,
+            0.6387958374023437,
+            0.027690480550130125
+          ],
+          "start_char": 265,
+          "end_char": 303
+        },
+        {
+          "confidence": 1,
+          "text": "platforms?",
+          "box": [
+            0.21305328665994017,
+            0.1494739186338071,
+            0.17737925720214842,
+            0.02518007151285806
+          ],
+          "start_char": 304,
+          "end_char": 314
+        },
+        {
+          "confidence": 1,
+          "text": "mauka creative",
+          "box": [
+            0.42483660182084826,
+            0.09133333358336193,
+            0.1960784301757813,
+            0.014771317799886052
+          ],
+          "start_char": 315,
+          "end_char": 329
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 329
+    },
+    {
+      "text": "Checklist de auditoria de marca, com missão, público, identidade, voz e consistência.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 331,
+      "end_char": 416
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1000,
+      1500
+    ],
+    "ocr_rows": 16,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

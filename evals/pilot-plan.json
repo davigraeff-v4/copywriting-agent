@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "purpose": "Piloto de desenvolvimento editorial; casos conhecidos não são validação inédita.",
+  "existing_case_ids": ["ads-02", "lp-03", "social-02"],
+  "additional_cases": [
+    {
+      "id": "direct-pilot-01",
+      "route": "direct",
+      "origin": "synthetic_fixture_2026-10-16",
+      "title": "Follow-up com informação útil",
+      "prompt": "Empresa fictícia Oficina de Etiquetas enviou ontem, a pedido de uma loja, um catálogo de etiquetas. O contato disse que ainda levantaria as medidas das embalagens. Criar um WhatsApp de follow-up com até 80 palavras. Fato do briefing: a equipe pode receber as medidas e indicar no catálogo os formatos correspondentes, sem prometer compatibilidade, preço, prazo ou estoque. Não cobrar resposta nem inventar intimidade. Voz provisória: clara e profissional; não há amostra pessoal. O próximo passo é o contato enviar as medidas quando as tiver.",
+      "expected_review": "Acrescentar utilidade à retomada, preservar o contexto e propor um passo proporcional; sem urgência inventada ou garantia técnica."
+    }
+  ],
+  "systems": ["llm-simples", "agent-atual"],
+  "repetitions": 1,
+  "model_id": null,
+  "effort": null,
+  "generation_status": "not_started",
+  "human_evaluation_status": "pending"
+}

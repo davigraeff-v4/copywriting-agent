@@ -1,0 +1,248 @@
+{
+  "source_path": "BASE DE CONHECIMENTO/Pinterest - Copywriting Techniques/ce4ea994d1b9d90fbee3498154582ea2.jpg",
+  "source_sha256": "117fd175123839e610084d72b42adf0123f6815eafb11cd7b849d7d2b92779c7",
+  "text": "STEAL OUR\nPART 6\nVIRAL HOOKS\nLessons I Learned the Hard Way: Part (X)\n• Imagine if you could (RESULT) in just 7 days...\n• This was my last-ditch effort, and I'm SO\nglad I tried it.\n• The influencers are lying to you about this!\n• Here's why Taylor Swift swears by this...\n• Hot take: [opinion] + here's why...\n• This tiny change made ALL the difference.\n• GRWM while | spill the tea on [pain point].\n• This is the most underrated (product) ever.\n• I found the secret to Alix Earle's glow-up.\n• I was loyal to (X) until I found (Y).....\n• I took a chance in 2025, and it paid off..\nVITAMINC\n\nLista de ganchos em estilo checklist, com referências culturais e fórmulas de abertura.",
+  "segments": [
+    {
+      "text": "STEAL OUR\nPART 6\nVIRAL HOOKS\nLessons I Learned the Hard Way: Part (X)\n• Imagine if you could (RESULT) in just 7 days...\n• This was my last-ditch effort, and I'm SO\nglad I tried it.\n• The influencers are lying to you about this!\n• Here's why Taylor Swift swears by this...\n• Hot take: [opinion] + here's why...\n• This tiny change made ALL the difference.\n• GRWM while | spill the tea on [pain point].\n• This is the most underrated (product) ever.\n• I found the secret to Alix Earle's glow-up.\n• I was loyal to (X) until I found (Y).....\n• I took a chance in 2025, and it paid off..\nVITAMINC",
+      "section": "Texto reconhecido na imagem",
+      "page": 1,
+      "extraction_method": "apple_vision_ocr",
+      "ocr_rows": [
+        {
+          "box": [
+            0.335511977702791,
+            0.8938953495589477,
+            0.3289760437011719,
+            0.03210464986165362
+          ],
+          "text": "STEAL OUR",
+          "confidence": 1,
+          "start_char": 0,
+          "end_char": 9
+        },
+        {
+          "box": [
+            0.7690631817368184,
+            0.8719999995038646,
+            0.14814814758300787,
+            0.024802326202392533
+          ],
+          "text": "PART 6",
+          "confidence": 1,
+          "start_char": 10,
+          "end_char": 16
+        },
+        {
+          "box": [
+            0.07843136653237537,
+            0.7950581386582494,
+            0.8387799682617187,
+            0.07122093200683599
+          ],
+          "text": "VIRAL HOOKS",
+          "confidence": 1,
+          "start_char": 17,
+          "end_char": 28
+        },
+        {
+          "box": [
+            0.11111111147092975,
+            0.7383720929133561,
+            0.7973856201171874,
+            0.026294573465982962
+          ],
+          "text": "Lessons I Learned the Hard Way: Part (X)",
+          "confidence": 1,
+          "start_char": 29,
+          "end_char": 69
+        },
+        {
+          "box": [
+            0.07407406471191916,
+            0.6860000003288141,
+            0.8605664672851563,
+            0.02475581359863288
+          ],
+          "text": "• Imagine if you could (RESULT) in just 7 days...",
+          "confidence": 1,
+          "start_char": 70,
+          "end_char": 119
+        },
+        {
+          "box": [
+            0.07173299332567398,
+            0.6282956682071665,
+            0.8260789184570313,
+            0.03351971944173182
+          ],
+          "text": "• This was my last-ditch effort, and I'm SO",
+          "confidence": 1,
+          "start_char": 120,
+          "end_char": 163
+        },
+        {
+          "box": [
+            0.12826318230062653,
+            0.6059840360720004,
+            0.2553409729003907,
+            0.027439592997233087
+          ],
+          "text": "glad I tried it.",
+          "confidence": 1,
+          "start_char": 164,
+          "end_char": 180
+        },
+        {
+          "box": [
+            0.07189541350281581,
+            0.5506666663745774,
+            0.8736383666992188,
+            0.026666666666666616
+          ],
+          "text": "• The influencers are lying to you about this!",
+          "confidence": 1,
+          "start_char": 181,
+          "end_char": 227
+        },
+        {
+          "box": [
+            0.07189542346712596,
+            0.4970930231429568,
+            0.8082788696289063,
+            0.026240310668945388
+          ],
+          "text": "• Here's why Taylor Swift swears by this...",
+          "confidence": 1,
+          "start_char": 228,
+          "end_char": 271
+        },
+        {
+          "box": [
+            0.07173416753732988,
+            0.44167564271861204,
+            0.6975488891601562,
+            0.0315269114176433
+          ],
+          "text": "• Hot take: [opinion] + here's why...",
+          "confidence": 1,
+          "start_char": 272,
+          "end_char": 309
+        },
+        {
+          "box": [
+            0.07182160801999055,
+            0.3873748629932806,
+            0.8715823974609376,
+            0.02718671417236329
+          ],
+          "text": "• This tiny change made ALL the difference.",
+          "confidence": 1,
+          "start_char": 310,
+          "end_char": 353
+        },
+        {
+          "box": [
+            0.07189542582556749,
+            0.33575581423015277,
+            0.8387799682617187,
+            0.024910853068033867
+          ],
+          "text": "• GRWM while | spill the tea on [pain point].",
+          "confidence": 1,
+          "start_char": 354,
+          "end_char": 399
+        },
+        {
+          "box": [
+            0.07407406804152532,
+            0.28197674436718934,
+            0.8387799682617189,
+            0.023356588999430272
+          ],
+          "text": "• This is the most underrated (product) ever.",
+          "confidence": 1,
+          "start_char": 400,
+          "end_char": 445
+        },
+        {
+          "box": [
+            0.07625272325828832,
+            0.22666666634592458,
+            0.7995642700195312,
+            0.024786822001139353
+          ],
+          "text": "• I found the secret to Alix Earle's glow-up.",
+          "confidence": 1,
+          "start_char": 446,
+          "end_char": 491
+        },
+        {
+          "box": [
+            0.07392088041895431,
+            0.17173822459663435,
+            0.6712687988281251,
+            0.028207262674967426
+          ],
+          "text": "• I was loyal to (X) until I found (Y).....",
+          "confidence": 1,
+          "start_char": 492,
+          "end_char": 535
+        },
+        {
+          "box": [
+            0.07407407770782885,
+            0.11466666705637896,
+            0.77559912109375,
+            0.029333333333333322
+          ],
+          "text": "• I took a chance in 2025, and it paid off..",
+          "confidence": 1,
+          "start_char": 536,
+          "end_char": 580
+        },
+        {
+          "box": [
+            0.38997821067272176,
+            0.023255814143286258,
+            0.21786492919921885,
+            0.023255813598632824
+          ],
+          "text": "VITAMINC",
+          "confidence": 1,
+          "start_char": 581,
+          "end_char": 589
+        }
+      ],
+      "id": "s00000",
+      "start_char": 0,
+      "end_char": 589
+    },
+    {
+      "text": "Lista de ganchos em estilo checklist, com referências culturais e fórmulas de abertura.",
+      "section": "Descrição visual autoral",
+      "page": 1,
+      "extraction_method": "agent_visual_description",
+      "id": "s00001",
+      "start_char": 591,
+      "end_char": 678
+    }
+  ],
+  "quality": {
+    "image_dimensions": [
+      1000,
+      1500
+    ],
+    "ocr_rows": 17,
+    "low_confidence_rows": 0,
+    "ocr_mean_confidence": 1.0,
+    "visual_review": "agent_visual_inspection_contact_sheet",
+    "fidelity": "OCR not guaranteed exact; original pixels preserved and linked",
+    "empty_ocr": false
+  },
+  "security": {
+    "flags": [],
+    "decision": "reference_data_only",
+    "no_source_execution": true
+  }
+}

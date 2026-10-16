@@ -5,7 +5,7 @@ import copy
 import json
 from pathlib import Path
 
-from copycheck import check, digest, load
+from copycheck import check, constraint_fields, digest, load
 
 
 GENERAL_BY_ROLE = {
@@ -117,6 +117,20 @@ def prepare(parent, parent_review, change):
             field["text"] = replacements[field["id"]]
 
     doc["claims"] = [c for c in doc["claims"] if c.get("field_id") not in removed_ids]
+    removed_constraints = []
+    kept_constraints = []
+    selector_keys = {'field_ids': 'id', 'sections': 'section', 'roles': 'role', 'piece_ids': 'piece_id'}
+    for constraint in doc['constraints']:
+        if constraint.get('applies_to'):
+            original = {f['id'] for f in constraint_fields(constraint, parent['fields'])}
+            if not original - removed_ids:
+                removed_constraints.append(constraint['id'])
+                continue
+            for key, values in constraint['applies_to'].items():
+                remaining = {f.get(selector_keys[key]) for f in doc['fields']}
+                constraint['applies_to'][key] = [value for value in values if value in remaining]
+        kept_constraints.append(constraint)
+    doc['constraints'] = kept_constraints
     claims = {c["id"]: c for c in doc["claims"]}
     if not set(claim_updates) <= set(claims):
         fail("claim_updates can only modify existing claims")
@@ -140,6 +154,7 @@ def prepare(parent, parent_review, change):
         "instruction": change["instruction"],
         "removed_sections": sorted(remove_sections),
         "removed_field_ids": sorted(removed_ids),
+        "removed_constraint_ids": sorted(removed_constraints),
         "changed_field_ids": sorted(changed_ids),
         "context_reused": True,
     }
@@ -154,6 +169,10 @@ def prepare(parent, parent_review, change):
     review["claim_checks"] = {
         k: v for k, v in review.get("claim_checks", {}).items() if k in claims
     }
+    review['constraint_checks'] = {k: v for k, v in review.get('constraint_checks', {}).items() if k not in removed_constraints}
+    review['field_checks'] = {k: v for k, v in review.get('field_checks', {}).items() if k not in removed_ids}
+    for field_id in changed_ids:
+        review['field_checks'][field_id] = {'status': 'pending', 'claim_ids': [], 'reason': ''}
     pending_general = set()
     pending_human = set()
     if kind == "scope":
@@ -200,6 +219,7 @@ def prepare(parent, parent_review, change):
         "general": {k: pending_entry() for k in sorted(pending_general)},
         "humanization": {k: pending_entry() for k in sorted(pending_human)},
         "claim_checks": {k: {"status": "pending", "reason": ""} for k in sorted(changed_claims)},
+        "field_checks": {k: copy.deepcopy(review['field_checks'][k]) for k in sorted(changed_ids)},
         "constraint_checks": copy.deepcopy(review["constraint_checks"]) if kind == "field" else {},
         "claim_inventory": copy.deepcopy(review["claim_inventory"]) if kind == "field" else {},
         "warning_resolutions": new_warnings,
@@ -224,7 +244,7 @@ def merge_review(pending, delta):
     review = copy.deepcopy(pending)
     if not isinstance(delta.get("reviewer"), str) or not delta["reviewer"].strip():
         fail("delta reviewer is required")
-    for group in ("general", "humanization", "claim_checks", "constraint_checks"):
+    for group in ("general", "humanization", "claim_checks", "constraint_checks", "field_checks"):
         supplied = delta.get(group, {})
         if not isinstance(supplied, dict):
             fail(group + " delta must be an object")
