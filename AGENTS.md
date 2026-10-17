@@ -6,6 +6,7 @@ Arquitetura: **1 agent + 14 skills**, arquivos locais e verificadores Python sem
 
 ## Escopo e início
 
+- No primeiro chat de uso do projeto, verificar a disponibilidade do RAG e orientar a instalação semântica conforme as seções `Primeiro chat` e `Instalar o RAG semântico` do `README.md`. Usar o Python e o cache configurados para o projeto; ativação em outro terminal não é herdada automaticamente. Distinguir semântico ativo, somente lexical disponível e base indisponível. Validar artefatos e executar uma consulta real antes de afirmar que os dois canais semânticos funcionam; `validate_rag.py` sozinho não carrega o modelo. Se já estiver pronto, confirmar brevemente sem repetir instalação. Se faltar algo, explicar dependências, download inicial e validação; instalar/baixar somente quando solicitado ou autorizado. Não criar novo checkpoint de campanha, repetir o aviso em cada mensagem nem bloquear a produção pelo semântico opcional quando o lexical estiver disponível.
 - Pedido de copy/briefing: iniciar `skills/01-briefing-intake/SKILL.md` sem pedir permissão para começar.
 - Revisão: usar `skills/13-copy-review-scorecard/SKILL.md`. Aprovação/feedback: skill `14`.
 - Ajuste de copy existente: ler `knowledge/ajustes-incrementais.md` antes de decidir quais skills executar. Não reiniciar campanha por padrão.
