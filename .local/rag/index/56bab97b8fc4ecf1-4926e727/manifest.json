@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "fastembed_version": "0.8.0",
+  "embedding_dim": 384,
+  "token_limit": 128,
+  "target_tokens": 120,
+  "max_chunk_tokens": 120,
+  "max_words": 180,
+  "overlap_words": 8,
+  "source_fingerprint": "56bab97b8fc4ecf18c3ff79c9772c8c7e7912aceed66a292c10ca59c4ffbde88",
+  "pipeline_hash": "53b6cf250f86106b27ec5fecfc0cbe3df3d41ae5136297811c9abfebd27f1a3c",
+  "document_count": 239,
+  "chunk_count": 8094,
+  "built_at": "2026-10-19T08:32:29-0300",
+  "public_only": true,
+  "private_documents": 0,
+  "remote_embedding_calls": 0,
+  "files": {
+    "vectors.npz": "7b34e4c58f41f9394905b4062079968a821b54d7715542a7b0f449a22347c711",
+    "chunks.json": "5248741acc8fa723dcf9c9d19ce971c528f3164b52e2657ed23c908b9898c442"
+  },
+  "model_files_sha256": {
+    "model_optimized.onnx": "634d0f66c29dc934c8fa72b8a4fe91dd4d420a22f1d82a241058d4316e659a99",
+    "config.json": "c8ec081fdad2df991bf5abbf18418fec7a5cdaa421f60ffb060a30040b8c376f",
+    "tokenizer.json": "fa685fc160bbdbab64058d4fc91b60e62d207e8dc60b9af5c002c5ab946ded00",
+    "tokenizer_config.json": "0666eebf692422757e1dddf3c9fb1ded73ba3dc726c5828671fc89e45bf3609f",
+    "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+  },
+  "reused_embeddings": 8094,
+  "generated_embeddings": 0
+}

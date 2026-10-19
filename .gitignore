@@ -16,10 +16,12 @@ __pycache__/
 .local/rag/index/*
 !.local/rag/index/current.json
 !.local/rag/index/56bab97b8fc4ecf1-8019ff93/
+!.local/rag/index/56bab97b8fc4ecf1-4926e727/
 !.local/rag/semantic-channel/
 .local/rag/semantic-channel/*
 !.local/rag/semantic-channel/current.json
 !.local/rag/semantic-channel/56bab97b8fc4ecf1-48bfc570/
+!.local/rag/semantic-channel/56bab97b8fc4ecf1-c8f2a2ca/
 !.local/rag/full-ingestion/
 .local/rag/full-ingestion/*
 !.local/rag/full-ingestion/source-inputs.json
@@ -40,6 +42,7 @@ __pycache__/
 !.local/repertorio/lote-02/urls.json
 
 # Contexto, validações e avaliações reais: somente armazenamento local
+/output/
 clients/current/
 clients/history/
 campaigns/

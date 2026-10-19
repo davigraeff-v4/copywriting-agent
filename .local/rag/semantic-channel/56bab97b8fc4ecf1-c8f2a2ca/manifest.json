@@ -1,0 +1,26 @@
+{
+  "schema": 1,
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "fastembed_version": "0.8.0",
+  "dimensions": 384,
+  "source_fingerprint": "56bab97b8fc4ecf18c3ff79c9772c8c7e7912aceed66a292c10ca59c4ffbde88",
+  "base_chunks_sha256": "5248741acc8fa723dcf9c9d19ce971c528f3164b52e2657ed23c908b9898c442",
+  "encoder_hash": "3e355798c20980ab09f6a4ff1b54365bf30a4b5523a10b75b4239b7c8d4c80e2",
+  "model_files_sha256": {
+    "model_optimized.onnx": "634d0f66c29dc934c8fa72b8a4fe91dd4d420a22f1d82a241058d4316e659a99",
+    "config.json": "c8ec081fdad2df991bf5abbf18418fec7a5cdaa421f60ffb060a30040b8c376f",
+    "tokenizer.json": "fa685fc160bbdbab64058d4fc91b60e62d207e8dc60b9af5c002c5ab946ded00",
+    "tokenizer_config.json": "0666eebf692422757e1dddf3c9fb1ded73ba3dc726c5828671fc89e45bf3609f",
+    "special_tokens_map.json": "8c785abebea9ae3257b61681b4e6fd8365ceafde980c21970d001e834cf10835"
+  },
+  "chunk_count": 8094,
+  "max_tokens": 120,
+  "private_documents": 0,
+  "remote_embedding_calls": 0,
+  "reused_embeddings": 8094,
+  "files": {
+    "inputs.json": "471e6407a915d28949e167732595899bfc234e4bc354f8d340270be54abaa58c",
+    "vectors.npz": "4cca9c49ad1ae7dc45791f526a21dc38c378e281e0b6722326dea343b91396b5"
+  },
+  "built_at": "2026-10-19T08:32:41-0300"
+}

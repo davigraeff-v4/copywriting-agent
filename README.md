@@ -157,6 +157,8 @@ As consultas e os embeddings são locais; o uso diário não depende de uma API 
 
 Se o semântico não puder funcionar, a busca informa `fallback_reason` e usa o lexical quando possível. Se a própria base ou o registro de fontes estiver inválido, pode retornar indisponibilidade; não há busca automática em arquivos privados para compensar o erro.
 
+`semantic_used` informa se houve candidatos semânticos retidos no ranking. Pode ser `false` numa consulta que carregou os dois canais, mas não encontrou candidatos acima do corte. Para distinguir isso de falha do modelo, conferir também `engine_used`, `semantic_channel`, `semantic_channel_warning` e `fallback_reason`. A consulta de validação abaixo exige contribuição semântica real; uma consulta arbitrária sem candidatos não prova indisponibilidade.
+
 ### Em que momento o agent consulta
 
 ```mermaid
@@ -197,31 +199,33 @@ source .local/venv-rag/bin/activate
 python -m pip install -r requirements-rag.txt
 ```
 
-O arquivo fixa FastEmbed 0.8.0 e NumPy 2.3.5. O ambiente fica ignorado no Git. No Windows PowerShell, a ativação equivalente é `.local\venv-rag\Scripts\Activate.ps1`; ajuste também a definição da variável de ambiente do próximo passo.
+O arquivo fixa FastEmbed 0.8.0 e NumPy 2.3.5. O ambiente fica ignorado no Git. No Windows PowerShell, a ativação equivalente é `.local\venv-rag\Scripts\Activate.ps1`. A variável de ambiente só é necessária se escolher um cache alternativo ao padrão do projeto.
 
-**2. Definir um cache persistente e baixar o modelo uma vez.**
+**2. Preparar o cache persistente e baixar o modelo uma vez.**
+
+O carregador usa `.local/fastembed-cache/` na raiz deste projeto por padrão, independentemente do diretório de execução ou de ativação em outro terminal. `cache_dir` informado pelo chamador tem prioridade; `FASTEMBED_CACHE_PATH` permite substituir o padrão. Consultas normais continuam locais e não baixam pesos ausentes.
 
 ```bash
-export FASTEMBED_CACHE_PATH="$PWD/.local/fastembed-cache"
 python - <<'PY'
-import os
 import sys
 from fastembed import TextEmbedding
 
 sys.path.insert(0, "scripts")
 from rag_config import MODEL, FASTEMBED_VERSION, DIMENSION
+from rag_model import resolve_cache_dir
 
-model = TextEmbedding(model_name=MODEL, threads=2)
+cache = resolve_cache_dir()
+model = TextEmbedding(model_name=MODEL, cache_dir=str(cache), threads=2)
 vector = next(iter(model.embed(["Verificação inicial do RAG local."])))
 assert len(vector) == DIMENSION
 print(f"Modelo preparado: {MODEL}; FastEmbed esperado: {FASTEMBED_VERSION}")
-print(f"Cache: {os.environ['FASTEMBED_CACHE_PATH']}")
+print(f"Cache: {cache}")
 PY
 ```
 
 Somente esse preparo permite o download. A rotina de recuperação continua carregando arquivos locais. Se já existir um cache compatível, pode apontar `FASTEMBED_CACHE_PATH` para ele e evitar novo download. Pesos e ambiente Python não entram no Git.
 
-Em cada novo terminal, ative o ambiente e defina novamente a variável antes de usar o semântico. No chat, o agent deve usar esse mesmo Python e cache nos comandos; uma ativação feita em outro terminal não se transfere automaticamente ao processo do agent.
+Em cada novo terminal, use o Python com as dependências instaladas. O cache padrão do projeto não exige redefinir uma variável de ambiente. Se escolher outro cache por `FASTEMBED_CACHE_PATH`, esse override precisa existir no processo que executa a consulta; uma ativação feita em outro terminal não se transfere automaticamente ao processo do agent.
 
 **3. Validar os índices e executar uma consulta real.**
 
