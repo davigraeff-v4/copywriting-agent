@@ -78,3 +78,14 @@ Registrar feedback em memória do cliente e campanha. Aprovação do gestor, apr
 `/copy-lp` seleciona LP. `/copy-social` e `/calendario` selecionam social orgânico. `/copy-meta` e `/copy-google` selecionam anúncios. `/copy-criativo`, `/copy-carrossel` e `/copy-video` fixam formato, mantendo a rota conforme objetivo. `/copy-whatsapp` e `/copy-email` usam a rota direta.
 
 Os comandos funcionam como convenções no Codex; os principais possuem atalhos em `.claude/commands/`. O gestor recebe texto legível; JSON, hashes e comandos são detalhes internos.
+
+
+## Clientes automáticos da Central Rotina
+
+Na integração Central, `clients/central-{UUID sem hífens}/.central-identity.json`
+registra uma identidade por IDs conferida pelo executor. Execute `client_brief.py`
+normalmente; ele informa ausência legítima de memória sem criar uma ficha. Para
+essa identidade, leia CLIENTE.md e APRENDIZADOS.md somente quando existirem. Não
+preencha arquivos com fatos inventados nem consulte clientes por semelhança de
+nome. Briefing atual e fontes reais sustentam a direção; lacunas indispensáveis
+continuam dependentes do humano. Memórias e campanhas legadas permanecem no lugar.
