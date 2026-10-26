@@ -89,3 +89,17 @@ essa identidade, leia CLIENTE.md e APRENDIZADOS.md somente quando existirem. Nã
 preencha arquivos com fatos inventados nem consulte clientes por semelhança de
 nome. Briefing atual e fontes reais sustentam a direção; lacunas indispensáveis
 continuam dependentes do humano. Memórias e campanhas legadas permanecem no lugar.
+
+
+## Leitor comum de fontes da Central
+
+Quando a Central disponibilizar a ponte da tentativa, use
+`python3 scripts/central_sources.py manifest`, `list ID`, `find TERMO`, `inspect ID`
+e `read ID`. O escopo vem dos links do briefing atual; não use o gws diretamente
+nem tente ampliar o acesso para outro cliente, conta ou pasta não inventariada.
+Metadado localizado não é conteúdo lido. O read emite um snapshot no stdout e
+registra a emissão pela ponte, sem comprovar consumo pelo modelo, compreensão,
+validade factual ou aprovação.
+Use os recibos originais de read_context exigidos pelo gate. Na revisão, mantenha
+os caminhos e hashes pinados; a ponte não adquire fontes novas nessa fase.
+Fora da sessão autorizada, informe que o leitor não está disponível.
