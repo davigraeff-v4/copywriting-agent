@@ -47,6 +47,57 @@ class Gates(unittest.TestCase):
     def test_clean_draft_needs_review(self):
         self.assertEqual(c.check(self.doc)['status'], 'needs_editorial_review')
 
+    def product_template(self):
+        self.doc['context']['approved_direction_id'] = 'human-approved-direction-fixture'
+        self.doc['fields'].append(dict(id='product-spec', section=self.doc['fields'][0]['section'],
+                                       role='specification', text='[VALOR E UNIDADE]'))
+        self.doc['constraints'].append(dict(id='authorized-template', rule='Keep pending product data in brackets.',
+            scope='product specification', source='Explicit human direction, synthetic fixture', status='active',
+            applies_to={'field_ids': ['product-spec']}, placeholder_allowances=[dict(field_id='product-spec',
+                token='[VALOR E UNIDADE]', purpose='product_data_pending', direction_id='human-approved-direction-fixture')]))
+        return self.doc['constraints'][-1]
+
+    def test_exact_human_product_marker_is_accepted_without_inventing_a_fact(self):
+        self.product_template()
+        result = c.check(self.doc, fixture_review(self.doc))
+        self.assertEqual(result['status'], 'ready_for_human_approval', result)
+        self.assertEqual(self.doc['fields'][-1]['text'], '[VALOR E UNIDADE]')
+
+    def test_product_marker_stays_blocked_without_its_active_scoped_authorization(self):
+        for mutation in ('missing', 'inactive', 'wrong_field', 'wrong_token', 'wrong_direction', 'global'):
+            with self.subTest(mutation=mutation):
+                self.setUp(); constraint = self.product_template()
+                if mutation == 'missing': constraint.pop('placeholder_allowances')
+                elif mutation == 'inactive': constraint['status'] = 'superseded'
+                elif mutation == 'wrong_field': constraint['placeholder_allowances'][0]['field_id'] = 'unknown'
+                elif mutation == 'wrong_token': constraint['placeholder_allowances'][0]['token'] = '[VALOR NÃO AUTORIZADO]'
+                elif mutation == 'wrong_direction': constraint['placeholder_allowances'][0]['direction_id'] = 'other-direction'
+                else: constraint.pop('applies_to')
+                self.assertEqual(c.check(self.doc)['status'], 'blocked')
+
+    def test_product_allowance_does_not_hide_other_placeholders_or_unsupported_claims(self):
+        self.product_template()
+        self.doc['fields'][-1]['text'] += ' [valor e unidade]'
+        self.assertEqual(c.check(self.doc)['status'], 'blocked')
+        self.doc['fields'][-1]['text'] = '[VALOR E UNIDADE] [CONFIRMAR PREÇO]'
+        self.assertEqual(c.check(self.doc)['status'], 'blocked')
+        self.doc['fields'][-1]['text'] = '[VALOR E UNIDADE]'
+        self.doc['claims'].append(dict(id='fabricated', field_id='product-spec', quote='[VALOR E UNIDADE]',
+            fact_ids=[self.doc['facts'][0]['id']], limit='Not supported by product facts.'))
+        self.assertEqual(c.check(self.doc, fixture_review(self.doc))['status'], 'blocked')
+
+    def test_product_allowance_cannot_serve_as_factual_evidence_or_expand_scope(self):
+        constraint = self.product_template()
+        self.doc['facts'][0]['statement'] += ' [VALOR E UNIDADE]'
+        self.assertEqual(c.check(self.doc)['status'], 'blocked')
+        self.setUp(); constraint = self.product_template()
+        constraint['applies_to']['field_ids'].append(self.doc['fields'][0]['id'])
+        self.assertEqual(c.check(self.doc)['status'], 'blocked')
+        self.setUp(); constraint = self.product_template()
+        constraint['placeholder_allowances'][0]['token'] = '[VALOR 100 GARANTIDO]'
+        self.doc['fields'][-1]['text'] = '[VALOR 100 GARANTIDO]'
+        self.assertEqual(c.check(self.doc)['status'], 'blocked')
+
     def test_complete_review_reaches_human_gate_only(self):
         self.assertEqual(c.check(self.doc, fixture_review(self.doc))['status'], 'ready_for_human_approval')
 

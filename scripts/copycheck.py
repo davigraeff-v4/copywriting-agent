@@ -77,7 +77,46 @@ def normalize(text):
     return re.sub(r"\s+", " ", unicodedata.normalize("NFKC", text).casefold()).strip()
 
 
-def scan(fields, policy):
+def placeholder_allowances(doc):
+    """Exact human constraints may authorize product-template markers, never facts."""
+    for name in ('fields', 'constraints', 'claims', 'facts'):
+        if not isinstance(doc.get(name), list) or any(not isinstance(item, dict) for item in doc[name]):
+            raise ValueError('placeholder allowances need valid delivery collections')
+    fields = {field['id']: field for field in doc['fields']}
+    allowed = {}
+    for constraint in doc['constraints']:
+        entries = constraint.get('placeholder_allowances')
+        if entries is None:
+            continue
+        selector = constraint.get('applies_to')
+        if (constraint.get('status') != 'active' or not isinstance(entries, list) or not entries
+                or not isinstance(selector, dict) or set(selector) != {'field_ids'}):
+            raise ValueError('placeholder allowance needs an active constraint with explicit field_ids')
+        selected = {field['id'] for field in constraint_fields(constraint, doc['fields'])}
+        covered = set()
+        for entry in entries:
+            if not isinstance(entry, dict) or set(entry) != {'field_id', 'token', 'purpose', 'direction_id'}:
+                raise ValueError('invalid placeholder allowance')
+            field_id, token = entry['field_id'], entry['token']
+            if (entry['purpose'] != 'product_data_pending'
+                    or not isinstance(entry['direction_id'], str) or not entry['direction_id']
+                    or entry['direction_id'] != doc.get('context', {}).get('approved_direction_id')
+                    or not isinstance(field_id, str) or field_id not in selected
+                    or not isinstance(token, str) or not re.fullmatch(r'\[[A-ZÀ-ÖØ-Ý _,/()\-]{3,160}\]', token)
+                    or token not in fields[field_id]['text']):
+                raise ValueError('placeholder allowance must identify an exact pending product marker')
+            if any(claim.get('field_id') == field_id for claim in doc['claims']):
+                raise ValueError('a placeholder allowance cannot waive a factual claim')
+            if any(token in fact.get('statement', '') for fact in doc['facts']):
+                raise ValueError('a pending marker cannot serve as factual evidence')
+            allowed.setdefault(field_id, set()).add(token)
+            covered.add(field_id)
+        if covered != selected:
+            raise ValueError('placeholder allowance must cover exactly its selected fields')
+    return allowed
+
+
+def scan(fields, policy, allowed_placeholders=None):
     issues = []
 
     def issue(field, rule, quote, level="error"):
@@ -102,7 +141,11 @@ def scan(fields, policy):
         contrast2 = re.search(r"\bmenos\b[^.!?]{1,100}[.!;]\s*mais\b", norm)
         if contrast2:
             issue(f["id"], "mechanical_contrast", contrast2.group(), "warning")
-        if re.search(r"\[(?:h\b|confirmar|a confirmar|valor|dado|inserir)|\{\{", norm):
+        pending = text
+        for token in (allowed_placeholders or {}).get(f['id'], ()):
+            pending = pending.replace(token, '')
+        pending = normalize(pending)
+        if re.search(r"\[(?:h\b|confirmar|a confirmar|valor|dado|inserir)|\{\{", pending):
             issue(f["id"], "placeholder", text)
         if f.get("max_chars") is not None and len(text) > f["max_chars"]:
             issue(f["id"], "length", str(len(text)))
@@ -190,6 +233,10 @@ def validate(doc):
             except ValueError as exc:
                 errors.append(str(exc))
     sections = {f.get("section") for f in fields.values()}
+    try:
+        placeholder_allowances(doc)
+    except (ValueError, TypeError, KeyError) as exc:
+        errors.append(str(exc))
     if doc.get("route") == "lp":
         insight_keys = {
             "current_situation", "trigger", "desired_outcome", "alternative",
@@ -391,7 +438,7 @@ def _check(doc, review=None):
     errors = validate(doc)
     if errors:
         return dict(status="blocked", errors=errors, issues=[], sha256=digest(doc))
-    issues = scan(doc["fields"], load(ROOT / "quality/editorial-policy.json"))
+    issues = scan(doc["fields"], load(ROOT / "quality/editorial-policy.json"), placeholder_allowances(doc))
     mapped = {c["field_id"] for c in doc["claims"]}
     for field in doc["fields"]:
         if re.search(r"\d", field["text"]) and field["id"] not in mapped and field["role"] not in ("form_label",):

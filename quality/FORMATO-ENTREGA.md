@@ -24,7 +24,19 @@ Nas novas produções, `context.editorial_plan` guarda o plano curto de `quality
 
 sources: {id, locator, excerpt}; registrar data/localização adicional quando disponível. facts: {id, statement, status: confirmed|hypothesis|superseded, source_ids}. claims: {id, field_id, quote, fact_ids, limit}. quote é trecho literal do campo, fact_ids só apontam para fatos confirmados. Revisar também afirmações não numéricas; script não descobre todas as afirmações.
 
-constraints: {id, rule, scope, source, forbidden_terms?, required_terms?, applies_to?}. `applies_to` seleciona `field_ids`, `sections`, `roles` ou `piece_ids` (listas de ids exatos, combinadas por interseção). Se houver termos e escopo diferente de global/cliente/campanha/entrega, o seletor é obrigatório. Termo obrigatório precisa aparecer em cada campo selecionado por id/role, ou ao menos uma vez em cada seção/peça selecionada. Sem seletor, termos globais valem para a entrega. Alvo inexistente bloqueia. Restrições semânticas continuam exigindo revisão.
+constraints: {id, rule, scope, source, forbidden_terms?, required_terms?, applies_to?, status?, placeholder_allowances?}. `applies_to` seleciona `field_ids`, `sections`, `roles` ou `piece_ids` (listas de ids exatos, combinadas por interseção). Se houver termos e escopo diferente de global/cliente/campanha/entrega, o seletor é obrigatório. Termo obrigatório precisa aparecer em cada campo selecionado por id/role, ou ao menos uma vez em cada seção/peça selecionada. Sem seletor, termos globais valem para a entrega. Alvo inexistente bloqueia. Restrições semânticas continuam exigindo revisão.
+
+Quando o gestor autorizar explicitamente dados de produtos pendentes, preservar os
+colchetes, sem preencher por inferência. Registrar uma restrição ativa com a origem
+humana e `applies_to: {"field_ids": ["id-exato"]}`. Sua lista
+`placeholder_allowances` contém objetos com exatamente `field_id`, `token` (o
+marcador literal completo em maiúsculas), `purpose: "product_data_pending"` e
+`direction_id` igual a `context.approved_direction_id`. Cada campo selecionado
+precisa de um marcador explícito. Exemplo de token: `[VALOR E UNIDADE]`.
+A autorização não se estende a outros campos/marcadores, não comprova fatos e não
+pode ser usada em um campo com claims ou como evidência factual. Todas as demais
+regras, fontes, revisão por campo e checagem da restrição continuam obrigatórias.
+Na Central, o executor também confere a direção contra o vínculo do servidor.
 
 outline: {id: section, question, new_information}. Obrigatório em LP/social. Em LP, registrar também function, evidence, transition e action para impedir dobras isoladas; social acrescenta source_ids, audience_value, asset e feasibility. requirements: sections opcional, forms opcional (objeto section→lista de rótulos na ordem). Em LP, prose_word_budget registra o máximo de palavras publicáveis, excluindo CTA, labels e opções de formulário; o padrão é 300. Valor maior exige prose_word_budget_reason. Condição de formulário/dobras deve vir do briefing, não ser alterada para o teste passar.
 
